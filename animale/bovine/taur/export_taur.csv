@@ -1,0 +1,19 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Taurului,taur,3,45.0915581146572,23.8354668387489,Valcea,Vale,243,Valea Taurului,Geomil 25000,Limba română
+Dealu Taurilor,taur,3,46.3497862500154,23.5496715398453,Alba,Deal,1925,Dealu Taurilor,Geomil 25000,Limba română
+Clăbucetul Taurului,taur,3,45.462456510365,25.5889951892681,Prahova,Înălțime,2773,Clăbucetul Taurului,Geomil 25000,Limba română
+Valea Taurului,taur,3,46.5740813954662,24.4267012781368,Mures,Vale,5381,Valea Taurului,Geomil 25000,Limba română
+Fânațul Taurului,taur,3,46.8579674669219,24.6682355420769,Mures,Altele,5455,Fânațul Taurului,PDT,Limba română
+Dealu Taurului,taur,3,46.2572924180232,23.912077169313,Alba,Deal,6752,Dealu Taurului,Geomil 25000,Limba română
+Locul Taurilor,taur,3,46.4334648461988,24.3143724710952,Mures,Altele,6764,Locul Taurilor,Geomil 25000,Limba română
+Valea Taurilor,taur,3,46.5336309008668,24.3948864140885,Mures,Vale,6767,Valea Taurilor,Geomil 25000,Limba română
+Pârâul Taurului,taur,3,45.8951934384433,25.6596766862827,Covasna,Vale,6782,Pârâul Taurului,PDT,Limba română
+Pădurea Taurului,taur,3,47.3065403227154,22.8566128286106,Salaj,Pădure,7576,Pădurea Taurului,Geomil 25000,Limba română
+Râtul Taurului,taur,3,46.7580725837934,24.0371092359068,Cluj,Altele,8972,Râtul Taurului,PDT,Limba română
+Poiana Taurului,taur,3,45.1961996355714,22.0237969642342,Caras Severin,Poiană,9428,Poiana Taurului,PDT,Limba română
+Taurul,taur,3,47.2209343438121,24.6644266083936,Bistrita Nasaud,Vale,10643,Taurul,Geomil 25000,Limba română,Valea Taurului,Imperiul Habsburgic (1887),Limba română
+Râtul Taurului,taur,3,47.0704339764524,23.5793628245001,Cluj,Altele,10821,Râtul Taurului,Imperiul Habsburgic (1887),Limba română
+Dâmbul Taurului,taur,3,45.9570114805948,22.7614730054372,Hunedoara,Înălțime,11219,Dâmbul Taurului,ANCPI,Limba română
+La Tauri,taur,3,44.1331398636609,24.0199386361916,Dolj,Altele,12595,La Tauri,PDT,Limba română
+Valea Tăuroiu Mare,tăuroi,4,44.9544670823554,23.2996285607225,Gorj,Vale,3121,Valea Tăuroiu Mare,Geomil 25000,Limba română
+Bâtca Tăurașului,tăuraș,4,46.9504728247647,25.615049755308,Harghita,Înălțime,10834,Bâtca Tăurașului,Geomil 25000,Limba română

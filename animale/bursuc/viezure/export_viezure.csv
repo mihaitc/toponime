@@ -1,0 +1,41 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
+Dealul Culmea Viezurelui,viezure,3,45.2093001517574,24.1757532579024,Valcea,Deal,360,Dealul Culmea Viezurelui,Geomil 25000,Limba română
+Vârful Cioaca cu Viezuri,viezure,3,45.5780423533113,22.5607429403366,Caras Severin,Înălțime,1203,Vârful Cioaca cu Viezuri,Geomil 25000,Limba română
+Valea Viezurelui,viezure,3,44.3302148249846,23.4053225535727,Dolj,Vale,3369,Valea Viezurelui,Geomil 25000,Limba română
+Dambul Viezurile,viezure,3,47.13970886336,22.2893342396688,Bihor,Înălțime,4189,Dambul Viezurile,PDT,Limba română
+Valea Viezure,viezure,3,44.8002051907698,24.7856388904179,Arges,Vale,4772,Valea Viezure,PDT,Limba română
+Valea Viezurilor,viezure,3,45.2198372110772,24.7461401892085,Arges,Vale,5068,Valea Viezurilor,PDT,Limba română
+Viezurile,viezure,3,45.0450631726245,23.3837089219949,Gorj,Deal,5099,Viezurile,Austriacă,Limba română
+Dealu Viezurii,viezure,3,47.0275544002952,22.6586647468238,Bihor,Deal,5922,Dealu Viezurii,Geomil 25000,Limba română
+Pârâu Viezurelui,viezure,3,45.6015727432609,22.1591347328889,Caras Severin,Vale,6075,Pârâu Viezurelui,Geomil 25000,Limba română
+Pârâul Viezuroiu Mare,viezure,3,45.1971828944734,23.3136822846056,Gorj,Vale,9509,Pârâul Viezuroiu Mare,Geomil 25000,Limba română
+Valea Viezurului,viezure,3,44.8905953710633,24.7273889045706,Arges,Vale,9701,Valea Viezurului,PDT,Limba română
+Dealul Viezurului,viezure,3,44.7381594457932,22.9798927281628,Mehedinti,Deal,9783,Dealul Viezurului,PDT,Limba română
+Dealul Vezurile,viezure,3,45.3311186431666,25.1026862193964,Arges,Deal,9826,Dealul Vezurile,PDT,Limba română
+Tîlfa a la Vezur,viezure,3,45.3813809124484,22.3740845120496,Caras Severin,Înălțime,10326,Tîlfa a la Vezur,Ungară 1869,Limba română
+Cracu Viezurului,viezure,3,45.1829400918715,22.3801419642838,Caras Severin,Înălțime,11783,Cracu Viezurului,Geomil 25000,Limba română
+Vârful Viezurilor,viezure,3,45.3622014810231,24.1702369416961,Valcea,Înălțime,12062,Vârful Viezurilor,Geomil 25000,Limba română
+Viezuri,viezure,3,46.0026547801925,23.2923451194817,Alba,Localitate,12246,Viezuri,Geomil 25000,Limba română
+Valea cu Viezuri,viezure,3,45.3406931857038,24.9035504477913,Arges,Vale,12273,Valea cu Viezuri,Geomil 25000,Limba română
+Valea Viezurile,viezure,3,44.9107563708134,24.4680725334185,Arges,Vale,13527,Valea Viezurile,PDT,Limba română
+Viezuri,viezure,3,45.1648744214499,24.2392720847378,Valcea,Localitate,13608,Viezuri,PDT,Limba română
+Valea Viezuriște,viezuriște,4,46.9240167363954,22.3482736062359,Bihor,Vale,4149,Valea Viezuriște,Geomil 25000,Limba română
+Valea Viezuriște,viezuriște,4,47.1371886612088,22.8541554156765,Salaj,Vale,5928,Valea Viezuriște,Geomil 25000,Limba română
+Vizuriște,viezuriște,4,46.9296036064317,21.6169862016935,Bihor,Altele,6978,Vizuriște,Geomil 25000,Limba română
+Valea Viezuriștei,viezuriște,4,46.9878739683831,22.0856956213525,Bihor,Vale,6985,Valea Viezuriștei,Geomil 25000,Limba română
+Valea Vezuriște,viezuriște,4,46.8379595897608,22.1387475047182,Bihor,Vale,6987,Valea Vezuriște,Geomil 25000,Limba română
+Vezuriști,viezuriște,4,47.1854971300416,22.5249242573473,Salaj,Altele,8198,Vezuriști,PDT,Limba română
+Pădurea Viezuriște,viezuriște,4,46.9230535889983,21.9542554500562,Bihor,Pădure,9935,Pădurea Viezuriște,Geomil 25000,Limba română
+Vezuriște,viezuriște,4,47.1589183642347,22.1389033226332,Bihor,Altele,11508,Vezuriște,Geomil 25000,Limba română
+Dealul Viezuriștei,viezuriște,4,46.7892499899917,22.0004634448293,Bihor,Deal,12370,Dealul Viezuriștei,PDT,Limba română
+Pădurea Vezurinii,viezurină,4,45.84377064524,22.3437449427955,Timis,Pădure,4291,Pădurea Vezurinii,Geomil 25000,Limba română
+Ogașu Vizurinii,viezurină,4,44.6576256674831,22.0064601705705,Caras Severin,,5733,Ogașu Vizurinii,Geomil 25000,Limba română
+Dealu Vizurin,viezurină,4,44.9212425622197,22.3790489859103,Caras Severin,Deal,6143,Dealu Vizurin,Geomil 25000,Limba română
+Pârâu Vezurin,viezurină,4,45.9644682167834,22.3804267824597,Hunedoara,Vale,6201,Pârâu Vezurin,PDT,Limba română
+Dealu Viezurinii,viezurină,4,46.1034295338855,22.8418062069432,Hunedoara,Deal,6235,Dealu Viezurinii,Geomil 25000,Limba română
+Dealul Viezurinii,viezurină,4,45.2207175315422,21.633699735403,Caras Severin,Deal,7606,Dealul Viezurinii,Geomil 25000,Limba română
+Vârfu Viezurinii,viezurină,4,45.8582867002308,22.6078307537044,Hunedoara,Înălțime,10232,Vârfu Viezurinii,Geomil 25000,Limba română
+La Vezurini,viezurină,4,45.0433697066539,21.7817863586985,Caras Severin,Altele,12702,La Vezurini,PDT,Limba română
+Valea Viezuroaia,viezuroaie,4,44.9613871883292,23.9850124642525,Valcea,Vale,4757,Valea Viezuroaia,Geomil 25000,Limba română
+Valea Vezuroaia,viezuroaie,4,44.9799511797746,23.4695720731096,Gorj,Vale,5093,Valea Vezuroaia,Geomil 25000,Limba română
+Dealu Viezuroiului,viezuroi,4,46.4909865776708,22.2455557057565,Bihor,Deal,6996,Dealu Viezuroiului,Geomil 25000,Limba română
