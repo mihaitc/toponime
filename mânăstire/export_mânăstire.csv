@@ -1,0 +1,493 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Valea Mănăstirei,mânăstire,1,45.0447309009121,26.326168402729,Prahova,Vale,15,Valea Mănăstirei,PDT,Limba română,дол. Мынэстири (valea Mănăstirii),Sovietică,Limba română,Valea Mănăstir,Austriacă,Limba română
+La Mănăstire,mânăstire,1,45.0287747295108,26.3395312072093,Prahova,Altele,17,La Mănăstire,Geomil 25000,Limba română
+Poiana Monastirei,mânăstire,1,45.0004475294238,26.1644908275355,Prahova,Poiană,21,Poiana Monastirei,PDT,Limba română
+Coasta Mănăstirii,mânăstire,1,45.067546021239,22.9476170261424,Gorj,Altele,228,Coasta Mănăstirii,Geomil 25000,Limba română
+Valea Mănăstirei,mânăstire,1,44.4525391852399,24.4686268812343,Olt,Vale,300,Valea Mănăstirei,Geomil 25000,Limba română,Valea Mănăstirei,PDT,Limba română
+Dealu Mânăstirii,mânăstire,1,44.9446650023844,24.1288292298843,Valcea,Deal,343,Dealu Mânăstirii,Geomil 25000,Limba română
+Dealul Mănăstirii,mânăstire,1,44.6158435019229,23.8894034906613,Dolj,Deal,389,Dealul Mănăstirii,Geomil 25000,Limba română
+La Mănăstire,mânăstire,1,44.6943475009247,27.8383888332714,Ialomita,Altele,485,La Mănăstire,Geomil 25000,Limba română
+Slobozia Mănăstire,mânăstire,1,44.5961722066696,27.3419463786381,Ialomita,Altele,499,Slobozia Mănăstire,Geomil 25000,Limba română
+Dealu Mănăstirei,mânăstire,1,44.9695631673116,25.1919829358963,Dambovita,Deal,530,Dealu Mănăstirei,Geomil 25000,Limba română
+Valea Mănăstirii,mânăstire,1,45.0282618230294,25.0126851191169,Arges,Localitate,540,Valea Mănăstirii,Geomil 25000,Limba română,Monastir,Austriacă,Limba română
+Valea Mănăstirii,mânăstire,1,45.2037276151373,25.141933365752,Dambovita,Vale,558,Valea Mănăstirii,Geomil 25000,Limba română
+Mănăstirea,mânăstire,1,46.3762426981223,26.3972534767334,Bacau,Vale,684,Mănăstirea,Geomil 25000,Limba română
+Dealul Mănăstirii,mânăstire,1,46.0064021245209,26.6535642428262,Vrancea,Deal,696,Dealul Mănăstirii,Geomil 25000,Limba română
+Pădurea Mănăstirii,mânăstire,1,46.2826986830475,27.8587992976494,Vaslui,Pădure,715,Pădurea Mănăstirii,Geomil 25000,Limba română
+Podul Mănăstirii,mânăstire,1,45.7684584487785,26.9344845642361,Vrancea,Altele,771,Podul Mănăstirii,Geomil 25000,Limba română
+Valea Mânăstirea,mânăstire,1,45.1156995704438,26.0666795428734,Prahova,Vale,824,Valea Mânăstirea,Geomil 25000,Limba română
+Mănăstire,mânăstire,1,46.3820263802655,23.1678008946799,Alba,Localitate,921,Mănăstire,Geomil 25000,Limba română
+Pădurea Dosul Mănăstirii,mânăstire,1,47.3699568272416,24.2619389375506,Bistrita Nasaud,Pădure,1018,Pădurea Dosul Mănăstirii,Geomil 25000,Limba română
+Valea Mânăstirii,mânăstire,1,47.4262846021632,24.3461600379758,Bistrita Nasaud,Vale,1020,Valea Mânăstirii,Geomil 25000,Limba română
+Dealu Mânăstirii,mânăstire,1,44.9953211882529,24.6528524534433,Arges,Deal,1415,Dealu Mânăstirii,Geomil 25000,Limba română
+Dealul Fața Mănăstirii,mânăstire,1,45.27815332812,24.5575834925752,Arges,Deal,1436,Dealul Fața Mănăstirii,Geomil 25000,Limba română
+Mănăstirea,mânăstire,1,45.298911600768,26.328764333221,Buzau,Localitate,1582,Mănăstirea,Geomil 25000,Limba română
+Poiana Mănăstirii,mânăstire,1,47.0096881149363,27.3598664625559,Iasi,Poiană,1654,Poiana Mănăstirii,Geomil 25000,Limba română
+Valea Mănăstirii,mânăstire,1,46.5130744593524,27.7330626374667,Vaslui,Vale,1677,Valea Mănăstirii,Geomil 25000,Limba română
+Cărarea Mănăstirii,mânăstire,1,47.4617710760946,25.937632520577,Suceava,Altele,1782,Cărarea Mănăstirii,Geomil 25000,Limba română
+Dealul Mănăstirii,mânăstire,1,47.6708948397135,26.3005860048802,Suceava,Deal,1789,Dealul Mănăstirii,Geomil 25000,Limba română,Dealul Mănăstirii,PDT,Limba română
+Mănăstioara,mânăstire,1,47.9421176794071,26.0149589538265,Suceava,Înălțime,1838,Mănăstioara,Geomil 25000,Limba română
+Dealul Mănăstirii,mânăstire,1,47.6792021058943,25.573429748852,Suceava,Deal,1853,Dealul Mănăstirii,Geomil 25000,Limba română
+Mânăstire,mânăstire,1,45.4080377305909,21.333081092034,Timis,Localitate,1985,Mânăstire,Geomil 25000,Limba română
+Poiana Stâna Mănăstirii,mânăstire,1,47.1978058064035,26.1297572908587,Neamt,Poiană,2058,Poiana Stâna Mănăstirii,Geomil 25000,Limba română
+La Mănăstire,mânăstire,1,45.4303590525196,27.041964924697,Buzau,Altele,2090,La Mănăstire,Geomil 25000,Limba română
+Dealul Mănăstioarei,mânăstire,1,47.123926853905,27.0392899237021,Iasi,Deal,2232,Dealul Mănăstioarei,Geomil 25000,Limba română
+Mănăstioara,mânăstire,1,47.5546056907334,26.3937957280569,Suceava,Localitate,2266,Mănăstioara,Geomil 25000,Limba română,Monăstioara,Imperiul Habsburgic (1887),Limba română
+Coasta Mănăstioarei,mânăstire,1,47.5330349566211,26.4574754817349,Suceava,Înălțime,2269,Coasta Mănăstioarei,Geomil 25000,Limba română
+La Mănastire,mânăstire,1,47.7847279670967,27.0559316434583,Botosani,Altele,2376,La Mănastire,Geomil 25000,Limba română
+Dealul Mănăstirii,mânăstire,1,46.7622509382506,27.8127953382807,Vaslui,Deal,2448,Dealul Mănăstirii,Geomil 25000,Limba română
+Dealul Mănăstirii,mânăstire,1,46.2149000460448,24.8397036313625,Mures,Deal,2468,Dealul Mănăstirii,Geomil 25000,Limba română
+Valea Mănăstirii,mânăstire,1,45.8471532203355,25.360117974412,Brasov,Vale,2692,Valea Mănăstirii,Geomil 25000,Limba română
+Valea Mănăstirii,mânăstire,1,45.5770475979163,25.097596242276,Arges,Vale,2709,Valea Mănăstirii,Geomil 25000,Limba română
+Valea Mânăstirii,mânăstire,1,44.4692711867024,24.1034252017193,Olt,Vale,2963,Valea Mânăstirii,Geomil 25000,Limba română
+Dealul Mănăstirii,mânăstire,1,44.70388655059,23.8701151485621,Valcea,Deal,3088,Dealul Mănăstirii,Geomil 25000,Limba română,Dealul Mănăstirii,PDT,Limba română
+Pădurea Mănăstirii,mânăstire,1,45.1588297762541,23.5201527109207,Gorj,Pădure,3109,Pădurea Mănăstirii,Geomil 25000,Limba română
+Dealu Mănăstirei,mânăstire,1,44.9012219405449,23.4695488347478,Gorj,Deal,3128,Dealu Mănăstirei,Geomil 25000,Limba română
+Mănăstioara,mânăstire,1,44.6105850310834,25.4252296670356,Dambovita,Localitate,3380,Mănăstioara,PDT,Limba română
+Valea Mânăstirii,mânăstire,1,44.8195143627632,22.9245060012218,Gorj,Vale,3679,Valea Mânăstirii,PDT,Limba română
+Grindul Mânăstirii,mânăstire,1,43.8569994821964,23.5979100400518,Dolj,Înălțime,3802,Grindul Mânăstirii,PDT,Limba română
+Lunca Monastire,mânăstire,1,46.7950498048283,26.5825091171468,Neamt,Apă-deal-câmpie,3850,Lunca Monastire,PDT,Limba română
+Mânăstire,mânăstire,1,45.6153325726215,24.3160132129763,Sibiu,Altele,4035,Mânăstire,PDT,Limba română
+Poiana Groapa Mânăstirii,mânăstire,1,45.2631942836157,24.7448869569536,Arges,Poiană,4055,Poiana Groapa Mânăstirii,PDT,Limba română
+La Mânăstire,mânăstire,1,45.836372464643,22.0665456363424,Timis,Altele,4300,La Mânăstire,PDT,Limba română
+Coasta Mănăstirii,mânăstire,1,47.9331204664578,23.385464381068,Satu Mare,Înălțime,4462,Coasta Mănăstirii,Geomil 25000,Limba română
+Fața Mănăstirii,mânăstire,1,47.3842816154763,24.4806495518485,Bistrita Nasaud,Înălțime,4493,Fața Mănăstirii,Geomil 25000,Limba română
+Dealul Mănăstirii,mânăstire,1,47.288022928353,24.0764666552068,Bistrita Nasaud,Deal,4501,Dealul Mănăstirii,Geomil 25000,Limba română
+Mănăstirea,mânăstire,1,46.4858468668206,26.1697939094724,Bacau,Vale,4552,Mănăstirea,Geomil 25000,Limba română
+Mânăstirea,mânăstire,1,46.6889124329901,27.5416710132085,Vaslui,Localitate,4636,Mânăstirea,Geomil 25000,Limba română
+Vârful Pădurea Mănăstirii,mânăstire,1,46.5330050906132,27.368846831756,Vaslui,Înălțime,4640,Vârful Pădurea Mănăstirii,Geomil 25000,Limba română
+Mânăstire veche,mânăstire,1,44.0692527677446,23.4447074981332,Dolj,Altele,4658,Mânăstire veche,PDT,Limba română
+Valea Mânăstirei,mânăstire,1,44.4439910696485,23.5752998172778,Dolj,Vale,4702,Valea Mânăstirei,PDT,Limba română,Valea Mănăstirii,Geomil 25000,Limba română
+Mânăstirea,mânăstire,1,44.4010609283213,23.4301085155358,Dolj,Localitate,4709,Mânăstirea,PDT,Limba română,Monastrice,Austriacă,Limba română
+Podișul Mănăstirii,mânăstire,1,47.240279537225,27.4589566386435,Iasi,Înălțime,4844,Podișul Mănăstirii,Geomil 25000,Limba română
+Dealul Monastirei,mânăstire,1,47.2892265651092,27.5621406937309,Iasi,Deal,4847,Dealul Monastirei,PDT,Limba română
+Dealul Culmea Mânăstirii,mânăstire,1,47.9879323641942,26.2280815816609,Botosani,Deal,4902,Dealul Culmea Mânăstirii,PDT,Limba română
+Mânăstioara Rusească,mânăstire,1,47.5909931826165,26.3803424214388,Suceava,Localitate,4923,Mânăstioara Rusească,PDT,Limba română
+Mănăstirea,mânăstire,1,45.8682950954818,25.3484219134782,Brasov,Vale,4938,Mănăstirea,Geomil 25000,Limba română
+Monăstirea,mânăstire,1,45.7218851299156,24.6728070403044,Brasov,Altele,4958,Monăstirea,PDT,Limba română
+Ruine La Monăstire,mânăstire,1,45.6882651351232,25.061094764759,Brasov,Altele,4959,Ruine La Monăstire,PDT,Limba română
+Lacul Mănăstirii,mânăstire,1,45.5792520776204,24.7551275041162,Arges,Lac,5012,Lacul Mănăstirii,Geomil 25000,Limba română
+Pădurea Mânăstirii,mânăstire,1,44.9294071767488,23.6487956270594,Gorj,Pădure,5083,Pădurea Mânăstirii,PDT,Limba română
+Dealu Mănăstirii,mânăstire,1,44.9213666759737,23.4715751589433,Gorj,Deal,5091,Dealu Mănăstirii,Geomil 25000,Limba română
+Mânâstirea,mânăstire,1,44.7510799116367,23.3029161861966,Gorj,Altele,5101,Mânâstirea,Austriacă,Limba română
+Mânâst. St. Maria,mânăstire,1,44.7479746498111,23.2181200430134,Gorj,Altele,5102,Mânâst. St. Maria,Austriacă,Limba română
+Mâmâstir,mânăstire,1,43.9064157882567,23.9212854133219,Dolj,Altele,5112,Mâmâstir,Austriacă,Limba română
+Valea Mânăstirii,mânăstire,1,45.6200243466864,22.5468149562263,Hunedoara,Vale,5136,Valea Mânăstirii,Geomil 25000,Limba română
+Zăvoiul Mănăstirii,mânăstire,1,44.3526493968974,23.7081225116979,Dolj,Apă-deal-câmpie,5171,Zăvoiul Mănăstirii,Geomil 25000,Limba română
+Mănăstioara,mânăstire,1,45.9556131373032,27.0801011220405,Vrancea,Localitate,5279,Mănăstioara,Geomil 25000,Limba română
+La Mânăstire,mânăstire,1,46.6807918053431,24.3854194264133,Mures,Altele,5371,La Mânăstire,Geomil 25000,Limba română
+La Mânăstire,mânăstire,1,46.724810562372,24.4264562808178,Mures,Altele,5389,La Mânăstire,Geomil 25000,Limba română
+Dealul Mânăstirii,mânăstire,1,46.8241298988235,24.406451247274,Mures,Deal,5469,Dealul Mânăstirii,Geomil 25000,Limba română,Dealul Mânăstirei,PDT,Limba română
+Deasupra Mânăstirii,mânăstire,1,46.8999706446445,24.3997749855752,Bistrita Nasaud,Altele,5472,Deasupra Mânăstirii,PDT,Limba română
+Pădurea Mânăstirii,mânăstire,1,46.1470600983734,21.1528740991645,Arad,Pădure,5640,Pădurea Mânăstirii,PDT,Limba română
+Siliștea Dealului Mînâstirea,mânăstire,1,45.0184150628505,25.727170054857,Prahova,Localitate,5768,Siliștea Dealului Mînâstirea,Austriacă,Limba română
+Dealu Mânăstirii,mânăstire,1,47.1031511300608,23.2141984376166,Salaj,Deal,5935,Dealu Mânăstirii,Geomil 25000,Limba română
+Mănăstirea,mânăstire,1,45.1030587829819,25.3797381781743,Dambovita,Mănăstire,5990,Mănăstirea,Geomil 25000,Limba română,Vîrfu la Monastirea,Austriacă,Limba română
+Valea Mănăstirii,mânăstire,1,44.8659593887897,22.7160948776693,Mehedinti,Vale,6155,Valea Mănăstirii,Geomil 25000,Limba română
+La Mănăstire,mânăstire,1,45.1653884421555,28.3600700610528,Tulcea,Altele,6689,La Mănăstire,Geomil 25000,Limba română,Mănăstirea Tăița,PDT,Limba română
+Mănăstirea,mânăstire,1,45.7555514455252,25.2651244276933,Brasov,Înălțime,6828,Mănăstirea,PDT,Limba română
+La Mănăstiri,mânăstire,1,47.1694675849144,23.3535389727406,Salaj,Altele,6932,La Mănăstiri,Geomil 25000,Limba română,La Mânăstire,PDT,Limba română
+Mănăstireni,mânăstire,1,46.7820173457812,23.0824563829653,Cluj,Localitate,7024,Mănăstireni,Geomil 25000,Limba română
+Mănăstirea,mânăstire,1,47.1203747535804,23.9215715832065,Cluj,Localitate,7050,Mănăstirea,Geomil 25000,Limba română
+Valea Mănăstirii,mânăstire,1,46.3010690892558,23.5222415344663,Alba,Vale,7071,Valea Mănăstirii,Geomil 25000,Limba română
+Mânăstirea,mânăstire,1,47.2307950845112,24.3027257953594,Bistrita Nasaud,Vale,7119,Mânăstirea,Geomil 25000,Limba română,Pârâul Mâmăstirii,PDT,Limba română
+Mănăstirea,mânăstire,1,47.8037423976238,23.9237610839983,Maramures,Localitate,7169,Mănăstirea,Geomil 25000,Limba română
+Monastiri,mânăstire,1,47.813739533928,24.0140629852859,Maramures,Altele,7175,Monastiri,PDT,Limba română
+Șesul Mânăstirii,mânăstire,1,47.7915811147366,24.0881410298095,Maramures,Câmp,7176,Șesul Mânăstirii,PDT,Limba română
+Dealul Mănăstirii,mânăstire,1,46.5133366762604,27.6638614495655,Vaslui,Deal,7284,Dealul Mănăstirii,Geomil 25000,Limba română
+Dealul Mănăstirii,mânăstire,1,46.720849463101,27.3163048593072,Vaslui,Deal,7289,Dealul Mănăstirii,Geomil 25000,Limba română
+Mănăstirea,mânăstire,1,44.7776885460979,25.3318317914984,Dambovita,Localitate,7453,Mănăstirea,Geomil 25000,Limba română
+Dealul Monastirii,mânăstire,1,47.1203478579242,23.0479028855789,Salaj,Deal,7553,Dealul Monastirii,PDT,Limba română,Dealu Mânăstirii,Geomil 25000,Limba română
+Mănăstire,mânăstire,1,47.2256400506782,23.207396185425,Salaj,Altele,7561,Mănăstire,PDT,Limba română
+Mănăstirea Doamnei,mânăstire,1,47.7226143991256,26.6074819017766,Botosani,Localitate,7760,Mănăstirea Doamnei,Geomil 25000,Limba română,Mânăstirea Doamnei,PDT,Limba română
+Poiana Mănăstirii,mânăstire,1,46.9857778755315,27.3560838307916,Iasi,Localitate,7802,Poiana Mănăstirii,Geomil 25000,Limba română
+Valea Lunca Mânăstirii,mânăstire,1,44.3687243552583,23.7921354487229,Dolj,Vale,8051,Valea Lunca Mânăstirii,PDT,Limba română
+Pădurea Mânăstirei,mânăstire,1,44.9384738762345,23.2221385534177,Gorj,Pădure,8057,Pădurea Mânăstirei,PDT,Limba română
+Pădurea Mânăstirii,mânăstire,1,44.9555225328049,23.1961750250947,Gorj,Pădure,8061,Pădurea Mânăstirii,PDT,Limba română
+Vârful Monastirea,mânăstire,1,46.5564260111067,23.6698215120213,Cluj,Înălțime,8138,Vârful Monastirea,PDT,Limba română,Monostor,Transilvania (1769-1773),Limba română
+Dealul Monăstirei,mânăstire,1,44.8862200861385,25.0472167837707,Arges,Deal,8360,Dealul Monăstirei,PDT,Limba română,Dealul Mânăstirei,Geomil 25000,Limba română
+Plaiul Mânăstirii,mânăstire,1,45.0667700103332,25.3660332451048,Dambovita,Înălțime,8375,Plaiul Mânăstirii,PDT,Limba română
+Dealul Mănăstirei,mânăstire,1,44.8055044921682,23.9555153454141,Valcea,Deal,8420,Dealul Mănăstirei,PDT,Limba română
+Mânăstirea,mânăstire,1,44.5815063433552,25.9279763138904,Ilfov,Localitate,8784,Mânăstirea,Geomil 25000,Limba română,Mânăstirea,PDT,Limba română
+Dealul Monastirei,mânăstire,1,46.5848133103954,28.0145227866248,Vaslui,Deal,8846,Dealul Monastirei,PDT,Limba română,Dealul Mănăstirii,Geomil 25000,Limba română
+Valea Mănăstirii,mânăstire,1,47.1999418858725,26.6881831443412,Iasi,Vale,8905,Valea Mănăstirii,Geomil 25000,Limba română,Valea Mănăstirei,PDT,Limba română
+Dealul Mănăstirii,mânăstire,1,47.3486133922897,26.6126851373178,Iasi,Deal,8920,Dealul Mănăstirii,Geomil 25000,Limba română
+Mânăstire,mânăstire,1,46.654934313244,23.447735170636,Cluj,Altele,8965,Mânăstire,PDT,Limba română
+La Mânăstire,mânăstire,1,47.2630171905796,23.3237442519702,Salaj,Altele,8989,La Mânăstire,PDT,Limba română
+Mănăstioara,mânăstire,1,47.4796978912104,26.4013897059187,Suceava,Localitate,9064,Mănăstioara,PDT,Limba română
+Valea Mănăstirei,mânăstire,1,46.0849114874045,27.0699194037726,Vrancea,Vale,9184,Valea Mănăstirei,PDT,Limba română
+Dealul Mănăstioara,mânăstire,1,45.9991024788618,26.8519112336195,Vrancea,Deal,9189,Dealul Mănăstioara,PDT,Limba română
+Pârâul Mănăstirei,mânăstire,1,45.959005528925,26.7003937661512,Vrancea,Vale,9194,Pârâul Mănăstirei,PDT,Limba română
+Dealul Mânăstirii,mânăstire,1,43.9740185078128,28.6424908160679,Constanta,Deal,9306,Dealul Mânăstirii,PDT,Limba română
+Valea Mânăstirii,mânăstire,1,44.4553977164143,24.0274641195358,Olt,Vale,9335,Valea Mânăstirii,PDT,Limba română
+Mânăstirea,mânăstire,1,46.179327820104,27.9550726046377,Vaslui,Localitate,9499,Mânăstirea,Geomil 25000,Limba română
+Mânăstire,mânăstire,1,46.6098879345669,27.5397782666678,Vaslui,Localitate,9511,Mânăstire,PDT,Limba română
+Podișu Monastirei,mânăstire,1,47.5815660177569,26.6518935894052,Botosani,Înălțime,9587,Podișu Monastirei,Moldova (1892-1898),Limba română
+Piscu Monastirei,mânăstire,1,46.0299480057621,27.867961303052,Galati,Înălțime,9614,Piscu Monastirei,Moldova (1892-1898),Limba română,Piscul Mănăstirii,Geomil 25000,Limba română
+Valea Monastirei,mânăstire,1,46.6324433697924,27.4530393022775,Vaslui,Vale,9720,Valea Monastirei,Moldova (1892-1898),Limba română
+Poiana Mânăstirei,mânăstire,1,47.4709669985911,26.8440419799923,Iasi,Poiană,9737,Poiana Mânăstirei,Moldova (1892-1898),Limba română
+Pădurea Mănăstiri,mânăstire,1,45.9993984512113,27.6143079443664,Galati,Pădure,9757,Pădurea Mănăstiri,Moldova (1892-1898),Limba română
+Coasta Mănăstirii,mânăstire,1,45.1740249729845,24.0154383905331,Valcea,Înălțime,9812,Coasta Mănăstirii,Geomil 25000,Limba română
+Mănăstirea,mânăstire,1,46.9494454387045,27.2030270780815,Iasi,Localitate,9819,Mănăstirea,Geomil 25000,Limba română
+Valea Mânăstirii,mânăstire,1,47.2049571622426,23.6058914849734,Salaj,Vale,9932,Valea Mânăstirii,PDT,Limba română
+Monastirea,mânăstire,1,44.2621578622529,26.0950570827184,Ilfov,Localitate,9992,Monastirea,PDT,Limba română
+Dealu Monastirii,mânăstire,1,46.8021962267878,24.9171375609575,Mures,Deal,10005,Dealu Monastirii,PDT,Limba română
+Mânastiri,mânăstire,1,44.2121512203255,26.9011485495626,Calarasi,Localitate,10104,Mânastiri,Austriacă,Limba română,Mânăstirea,Geomil 25000,Limba română
+Mânăstirea Baldovinești,mânăstire,1,44.3317450714447,25.048070103751,Teleorman,Altele,10113,Mânăstirea Baldovinești,PDT,Limba română
+Dealul Mănăstirei,mânăstire,1,44.8395731305882,25.2642018419113,Dambovita,Deal,10121,Dealul Mănăstirei,PDT,Limba română
+Valea Mânăstirei,mânăstire,1,44.7853848227002,25.3715230405398,Dambovita,Vale,10127,Valea Mânăstirei,PDT,Limba română
+Monastirea Nămăești,mânăstire,1,45.3049443964226,25.1131498129127,Arges,Altele,10174,Monastirea Nămăești,PDT,Limba română
+Monesztir B.,mânăstire,1,47.9449794360858,24.0220883439951,Maramures,Deal,10265,Monesztir B.,Ungară 1869,Limba română
+Kasa de la Monasteria Simbeti,mânăstire,1,45.690026578482,24.7946976821235,Brasov,Altele,10444,Kasa de la Monasteria Simbeti,Transilvania (1869-1870),Limba română
+Menastira,mânăstire,1,45.7000561983974,24.5488462301496,Sibiu,Altele,10445,Menastira,Transilvania (1869-1870),Limba română
+Monasteria,mânăstire,1,46.4003505179886,23.3885704711884,Alba,Altele,10507,Monasteria,Transilvania (1869-1870),Limba română
+La Monăstiri,mânăstire,1,47.6634754917821,24.2437403919472,Maramures,Altele,10553,La Monăstiri,Imperiul Habsburgic (1887),Limba română
+Dosul Mânăstirei,mânăstire,1,47.214537544771,23.363728960097,Salaj,Înălțime,10563,Dosul Mânăstirei,PDT,Limba română
+Monăstirea,mânăstire,1,46.9311508897692,25.3910337660856,Mures,Altele,10599,Monăstirea,Imperiul Habsburgic (1887),Limba română,Monoster,Transilvania (1769-1773),Limba română
+Kloster Ruine (Ruine Mânăstire),mânăstire,1,44.8671457855459,21.4843598082072,Caras Severin,Altele,10621,Kloster Ruine (Ruine Mânăstire),Imperiul Habsburgic (1887),Limba germană,Kloster Ruine Kusic,Ungară 1869,Limba germană,Klosterl,Ungaria (1782–1785),Limba română
+Mănăstire,mânăstire,1,45.7122309106109,22.8445609302638,Hunedoara,Localitate,10683,Mănăstire,Imperiul Habsburgic (1887),Limba română
+Piciorul Monăstirii,mânăstire,1,47.5042372657074,25.859750960514,Suceava,Înălțime,10746,Piciorul Monăstirii,Imperiul Habsburgic (1887),Limba română
+Mănăstirea,mânăstire,1,47.8847441328882,25.6010658389175,Suceava,Vale,10765,Mănăstirea,Geomil 25000,Limba română
+Runcul Mănăstirei,mânăstire,1,47.4183621951664,24.6895089092415,Bistrita Nasaud,Altele,10779,Runcul Mănăstirei,Imperiul Habsburgic (1887),Limba română
+Monastirea,mânăstire,1,47.6358531857719,24.5454499811416,Maramures,Altele,10781,Monastirea,Imperiul Habsburgic (1887),Limba română
+Monastire,mânăstire,1,46.3478750671242,23.853484052091,Alba,Altele,10806,Monastire,Transilvania (1869-1870),Limba română
+Poiana Mănăstirii,mânăstire,1,46.7218917989287,24.9590621875502,Mures,Poiană,10849,Poiana Mănăstirii,Geomil 25000,Limba română
+Dealu Monastirea Cruceanu,mânăstire,1,46.0895275571003,27.8013289158567,Galati,Deal,10886,Dealu Monastirea Cruceanu,Moldova (1892-1898),Limba română
+Dealul Monastirei,mânăstire,1,46.2109496089797,27.8322141230101,Vaslui,Deal,10888,Dealul Monastirei,Moldova (1892-1898),Limba română
+Valea Mănăstirii,mânăstire,1,44.8763256978271,23.686852709957,Gorj,Vale,11035,Valea Mănăstirii,PDT,Limba română
+Pădurea Mănăstirei,mânăstire,1,44.9584221035363,22.8633498488597,Mehedinti,Pădure,11350,Pădurea Mănăstirei,Geomil 25000,Limba română
+La Mânăstire,mânăstire,1,44.3805518840133,23.528485057677,Dolj,Altele,11370,La Mânăstire,ANCPI,Limba română
+La Iazul Mănăstirii,mânăstire,1,47.0246800667134,26.9941773371153,Neamt,Apă-deal-câmpie,11639,La Iazul Mănăstirii,Geomil 25000,Limba română
+Mănăstirea Cașin,mânăstire,1,46.1522752736916,26.6899295421818,Bacau,Localitate,11647,Mănăstirea Cașin,Geomil 25000,Limba română
+Piciorul Stâna Mănăstirii,mânăstire,1,47.2314529934846,25.9723106555478,Neamt,Înălțime,11656,Piciorul Stâna Mănăstirii,Geomil 25000,Limba română
+Monaster,mânăstire,1,46.0007372170451,23.6202689401954,Alba,Altele,11878,Monaster,Transilvania (1769-1773),Limba română
+Monasteria,mânăstire,1,45.6860666576167,24.663826470306,Sibiu,Altele,11880,Monasteria,Transilvania (1769-1773),Limba română
+Monastira,mânăstire,1,45.6828922213361,24.600246508999,Sibiu,Altele,11882,Monastira,Transilvania (1769-1773),Limba română
+Monasteria,mânăstire,1,45.6758207815378,24.9182063975069,Brasov,Altele,11884,Monasteria,Transilvania (1769-1773),Limba română
+Monastira,mânăstire,1,45.6980350289244,24.9763527497625,Brasov,Altele,11885,Monastira,Transilvania (1769-1773),Limba română
+Monastira,mânăstire,1,45.6953232782607,24.9655999390175,Brasov,Altele,11886,Monastira,Transilvania (1769-1773),Limba română
+Monostira,mânăstire,1,45.7543558516437,25.1667221660217,Brasov,Altele,11887,Monostira,Transilvania (1769-1773),Limba română
+Monostor,mânăstire,1,46.7031182750921,23.640523126817,Cluj,Altele,11895,Monostor,Transilvania (1769-1773),Limba română
+Monăstirea,mânăstire,1,46.7922004567082,24.7610123586131,Mures,Altele,11897,Monăstirea,PDT,Limba română,Monaster,Transilvania (1769-1773),Limba română
+Monasteriu,mânăstire,1,46.1699454686207,22.7799279331028,Hunedoara,Altele,11915,Monasteriu,Transilvania (1769-1773),Limba română
+Poiana Monastery,mânăstire,1,45.9396739889999,23.1351340217366,Hunedoara,Poiană,11916,Poiana Monastery,Transilvania (1769-1773),Limba română
+Monastir,mânăstire,1,45.8598405069582,23.3132835194466,Hunedoara,Altele,11920,Monastir,Transilvania (1769-1773),Limba română
+Monasterium,mânăstire,1,45.8370119102673,23.4490970580542,Alba,Altele,11921,Monasterium,Transilvania (1769-1773),Limba română
+Monastir,mânăstire,1,45.8438815166946,23.4150026931574,Alba,Altele,11924,Monastir,Transilvania (1769-1773),Limba română
+Monasterium,mânăstire,1,45.8790954393275,24.9640693425874,Brasov,Altele,11934,Monasterium,Transilvania (1769-1773),Limba română
+Kloster Firtos (Mânăstirea Firtoș),mânăstire,1,46.4489881058723,25.1481692278262,Harghita,Altele,11942,Kloster Firtos (Mânăstirea Firtoș),Transilvania (1769-1773),Limba germană
+Alter Monaster (Mănăstire Veche),mânăstire,1,44.1195858036259,26.4804985609291,Calarasi,Altele,12001,Alter Monaster (Mănăstire Veche),Oltenia-Muntenia (1790),Limba germană
+Altes Kloster (Mănăstire veche),mânăstire,1,44.1078415932819,26.5578305029143,Calarasi,Altele,12002,Altes Kloster (Mănăstire veche),Oltenia-Muntenia (1790),Limba germană
+Kloster (Mănăstire),mânăstire,1,46.7250043558352,26.463617353169,Neamt,Altele,12029,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Kloster (Mănăstire),mânăstire,1,46.2687275949475,26.9687878857071,Bacau,Altele,12032,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Valea Mănăstirea cu Brazi,mânăstire,1,45.9081912815221,27.0817549861217,Vrancea,Vale,12033,Valea Mănăstirea cu Brazi,Geomil 25000,Limba română
+Kloster Schemlok (Mănăstirea Șemloc),mânăstire,1,45.3511501045872,21.4158304260175,Timis,Altele,12054,Kloster Schemlok (Mănăstirea Șemloc),Banat (1769-1772),Limba germană,Kloster Permiava (Mănăstirea Permiava),Ungară 1869,Limba germană
+Monoster,mânăstire,1,46.9785626913956,23.9935925494747,Cluj,Altele,12075,Monoster,Transilvania (1769-1773),Limba română
+Monostoru Ober Nadas,mânăstire,1,46.6817304560659,24.8372189393673,Mures,Altele,12077,Monostoru Ober Nadas,Transilvania (1769-1773),Limba română
+Monastir Berislâvești,mânăstire,1,45.2560382254327,24.41475087612,Valcea,Altele,12091,Monastir Berislâvești,Austriacă,Limba română,Mon Braszlavest,Valahia-Moldova (1773-1774),Limba română
+Monastir,mânăstire,1,45.2457655524116,24.343981520569,Valcea,Altele,12092,Monastir,Valahia-Moldova (1773-1774),Limba română
+Mon Kozia,mânăstire,1,45.2718557418616,24.3156525359998,Valcea,Altele,12093,Mon Kozia,Valahia-Moldova (1773-1774),Limba română
+Mon Turna,mânăstire,1,45.2883197515785,24.3079624238883,Valcea,Altele,12094,Mon Turna,Valahia-Moldova (1773-1774),Limba română
+Klost und Fedeleschoi bach,mânăstire,1,45.1470710978674,24.3966865515145,Valcea,Altele,12095,Klost und Fedeleschoi bach,Valahia-Moldova (1773-1774),Limba germană
+Mon Szeretsinest,mânăstire,1,45.1444297804643,24.2424078365909,Valcea,Altele,12096,Mon Szeretsinest,Valahia-Moldova (1773-1774),Limba română
+Mon Arnota,mânăstire,1,45.1968424660037,24.044533229507,Valcea,Altele,12097,Mon Arnota,Valahia-Moldova (1773-1774),Limba română
+Mon Bistritz,mânăstire,1,45.1888440639794,24.0394903105546,Valcea,Altele,12098,Mon Bistritz,Valahia-Moldova (1773-1774),Limba română
+Mon Orezu,mânăstire,1,45.1700106961099,24.0070941600232,Valcea,Altele,12099,Mon Orezu,Valahia-Moldova (1773-1774),Limba română
+Monastir,mânăstire,1,45.1929085582469,23.7888745789181,Gorj,Altele,12100,Monastir,Valahia-Moldova (1773-1774),Limba română
+Monaster,mânăstire,1,45.1843296749878,23.5181403210015,Gorj,Altele,12102,Monaster,Valahia-Moldova (1773-1774),Limba română
+Monaster,mânăstire,1,45.0806937421174,22.9267587208103,Gorj,Altele,12108,Monaster,Valahia-Moldova (1773-1774),Limba română
+Monaster Mika,mânăstire,1,45.0982744081337,22.9071939659724,Gorj,Altele,12109,Monaster Mika,Valahia-Moldova (1773-1774),Limba română
+Monaster Mare,mânăstire,1,45.1026860383695,22.9002792351207,Gorj,Altele,12110,Monaster Mare,Valahia-Moldova (1773-1774),Limba română
+Mon. Bradu,mânăstire,1,45.184889186636,26.5506810208004,Buzau,Altele,12113,Mon. Bradu,Austriacă,Limba română,Mon. Bradu,Oltenia-Muntenia (1790),Limba română
+Mon Barbu,mânăstire,1,45.1845904086744,26.5845860114415,Buzau,Altele,12114,Mon Barbu,Austriacă,Limba română,M. Barbu,Oltenia-Muntenia (1790),Limba română
+Mona: Turgschora,mânăstire,1,44.8906998101161,25.9261968539128,Prahova,Altele,12115,Mona: Turgschora,Oltenia-Muntenia (1790),Limba română
+Mânâstir,mânăstire,1,44.9152048201562,25.8747544397745,Prahova,Altele,12118,Mânâstir,Austriacă,Limba română
+Kloster Marsineni,mânăstire,1,44.9116367811338,25.7008712778412,Dambovita,Altele,12119,Kloster Marsineni,Oltenia-Muntenia (1790),Limba română
+Mon. Bojana,mânăstire,1,45.1323697482332,25.7067421387673,Prahova,Altele,12120,Mon. Bojana,Oltenia-Muntenia (1790),Limba română
+M. Seciu,mânăstire,1,45.0323519656565,26.0548326178721,Prahova,Altele,12122,M. Seciu,Austriacă,Limba română
+Kalderuschan Kloster,mânăstire,1,44.6756518866316,26.266781161319,Ilfov,Altele,12123,Kalderuschan Kloster,Oltenia-Muntenia (1790),Limba română
+Mon Piely,mânăstire,1,43.9656403450847,25.4577076976418,Teleorman,Altele,12130,Mon Piely,Oltenia-Muntenia (1790),Limba română
+Kloster Maici (Bîldana),mânăstire,1,44.5961950980277,25.7647568831611,Dambovita,Altele,12133,Kloster Maici (Bîldana),Austriacă,Limba germană
+Klost Gilmelle,mânăstire,1,44.059688303209,24.6407375830079,Olt,Altele,12134,Klost Gilmelle,Oltenia-Muntenia (1790),Limba germană
+Monostor Balanului,mânăstire,1,47.1353343735937,23.3317465228853,Salaj,Altele,12150,Monostor Balanului,Transilvania (1769-1773),Limba română
+Munaster Fűzes,mânăstire,1,47.104337968203,23.4018982620951,Salaj,Altele,12151,Munaster Fűzes,Transilvania (1769-1773),Limba română
+Munaster PapTelke,mânăstire,1,47.1023017352109,23.4122442275493,Salaj,Altele,12152,Munaster PapTelke,Transilvania (1769-1773),Limba română
+Kloster Bazias,mânăstire,1,44.8161799071042,21.389719149154,Caras Severin,Altele,12155,Kloster Bazias,Ungară 1869,Limba germană,Pasiest Klosterl,Ungaria (1782–1785),Limba germană
+Kloster Slatica,mânăstire,1,44.8651841127363,21.4438974794248,Caras Severin,Altele,12156,Kloster Slatica,Ungară 1869,Limba germană,Slattina Klosterl,Ungaria (1782–1785),Limba germană
+Valea Mănăstirii,mânăstire,1,44.2461216396098,23.7252266065379,Dolj,Vale,12173,Valea Mănăstirii,PDT,Limba română
+Monâstieri,mânăstire,1,44.6212868469416,23.1947516594638,Mehedinti,Altele,12187,Monâstieri,Austriacă,Limba română
+Mânastir,mânăstire,1,44.4719529633521,25.2569654898591,Arges,Altele,12229,Mânastir,Austriacă,Limba română
+Monastir de valea Stantzia,mânăstire,1,44.8524233875562,24.8486619387747,Arges,Altele,12230,Monastir de valea Stantzia,Austriacă,Limba română
+Mânastir,mânăstire,1,44.9082058887687,24.9272965648338,Arges,Altele,12231,Mânastir,Austriacă,Limba română
+Mânâstirea,mânăstire,1,45.19043989435,24.9279528705271,Arges,Altele,12232,Mânâstirea,Austriacă,Limba română
+Manastire,mânăstire,1,45.2673857877413,24.9775564916128,Arges,Altele,12233,Manastire,Austriacă,Limba română
+Mănăstirea Șerbănești,mânăstire,1,44.5870644618659,24.2412680436715,Valcea,Altele,12237,Mănăstirea Șerbănești,PDT,Limba română
+Monaster,mânăstire,1,46.3353976380382,23.6352716940947,Alba,Altele,12243,Monaster,Transilvania (1769-1773),Limba română
+Mănăstirea,mânăstire,1,45.6319049992555,22.8503615713476,Hunedoara,Altele,12312,Mănăstirea,Imperiul Habsburgic (1887),Limba română
+Kloster (Mănăstire),mânăstire,1,45.8042288884597,27.0044724023663,Vrancea,Altele,12334,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Kloster Kassaki,mânăstire,1,45.7645241029971,27.0826931424551,Vrancea,Altele,12335,Kloster Kassaki,Moldova (1788-1790),Limba germană
+Kloster (Mănăstire),mânăstire,1,45.9849092315416,27.0957554188374,Vrancea,Altele,12337,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Kloster (Mănăstire),mânăstire,1,46.748262368846,26.7441437808282,Bacau,Altele,12339,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Kloster Dialu Mare,mânăstire,1,46.7043548957906,27.1612808190945,Bacau,Altele,12340,Kloster Dialu Mare,Moldova (1788-1790),Limba germană
+Monaster Tissa,mânăstire,1,46.6479284634106,27.1604719913231,Bacau,Altele,12341,Monaster Tissa,Moldova (1788-1790),Limba română
+Mânâstirea,mânăstire,1,44.9738834692409,25.4655843123172,Dambovita,Altele,12397,Mânâstirea,Austriacă,Limba română
+Dealului Mânâstir,mânăstire,1,44.9584361570845,25.4814688357409,Dambovita,Deal,12398,Dealului Mânâstir,Austriacă,Limba română,Monast. Djalului,Oltenia-Muntenia (1790),Limba română
+Mînâstirea Gorgota,mânăstire,1,44.9828741976101,25.5056581195855,Dambovita,Altele,12404,Mînâstirea Gorgota,Austriacă,Limba română
+M. Tutana,mânăstire,1,45.045589429628,24.6383247491437,Arges,Altele,12407,M. Tutana,Oltenia-Muntenia (1790),Limba română
+Monastir Klokociov,mânăstire,1,44.4119987923033,24.3652028679575,Olt,Altele,12441,Monastir Klokociov,Austriacă,Limba română,Klost. Klokoczov,Oltenia-Muntenia (1790),Limba română
+Monastir Strecharitz,mânăstire,1,44.4440499035023,24.3527780391744,Olt,Altele,12442,Monastir Strecharitz,Austriacă,Limba română
+Munastir Topolnitza,mânăstire,1,44.7600097782434,22.6079388124788,Mehedinti,Altele,12464,Munastir Topolnitza,Austriacă,Limba română
+Zidurile Mânăstirei Flămânda,mânăstire,1,44.6679409626423,27.8241572332492,Ialomita,Altele,12492,Zidurile Mânăstirei Flămânda,PDT,Limba română
+Valea Mănăstire,mânăstire,1,45.1437038905916,23.9522548388715,Valcea,Vale,12572,Valea Mănăstire,Geomil 25000,Limba română
+Pârâul Mânăstirei,mânăstire,1,45.1286578281146,23.9279879859611,Valcea,Vale,12593,Pârâul Mânăstirei,British Maps (1944),Limba română
+Monastir Krnu,mânăstire,1,45.2783485745337,26.4013898524368,Buzau,Mănăstire,12601,Monastir Krnu,Austriacă,Limba română
+Mânâst. Krasna,mânăstire,1,45.2950708793675,25.9268149158282,Prahova,Mănăstire,12602,Mânâst. Krasna,Austriacă,Limba română
+Kloster Horaitza,mânăstire,1,47.0586700739433,26.2798792972172,Neamt,Mănăstire,12627,Kloster Horaitza,Moldova (1788-1790),Limba germană
+Kloster Wenetory,mânăstire,1,46.901892570225,26.3882906574109,Neamt,Mănăstire,12628,Kloster Wenetory,Moldova (1788-1790),Limba germană
+Kloster Wernali,mânăstire,1,46.8231929776536,26.9432489730388,Neamt,Mănăstire,12630,Kloster Wernali,Moldova (1788-1790),Limba germană
+Kloster (Mănăstire),mânăstire,1,46.2263156534222,27.1646996220917,Bacau,Mănăstire,12637,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Bezdin Klastrom,mânăstire,1,46.1401165446067,21.0272638691422,Arad,Mănăstire,12654,Bezdin Klastrom,Ungară 1869,Limba maghiară,Pestiner Closter,Banat (1769-1772),Limba germană
+Monastir,mânăstire,1,45.3856095129102,23.6877289390307,Valcea,Mănăstire,12691,Monastir,Valahia-Moldova (1773-1774),Limba română
+Monosteru,mânăstire,1,44.6905701970217,21.6907667570024,Caras Severin,Mănăstire,12706,Monosteru,Banat (1769-1772),Limba română
+Dealul Monastirii,mânăstire,1,48.0609979997258,26.3598585902403,Botosani,Deal,12755,Dealul Monastirii,PDT,Limba română
+Monastir,mânăstire,1,46.4500535597646,23.3358983458522,Alba,Mănăstire,12763,Monastir,Transilvania (1769-1773),Limba română
+Monasterium,mânăstire,1,46.8723230290283,22.911143535412,Cluj,Mănăstire,12765,Monasterium,Transilvania (1769-1773),Limba română
+Monasterium,mânăstire,1,46.9514117794762,23.0409215034148,Salaj,Mănăstire,12766,Monasterium,Transilvania (1769-1773),Limba română
+Munaster,mânăstire,1,47.0553021772484,23.9672937384887,Cluj,Mănăstire,12770,Munaster,Transilvania (1769-1773),Limba română
+Mon. Poiana Moruluy,mânăstire,1,45.5709937128419,26.7267073695978,Vrancea,Mănăstire,12789,Mon. Poiana Moruluy,Valahia-Moldova (1773-1774),Limba română
+Kloster Vakarești,mânăstire,1,44.3966108640154,26.1247034105513,Bucuresti,Mănăstire,12792,Kloster Vakarești,Austriacă,Limba germană
+Kloster Kotroceni,mânăstire,1,44.4346580026245,26.0627091642316,Bucuresti,Mănăstire,12793,Kloster Kotroceni,Austriacă,Limba germană
+Mânâst. Zghiaba,mânăstire,1,45.1753472503418,24.1669904860187,Valcea,Mănăstire,12858,Mânâst. Zghiaba,Austriacă,Limba română
+Mânâstir Frasinet,mânăstire,1,45.2398693998864,24.2608781441785,Valcea,Mănăstire,12859,Mânâstir Frasinet,Austriacă,Limba română
+Mân: Govora,mânăstire,1,45.0630531200875,24.2191357373286,Valcea,Mănăstire,12860,Mân: Govora,Austriacă,Limba română
+Mânâstirea - Surpatele,mânăstire,1,45.0476941137705,24.1903212108525,Valcea,Localitate,12861,Mânâstirea - Surpatele,Austriacă,Limba română
+Mânâstirea dîntrun Lemnu,mânăstire,1,45.0254745201581,24.1797283445652,Valcea,Mănăstire,12862,Mânâstirea dîntrun Lemnu,Austriacă,Limba română
+Pârâul Mănăstirea,mânăstire,1,45.7192897171643,25.216244296054,Brasov,Vale,12884,Pârâul Mănăstirea,Geomil 25000,Limba română
+Coasta Mănăstirii,mânăstire,1,46.864159442689,27.378491249666,Vaslui,Înălțime,12933,Coasta Mănăstirii,Geomil 25000,Limba română
+Monastery,mânăstire,1,46.1901284919691,26.796118067234,Bacau,Mănăstire,12944,Monastery,Moldova (1788-1790),Limba română
+Pădurea Mănăstirii,mânăstire,1,46.7823516733211,24.31652024952,Bistrita Nasaud,Pădure,13101,Pădurea Mănăstirii,ANCPI,Limba română
+Monaster,mânăstire,1,46.4293639008346,24.1170256474075,Mures,Mănăstire,13245,Monaster,Transilvania (1769-1773),Limba română
+Monaster,mânăstire,1,46.3956717406083,24.1314522024477,Mures,Mănăstire,13246,Monaster,Transilvania (1769-1773),Limba română
+Munaster,mânăstire,1,47.257942597481,23.8681152294534,Cluj,Mănăstire,13250,Munaster,Transilvania (1769-1773),Limba română
+Munaster,mânăstire,1,47.2596302191861,23.892696279506,Cluj,Mănăstire,13251,Munaster,Transilvania (1769-1773),Limba română
+Monaster,mânăstire,1,47.31043091621,23.8676624994071,Cluj,Mănăstire,13252,Monaster,Transilvania (1769-1773),Limba română
+Monaster,mânăstire,1,47.332303824226,23.9303993315961,Cluj,Mănăstire,13255,Monaster,Transilvania (1769-1773),Limba română
+Kloster (Mănăstire),mânăstire,1,47.3535379553115,26.2100459515596,Suceava,Mănăstire,13272,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Monostor,mânăstire,1,46.5632188116309,24.019206687495,Cluj,Mănăstire,13315,Monostor,Transilvania (1769-1773),Limba română
+Monaster,mânăstire,1,46.8474145423927,24.5132445964078,Mures,Mănăstire,13319,Monaster,Transilvania (1769-1773),Limba română
+Monaster,mânăstire,1,46.7742269551297,24.9919667400714,Mures,Mănăstire,13320,Monaster,Transilvania (1769-1773),Limba română
+Monaster,mânăstire,1,46.7820992851796,24.9839835385625,Mures,Mănăstire,13321,Monaster,Transilvania (1769-1773),Limba română
+Mon. Ciolan,mânăstire,1,45.2347817125052,26.5507720263756,Buzau,Mănăstire,13348,Mon. Ciolan,Austriacă,Limba română
+Mânâstir,mânăstire,1,45.3556430752826,25.5487945826583,Prahova,Mănăstire,13443,Mânâstir,Austriacă,Limba română
+Mânâstirea Predealu,mânăstire,1,45.4883434269001,25.5682040653989,Brasov,Mănăstire,13444,Mânâstirea Predealu,Austriacă,Limba română
+Kloster Keia,mânăstire,1,45.4559144058872,25.9424465725702,Prahova,Mănăstire,13445,Kloster Keia,Austriacă,Limba română
+Kloster Susana,mânăstire,1,45.393588191414,25.9300015266277,Prahova,Mănăstire,13446,Kloster Susana,Austriacă,Limba română
+Mon Lespetz,mânăstire,1,45.2710920559605,25.6182115064051,Prahova,Mănăstire,13456,Mon Lespetz,Valahia-Moldova (1773-1774),Limba română
+Kloster Slatina,mânăstire,1,47.4337649932902,25.958122796061,Suceava,Mănăstire,13524,Kloster Slatina,Moldova (1788-1790),Limba germană
+Mon. Nifon,mânăstire,1,45.2624963329773,26.554180713358,Buzau,Mănăstire,13566,Mon. Nifon,Austriacă,Limba română
+Mân. Titireciu,mânăstire,1,45.0941026153147,24.2606721682729,Valcea,Mănăstire,13569,Mân. Titireciu,Austriacă,Limba română
+Mânăst. Slătioarele,mânăstire,1,45.0718578504475,24.2496932246021,Valcea,Mănăstire,13570,Mânăst. Slătioarele,Austriacă,Limba română
+Mînâștirea Lainic,mânăstire,1,45.2644893475227,23.3906143756532,Gorj,Mănăstire,13682,Mînâștirea Lainic,Austriacă,Limba română
+Mînâstirea Lakurile,mânăstire,1,45.2543405229792,23.3766777583104,Gorj,Mănăstire,13683,Mînâstirea Lakurile,Austriacă,Limba română
+Monaster,mânăstire,1,47.0017924275941,23.9559567082414,Cluj,Mănăstire,13732,Monaster,Transilvania (1769-1773),Limba română
+Gavana (Monastir),mânăstire,1,45.5460551002457,26.6117421315768,Buzau,Mănăstire,13779,Gavana (Monastir),Austriacă,Limba română
+Kloster Wranschanuliu,mânăstire,1,45.808301884,26.6362274813,Vrancea,Mănăstire,13788,Kloster Wranschanuliu,Moldova (1788-1790),Limba germană
+Mănăstirea,mânăstire,1,47.6894975165282,25.6652074078698,Suceava,Vale,13836,Mănăstirea,Geomil 25000,Limba română
+Mon. Lînga,mânăstire,1,44.365188833032,23.9574499263362,Dolj,Mănăstire,13844,Mon. Lînga,Austriacă,Limba română
+Kloster (Mănăstire),mânăstire,1,46.6482691837527,26.7760131572096,Bacau,Mănăstire,13865,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Kloster Zuskany,mânăstire,1,46.7981633440701,26.7706979552033,Neamt,Mănăstire,13866,Kloster Zuskany,Moldova (1788-1790),Limba germană
+Kloster (Mănăstire),mânăstire,1,47.0630571922342,26.4030607006157,Neamt,Mănăstire,13867,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Mânâstir Stânișoara,mânăstire,1,45.3019559937604,24.3382860260765,Valcea,Mănăstire,13969,Mânâstir Stânișoara,Austriacă,Limba română
+Mân: Cetâtuia,mânăstire,1,45.1242762320722,24.3617551712215,Valcea,Mănăstire,13972,Mân: Cetâtuia,Austriacă,Limba română
+Monâstirea Argis,mânăstire,1,45.1569139948921,24.6755917371754,Arges,Mănăstire,13973,Monâstirea Argis,Austriacă,Limba română
+Monostor,mânăstire,1,46.3833112643597,23.4607107841795,Alba,Mănăstire,14045,Monostor,Transilvania (1769-1773),Limba română
+Kloster Niamz,mânăstire,1,47.2634017286169,26.2087711307895,Neamt,Mănăstire,14052,Kloster Niamz,Moldova (1788-1790),Limba germană
+Kloster (Mănăstire),mânăstire,1,47.2565011409867,26.2080430093729,Neamt,Mănăstire,14053,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Kloster (Mănăstire),mânăstire,1,47.2425899936471,26.1856641595494,Neamt,Mănăstire,14054,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Monaster Waratek,mânăstire,1,47.1396638497767,26.2678913223564,Neamt,Mănăstire,14128,Monaster Waratek,Moldova (1788-1790),Limba română
+Rozboien Kloster,mânăstire,1,47.0867984987796,26.5543837356733,Neamt,Mănăstire,14130,Rozboien Kloster,Moldova (1788-1790),Limba germană
+Kloster Agapia,mânăstire,1,47.1705135034156,26.2350963930978,Neamt,Mănăstire,14131,Kloster Agapia,Moldova (1788-1790),Limba germană
+Kloster (Mănăstire),mânăstire,1,47.2509946966629,26.9071108793251,Iasi,Mănăstire,14133,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Dealu Chiliilor,chilii,2,44.8970551907035,23.0772451827619,Gorj,Deal,207,Dealu Chiliilor,Geomil 25000,Limba română
+Valea Chiliilor,chilii,2,44.7112350821926,22.9770539324664,Mehedinti,Vale,419,Valea Chiliilor,Geomil 25000,Limba română
+Chilia,chilii,2,44.4898253972842,22.6553823907783,Mehedinti,Înălțime,425,Chilia,Geomil 25000,Limba română
+Colțul Chiliilor,chilii,2,45.5702599206645,25.2460454807652,Brasov,Altele,607,Colțul Chiliilor,Geomil 25000,Limba română
+Lunca Chiliei,chilii,2,45.9977545994995,23.6128156317312,Alba,Apă-deal-câmpie,1147,Lunca Chiliei,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,46.7251249006107,27.1677314679236,Bacau,Deal,1605,Dealul Chiliei,Geomil 25000,Limba română
+Dealul Chiliilor,chilii,2,46.8226814997947,27.0620007330878,Neamt,Deal,1620,Dealul Chiliilor,Geomil 25000,Limba română
+La Chiliuțe,chilii,2,46.526357067922,27.914785223955,Vaslui,Altele,1687,La Chiliuțe,Geomil 25000,Limba română
+La Chilii,chilii,2,46.8181370980543,26.3635668069755,Neamt,Altele,2031,La Chilii,Geomil 25000,Limba română
+La Chilii,chilii,2,47.0723630747382,26.1657521906726,Neamt,Altele,2055,La Chilii,Geomil 25000,Limba română
+Dealul Chiliilor,chilii,2,45.8763331527955,26.7708318660401,Vrancea,Deal,2134,Dealul Chiliilor,Geomil 25000,Limba română,Dealul Chiliilor,PDT,Limba română
+Pădurea Chiliei,chilii,2,47.7583406893902,26.2097278338916,Suceava,Pădure,2301,Pădurea Chiliei,Geomil 25000,Limba română
+Valea Chiliile,chilii,2,44.7229746672455,24.0358720133994,Valcea,Vale,2949,Valea Chiliile,Geomil 25000,Limba română
+Chilii,chilii,2,44.2666728978603,24.2080687466467,Olt,Localitate,2973,Chilii,Geomil 25000,Limba română
+Vârful Chilii,chilii,2,45.0771413158649,26.1139811227223,Prahova,Înălțime,3980,Vârful Chilii,PDT,Limba română
+Pădurea Chilia,chilii,2,47.6295247520409,23.1111296155247,Satu Mare,Pădure,4424,Pădurea Chilia,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,46.3461680431526,26.6857958468313,Bacau,Deal,4579,Dealul Chiliei,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,46.6329082055773,27.4823549640847,Vaslui,Deal,4620,Dealul Chiliei,Geomil 25000,Limba română
+Chilii,chilii,2,45.239280442387,25.0533827332025,Arges,Localitate,4963,Chilii,Geomil 25000,Limba română,Chilii,PDT,Limba română
+Pârâul Valea Chiliilor,chilii,2,45.2166531122046,25.2206430859618,Arges,Vale,5047,Pârâul Valea Chiliilor,Geomil 25000,Limba română
+La Chilii,chilii,2,45.9325825082119,26.5339434745733,Vrancea,Altele,5265,La Chilii,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,46.3266363675883,26.619306135535,Bacau,Deal,5326,Dealul Chiliei,PDT,Limba română
+Pârâul Chiliei,chilii,2,46.3094288166653,26.7352070339067,Bacau,Vale,5330,Pârâul Chiliei,PDT,Limba română
+Pârâul Chiliei,chilii,2,45.8399821022205,26.9344157335956,Vrancea,Vale,5359,Pârâul Chiliei,PDT,Limba română
+Dealu Chiliilor,chilii,2,45.0893404510577,21.5472559493357,Caras Severin,Deal,5708,Dealu Chiliilor,Geomil 25000,Limba română
+Pădurea Chilia,chilii,2,47.6475323941466,23.0428202990879,Satu Mare,Pădure,5958,Pădurea Chilia,Geomil 25000,Limba română
+Pădurea Chiliei,chilii,2,47.608461620674,25.8161875872196,Suceava,Pădure,6324,Pădurea Chiliei,Geomil 25000,Limba română
+La Chilie,chilii,2,46.7712258849345,26.1483682819079,Neamt,Altele,6524,La Chilie,PDT,Limba română
+Chilia,chilii,2,46.9197636532307,25.7770121679045,Harghita,Vale,7136,Chilia,Geomil 25000,Limba română
+Obcina Chiliei,chilii,2,46.9195781642868,25.9377341249894,Neamt,Înălțime,7140,Obcina Chiliei,Geomil 25000,Limba română
+La Chilii,chilii,2,47.9591537277238,23.4206694091363,Satu Mare,Altele,7227,La Chilii,PDT,Limba română
+Chilie,chilii,2,46.4527130743924,24.4844298438164,Mures,Altele,7337,Chilie,Geomil 25000,Limba română
+La Chilii,chilii,2,47.2019689707954,26.2620839065318,Neamt,Altele,7396,La Chilii,Geomil 25000,Limba română
+Piciorul Chiliei,chilii,2,47.173357436803,26.185886424821,Neamt,Înălțime,7397,Piciorul Chiliei,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,47.2916284287478,26.1915242478971,Neamt,Deal,7400,Dealul Chiliei,Geomil 25000,Limba română
+Chilia Benei,chilii,2,46.3415274809821,27.1291456256769,Bacau,Localitate,7839,Chilia Benei,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,46.2434275219691,27.1540653697745,Bacau,Deal,7844,Dealul Chiliei,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,46.1192189593762,25.1871999730891,Brasov,Deal,7943,Dealul Chiliei,Geomil 25000,Limba română,Vârful Chilia,PDT,Limba română
+Chiliile,chilii,2,44.2051956602329,24.4127777407279,Olt,Localitate,8114,Chiliile,PDT,Limba română
+Chilia,chilii,2,44.7825534081772,24.560507224306,Olt,Localitate,8127,Chilia,PDT,Limba română,Chilia,Geomil 25000,Limba română
+La Chili,chilii,2,45.580419171969,26.6507093871215,Buzau,Altele,8759,La Chili,PDT,Limba română
+Piscul la Chilii,chilii,2,45.4552388476055,26.5089071674207,Buzau,Înălțime,8764,Piscul la Chilii,PDT,Limba română
+Chilia,chilii,2,45.340630530052,26.4653571407681,Buzau,Localitate,8772,Chilia,PDT,Limba română
+La Chilii,chilii,2,46.623521782821,26.4288154848837,Bacau,Altele,9160,La Chilii,PDT,Limba română
+Valea Chiliilor,chilii,2,45.7295686870885,26.9443265244627,Vrancea,Vale,9238,Valea Chiliilor,PDT,Limba română
+Chilii,chilii,2,46.8024940669045,27.0335296238773,Neamt,Localitate,9629,Chilii,Geomil 25000,Limba română,Chiliele,Moldova (1892-1898),Limba română
+Dealu Chilii,chilii,2,46.1477438948222,22.8930553067473,Hunedoara,Deal,9666,Dealu Chilii,Geomil 25000,Limba română
+Chilia,chilii,2,47.0399933615451,26.6295115199573,Neamt,Localitate,9710,Chilia,Moldova (1892-1898),Limba română
+Vârful Chiliilor,chilii,2,47.4612817310127,25.4630118689545,Suceava,Înălțime,10715,Vârful Chiliilor,Geomil 25000,Limba română
+Chilia,chilii,2,47.3465733564999,25.3725231774419,Suceava,Altele,10723,Chilia,Imperiul Habsburgic (1887),Limba română
+Dealul Chiliei,chilii,2,47.6509787612182,26.0188070699672,Suceava,Deal,10749,Dealul Chiliei,Imperiul Habsburgic (1887),Limba română
+Pârâul Chiliei,chilii,2,45.2626400339377,24.7335909791077,Arges,Vale,11116,Pârâul Chiliei,PDT,Limba română
+Valea Chilii,chilii,2,45.1467501111799,25.9506056034257,Prahova,Vale,11133,Valea Chilii,PDT,Limba română
+Chiliile,chilii,2,45.4394833925127,26.6136377118887,Buzau,Localitate,11198,Chiliile,ANCPI,Limba română
+Dealul Chiliei,chilii,2,47.3005335883626,26.8117278604632,Iasi,Deal,11398,Dealul Chiliei,Geomil 25000,Limba română
+Valea Chiliei,chilii,2,46.0455273376062,27.347293986731,Galati,Vale,11429,Valea Chiliei,Geomil 25000,Limba română
+Pe Chilii,chilii,2,47.9715119609721,23.3542604218865,Satu Mare,Altele,12040,Pe Chilii,Geomil 25000,Limba română
+Dealul Chilii,chilii,2,44.9201616677441,23.3719355526768,Gorj,Deal,12449,Dealul Chilii,PDT,Limba română
+Kilia,chilii,2,45.0850305963206,24.0074930461272,Valcea,Localitate,12591,Kilia,Austriacă,Limba română
+Muchia Chiliilor,chilii,2,45.2939589244773,26.4153679160423,Buzau,Înălțime,12600,Muchia Chiliilor,Geomil 25000,Limba română
+Valea Chiliei,chilii,2,46.0084886951561,26.9788178757704,Vrancea,Vale,13332,Valea Chiliei,Moldova (1892-1898),Limba română
+Pârâul Chiliei,chilii,2,46.2439365154505,26.8915719236686,Bacau,Vale,13594,Pârâul Chiliei,PDT,Limba română
+Pârâul Chiliilor,chilii,2,46.8199551572604,26.2220296870737,Neamt,Vale,13662,Pârâul Chiliilor,PDT,Limba română
+Killia,chilii,2,47.4927336513753,25.4253427859928,Suceava,Altele,13777,Killia,Bucovina (1861-1864),Limba română
+Dealul Chiliei,chilii,2,46.4109320749427,27.9005165244834,Vaslui,Deal,13945,Dealul Chiliei,Moldova (1892-1898),Limba română
+Poiana Chiliei,chilii,2,47.1611498851678,26.71177285835,Iasi,Poiană,14148,Poiana Chiliei,Moldova (1892-1898),Limba română
+Valea Schitului,schit,2,44.8870449326112,24.9743913082049,Arges,Vale,548,Valea Schitului,Geomil 25000,Limba română
+Dealul Schitului,schit,2,47.0886220410564,26.5028536390874,Neamt,Deal,662,Dealul Schitului,Geomil 25000,Limba română,Dealul Schitului,PDT,Limba română
+La Schit,schit,2,46.0973089721117,26.5543812435185,Bacau,Altele,693,La Schit,Geomil 25000,Limba română
+Poiana Schitului,schit,2,46.2116396481821,27.7839775135178,Vaslui,Poiană,719,Poiana Schitului,Geomil 25000,Limba română,Poiana Schitului,PDT,Limba română
+La Schit,schit,2,45.1041102966716,22.9432027326737,Gorj,Altele,846,La Schit,Geomil 25000,Limba română
+Pădurea Schitului,schit,2,44.1301903461683,23.6410577609225,Dolj,Pădure,1301,Pădurea Schitului,Geomil 25000,Limba română
+Valea Schitului,schit,2,44.7180626076238,26.0687253275259,Ilfov,Vale,1325,Valea Schitului,Geomil 25000,Limba română,Valea Schitul,PDT,Limba română
+Valea Schitului,schit,2,45.0941328793573,24.5627770939114,Arges,Vale,1420,Valea Schitului,Geomil 25000,Limba română
+Pădurea Schitului,schit,2,45.2808787784223,24.5736873750413,Arges,Pădure,1437,Pădurea Schitului,Geomil 25000,Limba română
+Schitu,schit,2,45.1620468071535,24.3860511094249,Arges,Altele,1443,Schitu,Geomil 25000,Limba română
+Coasta Schitului,schit,2,45.302716119299,25.1059550163393,Arges,Înălțime,1479,Coasta Schitului,Geomil 25000,Limba română
+Pădurea Schitului,schit,2,46.4905711893751,27.6777624618229,Vaslui,Pădure,1678,Pădurea Schitului,Geomil 25000,Limba română
+Schitul Dunca,schit,2,46.902490792745,27.9208951551212,Iasi,Altele,1700,Schitul Dunca,Geomil 25000,Limba română
+Poiana Schitul Balș,schit,2,47.5113803851824,26.813619663001,Botosani,Poiană,1747,Poiana Schitul Balș,Geomil 25000,Limba română
+Pârâul Schitului,schit,2,45.6086929352111,27.0353011755907,Vrancea,Vale,2146,Pârâul Schitului,Geomil 25000,Limba română
+Pădurea Schitului,schit,2,46.8208453880357,27.8598429017729,Vaslui,Pădure,2203,Pădurea Schitului,Geomil 25000,Limba română
+Poiana Schitului,schit,2,46.9860675810966,27.5849731833781,Iasi,Poiană,2222,Poiana Schitului,Geomil 25000,Limba română
+Schitul,schit,2,47.7732725822897,26.2165056534025,Suceava,,2303,Schitul,Geomil 25000,Limba română
+Valea Schitului,schit,2,45.3079258905775,26.1047729554316,Prahova,Vale,2818,Valea Schitului,Geomil 25000,Limba română
+Dealu Schitului,schit,2,44.7136164838428,24.0710763185006,Valcea,Deal,2950,Dealu Schitului,Geomil 25000,Limba română
+Schitu,schit,2,44.3550203046249,24.5693045719956,Olt,Localitate,3003,Schitu,Geomil 25000,Limba română
+Pădurea Schitului,schit,2,44.2832759021293,24.0773290459207,Dolj,Pădure,3013,Pădurea Schitului,Geomil 25000,Limba română
+Schitu,schit,2,44.9833008533716,24.4770551629596,Valcea,Localitate,3078,Schitu,Geomil 25000,Limba română
+Schitu,schit,2,44.1419738429396,25.8381597567362,Giurgiu,Localitate,3151,Schitu,Geomil 25000,Limba română
+La Schit,schit,2,44.7280824204755,26.4552259137815,Ialomita,Altele,3287,La Schit,PDT,Limba română
+Movila Schitul,schit,2,44.5984008270678,27.5241727140714,Ialomita,Înălțime,3442,Movila Schitul,PDT,Limba română
+Valea Schitu Negoiță,schit,2,45.1582703974168,26.6103416715787,Buzau,Vale,3962,Valea Schitu Negoiță,Geomil 25000,Limba română,Valea Schitul Negoiță,PDT,Limba română
+Pădurea Fața Schitului,schit,2,45.2474419422624,24.727518881558,Arges,Pădure,4051,Pădurea Fața Schitului,Geomil 25000,Limba română
+La Schitu Ruinat,schit,2,44.3296817158272,25.9568553529784,Ilfov,Altele,4230,La Schitu Ruinat,PDT,Limba română
+La Schit,schit,2,44.7269035080438,24.2036728579776,Valcea,Altele,4791,La Schit,Geomil 25000,Limba română,La Schit,PDT,Limba română
+Valea Schitului,schit,2,45.2482460458753,24.9603634863449,Arges,Vale,4964,Valea Schitului,Geomil 25000,Limba română
+Fața Schitului,schit,2,45.1999878824883,24.9969325313912,Arges,Localitate,4966,Fața Schitului,Geomil 25000,Limba română
+Valea Schitu,schit,2,44.755009677433,23.6924599707926,Gorj,Vale,5147,Valea Schitu,Geomil 25000,Limba română
+Dealul Crucea Schitului,schit,2,45.8601038206264,26.9675477534947,Vrancea,Deal,5275,Dealul Crucea Schitului,Geomil 25000,Limba română
+Piciorul Schitululi,schit,2,45.4358760458136,26.4517120246633,Buzau,Înălțime,6116,Piciorul Schitululi,Geomil 25000,Limba română,Piciorul Schitululi,PDT,Limba română
+Schitul,schit,2,47.0402557897711,25.9547549589391,Neamt,Localitate,6467,Schitul,PDT,Limba română
+Schitul Durău,schit,2,46.9964668377208,25.922606946924,Neamt,Localitate,6475,Schitul Durău,PDT,Limba română
+Schitul Lipovenilor,schit,2,46.8886831954018,26.3229462999916,Neamt,Altele,6492,Schitul Lipovenilor,PDT,Limba română
+Schitu Tarcău,schit,2,46.7610315660582,26.1786491667046,Neamt,Localitate,6525,Schitu Tarcău,Geomil 25000,Limba română
+Schitu Duca,schit,2,47.0358606986881,27.7692284087608,Iasi,Localitate,6587,Schitu Duca,PDT,Limba română,Schitu Duca,Geomil 25000,Limba română
+Culmea Schitului,schit,2,47.0100987826214,25.8939067400419,Neamt,Înălțime,7137,Culmea Schitului,Geomil 25000,Limba română
+Dealul la Schit,schit,2,47.7153136295889,26.3615321079544,Suceava,Deal,7272,Dealul la Schit,PDT,Limba română
+Dealul Schitului,schit,2,46.7728702224401,27.2732529706258,Vaslui,Deal,7290,Dealul Schitului,Geomil 25000,Limba română
+Schitul,schit,2,45.1708300356912,26.3764726699725,Buzau,Localitate,7500,Schitul,PDT,Limba română
+Grindul Schitului,schit,2,44.1185863019082,23.8962971447238,Dolj,Apă-deal-câmpie,7700,Grindul Schitului,PDT,Limba română
+La Schit,schit,2,46.4746233502047,27.1527180301691,Bacau,Altele,7867,La Schit,Geomil 25000,Limba română
+Drumul Schitului,schit,2,46.6100936352052,26.8244889152141,Bacau,Drum,7875,Drumul Schitului,Geomil 25000,Limba română
+Poiana Schitului,schit,2,46.395861534306,26.5763867044926,Bacau,Poiană,7933,Poiana Schitului,PDT,Limba română
+Schitu-Sava,schit,2,46.4174361681708,26.5836696075426,Bacau,Altele,7935,Schitu-Sava,PDT,Limba română
+Schitul din Deal,schit,2,44.5036692309769,24.226187811084,Olt,Localitate,8294,Schitul din Deal,PDT,Limba română
+Cimitirul Schitu,schit,2,46.6644875112814,28.0551169101292,Vaslui,Altele,8849,Cimitirul Schitu,PDT,Limba română
+Schitu-Poenari,schit,2,43.9877825752006,25.4759718740412,Teleorman,Localitate,9024,Schitu-Poenari,PDT,Limba română
+Fața Schitului,schit,2,45.9752278683063,26.573034603667,Vrancea,Înălțime,9214,Fața Schitului,Geomil 25000,Limba română
+Culmea Schitu,schit,2,45.8719316303795,26.8613784749848,Vrancea,Înălțime,9218,Culmea Schitu,Geomil 25000,Limba română
+Schitul,schit,2,43.9411577036529,28.6297343188751,Constanta,Localitate,9307,Schitul,PDT,Limba română
+Pădurea Schitu,schit,2,44.5877299429259,24.3375236708905,Olt,Pădure,9347,Pădurea Schitu,Geomil 25000,Limba română,Pădurea Schitu,PDT,Limba română
+Poiana Schitului,schit,2,46.5615011365084,26.4874937618426,Bacau,Poiană,9957,Poiana Schitului,Moldova (1892-1898),Limba română
+La Schit,schit,2,44.3497917959898,25.7758966533661,Giurgiu,Altele,10092,La Schit,Geomil 25000,Limba română
+Schitu Scoicești,schit,2,44.8175089575719,25.1481928674576,Arges,Localitate,10171,Schitu Scoicești,Geomil 25000,Limba română
+Schitu,schit,2,46.3040868412834,26.9474502723467,Bacau,Localitate,10885,Schitu,Moldova (1892-1898),Limba română
+Poiana Schitului,schit,2,45.2537620100961,24.8705518433541,Arges,Poiană,11118,Poiana Schitului,PDT,Limba română
+Pădurea Schitu Budișteni,schit,2,44.8113929256688,25.1722579398932,Arges,Pădure,11699,Pădurea Schitu Budișteni,Geomil 25000,Limba română
+Schitu,schit,2,44.5995808607629,25.3639709648102,Dambovita,Localitate,11701,Schitu,PDT,Limba română
+Gârla Schitului,schit,2,44.1174210708122,24.5385482361316,Olt,Apă-deal-câmpie,12136,Gârla Schitului,PDT,Limba română
+Skitt,schit,2,44.5098114625256,23.5363353595009,Dolj,Altele,12185,Skitt,Oltenia-Muntenia (1790),Limba română
+Skit Kotești,schit,2,45.6504384302125,27.0398109132081,Vrancea,Mănăstire,12998,Skit Kotești,Austriacă,Limba română
+Skitu Kosturi,schit,2,45.2231821536139,23.6344204836504,Gorj,Altele,13562,Skitu Kosturi,Austriacă,Limba română
+Schitu Hadâmbului,schit,2,47.01074673569,27.4330625460134,Iasi,Altele,13627,Schitu Hadâmbului,Geomil 25000,Limba română
+La Skit,schit,2,45.1190003844468,26.4893244802399,Buzau,Mănăstire,13807,La Skit,Austriacă,Limba română
+Gulea (Schit),schit,2,47.4127745286671,26.6049766812413,Suceava,Localitate,14048,Gulea (Schit),Moldova (1892-1898),Limba română
+Valea Remetea,remetea,2,45.9750198662575,25.4850655049613,Brasov,Vale,2738,Valea Remetea,Geomil 25000,Limba română
+Pădurea Remetu,remetea,2,47.1864416549645,22.3518867220055,Bihor,Pădure,4178,Pădurea Remetu,Geomil 25000,Limba română
+Pădurea Remetea,remetea,2,46.9832189730254,25.5222658963951,Harghita,Pădure,5417,Pădurea Remetea,Geomil 25000,Limba română
+Remetea,remetea,2,46.9869126012338,24.844961194006,Mures,Altele,5444,Remetea,PDT,Limba română,Remetea,Geomil 25000,Limba română
+Remetea,remetea,2,46.1203743956138,23.4295001190658,Alba,Localitate,5576,Remetea,Geomil 25000,Limba română
+Valea Remetei,remetea,2,45.5042656024963,21.8952922856983,Caras Severin,Vale,5684,Valea Remetei,Geomil 25000,Limba română,Valea Remetea,PDT,Limba română
+Pădurea Remetea Oașului,remetea,2,47.8852588026328,23.2987011221038,Satu Mare,Pădure,5969,Pădurea Remetea Oașului,Geomil 25000,Limba română
+Câmpia Remetea,remetea,2,45.8900395679702,25.845512493722,Covasna,Câmp,6055,Câmpia Remetea,Geomil 25000,Limba română
+La Remetea,remetea,2,46.1596840766919,22.90382197585,Hunedoara,Altele,6253,La Remetea,Geomil 25000,Limba română
+Dealul Remetea,remetea,2,45.7667456128953,25.343071837043,Brasov,Deal,6816,Dealul Remetea,Geomil 25000,Limba română
+Remetea,remetea,2,46.7390627659305,22.3489394596979,Bihor,Localitate,6989,Remetea,Geomil 25000,Limba română
+Rimetea,remetea,2,46.4534330209952,23.567647273985,Alba,Localitate,7062,Rimetea,Geomil 25000,Limba română
+Remetea,remetea,2,46.5725759761649,24.5203321549323,Mures,Localitate,7332,Remetea,Geomil 25000,Limba română
+Remetea Mare,remetea,2,45.7816429587193,21.3765287166047,Timis,Localitate,7640,Remetea Mare,Geomil 25000,Limba română
+Pe Remetea,remetea,2,45.7985296097564,24.2338611821877,Sibiu,Altele,7995,Pe Remetea,PDT,Limba română
+Valea Remetea,remetea,2,47.32188468021,24.630628264132,Bistrita Nasaud,Vale,9865,Valea Remetea,Geomil 25000,Limba română
+Remetea,remetea,2,46.7944705160031,25.4518496875331,Harghita,Localitate,10036,Remetea,Geomil 25000,Limba română
+Remetea Mică,remetea,2,45.9654471753247,21.4778466858913,Timis,Localitate,10355,Remetea Mică,Geomil 25000,Limba română
+Remetea Chiorului,remetea,2,47.5278612515383,23.5452852605991,Maramures,Localitate,10560,Remetea Chiorului,PDT,Limba română,Remete,Imperiul Habsburgic (1887),Limba română
+Remetea,remetea,2,45.8039997248798,24.7945241681965,Brasov,Altele,11777,Remetea,Geomil 25000,Limba română
+Valea Remeți,remeți,3,47.3800418511489,22.8439989243629,Salaj,Vale,2617,Valea Remeți,Geomil 25000,Limba română
+Remeți,remeți,3,46.8469375022175,22.6559728560142,Bihor,Localitate,5917,Remeți,Geomil 25000,Limba română
+Valea Remeți,remeți,3,47.4048348124816,22.8282136182785,Salaj,Vale,5943,Valea Remeți,Geomil 25000,Limba română
+Remeți,remeți,3,47.0551445653591,23.4571156420272,Salaj,Altele,6925,Remeți,Geomil 25000,Limba română
+Remeți,remeți,3,47.9900178404963,23.6382851525923,Maramures,Localitate,7225,Remeți,PDT,Limba română,Remeți,Geomil 25000,Limba română
+Valea Rimeților,remeți,3,46.9554405937897,22.3727478279003,Bihor,Vale,10277,Valea Rimeților,PDT,Limba română
+Remeți,remeți,3,47.4800378416658,23.3349989456784,Maramures,Localitate,10562,Remeți,PDT,Limba română
+Mănășturel,mănăștur,2,47.1715512041261,23.9482406713085,Cluj,Localitate,4396,Mănășturel,Geomil 25000,Limba română
+Mănăstur,mănăștur,2,46.0263373446056,21.1124036179671,Arad,Altele,5647,Mănăstur,PDT,Limba română
+Cartierul Mănăștur,mănăștur,2,46.7610064715871,23.5412392338761,Cluj,Localitate,7053,Cartierul Mănăștur,Geomil 25000,Limba română
+Copalnic-Mănăștur,mănăștur,2,47.5050350609937,23.6774929392179,Maramures,Localitate,8236,Copalnic-Mănăștur,PDT,Limba română
+Mănăstur,mănăștur,2,45.9798297351088,21.0537637591023,Timis,Altele,10004,Mănăstur,PDT,Limba română
+Monostor,mănăștur,2,47.6636059527521,23.4048997580472,Maramures,Localitate,10829,Monostor,Ungară 1869,Limba română
+Pădurea Remeteag,remeteag,3,46.1542628527785,21.0315090959487,Arad,Pădure,5644,Pădurea Remeteag,PDT,Limba română
+Remete,remete,3,46.8736986232569,23.0173636243427,Cluj,Înălțime,7016,Remete,Geomil 25000,Limba română
+Remeteu,remete,3,47.7004892921107,23.306397393718,Satu Mare,Localitate,10317,Remeteu,Ungară 1869,Limba română
+Remete,remete,3,46.8812778393022,22.9179056830561,Cluj,Localitate,10429,Remete,PDT,Limba română,Remete,Transilvania (1869-1870),Limba română
+Remete,remete,3,45.7650304088564,25.7999549976871,Covasna,Altele,10877,Remete,Imperiul Habsburgic (1887),Limba română
+Valea Remete,remete,3,46.320919602974,23.5826212825631,Alba,Vale,11832,Valea Remete,Imperiul Habsburgic (1887),Limba română
+Remete,remete,3,46.2922851749184,25.3993750862495,Harghita,Localitate,12556,Remete,Transilvania (1769-1773),Limba română,Remete,Imperiul Habsburgic (1887),Limba română
+Remete,remete,3,46.6610354701546,24.9236063906403,Mures,Localitate,12813,Remete,Transilvania (1769-1773),Limba română
+La Rimețe,rimețe,3,47.0928062348861,23.772475445156,Cluj,Altele,7049,La Rimețe,Geomil 25000,Limba română
+Rimeti,rimețe,3,46.8430355439443,24.2465706737881,Bistrita Nasaud,Înălțime,10495,Rimeti,Transilvania (1869-1870),Limba română
+Valea Rimeți,rimețe,3,46.7637771883243,24.1993776096951,Mures,Vale,10654,Valea Rimeți,PDT,Limba română
+Pădurea Rimetea,rimetea,3,46.9096225317368,23.489936974264,Cluj,Pădure,11419,Pădurea Rimetea,Geomil 25000,Limba română
+Rimetea,rimetea,3,45.8177017955082,23.861305221774,Sibiu,Altele,11838,Rimetea,Imperiul Habsburgic (1887),Limba română,Remetea,Geomil 25000,Limba română
+Vârful Remecioara,remecioara,3,45.5206646982973,22.6408903613904,Caras Severin,Înălțime,13234,Vârful Remecioara,Imperiul Habsburgic (1887),Limba română,Vurfu Remetu,Transilvania (1769-1773),Limba română
