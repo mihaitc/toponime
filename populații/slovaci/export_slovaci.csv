@@ -1,0 +1,21 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Tăuți,tăuți,3,46.0959194133617,23.4667270078514,Alba,Localitate,5572,Tăuți,Geomil 25000,Limba română
+Dealul Tăuți,tăuți,3,47.0032818888341,24.1513305186247,Bistrita Nasaud,Deal,5862,Dealul Tăuți,Geomil 25000,Limba română
+Tăuți,tăuți,3,46.7110291295377,23.5069342115353,Cluj,Localitate,5885,Tăuți,Geomil 25000,Limba română
+Tăuți,tăuți,3,46.2907121528158,21.9090934942867,Arad,Localitate,6295,Tăuți,PDT,Limba română,Tăuț,Geomil 25000,Limba română
+Tăuții de Sus,tăuți,3,47.6569021988538,23.6560016503384,Maramures,Localitate,7204,Tăuții de Sus,Geomil 25000,Limba română,Tăuții de Sus,PDT,Limba română
+Tăuții Măgherăuș,tăuți,3,47.6679615010961,23.4686042852153,Maramures,Localitate,7205,Tăuții Măgherăuș,Geomil 25000,Limba română
+Movila Tăutu,tăut,4,48.133480856092,26.8741539529518,Botosani,Înălțime,4879,Movila Tăutu,PDT,Limba română
+Dealul Crucea lui Tăutu,tăut,4,48.1474760865225,26.9224886422915,Botosani,Deal,4880,Dealul Crucea lui Tăutu,Geomil 25000,Limba română,Dealul Crucea lui Tăutu,PDT,Limba română
+Crucea Tăutu,tăut,4,48.1414428637201,26.9267618818647,Botosani,Altele,4881,Crucea Tăutu,PDT,Limba română
+Țigla Tăutului,tăut,4,46.8533659922618,24.257045413488,Bistrita Nasaud,Altele,5493,Țigla Tăutului,Geomil 25000,Limba română
+Tăut,tăut,4,46.7196458612192,21.8382321048732,Bihor,Localitate,5987,Tăut,Geomil 25000,Limba română
+Runcul Tăut,tăut,4,47.4714283207172,25.6293131523335,Suceava,Altele,10744,Runcul Tăut,Geomil 25000,Limba română
+Valea Tăuțului,tăuț,4,46.5350771432848,22.3003969924178,Bihor,Vale,6999,Valea Tăuțului,Geomil 25000,Limba română
+Tăutești,tăutești,4,47.2329155163032,27.4607036722952,Iasi,Localitate,9567,Tăutești,Moldova (1892-1898),Limba română,Tăutești,Geomil 25000,Limba română
+Tăutești,tăutești,4,47.9250349401806,26.6550873093366,Botosani,Localitate,9730,Tăutești,Moldova (1892-1898),Limba română
+Tăutești,tăutești,4,47.8480653777529,26.2291189115102,Suceava,Localitate,14156,Tăutești,Geomil 25000,Limba română
+Tăutești,tăutești,4,47.9187338305079,26.7344748015151,Botosani,Altele,14157,Tăutești,Geomil 25000,Limba română
+Tótszállás,tót,3,47.2190661401161,23.378769518896,Salaj,Localitate,10564,Tótszállás,Imperiul Habsburgic (1887),Limba maghiară
+Tótfalu,tót,3,47.0806270984152,23.7180271355178,Cluj,Localitate,12153,Tótfalu,Transilvania (1869-1870),Limba maghiară
+Kis Tótfalu,tót,3,47.175438357907,22.2180771837074,Bihor,Localitate,13666,Kis Tótfalu,Ungară 1869,Limba maghiară

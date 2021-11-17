@@ -1,0 +1,21 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Cotu Românului,român,3,45.070577661351,22.3790105640498,Caras Severin,Altele,1219,Cotu Românului,Geomil 25000,Limba română
+Dealul Român,român,3,46.9331980197162,27.8506657322936,Iasi,Deal,2447,Dealul Român,Geomil 25000,Limba română,Dealul Românului,PDT,Limba română
+Dealul Românului,român,3,46.1123271781254,25.6822178673321,Covasna,Deal,2735,Dealul Românului,Geomil 25000,Limba română
+Fântâna Românului,român,3,45.7631803197909,24.4015839640098,Sibiu,Altele,4030,Fântâna Românului,PDT,Limba română
+La Românu,român,3,44.5489534012258,25.7290492383938,Dambovita,Altele,4238,La Românu,Geomil 25000,Limba română,La Românu,PDT,Limba română
+La Lacu Românului,român,3,44.6475167967475,25.9550926007264,Ilfov,Lac,4256,La Lacu Românului,PDT,Limba română
+Brebeni romîn,român,3,44.3737055450907,24.4445479385148,Olt,Localitate,5798,Brebeni romîn,Austriacă,Limba română
+Ipotești romîn,român,3,44.312933133862,24.3941759823782,Olt,Localitate,5802,Ipotești romîn,Austriacă,Limba română
+Ghirișu Român,român,3,46.8048261718957,23.9766549513795,Cluj,Localitate,5871,Ghirișu Român,Geomil 25000,Limba română,Oláh Gyéres,Transilvania (1869-1870),Limba maghiară
+Poiana Românului,român,3,45.1071377668942,22.3644254812555,Caras Severin,Poiană,6136,Poiana Românului,Geomil 25000,Limba română,Poiana Românului,PDT,Limba română
+Mințiu Român,român,3,47.2370328684359,24.3521644864669,Bistrita Nasaud,Localitate,7126,Mințiu Român,PDT,Limba română
+Nou Român,român,3,45.8049574144626,24.5768200020627,Sibiu,Localitate,7980,Nou Român,Geomil 25000,Limba română
+Horovatul Român,român,3,47.4041730859416,23.2424246418784,Salaj,Localitate,8176,Horovatul Român,PDT,Limba română
+Nadișul Român,român,3,47.3764898411096,23.176508757027,Salaj,Localitate,8177,Nadișul Român,PDT,Limba română
+Ogașu Român,român,3,44.8611765141168,21.5381596844763,Caras Severin,Vale,8527,Ogașu Român,Geomil 25000,Limba română
+Pârâul Român,român,3,46.8210510065342,22.9456857343198,Cluj,Vale,10428,Pârâul Român,PDT,Limba română
+Dileulu romunu,român,3,46.4725758021231,24.3066784632206,Mures,Localitate,10545,Dileulu romunu,Imperiul Habsburgic (1887),Limba română
+Laslăul român,român,3,46.3872336379602,24.5391691230958,Mures,Localitate,10811,Laslăul român,Imperiul Habsburgic (1887),Limba română
+Sânmihaiu Român,român,3,45.7072484793914,21.086064657763,Timis,Localitate,11355,Sânmihaiu Român,Geomil 25000,Limba română
+Pârâul Român,român,3,47.1453857334975,22.868142134396,Salaj,Vale,12517,Pârâul Român,PDT,Limba română
