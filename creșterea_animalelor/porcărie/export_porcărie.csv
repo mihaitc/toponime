@@ -1,0 +1,63 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Porcăria,porcărie,2,47.894168534103,25.5291656822108,Suceava,Altele,642,Porcăria,Geomil 25000,Limba română
+Valea Porcăriei,porcărie,2,46.1094638292029,27.0508258773786,Bacau,Vale,1732,Valea Porcăriei,Geomil 25000,Limba română
+Valea Porcăriei,porcărie,2,47.5285593966821,26.7839302750799,Botosani,Vale,1746,Valea Porcăriei,Geomil 25000,Limba română
+Piciorul Porcăriei,porcărie,2,47.2110163129725,26.0426795530619,Neamt,Înălțime,2062,Piciorul Porcăriei,Geomil 25000,Limba română
+La Porcărie,porcărie,2,45.6674334806012,26.6720805294003,Vrancea,Altele,2107,La Porcărie,Geomil 25000,Limba română,La Porcarie,PDT,Limba română
+Valea Porcăriei,porcărie,2,45.8505577562207,26.5985106686322,Vrancea,Vale,2123,Valea Porcăriei,Geomil 25000,Limba română
+Valea Porcăriei,porcărie,2,45.7079629248776,26.9323835352682,Vrancea,Vale,2159,Valea Porcăriei,Geomil 25000,Limba română,Valea Porcăriei,PDT,Limba română
+Valea Porcăriei,porcărie,2,47.9844944346337,26.5974406055082,Botosani,Vale,2321,Valea Porcăriei,Geomil 25000,Limba română
+La Porcărie,porcărie,2,47.8685751873892,26.6045043251199,Botosani,Altele,2345,La Porcărie,Geomil 25000,Limba română
+La Porcărie,porcărie,2,47.8560733448064,26.6267956779866,Botosani,Altele,2346,La Porcărie,Geomil 25000,Limba română
+În Porcării,porcărie,2,47.8455306058751,26.5837497198405,Botosani,Altele,2348,În Porcării,Geomil 25000,Limba română
+Dealul Porcăriei,porcărie,2,47.7439856297732,26.7649788912223,Botosani,Deal,2417,Dealul Porcăriei,Geomil 25000,Limba română
+Lacul Porcăriei,porcărie,2,44.1817253831755,23.6647682646833,Dolj,Lac,3347,Lacul Porcăriei,PDT,Limba română
+La Porcăria Satului,porcărie,2,43.8722495267784,23.2735602595239,Dolj,Altele,3805,La Porcăria Satului,PDT,Limba română
+Balta Porcăriilor,porcărie,2,43.8299510732818,23.0613249787855,Dolj,Apă-deal-câmpie,3815,Balta Porcăriilor,PDT,Limba română
+Poiana Porcăriei,porcărie,2,46.6330888253636,26.7349368913575,Bacau,Poiană,3824,Poiana Porcăriei,PDT,Limba română
+Porcăria din Pisc,porcărie,2,45.7353100888907,24.2699065364658,Sibiu,Înălțime,4032,Porcăria din Pisc,PDT,Limba română
+La Porcărie,porcărie,2,43.9220205752558,23.9066576688456,Dolj,Altele,4676,La Porcărie,PDT,Limba română
+Pădurea Porcăriei,porcărie,2,47.776312006767,26.3866506857574,Botosani,Pădure,4917,Pădurea Porcăriei,PDT,Limba română
+Pârâul Porcăriei,porcărie,2,46.1217161495491,26.8733288647169,Bacau,Vale,5306,Pârâul Porcăriei,PDT,Limba română
+Valea Porcăriei,porcărie,2,46.8936106252686,26.3145026798793,Neamt,Vale,6482,Valea Porcăriei,PDT,Limba română
+Pârâul Porcăria,porcărie,2,46.865204523125,26.2735814587375,Neamt,Vale,6493,Pârâul Porcăria,PDT,Limba română
+La Porcărie,porcărie,2,47.0620909871042,27.724196204567,Iasi,Altele,6592,La Porcărie,PDT,Limba română
+Gârla Porcăriei,porcărie,2,47.1268990925638,27.797903853225,Iasi,Apă-deal-câmpie,6603,Gârla Porcăriei,PDT,Limba română
+La Porcăria,porcărie,2,46.7817607087543,27.3619020488998,Vaslui,Altele,7306,La Porcăria,PDT,Limba română
+Valea Porcăriei,porcărie,2,46.1907240644796,27.0185977029058,Bacau,Vale,7828,Valea Porcăriei,Geomil 25000,Limba română
+Poiana Porcăriei,porcărie,2,46.3735435005887,27.1947129274491,Bacau,Poiană,7847,Poiana Porcăriei,Geomil 25000,Limba română
+Pârâul Porcăriei,porcărie,2,46.4810758968311,26.4427648363489,Bacau,Vale,7936,Pârâul Porcăriei,PDT,Limba română
+Pârâul Porcăriei,porcărie,2,46.9840417087481,25.0866511457477,Mures,Vale,7962,Pârâul Porcăriei,PDT,Limba română
+Dealul Porcăriilor,porcărie,2,46.9555535370207,25.3093443077704,Harghita,Deal,7966,Dealul Porcăriilor,PDT,Limba română
+Pădurea Porcăria,porcărie,2,47.3893628231141,26.8405166885236,Iasi,Pădure,8924,Pădurea Porcăria,PDT,Limba română
+Dealul Purcăriei,porcărie,2,47.467797166439,27.0384855860102,Botosani,Deal,8928,Dealul Purcăriei,PDT,Limba română,Dealul Porcăriei,Geomil 25000,Limba română
+Pârâul Porcăriei,porcărie,2,47.0251852532791,26.0128731320692,Neamt,Vale,9111,Pârâul Porcăriei,PDT,Limba română
+Poiana Purcăriei,porcărie,2,47.0921833062417,26.2651225814095,Neamt,Poiană,9137,Poiana Purcăriei,Geomil 25000,Limba română
+Pârâul Porcăriei,porcărie,2,46.6458366065037,26.5978744868753,Bacau,Vale,9153,Pârâul Porcăriei,PDT,Limba română
+Poiana Porcăriei,porcărie,2,48.1896071681231,26.4663000364023,Botosani,Poiană,9575,Poiana Porcăriei,Moldova (1892-1898),Limba română
+Valea Porcăriei,porcărie,2,46.1040304016436,26.9643848216218,Vrancea,Vale,9675,Valea Porcăriei,Moldova (1892-1898),Limba română
+Grindu Purcăriei,porcărie,2,47.1963161566337,27.7406528210609,Iasi,Apă-deal-câmpie,9723,Grindu Purcăriei,Moldova (1892-1898),Limba română,Grindul Porcăriei,Geomil 25000,Limba română
+Pârâu Purcăria,porcărie,2,45.4636323374558,23.3381611995765,Hunedoara,Vale,9808,Pârâu Purcăria,Geomil 25000,Limba română
+Vârful Porcăriei,porcărie,2,46.8192583934708,26.30885749971,Neamt,Înălțime,11097,Vârful Porcăriei,Geomil 25000,Limba română
+La Porcăria,porcărie,2,47.1338423725594,27.5770253162114,Iasi,Altele,11099,La Porcăria,Moldova (1892-1898),Limba română
+Creasta Porcăriei,porcărie,2,46.9257192099144,27.3128336358404,Iasi,Înălțime,11551,Creasta Porcăriei,Geomil 25000,Limba română
+La Porcărie,porcărie,2,48.0574937439194,26.9274306597322,Botosani,Altele,11559,La Porcărie,ANCPI,Limba română
+Dealul Porcăriei,porcărie,2,46.4192486960005,26.6797881903938,Bacau,Deal,11643,Dealul Porcăriei,Geomil 25000,Limba română
+La Porcărie,porcărie,2,46.0079456531548,26.598628086634,Vrancea,Altele,12260,La Porcărie,Geomil 25000,Limba română
+La Porcărie,porcărie,2,47.4103939266203,26.070710702297,Suceava,Altele,13273,La Porcărie,Geomil 25000,Limba română
+Dealul Porcăriei,porcărie,2,47.5794866176647,26.5946909034846,Botosani,Deal,14067,Dealul Porcăriei,Geomil 25000,Limba română
+Valea Măngălăria,măngălărie,3,47.6639003388922,26.5958088861681,Botosani,Vale,3567,Valea Măngălăria,PDT,Limba română
+Vârful Măngălăriei,măngălărie,3,46.8278752606324,26.3983016670977,Neamt,Înălțime,4611,Vârful Măngălăriei,PDT,Limba română
+Vârful Măngălăriei,măngălărie,3,46.8289591634619,26.3430241405549,Neamt,Înălțime,4612,Vârful Măngălăriei,PDT,Limba română
+Dealul Mângăralia,măngălărie,3,46.6046887102207,27.4485881545447,Vaslui,Deal,4625,Dealul Mângăralia,Geomil 25000,Limba română
+Valea Măngălăriei,măngălărie,3,47.5346785264647,26.4476617963735,Suceava,Vale,4924,Valea Măngălăriei,PDT,Limba română
+Măngălăria,măngălărie,3,47.0460383895651,27.6272307317429,Iasi,Înălțime,6596,Măngălăria,PDT,Limba română
+Dealul Măngălăriei,măngălărie,3,47.3890427362412,26.799781099936,Iasi,Deal,6625,Dealul Măngălăriei,Geomil 25000,Limba română
+Pârâul de la Măngălărie,măngălărie,3,47.8684087252464,26.1440786623884,Suceava,Vale,7266,Pârâul de la Măngălărie,PDT,Limba română
+La Măngălărie,măngălărie,3,47.0882174841191,27.1670230294999,Iasi,Altele,7301,La Măngălărie,Geomil 25000,Limba română
+La Măngălărie,măngălărie,3,46.9640999659948,26.2698687879238,Neamt,Altele,9133,La Măngălărie,Geomil 25000,Limba română
+Măngălăria,măngălărie,3,47.6399412094899,26.6256472511621,Botosani,Altele,9584,Măngălăria,Moldova (1892-1898),Limba română
+Plaiul Măngălăriei,măngălărie,3,46.9601912469003,26.3136162197315,Neamt,Înălțime,9596,Plaiul Măngălăriei,Moldova (1892-1898),Limba română
+La Mângălărie,măngălărie,3,47.036207769322,27.2242573060594,Iasi,Altele,12288,La Mângălărie,Geomil 25000,Limba română
+Valea Mangalăriei,măngălărie,3,46.5840569460648,27.0586712695732,Bacau,Vale,12635,Valea Mangalăriei,Moldova (1892-1898),Limba română
+Dealul Măngălăria,măngălărie,3,47.4566046886703,26.7810886980704,Iasi,Deal,12923,Dealul Măngălăria,Geomil 25000,Limba română

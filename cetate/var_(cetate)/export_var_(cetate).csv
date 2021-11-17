@@ -1,0 +1,58 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+R. Csonkovar (La Ruină),var (cetate),2,45.9916747102663,25.9941812054965,Covasna,Înălțime,4383,R. Csonkovar (La Ruină),PDT,Limba maghiară
+Cernivar,var (cetate),2,45.0931228848874,22.3704720276711,Caras Severin,Altele,6138,Cernivar,Geomil 25000,Limba română
+Tatar Var (Cetatea Tătarului),var (cetate),2,46.1369262248398,25.4024845417337,Harghita,Altele,7939,Tatar Var (Cetatea Tătarului),PDT,Limba maghiară
+Ruinele Geczivar,var (cetate),2,46.6078821708009,23.4259776973885,Cluj,Altele,8968,Ruinele Geczivar,PDT,Limba română
+Várhegy (Dealul Cetății),var (cetate),2,47.9045223449075,23.871620529101,Maramures,Deal,10266,Várhegy (Dealul Cetății),Ungară 1869,Limba română
+Várhegy (Dealul Cetății),var (cetate),2,46.673888415198,23.7255401734954,Cluj,Deal,10414,Várhegy (Dealul Cetății),Transilvania (1869-1870),Limba maghiară
+Városlyuh,var (cetate),2,46.7858945052585,23.7831027587943,Cluj,Înălțime,10415,Városlyuh,PDT,Limba maghiară
+Kozárvár,var (cetate),2,47.168386835567,23.9189012087541,Cluj,Localitate,10490,Kozárvár,Transilvania (1869-1870),Limba maghiară
+Földvár,var (cetate),2,45.8190556086805,25.5962982182203,Brasov,Localitate,10499,Földvár,Transilvania (1869-1870),Limba maghiară
+Vár,var (cetate),2,46.5760225501073,23.7563978502261,Cluj,Altele,10542,Vár,Imperiul Habsburgic (1887),Limba română,Dealu Cetății,Geomil 25000,Limba română
+Varjú Vár (Cetatea Ciorii),var (cetate),2,45.9261405937916,25.5771167407129,Covasna,Înălțime,10567,Varjú Vár (Cetatea Ciorii),Imperiul Habsburgic (1887),Limba maghiară
+Várhegy-Fülpe (Dealul Cetății),var (cetate),2,46.8856006791182,25.430719875709,Harghita,Deal,10600,Várhegy-Fülpe (Dealul Cetății),PDT,Limba maghiară
+Várhely (Locul Cetății),var (cetate),2,47.0960645868438,24.5939070843918,Bistrita Nasaud,Localitate,10641,Várhely (Locul Cetății),Imperiul Habsburgic (1887),Limba maghiară
+Várhegy (Dealul Cetății),var (cetate),2,46.6048149059986,24.5883169804833,Mures,Localitate,10657,Várhegy (Dealul Cetății),Imperiul Habsburgic (1887),Limba maghiară
+Ovári,var (cetate),2,47.8125255462733,22.7143454562867,Satu Mare,Localitate,10710,Ovári,Imperiul Habsburgic (1887),Limba maghiară
+Vártelek,var (cetate),2,47.2090759562788,23.0964215374495,Salaj,Localitate,10786,Vártelek,Imperiul Habsburgic (1887),Limba maghiară
+Várhegy (Dealul Cetății),var (cetate),2,46.260376974596,25.0553577865964,Harghita,Deal,10840,Várhegy (Dealul Cetății),Imperiul Habsburgic (1887),Limba maghiară
+ Vár hegy (Dealul Cetății),var (cetate),2,46.6751034791161,25.0319715005437,Mures,Înălțime,10843, Vár hegy (Dealul Cetății),Imperiul Habsburgic (1887),Limba maghiară
+Rákóczi-vár (Cetatea lui Rákóczi),var (cetate),2,46.0869986583234,26.4013951727084,Covasna,Altele,10879,Rákóczi-vár (Cetatea lui Rákóczi),Imperiul Habsburgic (1887),Limba maghiară
+Maros Újvár,var (cetate),2,46.3552789820081,23.7513417121437,Alba,Înălțime,11833,Maros Újvár,Imperiul Habsburgic (1887),Limba maghiară
+Csóka Vár (Cetatea Ciorii),var (cetate),2,46.3559551615931,23.8113357796759,Alba,Înălțime,11834,Csóka Vár (Cetatea Ciorii),Imperiul Habsburgic (1887),Limba română
+Vár Sziget (Insula Cetății),var (cetate),2,47.3285826688208,22.0157869524661,Bihor,Altele,11869,Vár Sziget (Insula Cetății),Imperiul Habsburgic (1887),Limba română
+Tortogó vár,var (cetate),2,46.0181617478924,25.620557656362,Covasna,Înălțime,11890,Tortogó vár,Imperiul Habsburgic (1887),Limba maghiară
+Miklósvár,var (cetate),2,46.0096802715153,25.5808198523321,Covasna,Localitate,11891,Miklósvár,Imperiul Habsburgic (1887),Limba maghiară
+Várhegy (Dealul Cetății),var (cetate),2,46.8730719002064,23.3989401201393,Cluj,Deal,11893,Várhegy (Dealul Cetății),Transilvania (1869-1870),Limba maghiară
+Pogányvár (Cetatea Păgânilor),var (cetate),2,47.334743954459,23.1056353908006,Salaj,Înălțime,11976,Pogányvár (Cetatea Păgânilor),Imperiul Habsburgic (1887),Limba maghiară
+ Vár (Cetate),var (cetate),2,47.1777091341138,24.1422756190689,Bistrita Nasaud,Altele,12071, Vár (Cetate),Imperiul Habsburgic (1887),Limba maghiară
+Varhegij B (Dealul Cetății),var (cetate),2,46.8624282114694,24.621632538947,Mures,Deal,12076,Varhegij B (Dealul Cetății),Transilvania (1769-1773),Limba română
+Őrvár (Cetatea Străjii),var (cetate),2,46.5776579156562,24.7035221985653,Mures,Înălțime,12086,Őrvár (Cetatea Străjii),Imperiul Habsburgic (1887),Limba maghiară,Orvar B.,Transilvania (1769-1773),Limba maghiară
+Várviz (Cetatea de Apă),var (cetate),2,47.2245741202187,22.4365197050504,Bihor,Localitate,12141,Várviz (Cetatea de Apă),Ungară 1869,Limba maghiară
+Tündérvár (Cetatea Zânelor),var (cetate),2,46.9710563912597,22.516253275379,Bihor,Altele,12349,Tündérvár (Cetatea Zânelor),Imperiul Habsburgic (1887),Limba maghiară
+Seheswar,var (cetate),2,45.7761062575953,21.3754421929973,Timis,Localitate,12373,Seheswar,Banat (1769-1772),Limba maghiară
+Vár hegy (Dealul Cetății),var (cetate),2,47.2365011992603,22.8002296989397,Salaj,Deal,12515,Vár hegy (Dealul Cetății),Imperiul Habsburgic (1887),Limba română
+Várhegy (Dealul Cetății),var (cetate),2,45.8314767414045,23.1811487726879,Hunedoara,Deal,12734,Várhegy (Dealul Cetății),Transilvania (1769-1773),Limba maghiară
+Várhegy (Dealul Cetății),var (cetate),2,46.5034949698579,23.6543219936013,Cluj,Deal,12737,Várhegy (Dealul Cetății),Imperiul Habsburgic (1887),Limba maghiară
+Dialu Varhegy,var (cetate),2,46.8979918091619,24.1387013639024,Cluj,Deal,13248,Dialu Varhegy,Transilvania (1769-1773),Limba română
+Sóvár (Cetatea Sării),var (cetate),2,46.6003549232699,23.9688569342025,Cluj,Înălțime,13317,Sóvár (Cetatea Sării),Imperiul Habsburgic (1887),Limba maghiară
+Vár Domb (Dâmbul Cetății),var (cetate),2,47.3829393433252,22.6837784144246,Satu Mare,Înălțime,13724,Vár Domb (Dâmbul Cetății),Ungară 1869,Limba română
+Hangyavár (Cetatea Furnicilor),var (cetate),2,47.006196007924,23.9657167323621,Cluj,Înălțime,13731,Hangyavár (Cetatea Furnicilor),Imperiul Habsburgic (1887),Limba maghiară,Várhang,Transilvania (1869-1870),Limba maghiară
+Vár hegy (Dealul Cetății),var (cetate),2,47.6915099195618,23.5205919823553,Maramures,Deal,13744,Vár hegy (Dealul Cetății),Imperiul Habsburgic (1887),Limba maghiară, Vár hegy,Ungară 1869,Limba maghiară
+Rudera von Kővar,var (cetate),2,47.475955542694,23.5807110447051,Maramures,Altele,13912,Rudera von Kővar,Transilvania (1769-1773),Limba maghiară,Ruine Chivoara,PDT,Limba română
+Vărădia,vărădia,3,45.0812987901631,21.5408278815314,Caras Severin,Localitate,5707,Vărădia,Geomil 25000,Limba română
+Varodia,vărădia,3,44.5286723670093,23.1065888690512,Mehedinti,Localitate,5842,Varodia,Geomil 25000,Limba română,Baltzatzi Varadi,Austriacă,Limba română
+Vărădia de Mureș,vărădia,3,46.0087249461147,22.1579787204579,Arad,Localitate,6199,Vărădia de Mureș,Geomil 25000,Limba română
+Alsóv-Maros-Váradja (Oarba de Jos),vărădia,3,46.0349109943426,23.5635413739587,Alba,Localitate,11827,Alsóv-Maros-Váradja (Oarba de Jos),Imperiul Habsburgic (1887),Limba maghiară
+Dealul Varadi,varadi,4,47.3640058121898,23.1631723355894,Salaj,Deal,6947,Dealul Varadi,Geomil 25000,Limba română
+Várallya,varalia,3,47.3865615898802,23.4473565441725,Maramures,Localitate,13384,Várallya,Ungară 1869,Limba maghiară
+Dealu Șovaru,șovar,3,46.72651457749,22.4786343123662,Bihor,Deal,13420,Dealu Șovaru,Imperiul Habsburgic (1887),Limba română,Dealu Șovaru,Geomil 25000,Limba română,Dealu Șovaru,Ungară 1869,Limba română
+Șovarna,șovar,3,44.8539299840585,22.7913623081958,Mehedinti,Localitate,13441,Șovarna,Geomil 25000,Limba română
+Șovarna,șovar,3,45.8665237758036,21.9844639788894,Timis,Altele,13491,Șovarna,PDT,Limba română
+Culmea Șovarului,șovar,3,46.528792823974,23.3584643418833,Alba,Deal,13713,Culmea Șovarului,Geomil 25000,Limba română,Dealu Sovaru,Transilvania (1869-1870),Limba română
+Sovaru,șovar,3,46.1103165926564,23.875367780231,Alba,Înălțime,13741,Sovaru,Transilvania (1869-1870),Limba română
+Valea Șovarului,șovar,3,46.820174964215,22.086393765401,Bihor,Vale,14213,Valea Șovarului,PDT,Limba română
+Valea Șovarului,șovar,3,46.8323672945083,22.219081950884,Bihor,Vale,14214,Valea Șovarului,PDT,Limba română
+Szóvárhegy,szóvár,4,47.3174854212537,22.5088040765713,Bihor,Localitate,13664,Szóvárhegy,Ungară 1869,Limba maghiară
+Bogdanszóvárhegy,szóvár,4,47.1419161985564,22.2638613465216,Bihor,Localitate,13665,Bogdanszóvárhegy,Ungară 1869,Limba maghiară
+Vârfu Șuvarului,șuvar,4,46.9884514218854,22.8678388914635,Cluj,Înălțime,13726,Vârfu Șuvarului,Geomil 25000,Limba română
