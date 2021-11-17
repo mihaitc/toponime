@@ -1,0 +1,41 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Secuieni,secui,2,46.6426284804446,27.1053610647582,Bacau,Localitate,1595,Secuieni,Geomil 25000,Limba română,Secueni,PDT,Limba română
+Secuieni,secui,2,46.8558973357463,26.8485072311522,Neamt,Localitate,2032,Secuieni,Geomil 25000,Limba română
+Valea Secuilor,secui,2,45.9409368651992,25.1002395738276,Brasov,Vale,2685,Valea Secuilor,Geomil 25000,Limba română
+Drumul Secuilor,secui,2,45.8443781588671,25.6055162118456,Covasna,Drum,2741,Drumul Secuilor,Geomil 25000,Limba română
+Dealul Secuiului,secui,2,45.6532979971582,26.0399051383448,Brasov,Deal,2767,Dealul Secuiului,Geomil 25000,Limba română
+Poiana Secuilor,secui,2,45.525154132269,25.5460732880169,Brasov,Poiană,2788,Poiana Secuilor,Geomil 25000,Limba română
+Sekui de Sus,secui,2,44.1945729940827,23.8681136645111,Dolj,Localitate,5107,Sekui de Sus,Austriacă,Limba română,Secui,Geomil 25000,Limba română
+Sekui de Jos,secui,2,44.1937017308621,23.8486036158692,Dolj,Localitate,5109,Sekui de Jos,Austriacă,Limba română
+Piciorul Secuilor,secui,2,47.1774711572677,25.8901116259262,Neamt,Înălțime,6432,Piciorul Secuilor,PDT,Limba română
+Piatra Secuiului,secui,2,46.44666558682,23.5874459433614,Alba,Înălțime,7063,Piatra Secuiului,Geomil 25000,Limba română
+Dealul Secuiului,secui,2,46.0873091491978,25.2049616764049,Brasov,Deal,7942,Dealul Secuiului,Geomil 25000,Limba română
+Secui,secui,2,44.8052096847636,23.9773596527575,Valcea,Localitate,8426,Secui,PDT,Limba română
+Secui,secui,2,46.5642712415317,27.8034451234606,Vaslui,Localitate,8842,Secui,PDT,Limba română,Secuia,Geomil 25000,Limba română
+Dealul Secuiului,secui,2,47.4486058899667,24.8164200795986,Bistrita Nasaud,Deal,9918,Dealul Secuiului,Geomil 25000,Limba română
+Secuiu,secui,2,45.6128973108032,26.5043398283456,Buzau,Localitate,11313,Secuiu,Geomil 25000,Limba română
+Dealul Secui,secui,2,46.3552850547914,23.9405325200777,Alba,Deal,13991,Dealul Secui,PDT,Limba română
+Vârful Secuiului,secui (singular),3,45.6398557976561,23.1424145647307,Hunedoara,Înălțime,1125,Vârful Secuiului,Geomil 25000,Limba română
+Valea Secuiului,secui (singular),3,45.4490668368169,26.0656709167745,Buzau,Vale,1574,Valea Secuiului,Geomil 25000,Limba română
+Dealul Secuiului,secui (singular),3,45.6301478041869,26.2217202582315,Covasna,Deal,1584,Dealul Secuiului,Geomil 25000,Limba română
+Dealul Secuiului,secui (singular),3,46.3915341527427,24.7780914651413,Mures,Deal,14224,Dealul Secuiului,Geomil 25000,Limba română
+Valea Secuianca,secuiancă,4,45.4230756427073,25.8102608361108,Prahova,Vale,804,Valea Secuianca,Geomil 25000,Limba română
+Pârâul Secuianca,secuiancă,4,45.3239487215601,25.9653947696069,Prahova,Vale,3994,Pârâul Secuianca,Geomil 25000,Limba română
+Dealul Secuia,secuia,4,46.6026604141719,27.7985731546141,Vaslui,Deal,2197,Dealul Secuia,Geomil 25000,Limba română
+Grindul Săcuiului,săcui,3,46.3511616930661,26.6674875629466,Bacau,Înălțime,4585,Grindul Săcuiului,Geomil 25000,Limba română
+Săcuieu,săcui,3,46.8229810800018,22.8876766320531,Cluj,Localitate,7021,Săcuieu,Geomil 25000,Limba română
+Pârâul Săcuiului,săcui,3,45.5541969699406,26.3476306096609,Buzau,Vale,9655,Pârâul Săcuiului,Geomil 25000,Limba română
+Secuieul,secuieu,3,46.7172472506345,25.246250060026,Mures,Vale,5397,Secuieul,Geomil 25000,Limba română
+Săcueni,săcueni,3,47.3516403451625,22.0940268995225,Bihor,Localitate,5948,Săcueni,Geomil 25000,Limba română
+Săcueni,săcueni,3,44.9119283763123,25.572476789686,Dambovita,Localitate,5997,Săcueni,Geomil 25000,Limba română,Sakueni,Austriacă,Limba română
+Valea Săcuienilor,săcueni,3,45.2537608044157,24.4697962116771,Valcea,Vale,12280,Valea Săcuienilor,ANCPI,Limba română
+Vârful Secuesc,secuiesc,3,46.9214109992743,25.99809657202,Neamt,Înălțime,6510,Vârful Secuesc,PDT,Limba română,Vârful Secuesc,Geomil 25000,Limba română
+Locu Secuiesc,secuiesc,3,46.8408613455225,23.0229943727603,Cluj,Altele,11538,Locu Secuiesc,Geomil 25000,Limba română
+Săcuiasca,săcuiasaca,3,47.8184258717981,23.915709939032,Maramures,Altele,7168,Săcuiasca,Geomil 25000,Limba română
+Șeușa săcuiească,săcuiasaca,3,46.5037753441531,24.3953265281137,Mures,Localitate,10658,Șeușa săcuiească,Imperiul Habsburgic (1887),Limba română
+Székelyhegy (Dealul Secuilor),székely,3,46.2265490959766,23.8788118327012,Alba,Deal,10487,Székelyhegy (Dealul Secuilor),Transilvania (1869-1870),Limba maghiară
+Székely-Kocsárd,székely,3,46.4268317021297,23.9075076766838,Alba,Localitate,10505,Székely-Kocsárd,Transilvania (1869-1870),Limba maghiară
+Székely-Földvár,székely,3,46.4141942541841,23.8727331724093,Alba,Localitate,10506,Székely-Földvár,Transilvania (1869-1870),Limba maghiară
+Székelyhegy (Dealul Secuilor),székely,3,45.8661266695734,25.1409815600648,Brasov,Deal,10572,Székelyhegy (Dealul Secuilor),Imperiul Habsburgic (1887),Limba maghiară
+Székely (Secui),székely,3,46.2505161935981,23.7938624188204,Alba,Înălțime,12242,Székely (Secui),Imperiul Habsburgic (1887),Limba maghiară
+Vârful Secuiancu,secuian,3,45.6523895407928,25.3142463458609,Brasov,Înălțime,12670,Vârful Secuiancu,Geomil 25000,Limba română
