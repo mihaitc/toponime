@@ -1,0 +1,52 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3,Nume 4,Hartă 4,Limbă 4
+Valea Varniței,varniță,3,45.0636334053186,26.2320575415751,Prahova,Vale,27,Valea Varniței,Geomil 25000,Limba română,Valea Varniței,PDT,Limba română
+Varnița,varniță,3,44.8075540194799,25.9435327413964,Prahova,Localitate,48,Varnița,Geomil 25000,Limba română,Varnitza,Austriacă,Limba română,Varnița,PDT,Limba română,Варница (Varnița),Sovietică,Limba română
+La Varniță,varniță,3,47.5320979819008,25.8808085331632,Suceava,Altele,650,La Varniță,Geomil 25000,Limba română
+Dealu Varnița,varniță,3,45.6178628018006,22.3532487768091,Caras Severin,Deal,864,Dealu Varnița,Geomil 25000,Limba română
+La Varniță,varniță,3,44.656488355996,21.724019159442,Caras Severin,Altele,905,La Varniță,Geomil 25000,Limba română
+La Varniță,varniță,3,47.4881519036001,26.8139281791671,Iasi,Altele,1739,La Varniță,Geomil 25000,Limba română
+Pădurea Varniței,varniță,3,47.6050845198451,26.8154405295779,Botosani,Pădure,1759,Pădurea Varniței,Geomil 25000,Limba română
+Dealul Varniței,varniță,3,47.3376133860938,26.0359355800528,Suceava,Deal,1771,Dealul Varniței,Geomil 25000,Limba română
+Dealul Varniței,varniță,3,46.9010529599779,26.2645681345225,Neamt,Deal,2023,Dealul Varniței,Geomil 25000,Limba română,Vârful Varniței,PDT,Limba română
+Valea Varniței,varniță,3,45.8403018275423,26.9414937580887,Vrancea,Vale,2137,Valea Varniței,Geomil 25000,Limba română,Pârâul Varniței,PDT,Limba română
+La Varniță,varniță,3,46.9209219120998,26.9817737487281,Neamt,Altele,3893,La Varniță,PDT,Limba română
+Varnița,varniță,3,46.5845329572144,22.3185938034307,Bihor,Altele,4079,Varnița,PDT,Limba română
+Valea Varniții,varniță,3,45.20419177003,24.9668197062938,Arges,Vale,4965,Valea Varniții,Geomil 25000,Limba română
+Valea Varniței,varniță,3,45.2618511863587,24.6356023780795,Arges,Vale,5070,Valea Varniței,PDT,Limba română
+Pârâu Varnița,varniță,3,45.4646868604486,22.8338551003123,Hunedoara,Vale,5132,Pârâu Varnița,Geomil 25000,Limba română
+Valea Varnița,varniță,3,45.6048144681751,27.0363702947259,Vrancea,Vale,5252,Valea Varnița,Geomil 25000,Limba română
+Varnița,varniță,3,46.2490672156523,26.7127380335516,Bacau,Altele,5315,Varnița,Geomil 25000,Limba română
+Varnița,varniță,3,45.9732395168617,26.9606958657874,Vrancea,Localitate,5344,Varnița,Geomil 25000,Limba română,Varnița,PDT,Limba română
+Valea Varnițelor,varniță,3,45.1931979954106,26.4138454083055,Buzau,Vale,6034,Valea Varnițelor,Geomil 25000,Limba română,Gârla Varnițelor,PDT,Limba română
+Pârâu Vărniții,varniță,3,45.7377866132494,22.5838853482343,Hunedoara,Vale,6170,Pârâu Vărniții,Geomil 25000,Limba română
+Varnița,varniță,3,45.8117378995467,21.9807600694995,Timis,Altele,6180,Varnița,PDT,Limba română
+Varnița,varniță,3,45.5581466298258,22.0859363152861,Caras Severin,Altele,6186,Varnița,PDT,Limba română,Varnița,Geomil 25000,Limba română
+Varnița,varniță,3,46.0227895507357,21.8058026985264,Arad,Localitate,6307,Varnița,Geomil 25000,Limba română
+Dealu Varniței,varniță,3,46.0716432276381,21.9774029646248,Arad,Deal,6309,Dealu Varniței,Geomil 25000,Limba română
+Dealul Varnița,varniță,3,45.1759760270073,28.6213938529538,Tulcea,Deal,6697,Dealul Varnița,PDT,Limba română
+Vârful Varnița,varniță,3,45.8634684866905,25.7012121644282,Covasna,Înălțime,6781,Vârful Varnița,Geomil 25000,Limba română
+Movila Varniței,varniță,3,45.6023675352985,25.6184578587075,Brasov,Înălțime,6845,Movila Varniței,PDT,Limba română
+La Varniță,varniță,3,46.540957883335,27.0544882107673,Bacau,Altele,7856,La Varniță,Geomil 25000,Limba română
+Pârâul Varniții,varniță,3,45.8165861463564,26.9276930720824,Vrancea,Vale,7905,Pârâul Varniții,PDT,Limba română
+Pârâul Toloaca (Varniței),varniță,3,47.5131213417444,26.1795774666622,Suceava,Vale,9059,Pârâul Toloaca (Varniței),PDT,Limba română
+Vârful Varnița,varniță,3,47.3287473934423,26.0541583963586,Suceava,Înălțime,9075,Vârful Varnița,PDT,Limba română
+Pârâul Varniței,varniță,3,47.0568924498554,26.0863777357109,Neamt,Vale,9117,Pârâul Varniței,PDT,Limba română
+Pârâul Vărniței,varniță,3,47.0623433506058,26.1100288482654,Neamt,Vale,9118,Pârâul Vărniței,PDT,Limba română
+Piscu Varnița,varniță,3,47.5169713430892,26.7433885845604,Iasi,Înălțime,9590,Piscu Varnița,Moldova (1892-1898),Limba română
+Părâul Varniței,varniță,3,45.8179298698507,25.3412965047852,Brasov,Vale,10533,Părâul Varniței,Imperiul Habsburgic (1887),Limba română
+Varnița,varniță,3,45.5452685504342,23.1287971578757,Hunedoara,Localitate,10679,Varnița,Imperiul Habsburgic (1887),Limba română
+Pădurea Varnița,varniță,3,47.669053093508,25.8851834852799,Suceava,Pădure,10751,Pădurea Varnița,Imperiul Habsburgic (1887),Limba română
+La Varniți,varniță,3,44.8717668215464,25.5624868024585,Dambovita,Altele,11141,La Varniți,PDT,Limba română
+Ogașul Varniței,varniță,3,44.7715662782663,21.6838478355362,Caras Severin,Vale,11491,Ogașul Varniței,ANCPI,Limba română
+Valea Varniței,varniță,3,47.0247698575101,24.8365093657455,Mures,Vale,11612,Valea Varniței,Geomil 25000,Limba română
+Dealul Varniței,varniță,3,47.3986607227886,26.7568546921539,Iasi,Deal,11632,Dealul Varniței,Geomil 25000,Limba română
+Vârfu Varnița,varniță,3,45.7770829953744,23.2683303271813,Hunedoara,Înălțime,11818,Vârfu Varnița,Geomil 25000,Limba română
+Muchia Varniței,varniță,3,45.6615173625582,24.630838999689,Sibiu,Înălțime,12281,Muchia Varniței,ANCPI,Limba română
+Varnița,varniță,3,47.0136192713197,26.2716097943542,Neamt,Vale,12624,Varnița,Geomil 25000,Limba română
+La Varniță,varniță,3,45.8095167992862,22.4542645040074,Timis,Altele,12841,La Varniță,PDT,Limba română
+Pârâul Varniții,varniță,3,45.1987272137638,24.0048183804967,Valcea,Vale,12847,Pârâul Varniții,Geomil 25000,Limba română
+Pârâul Varnițelor,varniță,3,46.7586926842999,26.3885220649992,Neamt,Vale,12935,Pârâul Varnițelor,Geomil 25000,Limba română
+Pârâul Varniței,varniță,3,47.0203224843539,26.108036755476,Neamt,Vale,13830,Pârâul Varniței,PDT,Limba română
+Dealul Varniței,varniță,3,45.6305542225088,25.7695058070925,Brasov,Deal,13846,Dealul Varniței,Geomil 25000,Limba română
+Varnița,varniță,3,45.8024843530198,22.3081329314289,Timis,Altele,14246,Varnița,Geomil 25000,Limba română
+Cioaca Varnițelor,varniță,3,46.2749090125534,21.740588697418,Arad,Înălțime,14253,Cioaca Varnițelor,PDT,Limba română

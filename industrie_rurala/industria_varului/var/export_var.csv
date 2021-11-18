@@ -1,0 +1,22 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Varului,var,3,45.1621642543655,23.7155967314856,Gorj,Deal,241,Dealul Varului,Geomil 25000,Limba română
+Valea Varului,var,3,45.1646971265982,25.0683137432375,Arges,Vale,555,Valea Varului,Geomil 25000,Limba română
+La Tău Varului,var,3,45.4329855554083,22.23355082737,Caras Severin,Altele,860,La Tău Varului,Geomil 25000,Limba română
+Muchia Varului,var,3,45.8146409691039,23.3297841043022,Hunedoara,Înălțime,1137,Muchia Varului,Geomil 25000,Limba română
+Piatra Varului,var,3,45.8243848567396,23.6284032455538,Alba,Înălțime,1155,Piatra Varului,Geomil 25000,Limba română
+Valea Varului,var,3,45.6526958897349,24.1653989497646,Sibiu,Vale,2498,Valea Varului,Geomil 25000,Limba română
+Câmpul Varului,var,3,45.7698152498539,24.0343491541012,Sibiu,Câmp,4069,Câmpul Varului,Geomil 25000,Limba română
+Dealul Varului,var,3,46.9836894425267,22.2692665442511,Bihor,Deal,4159,Dealul Varului,PDT,Limba română,Dealul Varului,Geomil 25000,Limba română
+Dealu Varului,var,3,46.093872614343,23.4411693448014,Alba,Deal,5574,Dealu Varului,Geomil 25000,Limba română
+Coasta Varului,var,3,47.057178984435,24.0788280405131,Cluj,Înălțime,5859,Coasta Varului,Geomil 25000,Limba română
+Dealu Picioru Varului,var,3,47.1442846665594,22.6051836113121,Salaj,Deal,5927,Dealu Picioru Varului,Geomil 25000,Limba română
+Groapa cu Var,var,3,45.6108390651061,25.5865173170131,Brasov,Altele,6840,Groapa cu Var,PDT,Limba română
+Valea Varului,var,3,47.3416161758958,24.04079841104,Bistrita Nasaud,Vale,7096,Valea Varului,Geomil 25000,Limba română
+Pârâul Varului,var,3,47.3023513173716,24.2791698009246,Bistrita Nasaud,Vale,7111,Pârâul Varului,PDT,Limba română
+Piatra Varului,var,3,47.2325904833445,23.3011433978583,Salaj,Înălțime,8990,Piatra Varului,PDT,Limba română
+Valea Varului,var,3,47.309648647388,23.5489329234452,Salaj,Vale,9926,Valea Varului,Geomil 25000,Limba română
+Gruiul Varului,var,3,46.7757445977708,23.2674217541588,Cluj,Altele,10285,Gruiul Varului,PDT,Limba română
+Dialu Varului,var,3,47.0625838964313,22.5859744635525,Bihor,Deal,10382,Dialu Varului,Ungară 1869,Limba română
+Culmea Varului,var,3,45.3998854070015,24.7701192586432,Arges,Înălțime,11050,Culmea Varului,Geomil 25000,Limba română
+Dealul Varului,var,3,45.9819885389936,25.5018621862006,Brasov,Deal,13293,Dealul Varului,Geomil 25000,Limba română
+D. Piatra de Varu,var,3,47.5968573658102,23.9912630402926,Maramures,Deal,13752,D. Piatra de Varu,Transilvania (1869-1870),Limba română
