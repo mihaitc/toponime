@@ -1,0 +1,104 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Ciorii,ciori,2,44.4920624913703,23.3309382978951,Dolj,Deal,108,Dealul Ciorii,PDT,Limba română,Dealul Ciorii,Geomil 25000,Limba română
+Balta Ciorii,ciori,2,44.4299196253877,22.5615317590139,Mehedinti,Apă-deal-câmpie,167,Balta Ciorii,Geomil 25000,Limba română
+Grindu Ciorii,ciori,2,43.7333262041991,25.0907890079236,Teleorman,Apă-deal-câmpie,318,Grindu Ciorii,Geomil 25000,Limba română,Grindul Cioara,PDT,Limba română
+Valea Cioroiului,ciori,2,44.4226488572232,23.8185141817704,Dolj,Vale,397,Valea Cioroiului,Geomil 25000,Limba română,Valea Cioroiul,PDT,Limba română
+Ostrovu Cioroiu,ciori,2,43.8829461666739,25.9746694858911,Giurgiu,Apă-deal-câmpie,442,Ostrovu Cioroiu,Geomil 25000,Limba română
+Cotul Cioroiului,ciori,2,44.5610385302276,27.1279446373209,Ialomita,Apă-deal-câmpie,497,Cotul Cioroiului,Geomil 25000,Limba română
+Movila Cioara,ciori,2,45.7190477577757,27.5922975578284,Galati,Înălțime,743,Movila Cioara,Geomil 25000,Limba română
+Valea Ciorii,ciori,2,45.6702764736634,27.6106394321108,Galati,Vale,744,Valea Ciorii,Geomil 25000,Limba română
+Dealul Ciorii,ciori,2,45.6133324400647,27.7719021930383,Galati,Deal,746,Dealul Ciorii,Geomil 25000,Limba română
+Valea Cioara,ciori,2,45.5864304393213,27.7450051246777,Galati,Vale,749,Valea Cioara,Geomil 25000,Limba română
+Valea Ciorii,ciori,2,45.6161999344108,27.6024381519033,Galati,Vale,750,Valea Ciorii,Geomil 25000,Limba română
+Fața Ciorii,ciori,2,45.5962188030635,22.4404936803126,Caras Severin,Altele,862,Fața Ciorii,Geomil 25000,Limba română
+Dealul Ciorii,ciori,2,47.4954513807992,24.083155078236,Maramures,Deal,1034,Dealul Ciorii,Geomil 25000,Limba română
+Dealu Cioarei,ciori,2,43.9841814983882,24.8602780700025,Teleorman,Deal,1361,Dealu Cioarei,Geomil 25000,Limba română
+Dealul Ciorii,ciori,2,45.1463253302482,24.6923365373643,Arges,Deal,1423,Dealul Ciorii,Geomil 25000,Limba română
+La Cioara,ciori,2,45.2842419702058,24.6258312076875,Arges,Altele,1439,La Cioara,Geomil 25000,Limba română
+Muntele Cioara,ciori,2,45.3328006115551,25.2467011871254,Arges,Înălțime,1480,Muntele Cioara,Geomil 25000,Limba română
+Pădurea Ciorii,ciori,2,46.1772684887771,27.2563022070182,Vrancea,Pădure,1719,Pădurea Ciorii,Geomil 25000,Limba română
+Dealul Ciorii,ciori,2,46.0729922210097,24.4921095391277,Sibiu,Deal,1897,Dealul Ciorii,Geomil 25000,Limba română
+Fântâna Ciorii,ciori,2,46.2818345794868,24.334102456062,Mures,Altele,1915,Fântâna Ciorii,Geomil 25000,Limba română
+Cioara,ciori,2,46.2266549199095,23.973802201698,Alba,Altele,1920,Cioara,Geomil 25000,Limba română
+Valea Ciorii,ciori,2,46.9717260718855,24.6332778620189,Bistrita Nasaud,Vale,2085,Valea Ciorii,Geomil 25000,Limba română
+Dealul Rediul Ciorii,ciori,2,46.0232676815093,27.9856275133157,Galati,Deal,2183,Dealul Rediul Ciorii,Geomil 25000,Limba română
+Dealul Ciorii,ciori,2,47.4337927790998,27.1741125937542,Iasi,Deal,2436,Dealul Ciorii,Geomil 25000,Limba română
+La Pârâul Ciorii,ciori,2,46.0678428224831,24.8764457976567,Sibiu,Vale,2478,La Pârâul Ciorii,Geomil 25000,Limba română
+Valea Ciorii,ciori,2,45.7427092180408,24.2510916020893,Sibiu,Vale,2524,Valea Ciorii,Geomil 25000,Limba română
+Pădurea Ciorilor,ciori,2,47.6155939624934,22.5498899947008,Satu Mare,Pădure,2609,Pădurea Ciorilor,Geomil 25000,Limba română
+Muntele Ciorii,ciori,2,45.4575105008292,25.8166011656869,Brasov,Înălțime,2772,Muntele Ciorii,Geomil 25000,Limba română
+Cracul Cioarei,ciori,2,45.1061238312037,27.1476034624992,Buzau,Apă-deal-câmpie,3588,Cracul Cioarei,PDT,Limba română
+Poiana Cioarei,ciori,2,44.2680042160112,22.8473388021975,Mehedinti,Poiană,3654,Poiana Cioarei,PDT,Limba română,Poeana Ciori,Austriacă,Limba română
+Cioara,ciori,2,43.8875962071614,25.7680144783761,Giurgiu,Altele,3780,Cioara,PDT,Limba română
+Dealul Cioarei,ciori,2,46.6588617336568,27.1494322939858,Bacau,Deal,3903,Dealul Cioarei,PDT,Limba română
+La Cioara,ciori,2,44.4417949641978,26.3791704028763,Ilfov,Altele,4264,La Cioara,PDT,Limba română
+Dealul Ciorilor,ciori,2,46.1704319680246,24.9119826015651,Mures,Deal,4366,Dealul Ciorilor,Geomil 25000,Limba română
+Balta Ciorii,ciori,2,44.280591222455,24.1830564867292,Olt,Apă-deal-câmpie,4808,Balta Ciorii,Geomil 25000,Limba română
+Piscul Cioarei,ciori,2,44.9476876483132,23.7329160614307,Gorj,Înălțime,5081,Piscul Cioarei,PDT,Limba română
+Dealu Cioara,ciori,2,44.4031177224584,22.8795555240565,Mehedinti,Deal,5194,Dealu Cioara,Geomil 25000,Limba română
+Muchia Ciorii,ciori,2,45.581503621984,27.0060106452408,Vrancea,Înălțime,5253,Muchia Ciorii,Geomil 25000,Limba română
+Muchia Ciorii,ciori,2,45.581784969038,27.0057932881714,Vrancea,Înălțime,5254,Muchia Ciorii,Geomil 25000,Limba română
+Cioara,ciori,2,45.9072898270914,23.3961706720681,Alba,Localitate,5567,Cioara,PDT,Limba română
+Cioara,ciori,2,44.6524476605096,26.7848011120661,Ialomita,Localitate,5747,Cioara,Austriacă,Limba română
+Dealu Ciorii,ciori,2,47.2533711528053,22.6804009665022,Salaj,Deal,5942,Dealu Ciorii,Geomil 25000,Limba română
+Pârâu Ciorii,ciori,2,45.7231418493292,22.5815263878673,Hunedoara,Vale,6171,Pârâu Ciorii,Geomil 25000,Limba română
+Pârâu Ciorii,ciori,2,46.2526777678146,22.7162818834876,Hunedoara,Vale,6275,Pârâu Ciorii,Geomil 25000,Limba română
+Unghiul Ciorilor,ciori,2,45.6810457531103,25.4266758638063,Brasov,Altele,6834,Unghiul Ciorilor,PDT,Limba română
+Unghiul Ciorilor,ciori,2,45.6975931615928,25.5059486950243,Brasov,Apă-deal-câmpie,6842,Unghiul Ciorilor,PDT,Limba română
+Valea Cioara,ciori,2,47.4022334592844,23.1283087789107,Salaj,Vale,6945,Valea Cioara,Geomil 25000,Limba română
+Dealu Ciorii,ciori,2,46.630764728477,23.5842427169568,Cluj,Deal,7058,Dealu Ciorii,Geomil 25000,Limba română
+Pădurea Ciorii,ciori,2,47.0878128187916,24.2601261846789,Bistrita Nasaud,Pădure,7073,Pădurea Ciorii,Geomil 25000,Limba română
+Valea Ciorii,ciori,2,46.0541722799,27.7741956809,Galati,Vale,7365,Valea Ciorii,Geomil 25000,Limba română
+Dealul Ciorilor,ciori,2,47.4468836197318,22.379556631594,Satu Mare,Deal,7670,Dealul Ciorilor,PDT,Limba română
+Lacul Cioara,ciori,2,44.0738667716913,24.7163383244846,Olt,Lac,7750,Lacul Cioara,PDT,Limba română
+Dealul Ciorii,ciori,2,46.4714615567512,27.2766423381187,Bacau,Deal,7864,Dealul Ciorii,Geomil 25000,Limba română
+Pădurea Tufa Ciorii,ciori,2,46.1254135585108,25.1600883670625,Brasov,Pădure,7944,Pădurea Tufa Ciorii,Geomil 25000,Limba română
+Dealul Ciorii,ciori,2,45.8971213254329,24.5001564896207,Sibiu,Deal,7981,Dealul Ciorii,Geomil 25000,Limba română
+Dealul Cioarii,ciori,2,45.9589685852423,24.2339385472318,Sibiu,Deal,7986,Dealul Cioarii,PDT,Limba română
+Cioara,ciori,2,44.1591815985153,22.8316088361391,Mehedinti,Altele,8087,Cioara,PDT,Limba română
+Dealul Cioarei,ciori,2,44.7271660976087,24.0337462957045,Valcea,Deal,8428,Dealul Cioarei,PDT,Limba română
+Dealul Cioara,ciori,2,44.9146609243656,24.2133818664148,Valcea,Deal,8437,Dealul Cioara,PDT,Limba română
+Dealul Cioara,ciori,2,45.720295610811,24.0106887874746,Sibiu,Deal,8587,Dealul Cioara,PDT,Limba română
+Groapa Cioara,ciori,2,46.1078920947353,24.1452811826899,Sibiu,Altele,8632,Groapa Cioara,PDT,Limba română
+Valea Cioarei,ciori,2,46.2870509550039,23.6692538822376,Alba,Vale,8644,Valea Cioarei,PDT,Limba română
+Coasta Ciorii,ciori,2,46.2892974818968,24.5923329384188,Mures,Înălțime,8650,Coasta Ciorii,PDT,Limba română
+Piatra Ciorilor,ciori,2,45.4654027689927,26.5047650548913,Buzau,Înălțime,8763,Piatra Ciorilor,PDT,Limba română
+Valea Cioarei,ciori,2,44.2988828007984,24.9118014479805,Teleorman,Vale,9043,Valea Cioarei,PDT,Limba română,Valea Cioarei,Geomil 25000,Limba română
+Cioara,ciori,2,47.4033703765595,27.1868907704627,Iasi,Localitate,9564,Cioara,Moldova (1892-1898),Limba română
+Cioara,ciori,2,45.5115420242585,24.8832916726986,Arges,Vale,10181,Cioara,Geomil 25000,Limba română
+Vârful Ciorii,ciori,2,46.0544142331239,26.3665548721409,Covasna,Înălțime,10960,Vârful Ciorii,Geomil 25000,Limba română
+Dealu Cioarei,ciori,2,45.8257644396631,23.4680392487415,Alba,Deal,11237,Dealu Cioarei,Geomil 25000,Limba română
+Dealul Ciorilor,ciori,2,45.663482484397,24.3358946606187,Sibiu,Deal,11382,Dealul Ciorilor,Geomil 25000,Limba română
+Dâmbu Ciorii,ciori,2,46.7656455074234,22.8811575675121,Cluj,Înălțime,11535,Dâmbu Ciorii,Geomil 25000,Limba română
+Valea Ciorii,ciori,2,44.7172653250845,27.5524571030529,Ialomita,Localitate,11621,Valea Ciorii,Geomil 25000,Limba română
+Valea Cioarei,ciori,2,46.225892736046,24.1609543890351,Alba,Vale,11906,Valea Cioarei,PDT,Limba română
+Măgura Ciorii,ciori,2,47.6540589253632,23.9301780193543,Maramures,Înălțime,12035,Măgura Ciorii,Imperiul Habsburgic (1887),Limba română
+Dealul Cioarei,ciori,2,47.0668718579757,24.2813761395372,Bistrita Nasaud,Deal,12073,Dealul Cioarei,PDT,Limba română
+Dealu Ciorii,ciori,2,45.2865066580429,21.8665093851657,Caras Severin,Deal,12524,Dealu Ciorii,Geomil 25000,Limba română
+Cioara,ciori,2,47.3192887183959,23.0873305037052,Salaj,Localitate,12780,Cioara,PDT,Limba română
+Cioara de Sus,ciori,2,46.3765123077481,23.3115208325622,Alba,Localitate,13063,Cioara de Sus,Geomil 25000,Limba română
+Pădurea Ciorii,ciori,2,46.8369124272236,24.1106712948739,Cluj,Pădure,13100,Pădurea Ciorii,Geomil 25000,Limba română
+Gruiul Ciorii,ciori,2,46.4251792455412,24.5304740652787,Mures,Altele,13998,Gruiul Ciorii,PDT,Limba română
+Pădurea Cioroiului,cioroi,3,47.246804694015,26.3934267075273,Neamt,Pădure,658,Pădurea Cioroiului,Geomil 25000,Limba română
+Valea Cioroiului,cioroi,3,47.705226004342,24.0618647245519,Maramures,Vale,916,Valea Cioroiului,Geomil 25000,Limba română
+Valea Cioroilor,cioroi,3,46.8620822929378,22.0943866445231,Bihor,Vale,1082,Valea Cioroilor,Geomil 25000,Limba română
+Ostrovu Cioroiu,cioroi,3,43.7247202874437,25.0181089194651,Teleorman,Altele,1346,Ostrovu Cioroiu,Geomil 25000,Limba română
+Tarlaua Cioroi,cioroi,3,43.9176676285027,24.5507633792371,Olt,Altele,1354,Tarlaua Cioroi,Geomil 25000,Limba română
+Plaiul Cioroiului,cioroi,3,45.3405833727374,24.1361523562812,Valcea,Înălțime,2933,Plaiul Cioroiului,Geomil 25000,Limba română
+Cioroiu,cioroi,3,44.2384361492471,24.3779621049828,Olt,Localitate,3010,Cioroiu,Geomil 25000,Limba română
+Cioroiu,cioroi,3,44.874977288634,27.9015873400211,Braila,Altele,3193,Cioroiu,Geomil 25000,Limba română
+Pădurea Cioroiu,cioroi,3,44.9224262452528,27.9188386699287,Braila,Pădure,3196,Pădurea Cioroiu,Geomil 25000,Limba română
+Valea Cioroiului,cioroi,3,44.4757469660796,24.8651096715092,Arges,Vale,3397,Valea Cioroiului,Geomil 25000,Limba română,Valea Cioroiului,PDT,Limba română
+Valea Cioroilor,cioroi,3,46.9761371131109,22.3492486835441,Bihor,Vale,4158,Valea Cioroilor,PDT,Limba română
+Valea Cioroiu,cioroi,3,44.9505691031271,23.6881025537224,Gorj,Vale,5082,Valea Cioroiu,PDT,Limba română
+Pârâu Cioroiului,cioroi,3,46.1341399273783,22.6928052388941,Hunedoara,Vale,6270,Pârâu Cioroiului,Geomil 25000,Limba română
+Cioroiul,cioroi,3,47.1567397718893,23.0915057326016,Salaj,Înălțime,7556,Cioroiul,PDT,Limba română
+Cioroiul,cioroi,3,44.2302036684456,24.4133392126273,Olt,Altele,8115,Cioroiul,PDT,Limba română
+Pârâul Cioroiul,cioroi,3,44.9726575490253,25.4066945313247,Dambovita,Vale,8382,Pârâul Cioroiul,PDT,Limba română
+La Gitul Cioroiului,cioroi,3,44.4507361043656,28.0737125429965,Ialomita,Altele,9276,La Gitul Cioroiului,Geomil 25000,Limba română
+Valea Cioroiu,cioroi,3,47.0076680561076,22.4251341025767,Bihor,Vale,9939,Valea Cioroiu,Geomil 25000,Limba română
+Valea Cioroiului,cioroi,3,46.978556936929,22.4877501774604,Bihor,Vale,10274,Valea Cioroiului,PDT,Limba română
+Bâtca cioroiului,cioroi,3,46.9498905110366,25.4203356545823,Harghita,Înălțime,10606,Bâtca cioroiului,Imperiul Habsburgic (1887),Limba română
+Pădurea Cioroiul,cioroi,3,44.2256324411875,23.8496610704117,Dolj,Pădure,12170,Pădurea Cioroiul,PDT,Limba română
+Culmea Stăncuței,stăncuță,3,45.6782330188588,26.628343809779,Vrancea,Înălțime,2109,Culmea Stăncuței,Geomil 25000,Limba română
+Movila Stăncuța,stăncuță,3,44.8917740895917,27.8681988647265,Braila,Înălțime,3474,Movila Stăncuța,PDT,Limba română
