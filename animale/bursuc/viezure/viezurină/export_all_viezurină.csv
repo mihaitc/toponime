@@ -1,0 +1,12 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Cracu Vezurini,viezurină,4,44.6612632776382,22.0076271127557,Caras Severin,Înălțime,5734,5733,Cracu Vezurini,Geomil 25000,Limba română
+Dealu Vizurin,viezurină,4,44.9212425622197,22.3790489859103,Caras Severin,Deal,6143,,Dealu Vizurin,Geomil 25000,Limba română
+Dealul Viezurinii,viezurină,4,45.2207175315422,21.633699735403,Caras Severin,Deal,7606,,Dealul Viezurinii,Geomil 25000,Limba română
+La Vezurini,viezurină,4,45.0433697066539,21.7817863586985,Caras Severin,Altele,12702,,La Vezurini,PDT,Limba română
+Ogașu Vizurinii,viezurină,4,44.6576256674831,22.0064601705705,Caras Severin,,5733,,Ogașu Vizurinii,Geomil 25000,Limba română
+Valea Viezurinii,viezurină,4,45.2339662914844,21.6366542374355,Caras Severin,Vale,5699,7606,Valea Viezurinii,PDT,Limba română,Valea Viezurinii,Geomil 25000,Limba română
+Dealu Viezurinii,viezurină,4,46.1034295338855,22.8418062069432,Hunedoara,Deal,6235,,Dealu Viezurinii,Geomil 25000,Limba română
+Pârâu Vezurin,viezurină,4,45.9644682167834,22.3804267824597,Hunedoara,Vale,6201,,Pârâu Vezurin,PDT,Limba română
+Vârfu Viezurinii,viezurină,4,45.8582867002308,22.6078307537044,Hunedoara,Înălțime,10232,,Vârfu Viezurinii,Geomil 25000,Limba română
+Pădurea Vezurinii,viezurină,4,45.84377064524,22.3437449427955,Timis,Pădure,4291,,Pădurea Vezurinii,Geomil 25000,Limba română
+Valea Vezurini,viezurină,4,45.8249657934225,22.3320691601473,Timis,Vale,10312,4291,Valea Vezurini,Geomil 25000,Limba română

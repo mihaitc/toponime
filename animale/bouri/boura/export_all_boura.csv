@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Pârâul Boura,boura,3,47.0131046156571,26.0268431422599,Neamt,Vale,9112,,Pârâul Boura,PDT,Limba română
+Boura,boura,3,47.4243544324072,26.4878021599676,Suceava,Vale,13647,13646,Boura,Geomil 25000,Limba română
+Dealul Boura,boura,3,47.4293572797089,26.4897914969051,Suceava,Deal,13646,,Dealul Boura,Geomil 25000,Limba română

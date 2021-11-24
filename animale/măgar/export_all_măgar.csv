@@ -1,0 +1,25 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Piscul Măgarului,măgar,2,44.9465784848427,25.1374746545183,Arges,Înălțime,8353,,Piscul Măgarului,PDT,Limba română
+Valea Măgarului,măgar,2,44.9464074962767,25.1340026743217,Arges,Vale,8352,8353,Valea Măgarului,PDT,Limba română
+Movila Măgărița,măgăriță,3,44.3143461808519,26.8420610729556,Calarasi,Înălțime,1316,,Movila Măgărița,Geomil 25000,Limba română
+Valea Măgărița,măgăriță,3,44.3139229524187,26.8366009702252,Calarasi,Vale,1317,1316,Valea Măgărița,Geomil 25000,Limba română
+Cracul Măgarului,măgar,2,45.0289924641024,21.8841023340897,Caras Severin,Înălțime,8542,,Cracul Măgarului,PDT,Limba română
+Valea Măgarului,măgar,2,44.1466034239903,23.9553935692992,Dolj,Vale,7695,,Valea Măgarului,PDT,Limba română
+Valea Măgarului,măgar,2,44.1535320154019,23.9248524056957,Dolj,Vale,3016,,Valea Măgarului,Geomil 25000,Limba română
+Valea Măgăreței,măgăreață,3,44.237682621138,23.9925876824195,Dolj,Vale,3014,,Valea Măgăreței,Geomil 25000,Limba română
+La Măgăreață,măgăreață,3,44.466406551602,25.7545128719185,Giurgiu,Altele,4234,,La Măgăreață,PDT,Limba română
+Valea Măgarilor,măgar,2,44.8564515400675,23.6511301199952,Gorj,Vale,10696,,Valea Măgarilor,Geomil 25000,Limba română
+Rovina Măgarului,măgar,2,44.5410753161735,26.2711718339144,Ilfov,Altele,8778,,Rovina Măgarului,PDT,Limba română
+Ciocu Măgarului,măgar,2,44.4137232333833,23.0475980349565,Mehedinti,Altele,138,,Ciocu Măgarului,Geomil 25000,Limba română
+Lacu Măgarului,măgar,2,44.5516459175456,24.4823072485952,Olt,Lac,1987,1988,Lacu Măgarului,Geomil 25000,Limba română
+Valea Măgarului,măgar,2,44.5614715337429,24.4608127302814,Olt,Vale,1988,,Valea Măgarului,Geomil 25000,Limba română
+Valea Măgarului,măgar,2,45.2919890387125,25.5922523964716,Prahova,Vale,5219,,Valea Măgarului,Geomil 25000,Limba română
+Poeana Măgarilor,măgar,2,47.4953521326095,25.8802750275265,Suceava,Poiană,12068,,Poeana Măgarilor,Imperiul Habsburgic (1887),Limba română
+Șipțul Măgarului,măgar,2,45.9970836840762,20.5703869741563,Timis,Altele,5664,,Șipțul Măgarului,PDT,Limba română
+Valea Măgăreței,măgăreață,3,45.120414065026,28.2102396914731,Tulcea,Vale,7686,,Valea Măgăreței,PDT,Limba română,Valea Măgăreții,Geomil 25000,Limba română
+Dealul Măgarului,măgar,2,46.5467974613436,27.4969292944296,Vaslui,Deal,8860,,Dealul Măgarului,PDT,Limba română,Dealul Măgarului,Geomil 25000,Limba română
+Râpa Măgarului,măgar,2,46.2722366990308,27.8259869611543,Vaslui,Înălțime,7386,7384,Râpa Măgarului,Geomil 25000,Limba română
+Valea Cotul Măgarului,măgar,2,46.2792797607544,27.8202451019956,Vaslui,Vale,7387,7384,Valea Cotul Măgarului,Geomil 25000,Limba română
+Valea Măgarului,măgar,2,46.2696673627361,27.8460490713794,Vaslui,Vale,7384,,Valea Măgarului,Geomil 25000,Limba română
+Cotu Măgarului,măgar,2,45.641757007816,27.3848351296787,Vrancea,Apă-deal-câmpie,3548,,Cotu Măgarului,PDT,Limba română
+Culmea Măgarilor,măgar,2,45.8599055836828,26.5123117066935,Vrancea,Înălțime,11308,,Culmea Măgarilor,Geomil 25000,Limba română

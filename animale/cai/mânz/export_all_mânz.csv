@@ -1,0 +1,9 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Iazul Mânzului,mânz,3,47.7884054769216,26.7298837816635,Botosani,Apă-deal-câmpie,2415,,Iazul Mânzului,Geomil 25000,Limba română
+La Pod la Mânzoaia,mânzoaie,4,47.783038606595,26.7331267658454,Botosani,Altele,2416,2415,La Pod la Mânzoaia,Geomil 25000,Limba română
+Pârâu Mânzului,mânz,3,45.4794937541974,22.516621398523,Caras Severin,Vale,6095,,Pârâu Mânzului,Geomil 25000,Limba română
+Mânzul,mânz,3,46.9955195494628,25.5851834273708,Harghita,Vale,7133,7132,Mânzul,Geomil 25000,Limba română
+Piciorul Mânzului,mânz,3,46.9928208892308,25.5932866396557,Harghita,Înălțime,7132,,Piciorul Mânzului,Geomil 25000,Limba română
+Valea Mânzului,mânz,3,44.347465507441,22.9128479030769,Mehedinti,Vale,14194,,Valea Mânzului,Geomil 25000,Limba română
+Dealul Mânzului,mânz,3,47.3439940869335,23.1005347247991,Salaj,Deal,12779,,Dealul Mânzului,PDT,Limba română
+Muchia Mânzului,mânz,3,45.2438725228203,24.1938033710239,Valcea,Înălțime,12565,,Muchia Mânzului,Geomil 25000,Limba română

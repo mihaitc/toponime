@@ -1,0 +1,11 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Vezuriște,viezuriște,4,46.9248154436839,22.3539573166936,Bihor,Deal,4148,4149,Dealul Vezuriște,PDT,Limba română
+Dealul Viezuriștei,viezuriște,4,46.7892499899917,22.0004634448293,Bihor,Deal,12370,,Dealul Viezuriștei,PDT,Limba română
+Pădurea Viezuriște,viezuriște,4,46.9230535889983,21.9542554500562,Bihor,Pădure,9935,,Pădurea Viezuriște,Geomil 25000,Limba română
+Valea Vezuriște,viezuriște,4,46.8379595897608,22.1387475047182,Bihor,Vale,6987,,Valea Vezuriște,Geomil 25000,Limba română
+Valea Viezuriște,viezuriște,4,46.9240167363954,22.3482736062359,Bihor,Vale,4149,,Valea Viezuriște,Geomil 25000,Limba română
+Valea Viezuriștei,viezuriște,4,46.9878739683831,22.0856956213525,Bihor,Vale,6985,,Valea Viezuriștei,Geomil 25000,Limba română
+Vezuriște,viezuriște,4,47.1589183642347,22.1389033226332,Bihor,Altele,11508,,Vezuriște,Geomil 25000,Limba română
+Vizuriște,viezuriște,4,46.9296036064317,21.6169862016935,Bihor,Altele,6978,,Vizuriște,Geomil 25000,Limba română
+Valea Viezuriște,viezuriște,4,47.1371886612088,22.8541554156765,Salaj,Vale,5928,,Valea Viezuriște,Geomil 25000,Limba română
+Vezuriști,viezuriște,4,47.1854971300416,22.5249242573473,Salaj,Altele,8198,,Vezuriști,PDT,Limba română

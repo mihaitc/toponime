@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Cerbăriei,cerbărie,3,46.9760280454089,24.1801492771198,Bistrita Nasaud,Deal,5863,,Dealul Cerbăriei,Geomil 25000,Limba română
+Pădurea Cerbăria,cerbărie,3,46.2756224551114,24.1902961355386,Mures,Pădure,11908,,Pădurea Cerbăria,PDT,Limba română,Pădurea Cerbăria,Geomil 25000,Limba română
+Valea Cerbăria,cerbărie,3,46.2755282562741,24.1953424699849,Mures,Vale,11909,11908,Valea Cerbăria,Geomil 25000,Limba română,Pârâul Cerbăria,PDT,Limba română

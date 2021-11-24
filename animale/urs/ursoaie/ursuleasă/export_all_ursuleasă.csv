@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Ursuleasa,ursuleasă,4,47.7195505850868,25.4365954030595,Suceava,Vale,7235,,Ursuleasa,Geomil 25000,Limba română
+Ursuleasa Mare,ursuleasă,4,47.7438097332521,25.6109995861431,Suceava,Vale,646,645,Ursuleasa Mare,Geomil 25000,Limba română
+Ursuleasa Mică,ursuleasă,4,47.7414882330703,25.6169176165935,Suceava,Vale,647,645,Ursuleasa Mică,Geomil 25000,Limba română

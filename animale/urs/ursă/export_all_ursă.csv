@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Dealul Ursei,ursă,3,47.1909399306259,22.3026416945623,Bihor,Deal,4194,,Dealul Ursei,PDT,Limba română
+Dealul Ursei,ursă,3,47.7099381784387,24.341455345442,Maramures,Deal,7183,,Dealul Ursei,PDT,Limba română
+Ursa,ursă,3,43.7881918021185,24.6365146755938,Olt,Localitate,8019,8018,Ursa,Geomil 25000,Limba română,Ursa,PDT,Limba română
+Valea Ursa,ursă,3,43.7865103904617,24.6526037425625,Olt,Vale,8018,,Valea Ursa,PDT,Limba română,Valea Ursa,Austriacă,Limba română,Valea Ursii,Geomil 25000,Limba română
+La Ursa,ursă,3,47.0622799880482,22.7628444294375,Salaj,Înălțime,7014,,La Ursa,Geomil 25000,Limba română

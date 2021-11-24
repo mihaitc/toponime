@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>La Pod la Mânzoaia</name><description>Nume: La Pod la Mânzoaia, Tip: mânzoaie, Nivel: 4, Județ: Botosani, Formă: Altele, ID: 2416, ID Părinte: 2415 <br /><b>Variante</b><br />Nume: La Pod la Mânzoaia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.733127,47.783039,0</coordinates></Point></Placemark>
+<Placemark><LineString id="2416_2415"><tessellate>1</tessellate><coordinates>26.733127,47.783039,0.
+26.729884,47.788405,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

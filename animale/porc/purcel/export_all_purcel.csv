@@ -1,0 +1,12 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Grindul Purcelului,purcel,3,44.2338792718128,27.2391352058053,Calarasi,Apă-deal-câmpie,9983,,Grindul Purcelului,PDT,Limba română
+Grindul Purcelului,purcel,3,44.1865060831201,27.4749355555345,Calarasi,Apă-deal-câmpie,3297,,Grindul Purcelului,PDT,Limba română
+Gura Purcelului,purcel,3,44.8174344185685,25.2686089108517,Dambovita,Vale,10124,10122,Gura Purcelului,PDT,Limba română
+Purcelul,purcel,3,47.0679510309666,25.333133273441,Harghita,Vale,13142,,Purcelul,Geomil 25000,Limba română
+Poiana Purcelului,purcel,3,45.7026247749052,22.9116835572501,Hunedoara,Poiană,6113,,Poiana Purcelului,Geomil 25000,Limba română
+Valea Purcelului,purcel,3,44.5250806752538,24.3940559469813,Olt,Vale,11691,,Valea Purcelului,Geomil 25000,Limba română
+Valea Purcelului,purcel,3,44.3175938054549,24.4887801536595,Olt,Vale,5807,,Valea Purcelului,Geomil 25000,Limba română
+Coama Purcelului,purcel,3,45.6237454811494,26.6732479154892,Vrancea,Înălțime,5246,5245,Coama Purcelului,Geomil 25000,Limba română
+Dealul Purcei,purcel,3,45.9517528301772,26.8063238367095,Vrancea,Deal,5272,,Dealul Purcei,Geomil 25000,Limba română
+Pârâul Purcel,purcel,3,45.6103379165879,26.6688320219991,Vrancea,Vale,5247,5245,Pârâul Purcel,Geomil 25000,Limba română
+Vârful Purcelului,purcel,3,45.6187510435788,26.6820620517705,Vrancea,Înălțime,5245,,Vârful Purcelului,Geomil 25000,Limba română

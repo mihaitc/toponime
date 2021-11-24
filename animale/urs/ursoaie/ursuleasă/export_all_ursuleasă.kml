@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Ursuleasa</name><description>Nume: Ursuleasa, Tip: ursuleasă, Nivel: 4, Județ: Suceava, Formă: Vale, ID: 7235 <br /><b>Variante</b><br />Nume: Ursuleasa, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.436595,47.719551,0</coordinates></Point></Placemark>
+<Placemark><name>Ursuleasa Mare</name><description>Nume: Ursuleasa Mare, Tip: ursuleasă, Nivel: 4, Județ: Suceava, Formă: Vale, ID: 646, ID Părinte: 645 <br /><b>Variante</b><br />Nume: Ursuleasa Mare, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.611000,47.743810,0</coordinates></Point></Placemark>
+<Placemark><LineString id="646_645"><tessellate>1</tessellate><coordinates>25.611000,47.743810,0.
+25.624942,47.754565,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Ursuleasa Mică</name><description>Nume: Ursuleasa Mică, Tip: ursuleasă, Nivel: 4, Județ: Suceava, Formă: Vale, ID: 647, ID Părinte: 645 <br /><b>Variante</b><br />Nume: Ursuleasa Mică, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.616918,47.741488,0</coordinates></Point></Placemark>
+<Placemark><LineString id="647_645"><tessellate>1</tessellate><coordinates>25.616918,47.741488,0.
+25.624942,47.754565,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

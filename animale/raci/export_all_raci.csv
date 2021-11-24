@@ -1,0 +1,24 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea cu Raci,raci,2,45.1920763231282,25.1102085568573,Arges,Vale,8829,,Valea cu Raci,PDT,Limba română
+Dealul Racilor,raci,2,47.1939280952281,24.5636287499452,Bistrita Nasaud,Deal,7076,7075,Dealul Racilor,Geomil 25000,Limba română
+Pârâul Racilor,raci,2,47.1924280107409,24.5590089174707,Bistrita Nasaud,Vale,7075,,Pârâul Racilor,Geomil 25000,Limba română
+Valea Racilor,raci,2,45.5251246209675,25.4222091700133,Brasov,Vale,8578,,Valea Racilor,PDT,Limba română
+Muchia Racului,raci,2,45.4233965091612,26.9205533178196,Buzau,Înălțime,566,,Muchia Racului,Geomil 25000,Limba română,D. Fîntăna Turkului,Austriacă,Limba română
+Valea Racilor,raci,2,46.7754344475341,23.1066798175537,Cluj,Vale,7027,,Valea Racilor,Geomil 25000,Limba română
+Valea Racilor,raci,2,46.6852460664489,23.6381902401317,Cluj,Vale,5887,,Valea Racilor,Geomil 25000,Limba română
+Pârâul Racilor,raci,2,44.709408577056,23.2958093035378,Gorj,Vale,7440,,Pârâul Racilor,PDT,Limba română
+Valea cu Raci,raci,2,44.9326054733401,23.5893131920629,Gorj,Vale,3105,,Valea cu Raci,Geomil 25000,Limba română,Valea cu Raci,PDT,Limba română
+Valea Racilor,raci,2,44.7935639624665,22.9497723478505,Gorj,Vale,215,,Valea Racilor,Geomil 25000,Limba română
+Valea Racilor,raci,2,44.9810564753337,22.9280654605747,Gorj,Vale,5121,,Valea Racilor,Geomil 25000,Limba română
+Valea Racilor,raci,2,44.8223123890655,23.0975773516152,Gorj,Vale,9777,,Valea Racilor,Geomil 25000,Limba română,Valea Racilor,PDT,Limba română
+Valea Racilor,raci,2,45.0361252037964,22.9775550777378,Gorj,Vale,5122,,Valea Racilor,Geomil 25000,Limba română
+Valea Racului,raci,2,44.6998152350242,23.1494125076089,Gorj,Vale,417,,Valea Racului,Geomil 25000,Limba română
+Dealul Racilor,raci,2,47.3298998087588,26.5317993078194,Iasi,Deal,2245,2246,Dealul Racilor,Geomil 25000,Limba română
+Dealul Racului,raci,2,47.5164857129086,27.3362515995348,Iasi,Deal,2434,,Dealul Racului,Geomil 25000,Limba română,Dealul Racului,PDT,Limba română
+Movila Racilor,raci,2,47.3605799310266,27.368737611077,Iasi,Înălțime,4860,,Movila Racilor,PDT,Limba română
+Pârâul Racilor,raci,2,47.3387503543553,26.5409935629077,Iasi,Vale,2246,,Pârâul Racilor,Geomil 25000,Limba română
+Valea Racului,raci,2,47.3730263752659,26.8674379392174,Iasi,Vale,6624,,Valea Racului,Geomil 25000,Limba română
+Valea Racului,raci,2,47.3588340709427,26.8781552423283,Iasi,Localitate,6622,6624,Valea Racului,Geomil 25000,Limba română,Valea Racului,PDT,Limba română
+Grindu Racului,raci,2,43.735295983538,25.0620579298286,Teleorman,Apă-deal-câmpie,317,,Grindu Racului,Geomil 25000,Limba română,Grindul Racului,Geomil 25000,Limba română
+Grindul Racului,raci,2,45.4286441755675,28.2453492870298,Tulcea,Apă-deal-câmpie,12496,12497,Grindul Racului,PDT,Limba română
+Japșa Racul,raci,2,45.4285751434155,28.2566764187766,Tulcea,Apă-deal-câmpie,12497,,Japșa Racul,PDT,Limba română

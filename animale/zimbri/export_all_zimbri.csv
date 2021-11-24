@@ -1,0 +1,50 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Pârâu Zimbrului,zimbru,3,46.3248629992927,22.3857481253175,Arad,Vale,5605,5604,Pârâu Zimbrului,Geomil 25000,Limba română
+Zimbru,zimbru,3,46.3338021963271,22.3885675544551,Arad,Localitate,5604,,Zimbru,Geomil 25000,Limba română,Zimbrul,PDT,Limba română
+Piscul Zimbrului,zimbru,3,45.4010043127711,24.6306371295375,Arges,Înălțime,4986,,Piscul Zimbrului,Geomil 25000,Limba română
+Zimbrul,zimbru,3,45.3789709724422,24.8055928366993,Arges,Vale,4991,,Zimbrul,Geomil 25000,Limba română
+Pârâul Zimbrului,zimbru,3,46.4591128449221,26.4041141551353,Bacau,Vale,6551,6549,Pârâul Zimbrului,PDT,Limba română,Zimbrul,Geomil 25000,Limba română
+Piciorul Curmătura Zimbrului,zimbru,3,46.4630847957451,26.4093319421602,Bacau,Înălțime,6549,,Piciorul Curmătura Zimbrului,PDT,Limba română
+Valea Zimbrului,zimbru,3,46.437182364664,26.8467368235299,Bacau,Vale,7826,,Valea Zimbrului,Geomil 25000,Limba română
+Dealu Zimbrului,zimbru,3,46.8279851439972,22.6693473923762,Bihor,Deal,5915,,Dealu Zimbrului,Geomil 25000,Limba română
+Valea Zimbrului,zimbru,3,46.8209213479436,22.6642890822148,Bihor,Vale,5914,5915,Valea Zimbrului,Geomil 25000,Limba română
+Dealul Zimbrului,zimbru,3,47.2605174347646,25.0682925979172,Bistrita Nasaud,Deal,10859,10854,Dealul Zimbrului,Geomil 25000,Limba română
+Dosul Zimbrului,zimbru,3,47.2513010287963,25.0502078598337,Bistrita Nasaud,Înălțime,10857,10854,Dosul Zimbrului,Geomil 25000,Limba română
+Fața Zimbrului,zimbru,3,47.2407753454957,25.0440926539654,Bistrita Nasaud,Înălțime,10856,10854,Fața Zimbrului,Geomil 25000,Limba română
+Poiana Zimbrului,zimbru,3,47.2886952756302,24.7652346170045,Bistrita Nasaud,Poiană,9878,,Poiana Zimbrului,Geomil 25000,Limba română
+Poiana Zimbrului,zimbru,3,47.2372648570679,25.0272982020679,Bistrita Nasaud,Poiană,10855,10854,Poiana Zimbrului,Geomil 25000,Limba română
+Valea Zimbrului,zimbru,3,47.3441063451434,24.8290939917446,Bistrita Nasaud,Vale,6363,,Valea Zimbrului,Geomil 25000,Limba română
+Zimbrul,zimbru,3,47.2440524931642,25.0403876325173,Bistrita Nasaud,Înălțime,10854,,Zimbrul,Geomil 25000,Limba română
+Zimbrul,zimbru,3,47.2575551478346,25.0718746999986,Bistrita Nasaud,Vale,10858,10854,Zimbrul,Geomil 25000,Limba română
+Pârâul Zimbrului,zimbru,3,45.6015343995336,25.3030826535487,Brasov,Vale,14165,,Pârâul Zimbrului,PDT,Limba română
+Plaiul Zimbrului,zimbru,3,45.5445381636212,25.7971877471057,Brasov,Înălțime,6048,,Plaiul Zimbrului,Geomil 25000,Limba română
+Plaiul Zimbrului,zimbru,3,45.5784618168153,26.2061634001956,Buzau,Înălțime,2815,798,Plaiul Zimbrului,Geomil 25000,Limba română
+Vârful Zimbrul Mare,zimbru,3,45.5951466951631,26.1773672956863,Covasna,Înălțime,798,,Vârful Zimbrul Mare,Geomil 25000,Limba română
+Dealul Zimbrului,zimbru,3,46.0557870426,27.75403977,Galati,Deal,7366,,Dealul Zimbrului,Geomil 25000,Limba română
+Valea Zimbrului,zimbru,3,46.054996935,27.7662153398,Galati,Vale,7367,7366,Valea Zimbrului,Geomil 25000,Limba română
+Zimbru,zimbru,3,46.056293015,27.7642708362,Galati,Localitate,7368,7366,Zimbru,Geomil 25000,Limba română
+Măgura Zimbrului,zimbru,3,45.4705164992208,22.8530904207178,Hunedoara,Înălțime,5131,,Măgura Zimbrului,Geomil 25000,Limba română
+Popasu Zimbru,zimbru,3,45.6120924957936,22.9767601526292,Hunedoara,Altele,5560,,Popasu Zimbru,Geomil 25000,Limba română
+Poiana Zimbrului,zimbru,3,46.9491279318925,27.1272931368332,Iasi,Poiană,1636,1635,Poiana Zimbrului,Geomil 25000,Limba română
+Valea Zimbriței,zimbriță,3,47.5471635275955,24.0309924266284,Maramures,Vale,4443,,Valea Zimbriței,Geomil 25000,Limba română
+Dealul Zimbrului,zimbru,3,47.656413314274,24.4411786599752,Maramures,Deal,7155,,Dealul Zimbrului,Geomil 25000,Limba română,Dealul Zimbrului,PDT,Limba română
+Valea Zimbrului,zimbru,3,47.6641824443621,24.4590425309318,Maramures,Vale,7156,7155,Valea Zimbrului,Geomil 25000,Limba română
+Valea Zimbrului,zimbru,3,47.5134393793009,24.2008072233767,Maramures,Vale,1028,,Valea Zimbrului,Geomil 25000,Limba română
+Vârful Zimbroiului,zimbroi,4,46.8224784336256,25.2276127107985,Mures,Înălțime,5395,,Vârful Zimbroiului,Geomil 25000,Limba română
+Zimbroiul,zimbroi,4,46.8197070381383,25.2418867111136,Mures,Vale,5396,5395,Zimbroiul,Geomil 25000,Limba română
+Dealul Zimbrului,zimbru,3,46.7306548437725,26.1597202391145,Neamt,Deal,683,,Dealul Zimbrului,Geomil 25000,Limba română,Dealul Zimbrului,PDT,Limba română
+Piciorul Zimbru,zimbru,3,46.9123200903407,26.3181463907931,Neamt,Înălțime,6480,6481,Piciorul Zimbru,PDT,Limba română
+Valea Zimbru,zimbru,3,46.9076297621207,26.3177327694732,Neamt,Vale,6481,,Valea Zimbru,PDT,Limba română
+Valea Zimbrului,zimbru,3,46.9283739023167,27.125626427032,Neamt,Vale,9821,,Valea Zimbrului,Geomil 25000,Limba română
+Zimbrul,zimbru,3,46.9579051712336,27.1051013256819,Neamt,Înălțime,1635,,Zimbrul,Geomil 25000,Limba română
+Valea Zâmbroaia,zâmbroaia,3,45.1798676371927,26.1348892934895,Prahova,Vale,7486,7484,Valea Zâmbroaia,Geomil 25000,Limba română
+Zâmbroaia,zâmbroaia,3,45.1990617555568,26.129812221735,Prahova,Localitate,7484,,Zâmbroaia,Geomil 25000,Limba română
+Vârful Zimbrarului,zimbrar,3,45.3286389249599,26.2093050803979,Prahova,Înălțime,7491,,Vârful Zimbrarului,Geomil 25000,Limba română
+Vârful Zimbrului,zimbru,3,45.5686949498872,23.9645505949938,Sibiu,Înălțime,1161,,Vârful Zimbrului,Geomil 25000,Limba română
+Șesul Zâmbroia,zâmbroaia,3,47.4522938161228,26.6066953939164,Suceava,Câmp,7790,,Șesul Zâmbroia,Geomil 25000,Limba română,Șesu Zâmbroia,PDT,Limba română
+Zîmbroaia,zâmbroaia,3,47.4372307880628,25.0628971310853,Suceava,Înălțime,6380,,Zîmbroaia,Geomil 25000,Limba română
+Zîmbroaia,zâmbroaia,3,47.4466151384589,25.084305528961,Suceava,Vale,6381,6380,Zîmbroaia,Geomil 25000,Limba română
+Poeana Zimbrului,zimbru,3,47.3002863000726,25.0676660532945,Suceava,Poiană,11171,,Poeana Zimbrului,Imperiul Habsburgic (1887),Limba română
+Dealul Zimbrului,zimbru,3,46.649941627392,27.486748152334,Vaslui,Deal,4627,,Dealul Zimbrului,PDT,Limba română
+Dealul Zimbrului,zimbru,3,45.6120338454123,27.0385290476023,Vrancea,Deal,2145,,Dealul Zimbrului,Geomil 25000,Limba română
+Poiana Zimbrului,zimbru,3,45.9216672566076,26.8000746449883,Vrancea,Poiană,5352,,Poiana Zimbrului,PDT,Limba română

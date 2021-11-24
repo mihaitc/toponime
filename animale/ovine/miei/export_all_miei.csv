@@ -1,0 +1,34 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Coasta Mieilor,miei,3,46.2306102980439,23.6638920814434,Alba,Altele,1922,,Coasta Mieilor,Geomil 25000,Limba română
+Dâmbu Mieilor,miei,3,46.0487685189138,22.2817918805046,Alba,Înălțime,951,,Dâmbu Mieilor,Geomil 25000,Limba română
+Dealu Mielului,miei,3,46.494999323392,22.8335752167877,Alba,Deal,12550,,Dealu Mielului,Geomil 25000,Limba română,Dealul Melului,PDT,Limba română
+Valea Mielului,miei,3,44.9045857962171,25.0375216254232,Arges,Vale,8357,,Valea Mielului,PDT,Limba română
+Lanul Mieilor,miei,3,46.447026366297,26.9268666643928,Bacau,Altele,7869,,Lanul Mieilor,Geomil 25000,Limba română
+Pârâul Mieilor,miei,3,46.6382906551433,26.1720520443443,Bacau,Vale,9954,7877,Pârâul Mieilor,Geomil 25000,Limba română
+Piciorul Mieilor,miei,3,46.6454318341403,26.1831520020391,Bacau,Înălțime,7877,,Piciorul Mieilor,Geomil 25000,Limba română
+Plaiul Mieilor,miei,3,46.5071669912833,26.2369215259995,Bacau,Înălțime,4592,,Plaiul Mieilor,PDT,Limba română
+Valea Mielului,miei,3,47.2847920876799,24.5679161048159,Bistrita Nasaud,Vale,9862,,Valea Mielului,PDT,Limba română
+Báránykút (Puțul Mielului),miei,3,46.002535187165,24.9238279050241,Brasov,Localitate,10634,,Báránykút (Puțul Mielului),Imperiul Habsburgic (1887),Limba maghiară
+Dealul Mieilor,miei,3,45.4290534660416,26.7095992654752,Buzau,Deal,11564,,Dealul Mieilor,Geomil 25000,Limba română
+Dealu Mieilor,miei,3,45.1362514007408,21.6875674213485,Caras Severin,Deal,5715,,Dealu Mieilor,Geomil 25000,Limba română
+Valea Mieilor,miei,3,45.1324191203823,22.2946205004293,Caras Severin,Vale,8681,,Valea Mieilor,PDT,Limba română
+Vârful Mieilor,miei,3,44.6920206389082,21.9031924193032,Caras Severin,Înălțime,5735,,Vârful Mieilor,Geomil 25000,Limba română
+Dealu Mieilor,miei,3,46.6420909660677,23.1657335403057,Cluj,Deal,2591,,Dealu Mieilor,Geomil 25000,Limba română
+Pârâul Mieilor,miei,3,46.7156486504931,23.3370380767835,Cluj,Vale,8962,,Pârâul Mieilor,PDT,Limba română
+Valea Mieilor,miei,3,44.4450488279371,28.1329409373034,Constanta,Vale,2838,,Valea Mieilor,Geomil 25000,Limba română
+Dealul Mieilor,miei,3,45.0473047911077,23.7425689283529,Gorj,Deal,3104,,Dealul Mieilor,Geomil 25000,Limba română
+Valea Mieilor,miei,3,44.7450660849253,23.5361631573838,Gorj,Vale,11816,,Valea Mieilor,PDT,Limba română
+Mielul,miei,3,46.9318669049315,25.5363435967469,Harghita,Vale,13879,,Mielul,Geomil 25000,Limba română
+Câmpu Mielului,miei,3,45.2808775363815,22.9272798258694,Hunedoara,Câmp,5129,,Câmpu Mielului,Geomil 25000,Limba română
+Valea Mielului,miei,3,45.4530308108384,23.1938406926876,Hunedoara,Vale,10339,,Valea Mielului,Geomil 25000,Limba română
+Fața Mielului,miei,3,47.6975091693472,24.0410813861907,Maramures,Înălțime,7167,,Fața Mielului,Geomil 25000,Limba română
+Câmpul Mieilor,miei,3,44.5912889263022,23.2773921761131,Mehedinti,Câmp,99,,Câmpul Mieilor,Geomil 25000,Limba română
+Piscul Mieilor,miei,3,44.5960501881004,23.2329517304548,Mehedinti,Înălțime,6158,99,Piscul Mieilor,Geomil 25000,Limba română
+Dealul Mielului,miei,3,46.4016624926303,24.1570683362109,Mures,Deal,7343,,Dealul Mielului,Geomil 25000,Limba română
+Pârâul Mieilor,miei,3,46.2017084632528,24.8519144522586,Mures,Vale,10061,,Pârâul Mieilor,PDT,Limba română
+Apa Mieilor,miei,3,47.0831058916978,25.7628321300836,Neamt,Vale,11722,,Apa Mieilor,PDT,Limba română
+Valea Mieilor,miei,3,44.9680223403899,26.2212002729306,Prahova,Localitate,8794,,Valea Mieilor,Geomil 25000,Limba română,Valea Mieilor,PDT,Limba română
+Dealu Mieilor,miei,3,45.8230341700277,23.8441273487045,Sibiu,Deal,1156,,Dealu Mieilor,Geomil 25000,Limba română
+Izvorul Mielului,miei,3,45.5635036293647,24.1570262486911,Sibiu,Vale,7411,,Izvorul Mielului,Geomil 25000,Limba română
+Dealul Mieilor,miei,3,45.0125710920956,24.34616399398,Valcea,Deal,9368,,Dealul Mieilor,Geomil 25000,Limba română
+Pădurea Crângul Mieilor,miei,3,45.522832668065,27.2260710418493,Vrancea,Pădure,757,,Pădurea Crângul Mieilor,Geomil 25000,Limba română

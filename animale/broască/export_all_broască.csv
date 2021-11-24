@@ -1,0 +1,40 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Broasca,broască,2,45.1563483284365,25.0873789086174,Arges,Deal,6875,,Dealul Broasca,Geomil 25000,Limba română
+Pădurea Broasca,broască,2,45.1619376342098,25.090184615139,Arges,Pădure,6876,6875,Pădurea Broasca,Geomil 25000,Limba română
+Vârful Broaștei,broască,2,45.4818610648687,25.1279606292536,Arges,Înălțime,629,,Vârful Broaștei,Geomil 25000,Limba română
+Balta Broaștei,broască,2,47.7080452336896,26.6147568007186,Botosani,Apă-deal-câmpie,7769,,Balta Broaștei,PDT,Limba română
+Broscărie,broscărie,3,48.1038978227237,26.8143339925469,Botosani,Altele,2400,,Broscărie,Geomil 25000,Limba română
+Dealul Broscăriei,broscărie,3,47.9813729539171,27.0172243381122,Botosani,Deal,2396,1821,Dealul Broscăriei,Geomil 25000,Limba română
+La Broscărie,broscărie,3,48.2162774642329,26.7590748986558,Botosani,Altele,2330,,La Broscărie,Geomil 25000,Limba română
+Lacul Broscăria,broscărie,3,47.8509645659659,26.7462819141018,Botosani,Lac,3574,,Lacul Broscăria,PDT,Limba română
+Valea Broscăriei,broscărie,3,47.7291691027665,26.7322794502328,Botosani,Vale,1824,,Valea Broscăriei,Geomil 25000,Limba română
+Valea Broscăriei,broscărie,3,47.9836079604998,27.0460496124828,Botosani,Vale,1821,,Valea Broscăriei,Geomil 25000,Limba română
+Broasca,broască,2,44.9297350451887,28.0262432089499,Braila,Lac,3483,,Broasca,PDT,Limba română
+Broscărie,broscărie,3,45.0626290305776,26.8927692716165,Buzau,Apă-deal-câmpie,11262,,Broscărie,Geomil 25000,Limba română
+Broasca Mare,broască,2,44.1843621354488,27.117324922016,Calarasi,Lac,8466,,Broasca Mare,PDT,Limba română
+Broasca mică,broască,2,44.1911865289334,27.1242184790133,Calarasi,Altele,3237,8466,Brosca mică,PDT,Limba română
+Valea Broaștei,broască,2,46.9138311147338,24.067781304399,Cluj,Vale,13098,,Valea Broaștei,Geomil 25000,Limba română
+Valea Broascei,broască,2,44.9368303872545,25.5557853698719,Dambovita,Vale,3695,,Valea Broascei,PDT,Limba română
+Balta Broaștii,broască,2,43.8432958536713,23.6015436725442,Dolj,Apă-deal-câmpie,3797,,Balta Broaștii,PDT,Limba română
+Balta Broscăria,broscărie,3,43.9024981566786,23.5736145056071,Dolj,Apă-deal-câmpie,11804,,Balta Broscăria,PDT,Limba română
+Balta Broscăria,broscărie,3,43.9084683588775,23.1952490984911,Dolj,Apă-deal-câmpie,11798,,Balta Broscăria,PDT,Limba română
+Pădurea Broaștei,broască,2,46.0327545367668,27.4422760623951,Galati,Pădure,2168,,Pădurea Broaștei,Geomil 25000,Limba română
+Lacul Broasca,broască,2,43.7692244107584,25.8110103886965,Giurgiu,Lac,3339,,Lacul Broasca,PDT,Limba română
+La Broască,broască,2,44.7223940152944,26.4909878792435,Ialomita,Altele,12126,,La Broască,Geomil 25000,Limba română,La Broască,PDT,Limba română
+Valea Broaștei,broască,2,47.5248056067689,27.1945655099137,Iasi,Vale,2368,,Valea Broaștei,Geomil 25000,Limba română,Pârâul Broaștei,PDT,Limba română
+Dealul Broscăriei,broscărie,3,47.3846055087391,26.9932257134853,Iasi,Deal,11631,,Dealul Broscăriei,Geomil 25000,Limba română
+La Broscărie,broscărie,3,47.2540077761627,27.4946919568068,Iasi,Altele,4843,,La Broscărie,Geomil 25000,Limba română
+Valea Broscăriei,broscărie,3,47.3981913592088,26.9809035309918,Iasi,Vale,2443,11631,Valea Broscăriei,Geomil 25000,Limba română
+Pârâul Broaștelor,broască,2,46.6743222596315,24.8403576366725,Mures,Vale,12812,,Pârâul Broaștelor,PDT,Limba română
+Valea Broscăriei,broscărie,3,47.0679943214051,25.0219008295503,Mures,Vale,13398,,Valea Broscăriei,Imperiul Habsburgic (1887),Limba română
+Izlazu Broaște,broască,2,44.361686250225,24.4775976606809,Olt,Altele,3005,,Izlazu Broaște,Geomil 25000,Limba română
+Broasca,broască,2,47.6254466626499,26.0537761403807,Suceava,Localitate,7253,,Broasca,PDT,Limba română
+Broasca,broască,2,47.3039049287744,25.2584042542425,Suceava,Vale,13276,,Broasca,Geomil 25000,Limba română
+Broasca,broască,2,43.8441682173909,25.0913216960837,Teleorman,Localitate,4211,,Broasca,PDT,Limba română,Broska,Austriacă,Limba română
+Găvanul cu Broaște,broască,2,43.9165232107439,24.7340431239232,Teleorman,Apă-deal-câmpie,12219,,Găvanul cu Broaște,PDT,Limba română
+Lacul Broscăriei,broscărie,3,43.9076414715847,24.9630380601753,Teleorman,Lac,12427,,Lacul Broscăriei,PDT,Limba română
+La Broscărie,broscărie,3,45.0110454400591,24.4828538394447,Valcea,Altele,12278,,La Broscărie,Geomil 25000,Limba română
+Dealul Broaștei,broască,2,46.1572457107883,27.2823457672665,Vaslui,Deal,1721,1722,Dealul Broaștei,Geomil 25000,Limba română
+Lacul Broscăria,broscărie,3,46.3122036153033,28.1794499038369,Vaslui,Lac,10918,,Lacul Broscăria,Moldova (1892-1898),Limba română,Balta Broscăriei,Geomil 25000,Limba română
+Râpa Broaștei,broască,2,46.1525370449567,27.2960067185036,Vrancea,Înălțime,1722,,Râpa Broaștei,Geomil 25000,Limba română
+La Broscărie,broscărie,3,45.7596193054362,27.2120008237748,Vrancea,Altele,13335,,La Broscărie,Geomil 25000,Limba română

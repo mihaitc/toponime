@@ -1,0 +1,16 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Pârâul Vulpării,vulpărie,3,46.4551151881346,26.4051548571373,Bacau,Vale,6552,6550,Pârâul Vulpării,PDT,Limba română
+Piciorul Vulpării,vulpărie,3,46.4578473179567,26.4071044378811,Bacau,Înălțime,6550,,Piciorul Vulpării,PDT,Limba română
+Vârful Vulpăriei,vulpărie,3,46.647870504485,26.2083862563289,Bacau,Înălțime,9953,,Vârful Vulpăriei,Geomil 25000,Limba română
+Dealul Vulpăriilor,vulpărie,3,47.9711100231558,27.053437664163,Botosani,Deal,4874,,Dealul Vulpăriilor,PDT,Limba română,Dealul Vulpăriei,Geomil 25000,Limba română
+Tarlaua Vulpărie,vulpărie,3,47.5981374467575,27.3272235155256,Botosani,Altele,11553,,Tarlaua Vulpărie,ANCPI,Limba română
+Vulpărie,vulpărie,3,47.8852978152362,27.1268698174355,Botosani,Altele,11662,,Vulpărie,ANCPI,Limba română
+La Vulpărie,vulpărie,3,45.4287623388722,26.5578221354158,Buzau,Altele,13341,,La Vulpărie,Geomil 25000,Limba română
+Poiana Vulpăriei,vulpărie,3,45.4687945208917,26.9459005617567,Buzau,Poiană,2091,,Poiana Vulpăriei,Geomil 25000,Limba română
+Piciorul Vulpăriei,vulpărie,3,46.9769856682928,26.1244832325507,Neamt,Înălțime,9713,,Piciorul Vulpăriei,Moldova (1892-1898),Limba română
+Bâtca Vulpăria,vulpărie,3,47.404874292316,25.5645462618677,Suceava,Înălțime,9088,,Bâtca Vulpăria,PDT,Limba română
+Pârâul Vulpăriei,vulpărie,3,47.317918375265,25.4859550978073,Suceava,Vale,6384,,Pârâul Vulpăriei,PDT,Limba română
+Preluca Vulpăriei,vulpărie,3,47.4451172029086,25.7303639620956,Suceava,Vale,13522,,Preluca Vulpăriei,Geomil 25000,Limba română
+Valea Vulpăriei,vulpărie,3,47.4931093603171,26.3025616409489,Suceava,Vale,4927,,Valea Vulpăriei,PDT,Limba română
+La Vulpărie,vulpărie,3,46.2219792346202,27.4872575109493,Vaslui,Altele,1711,,La Vulpărie,Geomil 25000,Limba română
+La Vulpărie,vulpărie,3,46.1093960777442,27.273690253779,Vrancea,Altele,3932,,La Vulpărie,PDT,Limba română

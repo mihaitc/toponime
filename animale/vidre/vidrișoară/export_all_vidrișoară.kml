@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Pârâu Vidrișoara</name><description>Nume: Pârâu Vidrișoara, Tip: vidrișoară, Nivel: 3, Județ: Arad, Formă: Vale, ID: 5598, ID Părinte: 5597 <br /><b>Variante</b><br />Nume: Pârâu Vidrișoara, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>22.502816,46.328897,0</coordinates></Point></Placemark>
+<Placemark><LineString id="5598_5597"><tessellate>1</tessellate><coordinates>22.502816,46.328897,0.
+22.510828,46.324686,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

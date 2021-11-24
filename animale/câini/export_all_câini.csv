@@ -1,0 +1,73 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealu Cățeilor,cățel,3,46.5494302575419,22.8195084104785,Alba,Deal,5909,,Dealu Cățeilor,Geomil 25000,Limba română
+Valea Cățelei,cățea,3,46.2465960046205,22.0359746566315,Arad,Vale,10214,,Valea Cățelei,Geomil 25000,Limba română
+Malul Câinelui,câini,2,45.291121493815,24.6478731493181,Arges,Altele,4044,,Malul Câinelui,PDT,Limba română
+Pârâu Câinelui,câini,2,44.4332946797556,24.9800239955759,Arges,Vale,8327,,Pârâu Câinelui,Geomil 25000,Limba română
+Râpa Ogarului,ogari,3,45.1698728715274,25.0137090886449,Arges,Înălțime,6877,,Râpa Ogarului,Geomil 25000,Limba română
+Valea Ogarului,ogari,3,45.0050693206323,25.0622671252038,Arges,Vale,539,,Valea Ogarului,Geomil 25000,Limba română
+Piatra Câinilor,câini,2,46.6036405771968,22.6691626752942,Bihor,Înălțime,5620,,Piatra Câinilor,Geomil 25000,Limba română
+Dosul Câinelui,câini,2,47.0202506086097,24.3021745450828,Bistrita Nasaud,Înălțime,5488,,Dosul Câinelui,Geomil 25000,Limba română
+Vârful Câinelui,câini,2,47.514637375252,24.4618326819501,Bistrita Nasaud,Înălțime,4489,,Vârful Câinelui,Geomil 25000,Limba română
+Dealul Cățelei,cățea,3,47.3450230662387,24.8218640905716,Bistrita Nasaud,Deal,6364,,Dealul Cățelei,Geomil 25000,Limba română
+Valea Cățelei,cățea,3,47.3527182953018,24.8177302375317,Bistrita Nasaud,Vale,9876,6364,Valea Cățelei,Geomil 25000,Limba română
+Vârful Cățelei,cățea,3,47.3401649865682,24.8182562005148,Bistrita Nasaud,Înălțime,9875,6364,Vârful Cățelei,Geomil 25000,Limba română
+Râpa Cățelei,cățea,3,47.7004368939035,26.4636627975899,Botosani,Înălțime,7784,,Râpa Cățelei,Geomil 25000,Limba română
+Balta Cățeaua,cățea,3,45.0091620172241,27.95212896523,Braila,Apă-deal-câmpie,6716,,Balta Cățeaua,PDT,Limba română
+Movila Cățelușa,cățelușă,4,44.9619961058982,27.418607373818,Braila,Înălțime,6730,,Movila Cățelușa,PDT,Limba română
+Dealul Câinelui,câini,2,45.7304130221736,25.4502186451253,Brasov,Deal,8550,,Dealul Câinelui,Geomil 25000,Limba română
+Pârâul Cânelui,câini,2,45.9111708178432,25.3169655392218,Brasov,Vale,6804,,Pârâul Cânelui,PDT,Limba română
+Spinarea Câinelui,câini,2,45.6139659379728,25.429963701406,Brasov,Altele,2785,,Spinarea Câinelui,Geomil 25000,Limba română
+Cățeaua,cățea,3,44.2355238171219,27.6596019271467,Calarasi,Altele,3213,,Cățeaua,PDT,Limba română
+Cracu Câinelui,câini,2,44.6468737132738,22.1646119401115,Caras Severin,Înălțime,837,,Cracu Câinelui,Geomil 25000,Limba română
+Tâlva Cățelei,cățea,3,45.0611152789736,22.1704345403057,Caras Severin,Altele,8682,,Tâlva Cățelei,PDT,Limba română
+Pârâu Câinelui,câini,2,46.6792914433205,23.2719602934184,Cluj,Vale,2593,,Pârâu Câinelui,Geomil 25000,Limba română
+Vârful Baia Câinelui,câini,2,45.982258780412,25.964416786823,Covasna,Înălțime,4382,,Vârful Baia Câinelui,Geomil 25000,Limba română
+Valea Câinelui,câini,2,44.7749249752928,25.4102935515465,Dambovita,Vale,8314,,Valea Câinelui,PDT,Limba română
+Valea Câinelui,câini,2,45.0854298651321,25.3594471794602,Dambovita,Vale,5993,,Valea Câinelui,Geomil 25000,Limba română,Valea Câinelui,PDT,Limba română
+Piscul Câinelui,câini,2,44.5857606627959,23.811390505517,Dolj,Înălțime,4726,,Piscul Câinelui,PDT,Limba română
+Valea Câinele Mare,câini,2,44.5880945644132,23.8115979036378,Dolj,Vale,4731,4726,Valea Câinele Mare,PDT,Limba română
+Dealul Cățelei,cățea,3,44.0535202657934,23.5180272537144,Dolj,Deal,152,,Dealul Cățelei,Geomil 25000,Limba română
+Dealul Cățelei,cățea,3,44.1619993296246,23.7881826291439,Dolj,Deal,7712,,Dealul Cățelei,PDT,Limba română
+Măgura Cățelei,cățea,3,44.0451698582803,23.5335606344912,Dolj,Înălțime,153,152,Măgura Cățelei,Geomil 25000,Limba română
+La Movila Cățelei,cățea,3,45.9184546209007,27.515132794945,Galati,Înălțime,9490,,La Movila Cățelei,PDT,Limba română
+Valea Ogarului,ogari,3,44.8497737761261,23.130666312901,Gorj,Vale,8390,,Valea Ogarului,PDT,Limba română
+Dealu Cățeilor,câini,2,46.2014646053925,22.7968273568416,Hunedoara,Deal,932,,Dealu Cățeilor,Geomil 25000,Limba română
+Valea Câinelui,câini,2,46.0272461701206,23.0270098261575,Hunedoara,Vale,9658,,Valea Câinelui,Geomil 25000,Limba română
+La Cățelul,cățel,3,47.2640763542587,27.3314380615381,Iasi,Altele,6608,,La Cățelul,PDT,Limba română
+Ogașu Câinelui,câini,2,44.7047408018212,22.2243612495129,Mehedinti,Vale,9439,,Ogașu Câinelui,Geomil 25000,Limba română
+Dealul Spatele Câinelui,câini,2,46.8029705358907,24.7688380318234,Mures,Deal,7313,,Dealul Spatele Câinelui,PDT,Limba română
+Piciorul Câinelui,câini,2,47.158328990167,25.9684288004946,Neamt,Înălțime,11654,,Piciorul Câinelui,Geomil 25000,Limba română
+Valea Ogarului,ogari,3,44.3843611979433,24.0453934902644,Olt,Vale,294,,Valea Ogarului,Geomil 25000,Limba română
+Piciorul Câinelui,câini,2,45.3487898280359,25.5837027590253,Prahova,Înălțime,573,574,Piciorul Câinelui,Geomil 25000,Limba română
+Piscul Câinelui,câini,2,45.3463658856335,25.7760782669678,Prahova,Înălțime,806,,Piscul Câinelui,Geomil 25000,Limba română
+Vâful Câinelui,câini,2,45.3440267578466,25.6156940954499,Prahova,Înălțime,574,,Vâful Câinelui,Geomil 25000,Limba română,Vârful Cânelui,PDT,Limba română
+Valea Câinelui,câini,2,45.3392692884412,25.5733455329135,Prahova,Vale,572,574,Valea Câinelui,Geomil 25000,Limba română
+Valea Câinelui,câini,2,45.2078986094801,26.3310687880205,Prahova,Vale,6037,,Valea Câinelui,Geomil 25000,Limba română
+Piscul Cățelei,cățea,3,45.2039760411859,25.926708085799,Prahova,Înălțime,809,,Piscul Cățelei,Geomil 25000,Limba română
+Pârâu Câinelui,câini,2,46.9577225978934,23.3519398265394,Salaj,Vale,14025,,Pârâu Câinelui,Geomil 25000,Limba română
+Dealul Cățelușul,căței,4,47.1249251490563,23.2415762702919,Salaj,Deal,10385,,Dealul Cățelușul,PDT,Limba română
+Dealu Calea Cățelului,cățel,3,47.0784220680734,23.033087842065,Salaj,Deal,7534,,Dealu Calea Cățelului,Geomil 25000,Limba română
+Valea Câinelui,câini,2,47.6213934340529,23.0905393272935,Satu Mare,Vale,4418,,Valea Câinelui,Geomil 25000,Limba română
+Spinarea Câinelui,câini,2,45.7925341560571,24.0480930794687,Sibiu,Înălțime,4071,,Spinarea Câinelui,PDT,Limba română
+Pârâul Cânelui,câini,2,47.3134834665159,25.6391281700178,Suceava,Vale,6394,,Pârâul Cânelui,PDT,Limba română,Câinele,Geomil 25000,Limba română
+Culmea Ogarului,ogari,3,47.3280235934305,26.0516828618373,Suceava,Înălțime,1773,,Culmea Ogarului,Geomil 25000,Limba română
+Pârâu Câinelui,câini,2,44.2545461244577,25.1313993951458,Teleorman,Vale,10970,,Pârâu Câinelui,Geomil 25000,Limba română
+Pârâu Câinelui,câini,2,44.2047521722998,25.1998768591691,Teleorman,Vale,12204,,Pârâu Câinelui,Geomil 25000,Limba română
+Movila Cățelu,cățel,3,43.9569053488924,25.3866429133426,Teleorman,Înălțime,9023,,Movila Cățelu,PDT,Limba română
+Valea Ogarului,ogari,3,43.783801460257,25.4417160109829,Teleorman,Vale,3418,1343,Valea Ogarului,PDT,Limba română
+Valea Puțu Ogarului,ogari,3,43.7823218554308,25.4568885570297,Teleorman,Vale,1343,,Valea Puțu Ogarului,Geomil 25000,Limba română,Valea Puțul Ogarului,PDT,Limba română
+Pădurea Pârâul Câinelui,câini,2,45.2623213350686,24.2084381004243,Valcea,Pădure,2937,2936,Pădurea Pârâul Câinelui,Geomil 25000,Limba română
+Pârâul Câinelui,câini,2,45.2660937421602,24.2115391365486,Valcea,Înălțime,2938,2936,Pârâul Câinelui,Geomil 25000,Limba română
+Pârâul Câinelui,câini,2,45.2538150944337,24.1916827400213,Valcea,Vale,2936,,Pârâul Câinelui,Geomil 25000,Limba română
+Cățelul,cățel,3,44.8261378468854,23.9566288895937,Valcea,Localitate,4755,,Cățelul,PDT,Limba română
+Valea Câinelui,câini,2,46.4434085926051,27.5177670873954,Vaslui,Vale,11544,,Valea Câinelui,Geomil 25000,Limba română
+Pădurea Câinelui,câini,2,45.5911353426994,26.7674877939277,Vrancea,Pădure,2097,,Pădurea Câinelui,Geomil 25000,Limba română
+Pârâul Câinelui,câini,2,45.9209524468174,26.5938504466379,Vrancea,Vale,2797,2796,Pârâul Câinelui,Geomil 25000,Limba română
+Piscul Câinelui,câini,2,45.9204718585282,26.5848861987141,Vrancea,Înălțime,2796,,Piscul Câinelui,Geomil 25000,Limba română
+Poiana Câinelui,câini,2,45.9272593764552,26.6050760273984,Vrancea,Poiană,2795,2796,Poiana Câinelui,Geomil 25000,Limba română
+Coada Cățelei,cățea,3,45.8003179118047,26.5399833521477,Vrancea,Înălțime,7916,,Coada Cățelei,Geomil 25000,Limba română
+Culmea Cățelei,cățea,3,45.7986106668609,26.5366960942536,Vrancea,Înălțime,7917,7916,Culmea Cățelei,Geomil 25000,Limba română
+Muntele Cățelei,cățea,3,45.8005509251699,26.5535770606053,Vrancea,Înălțime,7915,7916,Muntele Cățelei,Geomil 25000,Limba română
+Pârâul Cățelei,cățea,3,45.7904075789029,26.553776555767,Vrancea,Vale,7914,7916,Pârâul Cățelei,Geomil 25000,Limba română
+Muntele Cățeilor,căței,4,45.9923386618673,26.577062900943,Vrancea,Înălțime,9212,,Muntele Cățeilor,Geomil 25000,Limba română
+Piscul Cățelului,cățel,3,45.8504430971995,26.7936713902316,Vrancea,Înălțime,2136,,Piscul Cățelului,Geomil 25000,Limba română

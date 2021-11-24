@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Vârful Zimbroiului</name><description>Nume: Vârful Zimbroiului, Tip: zimbroi, Nivel: 4, Județ: Mures, Formă: Înălțime, ID: 5395 <br /><b>Variante</b><br />Nume: Vârful Zimbroiului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.227613,46.822478,0</coordinates></Point></Placemark>
+<Placemark><name>Zimbroiul</name><description>Nume: Zimbroiul, Tip: zimbroi, Nivel: 4, Județ: Mures, Formă: Vale, ID: 5396, ID Părinte: 5395 <br /><b>Variante</b><br />Nume: Zimbroiul, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.241887,46.819707,0</coordinates></Point></Placemark>
+<Placemark><LineString id="5396_5395"><tessellate>1</tessellate><coordinates>25.241887,46.819707,0.
+25.227613,46.822478,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

@@ -1,0 +1,8 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Iepăriei,iepărie,4,47.8415495004515,26.571961874429,Botosani,Deal,4915,,Dealul Iepăriei,PDT,Limba română,Iepăria,Geomil 25000,Limba română
+Iazul Iepăriei,iepărie,4,47.7759872838842,27.0342366588344,Botosani,Apă-deal-câmpie,2378,,Iazul Iepăriei,Geomil 25000,Limba română
+Lacul la Iepărie,iepărie,4,47.8404753885103,26.5822709487605,Botosani,Lac,4916,4915,Lacul la Iepărie,PDT,Limba română
+Podișul Iepăriei,iepărie,4,47.6821994205769,27.19733218721,Botosani,Altele,2373,,Podișul Iepăriei,Geomil 25000,Limba română
+Poiana Iepăriei,iepărie,4,48.0192409893961,26.2444947755508,Botosani,Poiană,4901,,Poiana Iepăriei,PDT,Limba română
+La Iepărie,iepărie,4,47.4154437598659,27.2958713684826,Iasi,Altele,4864,,La Iepărie,PDT,Limba română
+Valea Iepăriei,iepărie,4,47.3418337517211,26.5018798045342,Suceava,Vale,2247,,Valea Iepăriei,Geomil 25000,Limba română

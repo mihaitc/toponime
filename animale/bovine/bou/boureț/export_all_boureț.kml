@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Bourețul</name><description>Nume: Bourețul, Tip: boureț, Nivel: 4, Județ: Arges, Formă: Vale, ID: 5010, ID Părinte: 5009 <br /><b>Variante</b><br />Nume: Bourețul, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.845736,45.543166,0</coordinates></Point></Placemark>
+<Placemark><LineString id="5010_5009"><tessellate>1</tessellate><coordinates>24.845736,45.543166,0.
+24.850198,45.540108,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Piscul Bourețului</name><description>Nume: Piscul Bourețului, Tip: boureț, Nivel: 4, Județ: Arges, Formă: Înălțime, ID: 5009 <br /><b>Variante</b><br />Nume: Piscul Bourețului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.850198,45.540108,0</coordinates></Point></Placemark></Document></kml>

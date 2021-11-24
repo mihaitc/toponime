@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dumbrava Brebi,brebi,3,47.2308518068497,23.2156736059953,Salaj,Altele,6931,1052,Dumbrava Brebi,Geomil 25000,Limba română
+Luncile Brebilor,brebi,3,47.1822880602615,23.1832004734097,Salaj,Apă-deal-câmpie,7558,,Luncile Brebilor,PDT,Limba română
+Valea Brebi,brebi,3,47.2225060762698,23.1761901936249,Salaj,Vale,8994,1052,Valea Brebi,PDT,Limba română
+Pădurea Brebilor,brebi,3,47.1759568484406,25.6674923807611,Suceava,Pădure,6414,,Pădurea Brebilor,Geomil 25000,Limba română,Pădurea Brebilor,Moldova (1892-1898),Limba română

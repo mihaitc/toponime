@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Valea Tăuroiu Mare,tăuroi,4,44.9544670823554,23.2996285607225,Gorj,Vale,3121,,Valea Tăuroiu Mare,Geomil 25000,Limba română
+Valea Tăuroiu Mic,tăuroi,4,44.9576707877374,23.301342507835,Gorj,Vale,3122,3121,Valea Tăuroiu Mic,Geomil 25000,Limba română

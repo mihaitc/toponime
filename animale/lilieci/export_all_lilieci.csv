@@ -1,0 +1,14 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Peștera Liliecilor,lilieci,2,46.4568551859661,22.2523965893498,Arad,Altele,1942,,Peștera Liliecilor,Geomil 25000,Limba română
+Dealul Liliecilor,lilieci,2,46.1418562210398,27.076271289858,Bacau,Deal,3930,,Dealul Liliecilor,PDT,Limba română
+Peștera Liliecilor,lilieci,2,45.5065337226366,25.2941109845336,Brasov,Altele,598,,Peștera Liliecilor,Geomil 25000,Limba română
+Liliec,lilieci,2,44.4088595802971,26.4489621399137,Calarasi,Localitate,3627,1314,Liliec,Austriacă,Limba română
+Pădurea Lilieci,lilieci,2,44.4082415983781,26.4349113662956,Calarasi,Pădure,1314,,Pădurea Lilieci,Geomil 25000,Limba română
+Cracu Liliecilor,lilieci,2,44.7190341656248,21.9440991772015,Caras Severin,Înălțime,3320,3319,Cracu Liliecilor,Geomil 25000,Limba română
+Ogașu Liliecilor,lilieci,2,44.7198974261332,21.9353136382493,Caras Severin,Altele,3319,,Ogașu Liliecilor,Geomil 25000,Limba română
+Movila cu Lilieci,lilieci,2,44.1429123839179,28.0630679901454,Constanta,Înălțime,2846,,Movila cu Lilieci,Geomil 25000,Limba română
+Movila Lilieci,lilieci,2,44.7866194830704,26.4999996899807,Ialomita,Înălțime,53,,Movila Lilieci,PDT,Limba română
+Dealul Lilieci,lilieci,2,44.4484829373003,22.8827194308297,Mehedinti,Deal,3662,,Dealul Lilieci,PDT,Limba română
+Dealul Lilieci,lilieci,2,45.0317925683701,26.3378657027845,Prahova,Deal,3953,,Dealul Lilieci,PDT,Limba română
+La Baraj la Lilieci,lilieci,2,44.3383509203164,25.3519224060484,Teleorman,Apă-deal-câmpie,514,,La Baraj la Lilieci,Geomil 25000,Limba română
+Valea Liliecilor,lilieci,2,44.354105755113,25.3389299335644,Teleorman,Vale,3748,,Valea Liliecilor,Geomil 25000,Limba română

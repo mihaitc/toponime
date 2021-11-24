@@ -1,0 +1,17 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Pârâul Caprelor,capre,3,46.3209760919822,26.4795521208582,Bacau,Vale,4570,,Pârâul Caprelor,Geomil 25000,Limba română
+Dealul Caprelor,capre,3,47.2015382869385,24.3673974689117,Bistrita Nasaud,Deal,4504,,Dealul Caprelor,Geomil 25000,Limba română
+Valea Caprelor,capre,3,47.1994236549796,24.365891281606,Bistrita Nasaud,Vale,4505,4504,Valea Caprelor,Geomil 25000,Limba română
+Brâna Caprelor,capre,3,45.4630056641733,25.4550937405969,Brasov,Altele,595,,Brâna Caprelor,Geomil 25000,Limba română
+Dealul Caprelor,capre,3,45.9116638557095,24.7678841141321,Brasov,Deal,2670,,Dealul Caprelor,Geomil 25000,Limba română
+Valea Caprelor,capre,3,45.9084487329341,24.7573538244717,Brasov,Vale,2671,2670,Valea Caprelor,Geomil 25000,Limba română
+Dealul Ocolul Caprelor,capre,3,46.075497951767,25.9414270517695,Covasna,Deal,4377,,Dealul Ocolul Caprelor,Geomil 25000,Limba română
+Coasta Caprelor,capre,3,46.2230599023022,25.155367888083,Harghita,Înălțime,4278,,Coasta Caprelor,Geomil 25000,Limba română
+Dealul Pășunea Caprelor,capre,3,46.8488260017774,25.6147354684961,Harghita,Deal,12871,,Dealul Pășunea Caprelor,Geomil 25000,Limba română
+Pârâul Caprelor,capre,3,46.2290950635516,25.1628800161681,Harghita,Vale,4279,4278,Pârâul Caprelor,Geomil 25000,Limba română
+Izvorul Caprelor,capre,3,47.8441714081699,24.656157306836,Maramures,Vale,11157,,Izvorul Caprelor,Geomil 25000,Limba română
+Dealu Caprelor,capre,3,47.2798673012076,23.1139860661395,Salaj,Deal,11417,,Dealu Caprelor,Geomil 25000,Limba română
+Sâcu Caprelor,capre,3,47.67493644075,22.5227067967354,Satu Mare,Altele,5976,,Sâcu Caprelor,Geomil 25000,Limba română
+Dealul Caprelor,capre,3,45.9010496777754,24.3194901590626,Sibiu,Deal,2540,2539,Dealul Caprelor,Geomil 25000,Limba română
+Valea Caprelor,capre,3,45.8914212910713,24.3232547701374,Sibiu,Vale,2539,,Valea Caprelor,Geomil 25000,Limba română
+Valea Caprelor,capre,3,45.8517709101707,24.7527979996209,Sibiu,Vale,9690,,Valea Caprelor,Geomil 25000,Limba română

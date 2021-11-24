@@ -1,0 +1,113 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealu Lupoaia,lupoaie,3,46.2453327049884,22.8124331395755,Alba,Deal,931,,Dealu Lupoaia,Geomil 25000,Limba română
+Gura Lupoaiei,lupoaie,3,46.1879000395215,22.6551416420372,Alba,Altele,935,,Gura Lupoaiei,Geomil 25000,Limba română
+Lupoaia,lupoaie,3,46.2310868878858,23.5173932175374,Alba,Altele,8645,,Lupoaia,PDT,Limba română
+Dealu Lupoii,lupoaie,3,46.1189648009853,22.4123185103673,Arad,Deal,6225,,Dealu Lupoii,Geomil 25000,Limba română
+Pârâul Lupoaiei,lupoaie,3,46.3667312852876,22.3644650442572,Arad,Vale,12050,,Pârâul Lupoaiei,PDT,Limba română
+Valea Lupoaia,lupoaie,3,46.4894736682774,22.0420464223442,Arad,Vale,6992,,Valea Lupoaia,Geomil 25000,Limba română
+Valea Lupoii,lupoaie,3,46.1174044479376,22.4097702522352,Arad,Vale,6226,6225,Valea Lupoii,Geomil 25000,Limba română
+Culmea Lupoaicei,lupoaică,4,45.3784710337057,24.6398517250377,Arges,Înălțime,637,,Culmea Lupoaicei,Geomil 25000,Limba română
+Valea Lupoaicei,lupoaică,4,45.3783350753223,24.6449035879248,Arges,Vale,4984,637,Valea Lupoaicei,Geomil 25000,Limba română
+Dealul Lupoaia,lupoaie,3,45.1827928770861,24.5959263188226,Arges,Deal,4066,4065,Dealul Lupoaia,Geomil 25000,Limba română
+Lupoaia,lupoaie,3,45.17649175417,24.5991050438652,Arges,Înălțime,4065,,Lupoaia,Geomil 25000,Limba română
+Pădurea Lupoaia,lupoaie,3,44.6843204451286,24.7399610101399,Arges,Pădure,1406,,Pădurea Lupoaia,PDT,Limba română,Pădurea Lupoaia,Geomil 25000,Limba română
+Piscu Lupoaia,lupoaie,3,44.9412598184851,24.5777096418149,Arges,Înălțime,3075,,Piscu Lupoaia,Geomil 25000,Limba română
+Poiana Lupoii,lupoaie,3,45.3044105141477,24.5770908800878,Arges,Poiană,1435,1434,Poiana Lupoii,Geomil 25000,Limba română
+Valea Lupoaea,lupoaie,3,44.7733455387386,24.7387601687428,Arges,Vale,4783,,Valea Lupoaea,PDT,Limba română
+Valea Lupoaia,lupoaie,3,44.4897671505934,24.98574190965,Arges,Vale,11281,,Valea Lupoaia,Geomil 25000,Limba română
+Valea Lupoaia,lupoaie,3,44.6900086903242,24.7238953630645,Arges,Vale,4775,,Valea Lupoaia,PDT,Limba română
+Valea Lupoii,lupoaie,3,45.2954817696833,24.575822349866,Arges,Vale,1434,,Valea Lupoii,Geomil 25000,Limba română
+Groapa Lupoaiei,lupoaie,3,46.4972378335382,26.4932200167674,Bacau,Altele,11461,,Groapa Lupoaiei,Geomil 25000,Limba română
+Pădurea Lupoaiei,lupoaie,3,46.5128441629818,27.3272137510854,Bacau,Pădure,11548,,Pădurea Lupoaiei,Geomil 25000,Limba română
+Pădurea Lupoaiei,lupoaie,3,46.4526579959179,27.4065413269119,Bacau,Pădure,11546,,Pădurea Lupoaiei,Geomil 25000,Limba română
+Valea Lupoaiei,lupoaie,3,46.2532622277109,27.4124529055498,Bacau,Vale,11540,,Valea Lupoaiei,Geomil 25000,Limba română
+Dealul Lupoaia,lupoaie,3,46.6372813072213,21.9687407810929,Bihor,Deal,4109,,Dealul Lupoaia,Geomil 25000,Limba română,Lupoaica,PDT,Limba română
+Gaura Lupoaie,lupoaie,3,47.0082082572473,22.3352977554029,Bihor,Altele,4169,,Gaura Lupoaie,PDT,Limba română,Gura Lupoaiei,Geomil 25000,Limba română
+Lupoaea,lupoaie,3,46.895682860713,22.5980809219392,Bihor,Altele,10281,,Lupoaea,PDT,Limba română
+Lupoaia,lupoaie,3,46.8047435066713,22.1334292170599,Bihor,Localitate,10370,,Lupoaia,PDT,Limba română
+Pârâul Lupoaiei,lupoaie,3,47.0233506256976,22.3399310591093,Bihor,Vale,4170,4169,Pârâul Lupoaiei,PDT,Limba română,Pârâul Lupoaia,Geomil 25000,Limba română
+Valea Lupoaiei,lupoaie,3,46.5740414798633,22.3543363454661,Bihor,Vale,13508,,Valea Lupoaiei,PDT,Limba română
+Valea Lupoaiei,lupoaie,3,46.8808178470748,22.1834233257885,Bihor,Vale,4143,4142,Valea Lupoaiei,PDT,Limba română
+Culmea Lupoaiei,lupoaie,3,47.3235209301535,24.9725530206115,Bistrita Nasaud,Înălțime,6365,,Culmea Lupoaiei,Geomil 25000,Limba română
+Valea Lupoaei,lupoaie,3,45.6010384218325,25.2497529730265,Brasov,Vale,8555,,Valea Lupoaei,PDT,Limba română
+Lupoaia,lupoaie,3,45.4069827173702,26.3928792989628,Buzau,Localitate,8769,,Lupoaia,PDT,Limba română
+Pădurea Lupoaia,lupoaie,3,45.3786218900187,26.9006513078697,Buzau,Pădure,565,,Pădurea Lupoaia,Geomil 25000,Limba română
+Valea Lupoaei,lupoaie,3,45.2972358617981,26.8281293079682,Buzau,Vale,11769,,Valea Lupoaei,PDT,Limba română
+Lacul Lupoaia,lupoaie,3,44.200466254141,27.5473432209405,Calarasi,Lac,3292,,Lacul Lupoaia,PDT,Limba română
+Privalul Lupoaei,lupoaie,3,44.1959180270988,27.5488548210436,Calarasi,Apă-deal-câmpie,3293,3292,Privalul Lupoaei,PDT,Limba română
+Dealul Lupoanei,lupoană,4,44.8455172042001,22.0626663931282,Caras Severin,Deal,12753,,Dealul Lupoanei,Geomil 25000,Limba română
+Dealu Lupoaiei,lupoaie,3,47.189765772256,23.7078635429411,Cluj,Deal,1099,,Dealu Lupoaiei,Geomil 25000,Limba română,Dealul Lupoaiei,PDT,Limba română
+Valea Lupoiaca,lupoaică,4,45.073527591546,25.6493396684066,Dambovita,Vale,1502,,Valea Lupoiaca,Geomil 25000,Limba română
+Pădurea Lupoaia,lupoaie,3,44.9493182796817,25.5039752396293,Dambovita,Pădure,12399,,Pădurea Lupoaia,PDT,Limba română
+Valea Lupoaia,lupoaie,3,44.9661260659451,25.3355144685394,Dambovita,Vale,11069,,Valea Lupoaia,PDT,Limba română
+Măgura Lupoaicei,lupoaică,4,44.0204305557965,23.4499895773715,Dolj,Înălțime,3343,,Măgura Lupoaicei,PDT,Limba română
+Valea Lupoaicei,lupoaică,4,44.1968717338649,23.6719759971595,Dolj,Vale,3353,,Valea Lupoaicei,Geomil 25000,Limba română
+Valea Lupoaicei,lupoaică,4,44.3852824390603,23.6301811498708,Dolj,Vale,4705,,Valea Lupoaicei,Geomil 25000,Limba română
+Dosul Lupoaiei,lupoaie,3,44.3447716283231,23.4344866466258,Dolj,Înălțime,3370,,Dosul Lupoaiei,Geomil 25000,Limba română
+Valea Lupei,lupoaie,3,44.5696690586483,23.8667596836088,Dolj,Vale,387,,Valea Lupei,Geomil 25000,Limba română
+Valea Lupoaia,lupoaie,3,44.5171674009901,23.6789874005496,Dolj,Vale,11028,,Valea Lupoaia,PDT,Limba română
+Valea Lupoaiei,lupoaie,3,44.282927946154,23.5695714087029,Dolj,Vale,3362,,Valea Lupoaiei,Geomil 25000,Limba română
+Valea Lupoaiei,lupoaie,3,44.476722871901,23.4135896583103,Dolj,Vale,11367,,Valea Lupoaiei,Geomil 25000,Limba română
+Dealul Lupoaicei,lupoaică,4,44.7220229110805,23.6901159035178,Gorj,Deal,5150,,Dealul Lupoaicei,Geomil 25000,Limba română
+Valea Lupoaica Mare,lupoaică,4,44.879235622349,23.3684715512118,Gorj,Vale,12447,,Valea Lupoaica Mare,PDT,Limba română
+Valea Lupoaicei,lupoaică,4,44.7204774766499,23.6882791045794,Gorj,Vale,5151,5150,Valea Lupoaicei,Geomil 25000,Limba română
+Canalul Lupoaia,lupoaie,3,44.9966722401878,23.3262381496851,Gorj,Apă-deal-câmpie,3127,,Canalul Lupoaia,Geomil 25000,Limba română
+Culmea Lupoiței,lupoaie,3,44.849285036914,22.9376389751598,Gorj,Înălțime,216,217,Culmea Lupoiței,Geomil 25000,Limba română
+Dealu Lupoaia,lupoaie,3,44.8973676627838,23.0157901280975,Gorj,Deal,206,205,Dealu Lupoaia,Geomil 25000,Limba română
+Lunca Lupoaiei,lupoaie,3,44.8124375431368,22.9399987299593,Gorj,Apă-deal-câmpie,3670,3671,Lunca Lupoaiei,Geomil 25000,Limba română
+Lupoaia,lupoaie,3,44.8162404820775,22.9511176924312,Gorj,Localitate,3671,,Lupoaia,Geomil 25000,Limba română
+Lupoaia,lupoaie,3,44.839932652608,23.6137768471029,Gorj,Localitate,13950,,Lupoaia,PDT,Limba română
+Lupoița,lupoaie,3,44.8552209174988,22.9554692326453,Gorj,Localitate,217,,Lupoița,Geomil 25000,Limba română
+Piscul Lupoaiei,lupoaie,3,44.6275031627661,23.5974514982308,Gorj,Înălțime,8274,,Piscul Lupoaiei,PDT,Limba română
+Valea Lupoaia,lupoaie,3,44.9061043192447,23.0101466830391,Gorj,Vale,205,,Valea Lupoaia,Geomil 25000,Limba română
+Valea Lupoaiei,lupoaie,3,44.6249812726513,23.600060074413,Gorj,Vale,8273,8274,Valea Lupoaiei,PDT,Limba română
+Valea Lupoiței,lupoaie,3,44.842825688542,22.9551320306416,Gorj,Vale,218,217,Valea Lupoiței,Geomil 25000,Limba română
+Dealu Lupoaia,lupoaie,3,46.3382530827283,22.7950187398395,Hunedoara,Deal,5589,,Dealu Lupoaia,Geomil 25000,Limba română
+La Lupoaia,lupoaie,3,46.2048807765827,22.6769279049298,Hunedoara,Altele,11824,,La Lupoaia,ANCPI,Limba română
+Movila Lupoaielor,lupoaie,3,44.6271811491897,27.2808788517104,Ialomita,Înălțime,500,,Movila Lupoaielor,Geomil 25000,Limba română
+Balta Lupoaia,lupoaie,3,47.0916548592745,26.8699557770917,Iasi,Apă-deal-câmpie,8883,,Balta Lupoaia,PDT,Limba română
+Obcina Lupoaiei,lupoaie,3,47.4297279921599,23.9468116634222,Maramures,Înălțime,4441,,Obcina Lupoaiei,Geomil 25000,Limba română,Obcina Lupoaiei,PDT,Limba română
+Dealul Lupoaiei,lupoaie,3,44.9333436431217,22.8693246573524,Mehedinti,Deal,202,,Dealul Lupoaiei,Geomil 25000,Limba română
+Pădurea Lupoaiei,lupoaie,3,46.3837932174665,24.6469003953887,Mures,Pădure,4363,,Pădurea Lupoaiei,Geomil 25000,Limba română
+Pădurea Lupoaiei,lupoaie,3,46.7730932655331,27.0892000075031,Neamt,Pădure,1615,,Pădurea Lupoaiei,Geomil 25000,Limba română
+Poiana Lupoaei,lupoaie,3,47.144095701033,25.8969522878526,Neamt,Poiană,6456,,Poiana Lupoaei,PDT,Limba română
+Valea Lupoaicei,lupoaică,4,44.3082920094638,24.5377335025332,Olt,Vale,2996,,Valea Lupoaicei,Geomil 25000,Limba română
+Dealul Lupoaia,lupoaie,3,44.6786226491793,24.741876542064,Olt,Deal,3404,1406,Dealul Lupoaia,PDT,Limba română
+Lupoaia,lupoaie,3,44.4194712063195,23.9511595177952,Olt,Altele,269,,Lupoaia,Geomil 25000,Limba română
+Vâlceaua Lupeasca,lupoaie,3,44.4817182879303,24.6512366385724,Olt,Vale,308,,Vâlceaua Lupeasca,Geomil 25000,Limba română
+Valea Lupoaia,lupoaie,3,44.6311316708771,24.6601887759575,Olt,Vale,3046,,Valea Lupoaia,Geomil 25000,Limba română
+Valea Lupoaia,lupoaie,3,44.5050843811276,24.687953147433,Olt,Vale,1368,,Valea Lupoaia,Geomil 25000,Limba română
+Valea Lupoaia,lupoaie,3,44.7061209792576,24.4200115732186,Olt,Vale,1992,,Valea Lupoaia,Geomil 25000,Limba română
+Valea Lupoaiei,lupoaie,3,44.4659367934108,23.9820040411846,Olt,Vale,2964,,Valea Lupoaiei,Geomil 25000,Limba română
+Muchia Lupoii,lupoaie,3,45.3275018810995,26.1409929680553,Prahova,Înălțime,1579,,Muchia Lupoii,Geomil 25000,Limba română
+Plauil Lupoaia,lupoaie,3,45.1319202374469,26.4067450453014,Prahova,Înălțime,3973,,Plauil Lupoaia,Geomil 25000,Limba română
+Lupoaia,lupoaie,3,47.1917721023592,23.250761531575,Salaj,Localitate,5936,,Lupoaia,Geomil 25000,Limba română
+Piciorul Lupoaicei,lupoaică,4,47.8865923221291,23.5209118029104,Satu Mare,Înălțime,4465,,Piciorul Lupoaicei,Geomil 25000,Limba română
+Culmea Lupoii,lupoaie,3,47.4943942271585,22.9915193140245,Satu Mare,Înălțime,4411,,Culmea Lupoii,Geomil 25000,Limba română
+Dealul Lupoaia Mare,lupoaie,3,46.1819879478765,24.5160727144921,Sibiu,Deal,1901,1902,Dealul Lupoaia Mare,Geomil 25000,Limba română
+Lupoaia,lupoaie,3,45.6766234917294,24.6073518523396,Sibiu,Vale,11881,,Lupoaia,Geomil 25000,Limba română
+Lupoaia Mică,lupoaie,3,46.1978343354532,24.5383831723103,Sibiu,Deal,8626,1902,Lupoaia Mică,PDT,Limba română
+Pârâul Lupoaia Mare,lupoaie,3,46.1888892556781,24.5299068860006,Sibiu,Vale,8624,1902,Pârâul Lupoaia Mare,PDT,Limba română,Lupoaia Mare,Geomil 25000,Limba română
+Lupoaia,lupoaie,3,47.6891871377518,25.6196714333021,Suceava,Înălțime,2281,,Lupoaia,Geomil 25000,Limba română
+Lupoaia,lupoaie,3,47.6745701034039,25.6124312378542,Suceava,Vale,1852,1851,Lupoaia,Geomil 25000,Limba română
+Pârâul Lupoae,lupoaie,3,47.4314813513672,25.9975683401844,Suceava,Vale,9072,,Pârâul Lupoae,PDT,Limba română
+Poiana Lupoaia,lupoaie,3,47.6783257976619,25.6168680720029,Suceava,Poiană,1851,,Poiana Lupoaia,Geomil 25000,Limba română
+Dealu Lupoaia,lupoaie,3,44.8816848520817,24.1016308632707,Valcea,Deal,5212,,Dealu Lupoaia,Geomil 25000,Limba română
+Dealu Lupoii,lupoaie,3,44.9725124482099,24.1463839256641,Valcea,Deal,365,,Dealu Lupoii,Geomil 25000,Limba română
+Dealul Lupoaia,lupoaie,3,44.7115761325381,23.7570245667994,Valcea,Deal,8266,,Dealul Lupoaia,PDT,Limba română
+Lupoaia,lupoaie,3,44.8782308733672,24.115331436196,Valcea,Localitate,5211,5212,Lupoaia,Geomil 25000,Limba română
+Ogașul Lupoaia,lupoaie,3,44.7087764811595,23.7554064338844,Valcea,Vale,8267,8266,Ogașul Lupoaia,PDT,Limba română
+Valea Lupoaia,lupoaie,3,44.5872148891496,24.054769734538,Valcea,Vale,5213,,Valea Lupoaia,Geomil 25000,Limba română
+Valea Lupoaia,lupoaie,3,44.9676783424361,23.9352082107977,Valcea,Vale,9379,3098,Valea Lupoaia,PDT,Limba română
+Valea Lupoaia,lupoaie,3,44.5566924501721,24.0368423245466,Valcea,Vale,266,,Valea Lupoaia,Geomil 25000,Limba română
+Valea Lupoaia,lupoaie,3,44.6479488715425,23.8386252074464,Valcea,Vale,8290,,Valea Lupoaia,PDT,Limba română
+Dealul Lupoaicei,lupoaică,4,46.8782779444126,27.7905911981559,Vaslui,Deal,14112,,Dealul Lupoaicei,Geomil 25000,Limba română
+Dealul Lupoaiei,lupoaie,3,46.7424077725642,27.4642100545972,Vaslui,Deal,11296,,Dealul Lupoaiei,Geomil 25000,Limba română
+Dealul Lupoaiei,lupoaie,3,46.4891540048704,27.6093243107644,Vaslui,Deal,7281,,Dealul Lupoaiei,Geomil 25000,Limba română
+Valea Lupoaiei,lupoaie,3,46.4815338792879,27.6054429717577,Vaslui,Vale,9502,7281,Valea Lupoaiei,Geomil 25000,Limba română
+Valea Lupoaiei,lupoaie,3,46.589633284859,27.3505894086347,Vaslui,Vale,7861,,Valea Lupoaiei,Geomil 25000,Limba română
+Valea Lupoaiei,lupoaie,3,46.351035946826,27.6502707892536,Vaslui,Vale,12903,,Valea Lupoaiei,Geomil 25000,Limba română
+Coasta Lupoaicei,lupoaică,4,45.5615357261612,27.0594401263859,Vrancea,Înălțime,2150,,Coasta Lupoaicei,Geomil 25000,Limba română
+Lupoaia,lupoaie,3,45.5484970887718,26.9029754987624,Vrancea,Înălțime,570,,Lupoaia,Geomil 25000,Limba română
+Lupoaia,lupoaie,3,45.5431850852372,26.9136707027291,Vrancea,Localitate,571,570,Lupoaia,Geomil 25000,Limba română
+Pădurea Lupoaica,lupoaie,3,45.4926707351708,27.0085031796827,Vrancea,Pădure,568,,Pădurea Lupoaica,Geomil 25000,Limba română

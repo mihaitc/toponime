@@ -1,0 +1,9 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Pârâu Șoarecilor,șoareci,2,46.5380654238994,22.2795559539081,Bihor,Vale,6998,,Pârâu Șoarecilor,Geomil 25000,Limba română
+Șoarecele,șoareci,2,44.9083234512002,27.9040365321356,Braila,Altele,3195,,Șoarecele,Geomil 25000,Limba română
+Pârâul Șoarecului,șoareci,2,46.5596142974679,25.8533671638382,Harghita,Vale,10047,,Pârâul Șoarecului,PDT,Limba română
+Valea Șoarecilor,șoareci,2,44.5169117884462,23.0128540641073,Mehedinti,Vale,436,,Valea Șoarecilor,Geomil 25000,Limba română
+Pădurea Șoarecelui,șoareci,2,46.9234156178694,26.6953763316661,Neamt,Pădure,2046,,Pădurea Șoarecelui,Geomil 25000,Limba română
+Valea Șoricelului,șoareci,2,47.4117926308532,22.755048994103,Satu Mare,Vale,2616,,Valea Șoricelului,Geomil 25000,Limba română
+Pârâul Șoarecului,șoareci,2,47.724858873208,25.7532057777479,Suceava,Vale,7252,7251,Pârâul Șoarecului,PDT,Limba română
+Șoarecul,șoareci,2,47.7362374735175,25.7319869470485,Suceava,Înălțime,7251,,Șoarecul,PDT,Limba română

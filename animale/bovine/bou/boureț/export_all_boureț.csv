@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Bourețul,boureț,4,45.5431661446992,24.8457358143648,Arges,Vale,5010,5009,Bourețul,Geomil 25000,Limba română
+Piscul Bourețului,boureț,4,45.5401079601328,24.8501975745574,Arges,Înălțime,5009,,Piscul Bourețului,Geomil 25000,Limba română

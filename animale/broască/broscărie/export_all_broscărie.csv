@@ -1,0 +1,18 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Broscărie,broscărie,3,48.1038978227237,26.8143339925469,Botosani,Altele,2400,,Broscărie,Geomil 25000,Limba română
+Dealul Broscăriei,broscărie,3,47.9813729539171,27.0172243381122,Botosani,Deal,2396,1821,Dealul Broscăriei,Geomil 25000,Limba română
+La Broscărie,broscărie,3,48.2162774642329,26.7590748986558,Botosani,Altele,2330,,La Broscărie,Geomil 25000,Limba română
+Lacul Broscăria,broscărie,3,47.8509645659659,26.7462819141018,Botosani,Lac,3574,,Lacul Broscăria,PDT,Limba română
+Valea Broscăriei,broscărie,3,47.9836079604998,27.0460496124828,Botosani,Vale,1821,,Valea Broscăriei,Geomil 25000,Limba română
+Valea Broscăriei,broscărie,3,47.7291691027665,26.7322794502328,Botosani,Vale,1824,,Valea Broscăriei,Geomil 25000,Limba română
+Broscărie,broscărie,3,45.0626290305776,26.8927692716165,Buzau,Apă-deal-câmpie,11262,,Broscărie,Geomil 25000,Limba română
+Balta Broscăria,broscărie,3,43.9084683588775,23.1952490984911,Dolj,Apă-deal-câmpie,11798,,Balta Broscăria,PDT,Limba română
+Balta Broscăria,broscărie,3,43.9024981566786,23.5736145056071,Dolj,Apă-deal-câmpie,11804,,Balta Broscăria,PDT,Limba română
+Dealul Broscăriei,broscărie,3,47.3846055087391,26.9932257134853,Iasi,Deal,11631,,Dealul Broscăriei,Geomil 25000,Limba română
+La Broscărie,broscărie,3,47.2540077761627,27.4946919568068,Iasi,Altele,4843,,La Broscărie,Geomil 25000,Limba română
+Valea Broscăriei,broscărie,3,47.3981913592088,26.9809035309918,Iasi,Vale,2443,11631,Valea Broscăriei,Geomil 25000,Limba română
+Valea Broscăriei,broscărie,3,47.0679943214051,25.0219008295503,Mures,Vale,13398,,Valea Broscăriei,Imperiul Habsburgic (1887),Limba română
+Lacul Broscăriei,broscărie,3,43.9076414715847,24.9630380601753,Teleorman,Lac,12427,,Lacul Broscăriei,PDT,Limba română
+La Broscărie,broscărie,3,45.0110454400591,24.4828538394447,Valcea,Altele,12278,,La Broscărie,Geomil 25000,Limba română
+Lacul Broscăria,broscărie,3,46.3122036153033,28.1794499038369,Vaslui,Lac,10918,,Lacul Broscăria,Moldova (1892-1898),Limba română,Balta Broscăriei,Geomil 25000,Limba română
+La Broscărie,broscărie,3,45.7596193054362,27.2120008237748,Vrancea,Altele,13335,,La Broscărie,Geomil 25000,Limba română

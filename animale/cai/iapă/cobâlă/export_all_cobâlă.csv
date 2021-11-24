@@ -1,0 +1,12 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Cobâla,cobâlă,4,47.9314936901392,26.3646464262741,Botosani,Localitate,4906,1806,Cobâla,PDT,Limba română
+Dealul Cobâli,cobâlă,4,47.9292505581008,26.4175333060786,Botosani,Deal,4912,,Dealul Cobâli,Geomil 25000,Limba română
+Iazul Cobâlei,cobâlă,4,47.9258729771071,26.3545901575306,Botosani,Apă-deal-câmpie,2309,1806,Iazul Cobâlei,Geomil 25000,Limba română
+Valea Cobâlei,cobâlă,4,47.9376003393143,26.354209393638,Botosani,Vale,1806,,Valea Cobâlei,Geomil 25000,Limba română
+Cobia,cobia,5,44.7930705266515,25.3362871257124,Dambovita,Localitate,10126,,Cobia,Geomil 25000,Limba română
+Dealu Cobia,cobia,5,44.8850693484965,25.3220147120742,Dambovita,Deal,10130,,Dealu Cobia,Geomil 25000,Limba română
+Pârâul Cobia,cobia,5,44.8813646880003,25.3215914007142,Dambovita,Vale,10132,10130,Pârâul Cobia,PDT,Limba română
+Valea Cobia,cobia,5,44.9272464578355,25.2947005536056,Dambovita,Vale,7459,10130,Valea Cobia,Geomil 25000,Limba română
+Pădurea Cobia,cobia,5,44.1504958446798,23.7367955365345,Dolj,Pădure,7716,,Pădurea Cobia,PDT,Limba română,Pădurea Cobia,Geomil 25000,Limba română
+Dealul Cobiei,cobia,5,44.0556025582967,25.0355215279756,Teleorman,Deal,11187,,Dealul Cobiei,ANCPI,Limba română,Dealu Cobiei,Geomil 25000,Limba română
+Valea Cobiei,cobia,5,44.0546662776309,25.0186556842886,Teleorman,Vale,9048,11187,Valea Cobiei,PDT,Limba română

@@ -1,0 +1,18 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Vidra,vidră,2,46.3698578888337,22.8916887652419,Alba,Localitate,12735,,Vidra,Geomil 25000,Limba română
+Valea Vidrei,vidră,2,46.34894797408,22.5108133726799,Arad,Vale,12510,5597,Valea Vidrei,Geomil 25000,Limba română
+Vidra,vidră,2,46.324686083856,22.510827680317,Arad,Localitate,5597,,Vidra,Geomil 25000,Limba română
+Pârâu Vidrișoara,vidrișoară,3,46.3288972068926,22.5028155219821,Arad,Vale,5598,5597,Pârâu Vidrișoara,Geomil 25000,Limba română
+Culmea Vidrei,vidră,2,45.3855656377857,24.6358491204913,Arges,Înălțime,10178,10177,Culmea Vidrei,Geomil 25000,Limba română
+Valea Vidrei,vidră,2,45.3834904671404,24.636790179238,Arges,Vale,10177,,Valea Vidrei,Geomil 25000,Limba română
+Huda Vidrii,vidră,2,46.6350047863289,22.7609148737942,Bihor,Altele,5619,,Huda Vidrii,Geomil 25000,Limba română
+Izvorul Vidrei,vidră,2,47.411369918142,24.5489911131835,Bistrita Nasaud,Vale,7079,,Izvorul Vidrei,Geomil 25000,Limba română
+Izvorul Vidrelor,vidre,2,45.6012745148169,26.2340460200767,Buzau,Altele,797,,Izvorul Vidrelor,Geomil 25000,Limba română
+ур. Вудра (Vidra),vidră,2,44.1566873278958,27.4541134581209,Calarasi,Apă-deal-câmpie,11690,,ур. Вудра,Sovietică,Limba română
+Cracu Vidrei,vidră,2,45.4236464069286,22.5408702780224,Caras Severin,Înălțime,6097,6098,Cracu Vidrei,Geomil 25000,Limba română
+Valea Vidra,vidră,2,45.425335826643,22.5296808943957,Caras Severin,Vale,6098,,Valea Vidra,Geomil 25000,Limba română
+Vidra,vidră,2,44.265824199589,26.1527699911595,Ilfov,Localitate,9991,,Vidra,Geomil 25000,Limba română,Vidra,Austriacă,Limba română,Vidra,PDT,Limba română
+Valea Vidra,vidră,2,47.738498428045,23.6403808061484,Maramures,Vale,11518,,Valea Vidra,Geomil 25000,Limba română
+Pârâul Vidroiului,vidroi,3,47.2338188573063,25.7595335949744,Suceava,Vale,6417,,Pârâul Vidroiului,PDT,Limba română
+Valea Vidrei,vidră,2,45.9442257307059,26.80803409557,Vrancea,Vale,5273,,Valea Vidrei,Geomil 25000,Limba română,Valea Vidrei,PDT,Limba română
+Vidra,vidră,2,45.9093274329685,26.8988880734584,Vrancea,Localitate,5274,5273,Vidra,Geomil 25000,Limba română
