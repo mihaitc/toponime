@@ -1,24 +1,24 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Via Munteanului,muntean,3,46.9096203813949,27.9143008260711,Iasi,Altele,1701,Via Munteanului,Geomil 25000,Limba română,Piscul via Munteanului,PDT,Limba română
-Dealul Munteanului,muntean,3,46.1939130270366,27.2658501526681,Vrancea,Deal,1718,Dealul Munteanului,Geomil 25000,Limba română
-Valea Munteanului,muntean,3,46.1053674452025,27.0641770778196,Bacau,Vale,1731,Valea Munteanului,Geomil 25000,Limba română
-Gaura Munteanului,muntean,3,46.0696004845731,24.4641422377058,Sibiu,Altele,1896,Gaura Munteanului,Geomil 25000,Limba română
-Fântâna Munteanului,muntean,3,47.0325976454781,26.3652322101066,Neamt,Altele,3856,Fântâna Munteanului,PDT,Limba română
-Cotu Munteanului,muntean,3,46.9240682290211,26.9808022546625,Neamt,Altele,3892,Cotu Munteanului,PDT,Limba română
-Poiana Munteanului,muntean,3,46.3897014457926,26.4410223306115,Bacau,Poiană,4590,Poiana Munteanului,PDT,Limba română
-Hârtopul Munteanului,muntean,3,47.2602100959235,27.4181274241702,Iasi,Altele,4840,Hârtopul Munteanului,PDT,Limba română
-Valea Munteanului,muntean,3,44.1707729401156,23.6718793820074,Dolj,Vale,5176,Valea Munteanului,Geomil 25000,Limba română
-La Munteanu,muntean,3,45.5529115980226,21.9246306207131,Timis,Înălțime,5682,La Munteanu,Geomil 25000,Limba română
 Dosu Munteanului,muntean,3,46.0549926710728,21.8226377438961,Arad,Înălțime,6308,Dosu Munteanului,Geomil 25000,Limba română
-Piciorul Munteanului,muntean,3,47.1524787163625,25.625347923055,Suceava,Înălțime,6448,Piciorul Munteanului,PDT,Limba română
-Fântâna Munteanului,muntean,3,44.2050590039579,24.0573925771641,Dolj,Altele,7730,Fântâna Munteanului,PDT,Limba română
-Valea Munteanului,muntean,3,45.5938011475445,25.3211716738065,Brasov,Vale,8558,Valea Munteanului,PDT,Limba română
-Munteanul,muntean,3,45.5251550709837,25.2867101989832,Brasov,Localitate,8580,Munteanul,PDT,Limba română
-Poiana Munteanului,muntean,3,45.4970232474981,26.9422268165944,Buzau,Poiană,8744,Poiana Munteanului,PDT,Limba română
-Muntean,muntean,3,45.7241796066055,22.4865480615255,Hunedoara,Înălțime,9017,Muntean,PDT,Limba română
-Dealul Munteanul,muntean,3,45.9960227974036,26.8224865836471,Vrancea,Deal,9190,Dealul Munteanul,PDT,Limba română,Dealul Munteanului,Geomil 25000,Limba română
-Măgura Munteanului,muntean,3,43.9169273073796,25.0070402508422,Teleorman,Înălțime,9460,Măgura Munteanului,Geomil 25000,Limba română
-Fântâna Munteanului,muntean,3,46.9709184962304,27.5524719645071,Iasi,Altele,9855,Fântâna Munteanului,Moldova (1892-1898),Limba română
-Dealul Munteanului,muntean,3,45.9283514088543,24.3851306526613,Sibiu,Deal,10624,Dealul Munteanului,Imperiul Habsburgic (1887),Limba română
+Poiana Munteanului,muntean,3,46.3897014457926,26.4410223306115,Bacau,Poiană,4590,Poiana Munteanului,PDT,Limba română
 Poiana Munteanului,muntean,3,46.4662774214583,27.3534681443909,Bacau,Poiană,11547,Poiana Munteanului,Geomil 25000,Limba română
+Valea Munteanului,muntean,3,46.1053674452025,27.0641770778196,Bacau,Vale,1731,Valea Munteanului,Geomil 25000,Limba română
+Munteanul,muntean,3,45.5251550709837,25.2867101989832,Brasov,Localitate,8580,Munteanul,PDT,Limba română
+Valea Munteanului,muntean,3,45.5938011475445,25.3211716738065,Brasov,Vale,8558,Valea Munteanului,PDT,Limba română
+Poiana Munteanului,muntean,3,45.4970232474981,26.9422268165944,Buzau,Poiană,8744,Poiana Munteanului,PDT,Limba română
+Fântâna Munteanului,muntean,3,44.2050590039579,24.0573925771641,Dolj,Altele,7730,Fântâna Munteanului,PDT,Limba română
+Valea Munteanului,muntean,3,44.1707729401156,23.6718793820074,Dolj,Vale,5176,Valea Munteanului,Geomil 25000,Limba română
+Muntean,muntean,3,45.7241796066055,22.4865480615255,Hunedoara,Înălțime,9017,Muntean,PDT,Limba română
 Cotul Munteanului,muntean,3,47.2132702517245,27.7392384989838,Iasi,Apă-deal-câmpie,11625,Cotul Munteanului,Geomil 25000,Limba română
+Fântâna Munteanului,muntean,3,46.9709184962304,27.5524719645071,Iasi,Altele,9855,Fântâna Munteanului,Moldova (1892-1898),Limba română
+Hârtopul Munteanului,muntean,3,47.2602100959235,27.4181274241702,Iasi,Altele,4840,Hârtopul Munteanului,PDT,Limba română
+Via Munteanului,muntean,3,46.9096203813949,27.9143008260711,Iasi,Altele,1701,Via Munteanului,Geomil 25000,Limba română,Piscul via Munteanului,PDT,Limba română
+Cotu Munteanului,muntean,3,46.9240682290211,26.9808022546625,Neamt,Altele,3892,Cotu Munteanului,PDT,Limba română
+Fântâna Munteanului,muntean,3,47.0325976454781,26.3652322101066,Neamt,Altele,3856,Fântâna Munteanului,PDT,Limba română
+Dealul Munteanului,muntean,3,45.9283514088543,24.3851306526613,Sibiu,Deal,10624,Dealul Munteanului,Imperiul Habsburgic (1887),Limba română
+Gaura Munteanului,muntean,3,46.0696004845731,24.4641422377058,Sibiu,Altele,1896,Gaura Munteanului,Geomil 25000,Limba română
+Piciorul Munteanului,muntean,3,47.1524787163625,25.625347923055,Suceava,Înălțime,6448,Piciorul Munteanului,PDT,Limba română
+Măgura Munteanului,muntean,3,43.9169273073796,25.0070402508422,Teleorman,Înălțime,9460,Măgura Munteanului,Geomil 25000,Limba română
+La Munteanu,muntean,3,45.5529115980226,21.9246306207131,Timis,Înălțime,5682,La Munteanu,Geomil 25000,Limba română
+Dealul Munteanul,muntean,3,45.9960227974036,26.8224865836471,Vrancea,Deal,9190,Dealul Munteanul,PDT,Limba română,Dealul Munteanului,Geomil 25000,Limba română
+Dealul Munteanului,muntean,3,46.1939130270366,27.2658501526681,Vrancea,Deal,1718,Dealul Munteanului,Geomil 25000,Limba română

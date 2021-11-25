@@ -1,24 +1,24 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Măgura Cocor,cocor,2,43.7330227398578,25.168461140293,Teleorman,Înălțime,321,Măgura Cocor,Geomil 25000,Limba română
-Măgura Cocorului,cocor,2,43.926615962269,23.2712065776162,Dolj,Înălțime,1306,Măgura Cocorului,Geomil 25000,Limba română
-Lacul Cocorului,cocor,2,44.3691598848297,26.7174838984474,Calarasi,Lac,3281,Lacul Cocorului,PDT,Limba română
-Grindul Cocorului,cocor,2,43.7233036105267,24.1507601976801,Olt,Apă-deal-câmpie,3329,Grindul Cocorului,PDT,Limba română
-Prundul Cocorilor,cocor,2,43.7116881371765,24.6884314570336,Olt,Apă-deal-câmpie,3334,Prundul Cocorilor,PDT,Limba română
-Lacul Cocorului,cocor,2,44.2115835038168,23.5901379282999,Dolj,Lac,3358,Lacul Cocorului,PDT,Limba română
-Valea Cocorul,cocor,2,43.7855594484711,25.5438807735542,Teleorman,Vale,3416,Valea Cocorul,PDT,Limba română
-Fântâna la Cocori,cocor,2,44.3913677273548,25.8679468201209,Ilfov,Altele,3751,Fântâna la Cocori,PDT,Limba română
-Balta Cocorul,cocor,2,43.8376084785717,23.1532909540899,Dolj,Apă-deal-câmpie,3814,Balta Cocorul,PDT,Limba română
 Pădurea Cocorului,cocor,2,44.7290827784985,24.5879124744704,Arges,Pădure,4784,Pădurea Cocorului,PDT,Limba română,Pădurea Cocorului,Geomil 25000,Limba română
 Dealul Cocorilor,cocor,2,46.2798446672178,26.7214521282832,Bacau,Deal,5331,Dealul Cocorilor,Geomil 25000,Limba română
-Dealu Cocor,cocor,2,45.9065923380335,21.2679641897004,Timis,Deal,5653,Dealu Cocor,Geomil 25000,Limba română
-Lacul Cocorului,cocor,2,44.6044865315006,22.8133167425631,Mehedinti,Lac,8072,Lacul Cocorului,PDT,Limba română
-Piscul Cocorului,cocor,2,44.9376807349548,23.9244875279339,Valcea,Înălțime,8438,Piscul Cocorului,PDT,Limba română
-Dealul Lacul Cocorilor,cocor,2,43.9186116954508,28.5426451782418,Constanta,Deal,9310,Dealul Lacul Cocorilor,PDT,Limba română
+Lacul Cocorului,cocor,2,44.3691598848297,26.7174838984474,Calarasi,Lac,3281,Lacul Cocorului,PDT,Limba română
 Lacul Cocorului,cocor,2,44.2894523814502,26.5764584060386,Calarasi,Lac,9986,Lacul Cocorului,PDT,Limba română
 Lacul Cocorului,cocor,2,44.3179747266389,26.6101790275837,Calarasi,Lac,9987,Lacul Cocorului,PDT,Limba română
+Dealul Lacul Cocorilor,cocor,2,43.9186116954508,28.5426451782418,Constanta,Deal,9310,Dealul Lacul Cocorilor,PDT,Limba română
+Valea Cocorilor,cocor,2,43.8366900403419,28.2375033943008,Constanta,Vale,13641,Valea Cocorilor,Geomil 25000,Limba română
+Balta Cocorul,cocor,2,43.8376084785717,23.1532909540899,Dolj,Apă-deal-câmpie,3814,Balta Cocorul,PDT,Limba română
+Lacul Cocorului,cocor,2,44.2115835038168,23.5901379282999,Dolj,Lac,3358,Lacul Cocorului,PDT,Limba română
+Măgura Cocorului,cocor,2,43.926615962269,23.2712065776162,Dolj,Înălțime,1306,Măgura Cocorului,Geomil 25000,Limba română
 Piscu Cocorului,cocor,2,44.783911349926,23.702314593325,Gorj,Înălțime,10694,Piscu Cocorului,Geomil 25000,Limba română
+Valea Cocorului,cocor,2,44.8454912989861,23.5572078082317,Gorj,Vale,13952,Valea Cocorului,PDT,Limba română
+Fântâna la Cocori,cocor,2,44.3913677273548,25.8679468201209,Ilfov,Altele,3751,Fântâna la Cocori,PDT,Limba română
+Lacul Cocorului,cocor,2,44.6044865315006,22.8133167425631,Mehedinti,Lac,8072,Lacul Cocorului,PDT,Limba română
 Lacul Cocorului,cocor,2,44.3438136601738,23.1280438583693,Mehedinti,Lac,11023,Lacul Cocorului,PDT,Limba română
 Valea Cocorului,cocor,2,44.5367770904546,23.0619166151767,Mehedinti,Vale,12188,Valea Cocorului,Geomil 25000,Limba română
 Pârâul Cocorilor,cocor,2,47.0542140548221,25.2060883619159,Mures,Vale,12866,Pârâul Cocorilor,Geomil 25000,Limba română
-Valea Cocorilor,cocor,2,43.8366900403419,28.2375033943008,Constanta,Vale,13641,Valea Cocorilor,Geomil 25000,Limba română
-Valea Cocorului,cocor,2,44.8454912989861,23.5572078082317,Gorj,Vale,13952,Valea Cocorului,PDT,Limba română
+Grindul Cocorului,cocor,2,43.7233036105267,24.1507601976801,Olt,Apă-deal-câmpie,3329,Grindul Cocorului,PDT,Limba română
+Prundul Cocorilor,cocor,2,43.7116881371765,24.6884314570336,Olt,Apă-deal-câmpie,3334,Prundul Cocorilor,PDT,Limba română
+Măgura Cocor,cocor,2,43.7330227398578,25.168461140293,Teleorman,Înălțime,321,Măgura Cocor,Geomil 25000,Limba română
+Valea Cocorul,cocor,2,43.7855594484711,25.5438807735542,Teleorman,Vale,3416,Valea Cocorul,PDT,Limba română
+Dealu Cocor,cocor,2,45.9065923380335,21.2679641897004,Timis,Deal,5653,Dealu Cocor,Geomil 25000,Limba română
+Piscul Cocorului,cocor,2,44.9376807349548,23.9244875279339,Valcea,Înălțime,8438,Piscul Cocorului,PDT,Limba română

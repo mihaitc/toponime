@@ -1,37 +1,37 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Plaiul Piatra Ungureanului,ungurean,3,46.7624356248483,26.0376317036938,Neamt,Altele,680,Plaiul Piatra Ungureanului,Geomil 25000,Limba română,Plaiul Peatra Ungureanului,PDT,Limba română
-Vârgul Ungureanu,ungurean,3,46.2233515236915,26.5381160909786,Bacau,Înălțime,689,Vârful Ungurului,Geomil 25000,Limba română,Vârgul Ungureanu,PDT,Limba română
-Măgura Ungureanului,ungurean,3,43.8395738900612,25.2802950742799,Teleorman,Înălțime,1388,Măgura Ungureanului,Geomil 25000,Limba română
 Poiana Ungureanului,ungurean,3,45.2517408230778,24.6267814980525,Arges,Poiană,1431,Poiana Ungureanului,Geomil 25000,Limba română
-Plaiu Ungureanului,ungurean,3,44.9729652746426,25.588825346609,Dambovita,Înălțime,1537,Plaiu Ungureanului,Geomil 25000,Limba română,Măgura Ungureanului,PDT,Limba română
-Grădina lui Ungureanu,ungurean,3,46.985038525049,25.617746703251,Harghita,Altele,1885,Grădina lui Ungureanu,Geomil 25000,Limba română
-Valea Ungureanului,ungurean,3,47.6562682937179,27.0679935444418,Botosani,Vale,2381,Valea Ungureanului,Geomil 25000,Limba română
-Valea Ungureanului,ungurean,3,44.147640076078,23.9535631873814,Dolj,Vale,3015,Valea Ungureanului,Geomil 25000,Limba română,Valea Ungureanului,PDT,Limba română
-Dealu Ungureanului,ungurean,3,44.8803913001531,22.7675405428498,Mehedinti,Deal,3688,Dealu Ungureanului,Geomil 25000,Limba română
-Pârâul Ungureanului,ungurean,3,47.1947437758674,26.42772576509,Neamt,Vale,3882,Pârâul Ungureanului,PDT,Limba română
-Fântâna Ungureanului,ungurean,3,47.2614124619104,26.4872725355604,Neamt,Altele,3888,Fântâna Ungureanului,PDT,Limba română
-Puțul Ungureanului,ungurean,3,44.6625839452568,25.9224022117801,Dambovita,Altele,4244,Puțul Ungureanului,PDT,Limba română
-Pădurea Ungureanu,ungurean,3,47.9318838273,23.7321481929,Maramures,Pădure,4468,Pădurea Ungureanu,Geomil 25000,Limba română
-Puțul lui Ungureanu,ungurean,3,44.0277795254576,23.7069547857617,Dolj,Altele,4668,Puțul lui Ungureanu,PDT,Limba română
-Poiana Ungureanului,ungurean,3,48.05893489933,26.2466462425517,Botosani,Poiană,4899,Poiana Ungureanului,PDT,Limba română
-Pârâu Ungurean,ungurean,3,45.8818229964457,22.4332002432428,Hunedoara,Vale,6206,Pârâu Ungurean,Geomil 25000,Limba română
-Pârâul Ungureanul,ungurean,3,47.3611988625529,25.6209577990379,Suceava,Vale,6385,Pârâul Ungureanul,PDT,Limba română
-Plaiul Ungureanului,ungurean,3,47.3389563734695,25.5644537378411,Suceava,Înălțime,6393,Plaiul Ungureanului,PDT,Limba română
-Piatra Ungureanului,ungurean,3,47.1904460362914,25.7041894322797,Suceava,Înălțime,6452,Piatra Ungureanului,PDT,Limba română
-Podul lui Ungureanu,ungurean,3,47.945507614459,26.9360323019954,Botosani,Altele,6674,Podul lui Ungureanu,PDT,Limba română
-Valea Ungureanului,ungurean,3,44.0107387569644,24.3446982483167,Olt,Vale,7744,Valea Ungureanului,PDT,Limba română,Valea Ungureanului,Geomil 25000,Limba română
-Valea Ungureanului,ungurean,3,44.3519259204217,23.6469406755784,Dolj,Vale,8050,Valea Ungureanului,PDT,Limba română
-Poiana Ungureanului,ungurean,3,44.7684797946729,24.3849549056922,Olt,Poiană,8131,Poiana Ungureanului,PDT,Limba română
-Cioaca Ungureanului,ungurean,3,44.5630644661741,23.5709284823583,Dolj,Înălțime,8286,Cioaca Ungureanului,PDT,Limba română
-Dealul Ungureanului,ungurean,3,44.9816734185063,24.3570335092598,Valcea,Deal,8429,Dealul Ungureanului,PDT,Limba română,Dealu Ungureanului,Geomil 25000,Limba română
-Fântâna Ungureanului,ungurean,3,47.5007394242127,27.0267298621637,Botosani,Altele,8927,Fântâna Ungureanului,PDT,Limba română
 Dealul Ungureanului,ungurean,3,46.4709670126389,27.3907647294788,Bacau,Deal,9512,Dealul Ungureanului,PDT,Limba română
+Vârgul Ungureanu,ungurean,3,46.2233515236915,26.5381160909786,Bacau,Înălțime,689,Vârful Ungurului,Geomil 25000,Limba română,Vârgul Ungureanu,PDT,Limba română
+Fântâna Ungureanului,ungurean,3,47.5007394242127,27.0267298621637,Botosani,Altele,8927,Fântâna Ungureanului,PDT,Limba română
+Podul lui Ungureanu,ungurean,3,47.945507614459,26.9360323019954,Botosani,Altele,6674,Podul lui Ungureanu,PDT,Limba română
+Poiana Ungureanului,ungurean,3,48.05893489933,26.2466462425517,Botosani,Poiană,4899,Poiana Ungureanului,PDT,Limba română
 Târla Ungureanului,ungurean,3,48.214670988974,26.4926272341928,Botosani,Altele,9576,Târla Ungureanului,Moldova (1892-1898),Limba română
-Valea lui Ungureanu,ungurean,3,44.8339367406881,22.8904036283403,Mehedinti,Vale,9767,Valea lui Ungureanu,PDT,Limba română
-Fântâna Ungureanu,ungurean,3,47.0304541272761,27.5462816411568,Iasi,Altele,9858,Fântâna Ungureanu,PDT,Limba română
-Valea Ungureanului,ungurean,3,44.8637069392609,25.2083426510859,Dambovita,Vale,10137,Valea Ungureanului,PDT,Limba română
-Podireu Ungurianului,ungurean,3,47.2896569397045,25.6416325053778,Suceava,Înălțime,10733,Podireu Ungurianului,Moldova (1892-1898),Limba română
-Valea Ungureanului,ungurean,3,43.9888753520651,24.4688369790675,Olt,Vale,12222,Valea Ungureanului,Geomil 25000,Limba română
+Valea Ungureanului,ungurean,3,47.6562682937179,27.0679935444418,Botosani,Vale,2381,Valea Ungureanului,Geomil 25000,Limba română
 Dealul Ungureanului,ungurean,3,45.5033728582567,26.7152286152964,Buzau,Deal,12267,Dealul Ungureanului,Geomil 25000,Limba română
 Muchia Ungureanului,ungurean,3,45.3369410971023,26.4989282661766,Buzau,Înălțime,12990,Muchia Ungureanului,Geomil 25000,Limba română
+Plaiu Ungureanului,ungurean,3,44.9729652746426,25.588825346609,Dambovita,Înălțime,1537,Plaiu Ungureanului,Geomil 25000,Limba română,Măgura Ungureanului,PDT,Limba română
+Puțul Ungureanului,ungurean,3,44.6625839452568,25.9224022117801,Dambovita,Altele,4244,Puțul Ungureanului,PDT,Limba română
+Valea Ungureanului,ungurean,3,44.8637069392609,25.2083426510859,Dambovita,Vale,10137,Valea Ungureanului,PDT,Limba română
+Cioaca Ungureanului,ungurean,3,44.5630644661741,23.5709284823583,Dolj,Înălțime,8286,Cioaca Ungureanului,PDT,Limba română
+Puțul lui Ungureanu,ungurean,3,44.0277795254576,23.7069547857617,Dolj,Altele,4668,Puțul lui Ungureanu,PDT,Limba română
+Valea Ungureanului,ungurean,3,44.147640076078,23.9535631873814,Dolj,Vale,3015,Valea Ungureanului,Geomil 25000,Limba română,Valea Ungureanului,PDT,Limba română
+Valea Ungureanului,ungurean,3,44.3519259204217,23.6469406755784,Dolj,Vale,8050,Valea Ungureanului,PDT,Limba română
+Grădina lui Ungureanu,ungurean,3,46.985038525049,25.617746703251,Harghita,Altele,1885,Grădina lui Ungureanu,Geomil 25000,Limba română
+Pârâu Ungurean,ungurean,3,45.8818229964457,22.4332002432428,Hunedoara,Vale,6206,Pârâu Ungurean,Geomil 25000,Limba română
+Fântâna Ungureanu,ungurean,3,47.0304541272761,27.5462816411568,Iasi,Altele,9858,Fântâna Ungureanu,PDT,Limba română
+Pădurea Ungureanu,ungurean,3,47.9318838273,23.7321481929,Maramures,Pădure,4468,Pădurea Ungureanu,Geomil 25000,Limba română
+Dealu Ungureanului,ungurean,3,44.8803913001531,22.7675405428498,Mehedinti,Deal,3688,Dealu Ungureanului,Geomil 25000,Limba română
+Valea lui Ungureanu,ungurean,3,44.8339367406881,22.8904036283403,Mehedinti,Vale,9767,Valea lui Ungureanu,PDT,Limba română
+Fântâna Ungureanului,ungurean,3,47.2614124619104,26.4872725355604,Neamt,Altele,3888,Fântâna Ungureanului,PDT,Limba română
+Pârâul Ungureanului,ungurean,3,47.1947437758674,26.42772576509,Neamt,Vale,3882,Pârâul Ungureanului,PDT,Limba română
+Plaiul Piatra Ungureanului,ungurean,3,46.7624356248483,26.0376317036938,Neamt,Altele,680,Plaiul Piatra Ungureanului,Geomil 25000,Limba română,Plaiul Peatra Ungureanului,PDT,Limba română
+Poiana Ungureanului,ungurean,3,44.7684797946729,24.3849549056922,Olt,Poiană,8131,Poiana Ungureanului,PDT,Limba română
+Valea Ungureanului,ungurean,3,44.0107387569644,24.3446982483167,Olt,Vale,7744,Valea Ungureanului,PDT,Limba română,Valea Ungureanului,Geomil 25000,Limba română
+Valea Ungureanului,ungurean,3,43.9888753520651,24.4688369790675,Olt,Vale,12222,Valea Ungureanului,Geomil 25000,Limba română
+Pârâul Ungureanul,ungurean,3,47.3611988625529,25.6209577990379,Suceava,Vale,6385,Pârâul Ungureanul,PDT,Limba română
+Piatra Ungureanului,ungurean,3,47.1904460362914,25.7041894322797,Suceava,Înălțime,6452,Piatra Ungureanului,PDT,Limba română
+Plaiul Ungureanului,ungurean,3,47.3389563734695,25.5644537378411,Suceava,Înălțime,6393,Plaiul Ungureanului,PDT,Limba română
+Podireu Ungurianului,ungurean,3,47.2896569397045,25.6416325053778,Suceava,Înălțime,10733,Podireu Ungurianului,Moldova (1892-1898),Limba română
+Măgura Ungureanului,ungurean,3,43.8395738900612,25.2802950742799,Teleorman,Înălțime,1388,Măgura Ungureanului,Geomil 25000,Limba română
 Puțul Ungureanului,ungurean,3,44.4900197744895,25.1595886086672,Teleorman,Altele,14180,Puțul Ungureanului,PDT,Limba română
+Dealul Ungureanului,ungurean,3,44.9816734185063,24.3570335092598,Valcea,Deal,8429,Dealul Ungureanului,PDT,Limba română,Dealu Ungureanului,Geomil 25000,Limba română

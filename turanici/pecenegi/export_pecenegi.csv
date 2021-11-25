@@ -1,15 +1,15 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
-Dealul Bejeneu,bejeneu,4,47.3363065568848,24.756823241633,Bistrita Nasaud,Deal,6362,Dealul Bejeneu,Geomil 25000,Limba română
-Alt Bessenova (Beșenova Veche),beșenova,4,46.0443612665778,20.4745401727599,Timis,Localitate,7629,Alt Bessenova (Beșenova Veche),PDT,Limba germană
-Beșenova Nouă,beșenova,4,45.8383301638869,21.0976708598573,Timis,Localitate,7639,Beșenova Nouă,PDT,Limba română
-Câmpia Beșineu,beșineu,3,47.0362106726846,21.840654073734,Bihor,Câmp,6973,Câmpia Beșineu,Geomil 25000,Limba română
-Beșineu,beșineu,3,46.4352915040942,24.3787954149079,Mures,Localitate,7340,Beșineu,PDT,Limba română
-Poiana Beșineului,beșineu,3,45.614792197382,23.8813673977388,Sibiu,Poiană,9970,Poiana Beșineului,Geomil 25000,Limba română
 Beșineu,beșineu,3,46.0944501533202,23.8087127434583,Alba,Localitate,10482,Beșineu,Transilvania (1869-1870),Limba română
 Beșineu,beșineu,3,46.3559014990899,21.5960314204669,Arad,Altele,11360,Beșineu,Geomil 25000,Limba română
-Bessenyő,besenyő,3,47.1020572722253,24.4466485973488,Bistrita Nasaud,Localitate,10581,Bessenyő,Imperiul Habsburgic (1887),Limba maghiară
-Besenyő,besenyő,3,45.8856745626184,25.930317769964,Covasna,Localitate,10636,Besenyő,Imperiul Habsburgic (1887),Limba maghiară
-Beschenbach (Valea Pecinegilor),beschen,3,45.8022232258937,24.7638239472749,Brasov,Localitate,11776,Beschenbach (Valea Pecinegilor),Transilvania (1869-1870),Limba germană
 Beseny ér,beseny,3,47.3259094334733,22.0120698205986,Bihor,Vale,11867,Beseny ér,Imperiul Habsburgic (1887),Limba maghiară
+Câmpia Beșineu,beșineu,3,47.0362106726846,21.840654073734,Bihor,Câmp,6973,Câmpia Beșineu,Geomil 25000,Limba română
+Dealul Bejeneu,bejeneu,4,47.3363065568848,24.756823241633,Bistrita Nasaud,Deal,6362,Dealul Bejeneu,Geomil 25000,Limba română
+Bessenyő,besenyő,3,47.1020572722253,24.4466485973488,Bistrita Nasaud,Localitate,10581,Bessenyő,Imperiul Habsburgic (1887),Limba maghiară
+Beschenbach (Valea Pecinegilor),beschen,3,45.8022232258937,24.7638239472749,Brasov,Localitate,11776,Beschenbach (Valea Pecinegilor),Transilvania (1869-1870),Limba germană
 Beczinegy B.,beczinegy,3,46.8905119080087,23.435079163193,Cluj,Deal,11894,Beczinegy B.,Transilvania (1869-1870),Limba română
+Besenyő,besenyő,3,45.8856745626184,25.930317769964,Covasna,Localitate,10636,Besenyő,Imperiul Habsburgic (1887),Limba maghiară
+Beșineu,beșineu,3,46.4352915040942,24.3787954149079,Mures,Localitate,7340,Beșineu,PDT,Limba română
+Poiana Beșineului,beșineu,3,45.614792197382,23.8813673977388,Sibiu,Poiană,9970,Poiana Beșineului,Geomil 25000,Limba română
 Dealul Beșinești,beșinești,3,47.3192050520285,26.4800683569664,Suceava,Deal,11998,Dealul Beșinești,Geomil 25000,Limba română
+Alt Bessenova (Beșenova Veche),beșenova,4,46.0443612665778,20.4745401727599,Timis,Localitate,7629,Alt Bessenova (Beșenova Veche),PDT,Limba germană
+Beșenova Nouă,beșenova,4,45.8383301638869,21.0976708598573,Timis,Localitate,7639,Beșenova Nouă,PDT,Limba română

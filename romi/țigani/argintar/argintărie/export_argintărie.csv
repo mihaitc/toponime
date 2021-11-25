@@ -1,12 +1,12 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
-Argintăria,argintărie,4,45.5256302520941,26.2062012792191,Buzau,Altele,6041,Argintăria,Geomil 25000,Limba română
-Valea Argintăriei,argintărie,4,46.3844078355393,26.5638305889224,Bacau,Vale,7929,Valea Argintăriei,PDT,Limba română
-Pârâul Argintăriei,argintărie,4,47.0813235050884,25.7229331592367,Neamt,Vale,9946,Pârâul Argintăriei,Moldova (1892-1898),Limba română
-Peatra Argintăriei,argintărie,4,47.0184924903913,25.7063654842128,Harghita,Înălțime,10610,Peatra Argintăriei,Imperiul Habsburgic (1887),Limba română
-Pădurea Argintăriei,argintărie,4,46.5647855482536,26.308254858194,Bacau,Pădure,10941,Pădurea Argintăriei,Geomil 25000,Limba română
-Argintăriei,argintărie,4,47.0354040871906,26.1780887185152,Neamt,Vale,11651,Argintăriei,Geomil 25000,Limba română
-Argintăria,argintărie,4,47.0206737200739,25.7927739897904,Neamt,Vale,11717,Argintăria,Geomil 25000,Limba română
-Pârâul Argintăriei,argintărie,4,46.9831171131545,25.8136633009946,Neamt,Vale,11720,Pârâul Argintăriei,PDT,Limba română
-Argintăria,argintărie,4,47.0076404580216,25.6941513223848,Harghita,Vale,12869,Argintăria,Geomil 25000,Limba română
 Argintăria,argintărie,4,46.1317481953957,26.7611542705969,Bacau,Vale,12942,Argintăria,Geomil 25000,Limba română
 Argintăria,argintărie,4,46.2683430727001,26.3427621848868,Bacau,Vale,14079,Argintăria,Geomil 25000,Limba română
+Pădurea Argintăriei,argintărie,4,46.5647855482536,26.308254858194,Bacau,Pădure,10941,Pădurea Argintăriei,Geomil 25000,Limba română
+Valea Argintăriei,argintărie,4,46.3844078355393,26.5638305889224,Bacau,Vale,7929,Valea Argintăriei,PDT,Limba română
+Argintăria,argintărie,4,45.5256302520941,26.2062012792191,Buzau,Altele,6041,Argintăria,Geomil 25000,Limba română
+Argintăria,argintărie,4,47.0076404580216,25.6941513223848,Harghita,Vale,12869,Argintăria,Geomil 25000,Limba română
+Peatra Argintăriei,argintărie,4,47.0184924903913,25.7063654842128,Harghita,Înălțime,10610,Peatra Argintăriei,Imperiul Habsburgic (1887),Limba română
+Argintăria,argintărie,4,47.0206737200739,25.7927739897904,Neamt,Vale,11717,Argintăria,Geomil 25000,Limba română
+Argintăriei,argintărie,4,47.0354040871906,26.1780887185152,Neamt,Vale,11651,Argintăriei,Geomil 25000,Limba română
+Pârâul Argintăriei,argintărie,4,47.0813235050884,25.7229331592367,Neamt,Vale,9946,Pârâul Argintăriei,Moldova (1892-1898),Limba română
+Pârâul Argintăriei,argintărie,4,46.9831171131545,25.8136633009946,Neamt,Vale,11720,Pârâul Argintăriei,PDT,Limba română

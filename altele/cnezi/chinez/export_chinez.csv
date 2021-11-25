@@ -1,6 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Drumul Chinezilor,chinez,3,46.8126310913013,26.275807506704,Neamt,Drum,2027,Drumul Chinezilor,Geomil 25000,Limba română
-Poiana Chinezului,chinez,3,45.0146800877066,22.1269328625847,Caras Severin,Poiană,5724,Poiana Chinezului,Geomil 25000,Limba română,Poiana Chinezului,PDT,Limba română
-Moara Chinezului,chinez,3,45.4617534829074,21.930308869575,Caras Severin,Altele,6193,Moara Chinezului,PDT,Limba română
-Satchinez,chinez,3,45.9413596503265,21.043451567737,Timis,Localitate,7633,Satchinez,Geomil 25000,Limba română
 Cioaca Chinezului,chinez,3,44.7994707470401,21.7560355426866,Caras Severin,Altele,8502,Cioaca Chinezului,PDT,Limba română
+Moara Chinezului,chinez,3,45.4617534829074,21.930308869575,Caras Severin,Altele,6193,Moara Chinezului,PDT,Limba română
+Poiana Chinezului,chinez,3,45.0146800877066,22.1269328625847,Caras Severin,Poiană,5724,Poiana Chinezului,Geomil 25000,Limba română,Poiana Chinezului,PDT,Limba română
+Drumul Chinezilor,chinez,3,46.8126310913013,26.275807506704,Neamt,Drum,2027,Drumul Chinezilor,Geomil 25000,Limba română
+Satchinez,chinez,3,45.9413596503265,21.043451567737,Timis,Localitate,7633,Satchinez,Geomil 25000,Limba română

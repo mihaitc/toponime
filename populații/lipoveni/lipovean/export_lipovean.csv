@@ -1,14 +1,14 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
-Valea La Iazul Lipoveanului,lipovean,3,48.0113595339738,26.8972878404708,Botosani,Vale,1817,lipovean,Geomil 25000,Limba română
 Dealul Lipoveanului,lipovean,3,48.0166034264094,26.8913348136681,Botosani,Deal,1818,Dealul Lipoveanului,Geomil 25000,Limba română
-Pădurea Cabana Lipoveanului,lipovean,3,47.6563950221202,25.8148956019943,Suceava,Pădure,2275,Pădurea Cabana Lipoveanului,Geomil 25000,Limba română
-Valea Lipoveanului,lipovean,3,47.9266293070724,27.0945523094829,Botosani,Vale,2393,Valea Lipoveanului,Geomil 25000,Limba română
-La Iazul Lipoveanului,lipovean,3,48.0545319514128,26.9782800740071,Botosani,Apă-deal-câmpie,2404,La Iazul Lipoveanului,Geomil 25000,Limba română
 Iazul Lipoveanului,lipovean,3,47.7976119389707,26.7338345633087,Botosani,Apă-deal-câmpie,2414,Iazul Lipoveanului,Geomil 25000,Limba română
-Valea Lipoveanului,lipovean,3,45.1438693794981,28.5477215318335,Tulcea,Vale,2896,Valea Lipoveanului,Geomil 25000,Limba română
-Movila Lipovanului,lipovean,3,44.8955123346265,27.8557299800985,Braila,Înălțime,3473,Movila Lipovanului,PDT,Limba română
+La Iazul Lipoveanului,lipovean,3,48.0545319514128,26.9782800740071,Botosani,Apă-deal-câmpie,2404,La Iazul Lipoveanului,Geomil 25000,Limba română
+Valea La Iazul Lipoveanului,lipovean,3,48.0113595339738,26.8972878404708,Botosani,Vale,1817,lipovean,Geomil 25000,Limba română
+Valea Lipoveanului,lipovean,3,47.9266293070724,27.0945523094829,Botosani,Vale,2393,Valea Lipoveanului,Geomil 25000,Limba română
 Crucea Lipoveanului,lipovean,3,44.8877658934903,27.7569002218257,Braila,Altele,3597,Crucea Lipoveanului,Geomil 25000,Limba română
-Hârtopul Lipovanului,lipovean,3,47.2015318864269,27.4895521002798,Iasi,Înălțime,4832,Hârtopul Lipovanului,PDT,Limba română
-Dealul Lipoveanului,lipovean,3,47.2937702605107,27.0111945507404,Iasi,Deal,6614,Dealul Lipoveanului,PDT,Limba română
-Pârâul Lipovanului,lipovean,3,47.8267817906978,26.2658005285097,Suceava,Vale,7267,Pârâul Lipovanului,PDT,Limba română
+Movila Lipovanului,lipovean,3,44.8955123346265,27.8557299800985,Braila,Înălțime,3473,Movila Lipovanului,PDT,Limba română
 Fântâna Lipoveanului,lipovean,3,43.8797025690814,23.7608334800291,Dolj,Altele,11795,Fântâna Lipoveanului,Geomil 25000,Limba română
+Dealul Lipoveanului,lipovean,3,47.2937702605107,27.0111945507404,Iasi,Deal,6614,Dealul Lipoveanului,PDT,Limba română
+Hârtopul Lipovanului,lipovean,3,47.2015318864269,27.4895521002798,Iasi,Înălțime,4832,Hârtopul Lipovanului,PDT,Limba română
+Pădurea Cabana Lipoveanului,lipovean,3,47.6563950221202,25.8148956019943,Suceava,Pădure,2275,Pădurea Cabana Lipoveanului,Geomil 25000,Limba română
+Pârâul Lipovanului,lipovean,3,47.8267817906978,26.2658005285097,Suceava,Vale,7267,Pârâul Lipovanului,PDT,Limba română
+Valea Lipoveanului,lipovean,3,45.1438693794981,28.5477215318335,Tulcea,Vale,2896,Valea Lipoveanului,Geomil 25000,Limba română

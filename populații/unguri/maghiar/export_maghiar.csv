@@ -1,18 +1,18 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Sânmartinu Maghiar,maghiar,3,45.6365906423767,20.9084970436089,Timis,Localitate,7617,Sânmartinu Maghiar,Geomil 25000,Limba română
+Șilea-maghiară,maghiar,3,46.3249772411471,24.1120859927266,Alba,Localitate,10807,Șilea-maghiară,Imperiul Habsburgic (1887),Limba română
+La Viile Maghiare,maghiar,3,46.1713619154819,21.0102401761433,Arad,Altele,11903,La Viile Maghiare,Geomil 25000,Limba română
 Valea Maghiar,maghiar,3,47.3673047461057,22.4888440856865,Bihor,Vale,7671,Valea Maghiar,PDT,Limba română
 Dâmbul Maghiar,maghiar,3,46.9560048663106,23.5090054852456,Cluj,Înălțime,8945,Dâmbul Maghiar,PDT,Limba română
-Petrilaca Maghiară,maghiar,3,46.6877120906622,24.7571105145091,Mures,Localitate,10474,Petrilaca Maghiară,PDT,Limba română
-Șilea-maghiară,maghiar,3,46.3249772411471,24.1120859927266,Alba,Localitate,10807,Șilea-maghiară,Imperiul Habsburgic (1887),Limba română
-Herepea-maghiară,maghiar,3,46.3308781091614,24.1515527947713,Mures,Localitate,10808,Herepea-maghiară,Imperiul Habsburgic (1887),Limba română
-Culmea Maghiară,maghiar,3,46.0754188569569,26.3604673880169,Covasna,Înălțime,10961,Culmea Maghiară,Geomil 25000,Limba română
-La Viile Maghiare,maghiar,3,46.1713619154819,21.0102401761433,Arad,Altele,11903,La Viile Maghiare,Geomil 25000,Limba română
-Magyaros,magyaros,4,46.7938177420818,23.8547132060955,Cluj,Înălțime,10416,Magyaros,Transilvania (1869-1870),Limba română
-Magyar Gorbó (Gârbăul Unguresc),magyar,4,46.8325732601808,23.3518464983402,Cluj,Localitate,10418,Magyar Gorbó (Gârbăul Unguresc),Transilvania (1869-1870),Limba română
-Magyar Nagy Zsombor,magyar,4,47.0007321248082,23.2631339039263,Salaj,Localitate,10421,Magyar Nagy Zsombor,Transilvania (1869-1870),Limba maghiară
-Magyar Bikal,magyar,4,46.8792817366794,23.049466700407,Salaj,Localitate,10427,Magyar Bikal,Transilvania (1869-1870),Limba maghiară
-Magyar Léta,magyar,4,46.6194067322659,23.4534627971965,Cluj,Localitate,10436,Magyar Léta,Transilvania (1869-1870),Limba maghiară
-Magyar-Régen,magyar,4,46.7859848816805,24.7117540009528,Mures,Localitate,10470,Magyar-Régen,Transilvania (1869-1870),Limba maghiară
 Magyar Fráta,magyar,4,46.7032407477102,24.0564640620414,Cluj,Localitate,10651,Magyar Fráta,Imperiul Habsburgic (1887),Limba română,Magyar Fráta,Transilvania (1869-1870),Limba română
-Magyar Fülpös,magyar,4,46.7549238158823,24.5890623201275,Mures,Localitate,10656,Magyar Fülpös,Transilvania (1869-1870),Limba maghiară
+Magyar Gorbó (Gârbăul Unguresc),magyar,4,46.8325732601808,23.3518464983402,Cluj,Localitate,10418,Magyar Gorbó (Gârbăul Unguresc),Transilvania (1869-1870),Limba română
+Magyar Léta,magyar,4,46.6194067322659,23.4534627971965,Cluj,Localitate,10436,Magyar Léta,Transilvania (1869-1870),Limba maghiară
+Magyaros,magyaros,4,46.7938177420818,23.8547132060955,Cluj,Înălțime,10416,Magyaros,Transilvania (1869-1870),Limba română
+Culmea Maghiară,maghiar,3,46.0754188569569,26.3604673880169,Covasna,Înălțime,10961,Culmea Maghiară,Geomil 25000,Limba română
 Magyar Lindsina,magyar,4,45.6677197127074,22.8568345968846,Hunedoara,Localitate,12317,Magyar Lindsina,Imperiul Habsburgic (1887),Limba maghiară
+Herepea-maghiară,maghiar,3,46.3308781091614,24.1515527947713,Mures,Localitate,10808,Herepea-maghiară,Imperiul Habsburgic (1887),Limba română
+Petrilaca Maghiară,maghiar,3,46.6877120906622,24.7571105145091,Mures,Localitate,10474,Petrilaca Maghiară,PDT,Limba română
+Magyar Fülpös,magyar,4,46.7549238158823,24.5890623201275,Mures,Localitate,10656,Magyar Fülpös,Transilvania (1869-1870),Limba maghiară
+Magyar-Régen,magyar,4,46.7859848816805,24.7117540009528,Mures,Localitate,10470,Magyar-Régen,Transilvania (1869-1870),Limba maghiară
+Magyar Bikal,magyar,4,46.8792817366794,23.049466700407,Salaj,Localitate,10427,Magyar Bikal,Transilvania (1869-1870),Limba maghiară
+Magyar Nagy Zsombor,magyar,4,47.0007321248082,23.2631339039263,Salaj,Localitate,10421,Magyar Nagy Zsombor,Transilvania (1869-1870),Limba maghiară
+Sânmartinu Maghiar,maghiar,3,45.6365906423767,20.9084970436089,Timis,Localitate,7617,Sânmartinu Maghiar,Geomil 25000,Limba română

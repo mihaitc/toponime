@@ -1,53 +1,53 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Ogașul Țigăniei,țigănie,3,44.5444217988752,23.4398771476268,Mehedinti,Altele,101,Ogașul Țigăniei,PDT,Limba română
-Dealu Țigăniei,țigănie,3,44.9409268661712,22.9090895730306,Gorj,Deal,203,Dealu Țigăniei,Geomil 25000,Limba română
-Valea Țigăniei,țigănie,3,45.1904513147777,24.9474787382695,Arges,Vale,562,Valea Țigăniei,Geomil 25000,Limba română,Valea Țigăniei,PDT,Limba română
-Țigănia,țigănie,3,47.9403450487483,25.8097776438539,Suceava,Altele,2293,Țigănia,Geomil 25000,Limba română
-Poiana Țigăniei,țigănie,3,47.7894135488978,26.1597967860612,Suceava,Poiană,2297,Poiana Țigăniei,Geomil 25000,Limba română
-La Balta Țigăniei,țigănie,3,44.671659995197,25.4952835230126,Dambovita,Apă-deal-câmpie,3373,La Balta Țigăniei,PDT,Limba română,La Balta Țigăniei,Geomil 25000,Limba română
-Tzigânia,țigănie,3,44.1204610655787,25.0229791153411,Teleorman,Localitate,3636,Tzigânia,Austriacă,Limba română,Țigănia,PDT,Limba română
-Tzigânia,țigănie,3,44.9234092613067,25.8590868990398,Prahova,Localitate,3689,Tzigânia,Austriacă,Limba română,Țigănia,PDT,Limba română
-Țigănia,țigănie,3,44.9305730332756,25.6001237362671,Dambovita,Localitate,3693,Țigănia,PDT,Limba română
-Dealul Țigăniei,țigănie,3,44.5518076328843,25.3991773363561,Dambovita,Deal,3713,Dealul Țigăniei,PDT,Limba română
-Țigănia,țigănie,3,44.4430132137214,25.8172078685162,Giurgiu,Localitate,3733,Țigănia,PDT,Limba română
-Țigănia,țigănie,3,44.4675207073469,26.0195243468264,Bucuresti,Localitate,3757,Țigănia,PDT,Limba română
-Pârâul Țigăniei,țigănie,3,45.9302070717027,23.8384838873792,Sibiu,Vale,5543,Pârâul Țigăniei,PDT,Limba română
+Țigănia,țigănie,3,45.9496122790122,23.5771754456509,Alba,Altele,9392,Țigănia,PDT,Limba română
+Țigănia,țigănie,3,45.9758357977524,23.3430891280049,Alba,Localitate,9393,Țigănia,Geomil 25000,Limba română,Țigănia,PDT,Limba română
 La Țigănie,țigănie,3,46.1259868610188,21.1417071958556,Arad,Altele,5641,La Țigănie,PDT,Limba română
+Fântâna la Țigăniște,țigăniște,4,46.583136457301,21.836926340221,Arad,Altele,8044,Fântâna la Țigăniște,PDT,Limba română
+Valea Țigăniei,țigănie,3,45.1904513147777,24.9474787382695,Arges,Vale,562,Valea Țigăniei,Geomil 25000,Limba română,Valea Țigăniei,PDT,Limba română
+Țigănime,țigănime,4,46.4694552854625,26.9473358950634,Bacau,Altele,9517,Țigănime,PDT,Limba română
+În Țigănie,țigănie,3,47.199862421407,24.0067101143986,Bistrita Nasaud,Localitate,11999,În Țigănie,PDT,Limba română
+Țigăniea,țigănie,3,47.6424071454602,26.5637984172579,Botosani,Localitate,7779,Țigăniea,PDT,Limba română
+Coasta Țigănimei,țigănime,4,48.1242260062815,26.9013343841915,Botosani,Înălțime,4876,Coasta Țigănimei,PDT,Limba română
+Cotu Țigănimi,țigănime,4,48.1537624321183,26.5589084244268,Botosani,Localitate,4886,Cotu Țigănimi,PDT,Limba română
+Mahalaua Țigănimea,țigănime,4,48.2274163846164,26.6260828777997,Botosani,Localitate,4883,Mahalaua Țigănimea,PDT,Limba română
+La Țigănie,țigănie,3,46.004389103547,25.0569734057842,Brasov,Altele,12284,La Țigănie,Geomil 25000,Limba română
+Țigănia,țigănie,3,45.9200810325555,25.2261522683743,Brasov,Altele,6809,Țigănia,PDT,Limba română
+Țigănia,țigănie,3,45.7079076632291,25.4544643742291,Brasov,Altele,6831,Țigănia,PDT,Limba română
+Țigănia,țigănie,3,45.7516979751225,25.1778524375454,Brasov,Localitate,9692,Țigănia,PDT,Limba română
+Țigănia,țigănie,3,45.9752838544068,25.3578434546044,Brasov,Localitate,10635,Țigănia,Imperiul Habsburgic (1887),Limba română
+Ziganie,țigănie,3,45.9221011579006,25.0963265831522,Brasov,Localitate,10814,Ziganie,Transilvania (1869-1870),Limba română
+Țigănia,țigănie,3,44.4675207073469,26.0195243468264,Bucuresti,Localitate,3757,Țigănia,PDT,Limba română
+Țigănia,țigănie,3,46.9424689164668,22.8930174617778,Cluj,Localitate,11859,Țigănia,PDT,Limba română
+Dealul Țigăniei,țigănie,3,44.5518076328843,25.3991773363561,Dambovita,Deal,3713,Dealul Țigăniei,PDT,Limba română
+La Balta Țigăniei,țigănie,3,44.671659995197,25.4952835230126,Dambovita,Apă-deal-câmpie,3373,La Balta Țigăniei,PDT,Limba română,La Balta Țigăniei,Geomil 25000,Limba română
+Țigănia,țigănie,3,44.9305730332756,25.6001237362671,Dambovita,Localitate,3693,Țigănia,PDT,Limba română
+Czigania,țigănie,3,43.9086738268791,23.9192198346694,Dolj,Localitate,11958,Czigania,Oltenia-Muntenia (1790),Limba română
+Țigănia,țigănie,3,44.4430132137214,25.8172078685162,Giurgiu,Localitate,3733,Țigănia,PDT,Limba română
+Dealu Țigăniei,țigănie,3,44.9409268661712,22.9090895730306,Gorj,Deal,203,Dealu Țigăniei,Geomil 25000,Limba română
+Vâlceaua Țigănimei,țigănime,4,45.032214842087,23.1347234733259,Gorj,Vale,9790,Vâlceaua Țigănimei,PDT,Limba română
+Țigănie,țigănie,3,45.8931178727518,22.5650659428777,Hunedoara,Localitate,6218,Țigănie,PDT,Limba română
+Ogașul Țigăniei,țigănie,3,44.5444217988752,23.4398771476268,Mehedinti,Altele,101,Ogașul Țigăniei,PDT,Limba română
+Dealul Țigănimei,țigănime,4,46.8949983845776,26.8738187918174,Neamt,Deal,7811,Dealul Țigănimei,PDT,Limba română
+Tzigani,țigănie,3,44.2939950024215,24.3637448627323,Olt,Localitate,5800,Tzigani,Austriacă,Limba română
+Tzigânia,țigănie,3,44.9234092613067,25.8590868990398,Prahova,Localitate,3689,Tzigânia,Austriacă,Limba română,Țigănia,PDT,Limba română
 Tzigânia,țigănie,3,44.846142607077,25.8946177375554,Prahova,Localitate,5769,Tzigânia,Austriacă,Limba română,Țigănia,PDT,Limba română
+Țigănie,țigănie,3,47.0814934996147,22.6136959764119,Salaj,Localitate,10322,Țigănie,PDT,Limba română
+Pârâul Țigăniștei,țigăniște,4,47.2036503049592,23.1359030604581,Salaj,Vale,10411,Pârâul Țigăniștei,PDT,Limba română
+Pârâul Țigăniei,țigănie,3,45.9302070717027,23.8384838873792,Sibiu,Vale,5543,Pârâul Țigăniei,PDT,Limba română
+Țigănia,țigănie,3,45.662798243011,24.550549977081,Sibiu,Altele,7518,Țigănia,PDT,Limba română
+Țigănia,țigănie,3,45.9256119637128,24.4700869391453,Sibiu,Localitate,10966,Țigănia,Geomil 25000,Limba română,Ziganie,Transilvania (1869-1870),Limba română
+Ziganie,țigănie,3,46.1434832630428,24.2846969271198,Sibiu,Localitate,10535,Ziganie,Imperiul Habsburgic (1887),Limba română
+Poiana Țigăniei,țigănie,3,47.7894135488978,26.1597967860612,Suceava,Poiană,2297,Poiana Țigăniei,Geomil 25000,Limba română
+Țigănia,țigănie,3,47.9403450487483,25.8097776438539,Suceava,Altele,2293,Țigănia,Geomil 25000,Limba română
+Pârâul Țigănimii,țigănime,4,47.8977325211574,26.1248720340731,Suceava,Vale,7258,Pârâul Țigănimii,PDT,Limba română
+Tzigânia,țigănie,3,44.1204610655787,25.0229791153411,Teleorman,Localitate,3636,Tzigânia,Austriacă,Limba română,Țigănia,PDT,Limba română
 Tzigânia,țigănie,3,44.135777743641,25.3238975741097,Teleorman,Localitate,5781,Tzigânia,Austriacă,Limba română
 Tzigânia,țigănie,3,43.9362959594989,24.6903783180676,Teleorman,Localitate,5789,Tzigânia,Austriacă,Limba română,Țigănia,PDT,Limba română
 Val. Tzigânia,țigănie,3,44.0600596447562,24.7807253542515,Teleorman,Vale,5794,Val. Tzigânia,Austriacă,Limba română
-Tzigani,țigănie,3,44.2939950024215,24.3637448627323,Olt,Localitate,5800,Tzigani,Austriacă,Limba română
+Zieganie,țigănie,3,45.7507382919796,21.8462494748392,Timis,Localitate,10357,Zieganie,Ungară 1869,Limba română
+Pârâul Țigăniei,țigănie,3,45.2442486603175,24.4256909223659,Valcea,Vale,12323,Pârâul Țigăniei,Geomil 25000,Limba română
+Țigănia,țigănie,3,45.1887597571698,24.3711077958746,Valcea,Localitate,11105,Țigănia,PDT,Limba română
+Țigănia,țigănie,3,45.1622675471882,24.138551067454,Valcea,Localitate,13605,Țigănia,PDT,Limba română
 Tzigânia,țigănie,3,45.1126159586036,24.3635488865666,Valcea,Localitate,5828,Tzigânia,Austriacă,Limba română
 Tzigânia,țigănie,3,45.259352360368,24.3196520549592,Valcea,Localitate,5829,Tzigânia,Austriacă,Limba română
-Țigănie,țigănie,3,45.8931178727518,22.5650659428777,Hunedoara,Localitate,6218,Țigănie,PDT,Limba română
-Țigănia,țigănie,3,45.9200810325555,25.2261522683743,Brasov,Altele,6809,Țigănia,PDT,Limba română
-Țigănia,țigănie,3,45.7079076632291,25.4544643742291,Brasov,Altele,6831,Țigănia,PDT,Limba română
-Țigănia,țigănie,3,45.662798243011,24.550549977081,Sibiu,Altele,7518,Țigănia,PDT,Limba română
-Țigăniea,țigănie,3,47.6424071454602,26.5637984172579,Botosani,Localitate,7779,Țigăniea,PDT,Limba română
-Țigănia,țigănie,3,45.9496122790122,23.5771754456509,Alba,Altele,9392,Țigănia,PDT,Limba română
-Țigănia,țigănie,3,45.9758357977524,23.3430891280049,Alba,Localitate,9393,Țigănia,Geomil 25000,Limba română,Țigănia,PDT,Limba română
-Țigănia,țigănie,3,45.7516979751225,25.1778524375454,Brasov,Localitate,9692,Țigănia,PDT,Limba română
-Țigănie,țigănie,3,47.0814934996147,22.6136959764119,Salaj,Localitate,10322,Țigănie,PDT,Limba română
-Zieganie,țigănie,3,45.7507382919796,21.8462494748392,Timis,Localitate,10357,Zieganie,Ungară 1869,Limba română
-Ziganie,țigănie,3,46.1434832630428,24.2846969271198,Sibiu,Localitate,10535,Ziganie,Imperiul Habsburgic (1887),Limba română
-Țigănia,țigănie,3,45.9752838544068,25.3578434546044,Brasov,Localitate,10635,Țigănia,Imperiul Habsburgic (1887),Limba română
-Ziganie,țigănie,3,45.9221011579006,25.0963265831522,Brasov,Localitate,10814,Ziganie,Transilvania (1869-1870),Limba română
-Țigănia,țigănie,3,45.9256119637128,24.4700869391453,Sibiu,Localitate,10966,Țigănia,Geomil 25000,Limba română,Ziganie,Transilvania (1869-1870),Limba română
-Țigănia,țigănie,3,45.1887597571698,24.3711077958746,Valcea,Localitate,11105,Țigănia,PDT,Limba română
 Valea Țigăniei,țigănie,3,45.2014315492703,24.3857050239,Valcea,Vale,11106,Valea Țigăniei,PDT,Limba română
-Țigănia,țigănie,3,46.9424689164668,22.8930174617778,Cluj,Localitate,11859,Țigănia,PDT,Limba română
-Czigania,țigănie,3,43.9086738268791,23.9192198346694,Dolj,Localitate,11958,Czigania,Oltenia-Muntenia (1790),Limba română
-În Țigănie,țigănie,3,47.199862421407,24.0067101143986,Bistrita Nasaud,Localitate,11999,În Țigănie,PDT,Limba română
-La Țigănie,țigănie,3,46.004389103547,25.0569734057842,Brasov,Altele,12284,La Țigănie,Geomil 25000,Limba română
-Pârâul Țigăniei,țigănie,3,45.2442486603175,24.4256909223659,Valcea,Vale,12323,Pârâul Țigăniei,Geomil 25000,Limba română
-Țigănia,țigănie,3,45.1622675471882,24.138551067454,Valcea,Localitate,13605,Țigănia,PDT,Limba română
-Coasta Țigănimei,țigănime,4,48.1242260062815,26.9013343841915,Botosani,Înălțime,4876,Coasta Țigănimei,PDT,Limba română
-Mahalaua Țigănimea,țigănime,4,48.2274163846164,26.6260828777997,Botosani,Localitate,4883,Mahalaua Țigănimea,PDT,Limba română
-Cotu Țigănimi,țigănime,4,48.1537624321183,26.5589084244268,Botosani,Localitate,4886,Cotu Țigănimi,PDT,Limba română
-Pârâul Țigănimii,țigănime,4,47.8977325211574,26.1248720340731,Suceava,Vale,7258,Pârâul Țigănimii,PDT,Limba română
-Dealul Țigănimei,țigănime,4,46.8949983845776,26.8738187918174,Neamt,Deal,7811,Dealul Țigănimei,PDT,Limba română
-Țigănime,țigănime,4,46.4694552854625,26.9473358950634,Bacau,Altele,9517,Țigănime,PDT,Limba română
-Vâlceaua Țigănimei,țigănime,4,45.032214842087,23.1347234733259,Gorj,Vale,9790,Vâlceaua Țigănimei,PDT,Limba română
-Fântâna la Țigăniște,țigăniște,4,46.583136457301,21.836926340221,Arad,Altele,8044,Fântâna la Țigăniște,PDT,Limba română
-Pârâul Țigăniștei,țigăniște,4,47.2036503049592,23.1359030604581,Salaj,Vale,10411,Pârâul Țigăniștei,PDT,Limba română

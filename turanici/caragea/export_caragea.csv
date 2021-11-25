@@ -1,7 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
-Caragea,caragea,2,47.3442161089366,27.5067316509145,Iasi,Localitate,6644,Caragea,PDT,Limba română
 Dealul Carageaua,carageaua,3,46.4911301882616,26.7942219290559,Bacau,Deal,3843,Dealul Carageaua,Geomil 25000,Limba română
-Caragelele,caragele,3,44.9805529385321,27.0331226747638,Buzau,Localitate,4011,Caragelele,PDT,Limba română,Caragelele,Geomil 25000,Limba română,Karagelile,Austriacă,Limba română
 Movila Caragele,caragele,3,44.9221371807435,27.3464834871389,Braila,Înălțime,6734,Movila Caragele,PDT,Limba română
-Caregelele,caragele,3,44.8832142250195,26.9546414404207,Buzau,Altele,8729,Caregelele,PDT,Limba română
 Caragica,caragica,3,44.9426969988113,27.5808841527521,Braila,Localitate,9268,Caragica,PDT,Limba română
+Caragelele,caragele,3,44.9805529385321,27.0331226747638,Buzau,Localitate,4011,Caragelele,PDT,Limba română,Caragelele,Geomil 25000,Limba română,Karagelile,Austriacă,Limba română
+Caregelele,caragele,3,44.8832142250195,26.9546414404207,Buzau,Altele,8729,Caregelele,PDT,Limba română
+Caragea,caragea,2,47.3442161089366,27.5067316509145,Iasi,Localitate,6644,Caragea,PDT,Limba română

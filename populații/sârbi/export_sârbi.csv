@@ -1,144 +1,144 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Drumu Sârbilor,sârbi,2,44.4533972852602,22.5338552774924,Mehedinti,Înălțime,171,Drumu Sârbilor,Geomil 25000,Limba română
-Sârbești,sârbi,2,45.1188407338642,23.7873870133048,Gorj,Localitate,242,Sârbești,Geomil 25000,Limba română
-Valea Sârbilor,sârbi,2,44.6580010356494,23.9465133152777,Valcea,Vale,260,Valea Sârbilor,Geomil 25000,Limba română,Valea Sârbilor,PDT,Limba română
-Ogașul Sârboaicei,sârbi,2,44.617147340683,23.3573781164587,Mehedinti,Altele,411,Ogașul Sârboaicei,Geomil 25000,Limba română
+Sîrbu,sârb,3,46.3577589862796,23.6232608456273,Alba,Înălțime,10503,Sîrbu,Transilvania (1869-1870),Limba română
+Valea Sârbilor,sârbi,2,45.9970799441799,23.6372063471731,Alba,Vale,1148,Valea Sârbilor,Geomil 25000,Limba română
+Dealu Sârbului,sârb,3,46.0411034373964,22.3343668095298,Arad,Deal,948,Dealu Sârbului,Geomil 25000,Limba română
+Dealul Sârbului,sârb,3,45.9625114598959,21.7287538253002,Arad,Deal,10211,Dealul Sârbului,Geomil 25000,Limba română
+Dialu Sîrbului,sârb,3,46.0197834276095,22.2053213990803,Arad,Deal,10313,Dialu Sîrbului,Ungară 1869,Limba română
+Gruețu Sârbului,sârb,3,46.4742412171753,22.1315290032379,Arad,Altele,7662,Gruețu Sârbului,Geomil 25000,Limba română,Gruețul Sârbului,PDT,Limba română
+Sârbi,sârbi,2,46.2880324153589,22.6404051252675,Arad,Localitate,6256,Sârbi,Geomil 25000,Limba română
+Valea Sârbilor,sârbi,2,46.1229197082542,22.1854598571819,Arad,Vale,966,Valea Sârbilor,Geomil 25000,Limba română
+Dealul Sârbului,sârb,3,44.8573703369357,25.1800767942335,Arges,Deal,10139,Dealul Sârbului,PDT,Limba română
+Piscul Gruia Sârbului,sârb,3,45.224673562678,24.708984936919,Arges,Înălțime,4063,Piscul Gruia Sârbului,PDT,Limba română
+Dealul Sârbilor,sârbi,2,45.1329145807405,24.8170784059349,Arges,Deal,6900,Dealul Sârbilor,Geomil 25000,Limba română
+Puțu din Poiana Sârbilor,sârbi,2,45.1568467478997,24.9868202268016,Arges,Altele,11121,Puțu din Poiana Sârbilor,PDT,Limba română
+Pădurea Sârbului,sârb,3,46.51189158744,27.2393702835802,Bacau,Pădure,7865,Pădurea Sârbului,Geomil 25000,Limba română
+Sârbu,sârb,3,46.169728413415,26.663359741973,Bacau,Altele,5312,Sârbu,Geomil 25000,Limba română
+Sârba,sârba,3,46.2628007838855,27.243992898231,Bacau,Localitate,9526,Sârba,Moldova (1892-1898),Limba română
+Dealul Sârbilor,sârbi,2,46.5375624254101,26.6923818226731,Bacau,Deal,9169,Dealul Sârbilor,Geomil 25000,Limba română
+Sârbi,sârbi,2,46.2280700689495,27.3321075424976,Bacau,Localitate,7893,Sârbi,PDT,Limba română,Sârbi,Geomil 25000,Limba română
+Valea Sârbilor,sârbi,2,46.187060952176,27.2244090822639,Bacau,Vale,3926,Valea Sârbilor,Geomil 25000,Limba română,Valea Sârbilor,PDT,Limba română
+Valea Sârbilor,sârbi,2,46.5630182571526,26.7189909546816,Bacau,Vale,12344,Valea Sârbilor,PDT,Limba română
+Sârboaia,sârboaia,3,46.2968468867278,26.8801111756135,Bacau,Vale,13600,Sârboaia,Geomil 25000,Limba română
+Valea Sârbul,sârb,3,46.9964688019173,22.5357297095521,Bihor,Vale,12350,Valea Sârbul,PDT,Limba română
+Sârbești,sârbești,3,46.5017642413006,22.4846629674691,Bihor,Localitate,7001,Sârbești,Geomil 25000,Limba română
+Sârbi,sârbi,2,47.1917758644556,22.1175916354051,Bihor,Localitate,11506,Sârbi,Geomil 25000,Limba română
+Sârbi,sârbi,2,47.9418630316067,26.9148708200012,Botosani,Localitate,2408,Sârbi,Geomil 25000,Limba română
+Giulești-Srbi,sârbi,2,44.4728534085125,26.0027699124301,Bucuresti,Localitate,5774,Giulești-Srbi,Austriacă,Limba română
+La Roata Sârbului,sârb,3,45.3742744070805,27.1655527002002,Buzau,Altele,11444,La Roata Sârbului,Geomil 25000,Limba română
+Sârbești,sârbești,3,45.4773881540342,26.7027141001883,Buzau,Localitate,5233,Sârbești,Geomil 25000,Limba română
+Cotul Sârbilor,sârbi,2,45.0721454983058,26.9533114256749,Buzau,Apă-deal-câmpie,11263,Cotul Sârbilor,Geomil 25000,Limba română
+Plaiul Sârbilor,sârbi,2,45.4531001699448,26.0886043498557,Buzau,Înălțime,1575,Plaiul Sârbilor,Geomil 25000,Limba română
+Privalul Sârbului,sârb,3,44.3151498213685,27.776538562004,Calarasi,Apă-deal-câmpie,3456,Privalul Sârbului,PDT,Limba română
+Kiseleti Sârbi,sârbi,2,44.1731834593093,26.8618743289532,Calarasi,Localitate,10101,Kiseleti Sârbi,Austriacă,Limba română
+Mov. Serbilor,sârbi,2,44.4487281269496,26.5327522013655,Calarasi,Înălțime,4267,Mov. Serbilor,Austriacă,Limba română
+Sârbi,sârbi,2,44.1998144350673,27.0543757180195,Calarasi,Localitate,8463,Sârbi,Austriacă,Limba română,Sârbi,PDT,Limba română
+Dealu Sârbu,sârb,3,45.2160223933502,21.6958677691784,Caras Severin,Deal,11500,Dealu Sârbu,Geomil 25000,Limba română
+Dealu Sârbului,sârb,3,45.1742664453127,21.5998747066996,Caras Severin,Deal,5701,Dealu Sârbului,Geomil 25000,Limba română
+Dealul Coliba Sârbului,sârb,3,44.782514741385,21.7026126872319,Caras Severin,Deal,10868,Dealul Coliba Sârbului,Geomil 25000,Limba română
+Pârâu Cleanțu Sârbului,sârb,3,45.2450321125854,22.0539502046625,Caras Severin,Vale,6126,Pârâu Cleanțu Sârbului,Geomil 25000,Limba română
+Poiana Sârbului,sârb,3,45.0331108762632,21.7843120266953,Caras Severin,Poiană,10704,Poiana Sârbului,Geomil 25000,Limba română
+Poiana Sârbului,sârb,3,45.0569363623523,21.9829598286399,Caras Severin,Poiană,13487,Poiana Sârbului,PDT,Limba română
+Poiana Sirbului,sârb,3,45.1498939104506,22.1220759157468,Caras Severin,Poiană,10254,Poiana Sirbului,Ungară 1869,Limba română
+Tâlva Sârbului,sârb,3,45.372555107887,21.9855211661023,Caras Severin,Înălțime,1236,Tâlva Sârbului,Geomil 25000,Limba română
+Valea Izvoru Sârbului,sârb,3,45.1335338774452,22.1399920348118,Caras Severin,Vale,6128,Valea Izvoru Sârbului,Geomil 25000,Limba română
+Valea Sârbului,sârb,3,45.5060598610109,21.7603799382792,Caras Severin,Vale,1245,Valea Sârbului,Geomil 25000,Limba română
+Valea Sârbească,sârbească,3,44.9397014135323,21.6728162897252,Caras Severin,Vale,12708,Valea Sârbească,Geomil 25000,Limba română
 Cioaca Sârbilor,sârbi,2,44.8768175065212,21.557635574063,Caras Severin,Altele,902,Cioaca Sârbilor,Geomil 25000,Limba română
 Dealu Poienile Sârbești,sârbi,2,44.8571527346675,21.512661486909,Caras Severin,Deal,903,Dealu Poienile Sârbești,Geomil 25000,Limba română
-Sârbi,sârbi,2,45.9599829136287,22.7062725072505,Hunedoara,Localitate,940,Sârbi,Geomil 25000,Limba română
-Valea Sârbilor,sârbi,2,46.1229197082542,22.1854598571819,Arad,Vale,966,Valea Sârbilor,Geomil 25000,Limba română
-Valea Sârbilor,sârbi,2,45.9970799441799,23.6372063471731,Alba,Vale,1148,Valea Sârbilor,Geomil 25000,Limba română
 Vârfu Sârbilor,sârbi,2,45.2387215309693,22.3769164455606,Caras Severin,Înălțime,1211,Vârfu Sârbilor,Geomil 25000,Limba română
-Valea Sârbilor,sârbi,2,43.8703378063872,25.0972321590423,Teleorman,Vale,1381,Valea Sârbilor,Geomil 25000,Limba română
-Dealu Sârbi,sârbi,2,44.641776801203,25.2977142349839,Dambovita,Deal,1397,Dealu Sârbi,Geomil 25000,Limba română
-Plaiul Sârbilor,sârbi,2,45.4531001699448,26.0886043498557,Buzau,Înălțime,1575,Plaiul Sârbilor,Geomil 25000,Limba română
-La Sârbi,sârbi,2,46.1288596554428,20.2748670629025,Timis,Altele,1960,La Sârbi,Geomil 25000,Limba română,Sârbi,PDT,Limba română
-Sârbi,sârbi,2,46.3931752388834,27.8105505819383,Vaslui,Localitate,2176,Sârbi,Geomil 25000,Limba română
-Valea Sârbilor,sârbi,2,47.1363281643876,27.1207380320175,Iasi,Vale,2235,Valea Sârbilor,Geomil 25000,Limba română,Valea Sârbilor,PDT,Limba română
-Sârbi,sârbi,2,47.9418630316067,26.9148708200012,Botosani,Localitate,2408,Sârbi,Geomil 25000,Limba română
-Sârbi,sârbi,2,44.6494703623455,24.0853609859968,Valcea,Localitate,2954,Sârbi,Geomil 25000,Limba română
-Valea Sârbilor,sârbi,2,43.8032052574907,24.272219550974,Olt,Vale,3030,Valea Sârbilor,Geomil 25000,Limba română
-Movila Sârbilor,sârbi,2,44.7182752887871,26.6932907901304,Ialomita,Înălțime,3181,Movila Sârbilor,Geomil 25000,Limba română
-Dealu Sârbilor,sârbi,2,44.6203014054107,25.3192175984171,Dambovita,Deal,3383,Dealu Sârbilor,Geomil 25000,Limba română
-Fântâna sîrbilor,sârbi,2,43.9395473603377,23.041916704616,Dolj,Altele,3648,Fântâna sîrbilor,Austriacă,Limba română
-Băleni-Sârbi,sârbi,2,44.8193324419927,25.6358517274445,Dambovita,Localitate,3701,Băleni-Sârbi,PDT,Limba română,Băleni-Sârbi,Geomil 25000,Limba română
-Sârbi,sârbi,2,47.2595138758057,26.4512546820537,Neamt,Localitate,3889,Sârbi,PDT,Limba română
-Valea Sârbilor,sârbi,2,46.187060952176,27.2244090822639,Bacau,Vale,3926,Valea Sârbilor,Geomil 25000,Limba română,Valea Sârbilor,PDT,Limba română
-Domnești-Serbi,sârbi,2,44.4016605539677,25.9305319526458,Ilfov,Localitate,4232,Domnești-Serbi,PDT,Limba română,Srbi Domnești,Austriacă,Limba română
-Mov. Serbilor,sârbi,2,44.4487281269496,26.5327522013655,Calarasi,Înălțime,4267,Mov. Serbilor,Austriacă,Limba română
-Sârbi,sârbi,2,45.8704197604365,27.0627512955592,Vrancea,Localitate,5277,Sârbi,Geomil 25000,Limba română
-Giulești-Srbi,sârbi,2,44.4728534085125,26.0027699124301,Bucuresti,Localitate,5774,Giulești-Srbi,Austriacă,Limba română
-Brebeni sîrbi,sârbi,2,44.3566568129399,24.4422075373615,Olt,Localitate,5797,Brebeni sîrbi,Austriacă,Limba română
-Ipotești serbi,sârbi,2,44.2995152031307,24.4605446396875,Olt,Localitate,5803,Ipotești serbi,Austriacă,Limba română
-Srbi Mâgura,sârbi,2,44.5418748958326,24.7164106526476,Olt,Localitate,5817,Srbi Mâgura,Austriacă,Limba română
-Laku Sîrbesk,sârbi,2,43.9029486842642,23.0383943908608,Dolj,Lac,6017,Laku Sîrbesk,Austriacă,Limba română
-Pârâul Sârbi,sârbi,2,45.9105923677844,22.6461731342904,Hunedoara,Vale,6219,Pârâul Sârbi,PDT,Limba română
-Sârbi,sârbi,2,46.2880324153589,22.6404051252675,Arad,Localitate,6256,Sârbi,Geomil 25000,Limba română
-Dealul Sârbilor,sârbi,2,45.1329145807405,24.8170784059349,Arges,Deal,6900,Dealul Sârbilor,Geomil 25000,Limba română
-Sârbi,sârbi,2,47.7616782552489,23.9414883681373,Maramures,Localitate,7222,Sârbi,Geomil 25000,Limba română,Sârbi,PDT,Limba română
-Valea Sârbilor,sârbi,2,44.0281570918427,24.5216025647082,Olt,Vale,7747,Valea Sârbilor,Geomil 25000,Limba română
-Sârbi,sârbi,2,46.2280700689495,27.3321075424976,Bacau,Localitate,7893,Sârbi,PDT,Limba română,Sârbi,Geomil 25000,Limba română
-Valea Sârbilor,sârbi,2,45.7975936239083,24.3937059568419,Sibiu,Vale,8000,Valea Sârbilor,PDT,Limba română
-Vâlceaua Sârbi,sârbi,2,43.7853634459868,24.5505544001926,Olt,Vale,8020,Vâlceaua Sârbi,PDT,Limba română
-Sârbi,sârbi,2,47.5949757229517,23.3425778983517,Maramures,Localitate,8219,Sârbi,PDT,Limba română,Sârbi,Geomil 25000,Limba română
-Sârbi,sârbi,2,44.1998144350673,27.0543757180195,Calarasi,Localitate,8463,Sârbi,Austriacă,Limba română,Sârbi,PDT,Limba română
-Lerodeni srbi,sârbi,2,44.3765186492512,26.2105450427035,Ilfov,Localitate,8468,Lerodeni srbi,Austriacă,Limba română
-Srbi de Gratia,sârbi,2,44.4312072493862,25.4236061320282,Dambovita,Localitate,8480,Srbi de Gratia,Austriacă,Limba română
-Fântâna Sârbilor,sârbi,2,44.1408774554327,24.8801157627378,Teleorman,Altele,9046,Fântâna Sârbilor,PDT,Limba română
-Dealul Sârbilor,sârbi,2,46.5375624254101,26.6923818226731,Bacau,Deal,9169,Dealul Sârbilor,Geomil 25000,Limba română
-Corlăteștii Sârbi,sârbi,2,44.1843801093147,24.2438136567472,Olt,Localitate,9485,Corlăteștii Sârbi,PDT,Limba română
-Sârbi,sârbi,2,45.9278148483304,27.3264356129646,Galati,Localitate,9492,Sârbi,PDT,Limba română,Sârbi,Geomil 25000,Limba română
-Dealul Sârbilor,sârbi,2,46.7861718426407,27.7440720842129,Vaslui,Deal,9718,Dealul Sârbilor,Moldova (1892-1898),Limba română
-Valea Sârbilor,sârbi,2,46.1114568802283,27.649247630791,Galati,Vale,9754,Valea Sârbilor,Geomil 25000,Limba română,Valea Sârbilor,Moldova (1892-1898),Limba română
-Epurești-Srbi,sârbi,2,44.2556461012738,25.8889839205544,Ilfov,Localitate,9990,Epurești-Srbi,Austriacă,Limba română
-Mahalaua Sârbilor,sârbi,2,44.912590289042,25.4910848295862,Dambovita,Localitate,10080,Mahalaua Sârbilor,PDT,Limba română
-La Sârbi,sârbi,2,45.0006828037902,25.9997658586299,Prahova,Localitate,10081,La Sârbi,PDT,Limba română
-Kiseleti Sârbi,sârbi,2,44.1731834593093,26.8618743289532,Calarasi,Localitate,10101,Kiseleti Sârbi,Austriacă,Limba română
-Serbi,sârbi,2,47.0678022197482,22.7989639252984,Salaj,Localitate,10379,Serbi,Ungară 1869,Limba română,Sârbi,Geomil 25000,Limba română
-Sârbii,sârbi,2,47.8190635443989,25.776013333626,Suceava,Altele,10760,Sârbii,Imperiul Habsburgic (1887),Limba română
-Dealul Sârbii Vechi,sârbi,2,46.174523915919,27.2199984826997,Vrancea,Deal,10896,Dealul Sârbii Vechi,Geomil 25000,Limba română
-Puțu din Poiana Sârbilor,sârbi,2,45.1568467478997,24.9868202268016,Arges,Altele,11121,Puțu din Poiana Sârbilor,PDT,Limba română
-Cotul Sârbilor,sârbi,2,45.0721454983058,26.9533114256749,Buzau,Apă-deal-câmpie,11263,Cotul Sârbilor,Geomil 25000,Limba română
-Dealul Sârbilor,sârbi,2,46.8143068408135,26.8479277963812,Neamt,Deal,11392,Dealul Sârbilor,Geomil 25000,Limba română
-Sârbi,sârbi,2,47.1917758644556,22.1175916354051,Bihor,Localitate,11506,Sârbi,Geomil 25000,Limba română
-Fântâna Sârbilor,sârbi,2,43.9621840472788,23.2790513017204,Dolj,Altele,11802,Fântâna Sârbilor,PDT,Limba română
-La Sârbi,sârbi,2,44.1659509152857,26.3706376593578,Giurgiu,Localitate,12061,La Sârbi,PDT,Limba română
-Liwes Sirbi,sârbi,2,44.200986009333,23.796943670774,Dolj,Localitate,12172,Liwes Sirbi,Oltenia-Muntenia (1790),Limba română
-Valea Sârbilor,sârbi,2,46.5630182571526,26.7189909546816,Bacau,Vale,12344,Valea Sârbilor,PDT,Limba română
-Valea Sârbilor,sârbi,2,46.7165045232251,27.787648765453,Vaslui,Vale,13941,Valea Sârbilor,Moldova (1892-1898),Limba română
-Bâtca Sârbului,sârb,3,47.0267281693646,26.2018310445809,Neamt,Înălțime,672,Bâtca Sârbului,Geomil 25000,Limba română
-Cioaca Sârbului,sârb,3,45.9260610121694,22.3954006988924,Timis,Înălțime,875,Cioaca Sârbului,Geomil 25000,Limba română,Dâmbul Sârbului,PDT,Limba română
-Dealu Sârbului,sârb,3,46.0411034373964,22.3343668095298,Arad,Deal,948,Dealu Sârbului,Geomil 25000,Limba română
-Tâlva Sârbului,sârb,3,45.372555107887,21.9855211661023,Caras Severin,Înălțime,1236,Tâlva Sârbului,Geomil 25000,Limba română
-Valea Sârbului,sârb,3,45.5060598610109,21.7603799382792,Caras Severin,Vale,1245,Valea Sârbului,Geomil 25000,Limba română
-Valea Sârbului,sârb,3,44.2282336782006,24.2110563158927,Olt,Vale,1294,Valea Sârbului,Geomil 25000,Limba română
-La Lacu Sârbului,sârb,3,44.6766850729423,26.1787860536325,Ilfov,Lac,1323,La Lacu Sârbului,Geomil 25000,Limba română
-Măgura Sârbului,sârb,3,43.9601829266976,24.9067821183693,Teleorman,Înălțime,1358,Măgura Sârbului,Geomil 25000,Limba română
-Lunca Sârbului,sârb,3,45.8289385708492,24.1159161516503,Sibiu,Apă-deal-câmpie,2542,Lunca Sârbului,Geomil 25000,Limba română
-Valea Sârbului,sârb,3,45.8911616916514,25.6350857873936,Covasna,Vale,2742,Valea Sârbului,Geomil 25000,Limba română
-Privalul Sârbului,sârb,3,44.3151498213685,27.776538562004,Calarasi,Apă-deal-câmpie,3456,Privalul Sârbului,PDT,Limba română
-Dealul Poiana Sârbului,sârb,3,44.8510544372522,22.9742413187349,Gorj,Deal,3673,Dealul Poiana Sârbului,PDT,Limba română
-Piscul Gruia Sârbului,sârb,3,45.224673562678,24.708984936919,Arges,Înălțime,4063,Piscul Gruia Sârbului,PDT,Limba română
-Sârbu,sârb,3,46.169728413415,26.663359741973,Bacau,Altele,5312,Sârbu,Geomil 25000,Limba română
-Dealu Sârbului,sârb,3,45.1742664453127,21.5998747066996,Caras Severin,Deal,5701,Dealu Sârbului,Geomil 25000,Limba română
-Mâg. Serbului,sârb,3,43.9806992480196,24.9378815817648,Teleorman,Înălțime,5791,Mâg. Serbului,Austriacă,Limba română
-Laku Srbului,sârb,3,44.3234058562928,25.334753292483,Teleorman,Lac,6014,Laku Srbului,Austriacă,Limba română
-Valea Sârbului,sârb,3,45.6451006734723,22.1191098567881,Timis,Vale,6073,Valea Sârbului,Geomil 25000,Limba română
-Pârâu Cleanțu Sârbului,sârb,3,45.2450321125854,22.0539502046625,Caras Severin,Vale,6126,Pârâu Cleanțu Sârbului,Geomil 25000,Limba română
-Valea Izvoru Sârbului,sârb,3,45.1335338774452,22.1399920348118,Caras Severin,Vale,6128,Valea Izvoru Sârbului,Geomil 25000,Limba română
-Poiana Piciorul Sârbului,sârb,3,47.2424771574046,26.1620170479808,Neamt,Poiană,7398,Poiana Piciorul Sârbului,Geomil 25000,Limba română
-Valea Sârbului,sârb,3,45.9619612235154,21.1401163192748,Timis,Vale,7638,Valea Sârbului,PDT,Limba română
-Gruețu Sârbului,sârb,3,46.4742412171753,22.1315290032379,Arad,Altele,7662,Gruețu Sârbului,Geomil 25000,Limba română,Gruețul Sârbului,PDT,Limba română
-Pădurea Sârbului,sârb,3,46.51189158744,27.2393702835802,Bacau,Pădure,7865,Pădurea Sârbului,Geomil 25000,Limba română
-Puțu Sârbului,sârb,3,44.400095199546,25.1624800954491,Teleorman,Altele,8321,Puțu Sârbului,PDT,Limba română
-Măgura Sârbului,sârb,3,43.8756951537531,24.2889671107247,Olt,Înălțime,9330,Măgura Sârbului,PDT,Limba română
-Câmpul Sârbului,sârb,3,44.8540180872177,24.338447018692,Valcea,Câmp,9372,Câmpul Sârbului,PDT,Limba română
-Poiana la Prisaca Sârbului,sârb,3,46.6665413962078,27.6527562150806,Vaslui,Poiană,9543,Poiana la Prisaca Sârbului,Moldova (1892-1898),Limba română
-Pârâul Sârbului,sârb,3,47.3008198147176,26.2176012697782,Suceava,Vale,9557,Pârâul Sârbului,Moldova (1892-1898),Limba română
-Pârâul Sârbului,sârb,3,47.1777978573292,26.0668654320626,Neamt,Vale,9707,Pârâul Sârbului,Moldova (1892-1898),Limba română
-Dealul Sârbului,sârb,3,44.8573703369357,25.1800767942335,Arges,Deal,10139,Dealul Sârbului,PDT,Limba română
-Dealul Sârbului,sârb,3,45.9625114598959,21.7287538253002,Arad,Deal,10211,Dealul Sârbului,Geomil 25000,Limba română
-Poiana Sirbului,sârb,3,45.1498939104506,22.1220759157468,Caras Severin,Poiană,10254,Poiana Sirbului,Ungară 1869,Limba română
-Pârâu Sârbului,sârb,3,45.7840965660388,22.3906841374397,Timis,Vale,10307,Pârâu Sârbului,Geomil 25000,Limba română
-Dialu Sîrbului,sârb,3,46.0197834276095,22.2053213990803,Arad,Deal,10313,Dialu Sîrbului,Ungară 1869,Limba română
-Balta Sârbului,sârb,3,43.8898113767464,23.1481640466399,Dolj,Apă-deal-câmpie,10350,Balta Sârbului,Geomil 25000,Limba română
-D. Sirbului,sârb,3,45.365965405038,23.2074154615766,Hunedoara,Deal,10478,D. Sirbului,Transilvania (1869-1870),Limba română
-Sîrbu,sârb,3,46.3577589862796,23.6232608456273,Alba,Înălțime,10503,Sîrbu,Transilvania (1869-1870),Limba română
-Poiana Sârbului,sârb,3,45.0331108762632,21.7843120266953,Caras Severin,Poiană,10704,Poiana Sârbului,Geomil 25000,Limba română
-Poiana Sârbului,sârb,3,45.7712505242104,21.8589782039927,Timis,Poiană,10866,Poiana Sârbului,Imperiul Habsburgic (1887),Limba română
-Dealul Coliba Sârbului,sârb,3,44.782514741385,21.7026126872319,Caras Severin,Deal,10868,Dealul Coliba Sârbului,Geomil 25000,Limba română
-Piscul Sârbului,sârb,3,46.0766036205271,26.7578691097846,Vrancea,Înălțime,11305,Piscul Sârbului,Geomil 25000,Limba română
-La Roata Sârbului,sârb,3,45.3742744070805,27.1655527002002,Buzau,Altele,11444,La Roata Sârbului,Geomil 25000,Limba română
-Dealu Sârbu,sârb,3,45.2160223933502,21.6958677691784,Caras Severin,Deal,11500,Dealu Sârbu,Geomil 25000,Limba română
-Sârbul,sârb,3,47.0182595830232,26.3617610302678,Neamt,Vale,11995,Sârbul,Geomil 25000,Limba română
-Valea Sârbul,sârb,3,46.9964688019173,22.5357297095521,Bihor,Vale,12350,Valea Sârbul,PDT,Limba română
-Mov. Sirbuli,sârb,3,44.7572703375339,27.2257805489159,Ialomita,Înălțime,12410,Mov. Sirbuli,Austriacă,Limba română
-Poiana Sârbului,sârb,3,45.0569363623523,21.9829598286399,Caras Severin,Poiană,13487,Poiana Sârbului,PDT,Limba română
-Valea Sârbul,sârb,3,44.8475166055841,23.6003534030203,Gorj,Vale,13951,Valea Sârbul,PDT,Limba română
-Poiana Livada Sârbului,sârb,3,44.7463676623411,25.3829223182053,Dambovita,Poiană,14178,Poiana Livada Sârbului,PDT,Limba română
 Dealu Sârbului,sârb,3,46.8915076773326,22.8594097618178,Cluj,Deal,14218,Dealu Sârbului,Geomil 25000,Limba română
 Dealu Sârbului,sârb,3,46.8915076773326,22.8594097618178,Cluj,Deal,14219,Dealu Sârbului,Geomil 25000,Limba română
-La Sârbești,sârbești,3,46.2903597831491,22.822199800167,Hunedoara,Altele,927,La Sârbești,Geomil 25000,Limba română
-Sârbești,sârbești,3,45.4773881540342,26.7027141001883,Buzau,Localitate,5233,Sârbești,Geomil 25000,Limba română
-Viile Sârbești,sârbești,3,46.0251766915095,20.9753928261568,Timis,Altele,5657,Viile Sârbești,PDT,Limba română
-Sârbești,sârbești,3,46.5017642413006,22.4846629674691,Bihor,Localitate,7001,Sârbești,Geomil 25000,Limba română
+Valea Sârbului,sârb,3,45.8911616916514,25.6350857873936,Covasna,Vale,2742,Valea Sârbului,Geomil 25000,Limba română
+Poiana Livada Sârbului,sârb,3,44.7463676623411,25.3829223182053,Dambovita,Poiană,14178,Poiana Livada Sârbului,PDT,Limba română
+Băleni-Sârbi,sârbi,2,44.8193324419927,25.6358517274445,Dambovita,Localitate,3701,Băleni-Sârbi,PDT,Limba română,Băleni-Sârbi,Geomil 25000,Limba română
+Dealu Sârbi,sârbi,2,44.641776801203,25.2977142349839,Dambovita,Deal,1397,Dealu Sârbi,Geomil 25000,Limba română
+Dealu Sârbilor,sârbi,2,44.6203014054107,25.3192175984171,Dambovita,Deal,3383,Dealu Sârbilor,Geomil 25000,Limba română
+Mahalaua Sârbilor,sârbi,2,44.912590289042,25.4910848295862,Dambovita,Localitate,10080,Mahalaua Sârbilor,PDT,Limba română
+Srbi de Gratia,sârbi,2,44.4312072493862,25.4236061320282,Dambovita,Localitate,8480,Srbi de Gratia,Austriacă,Limba română
+Balta Sârbului,sârb,3,43.8898113767464,23.1481640466399,Dolj,Apă-deal-câmpie,10350,Balta Sârbului,Geomil 25000,Limba română
+Valea Sârba,sârba,3,44.2449412566484,23.9135748735948,Dolj,Vale,7728,Valea Sârba,PDT,Limba română,Valea Sârbă,Geomil 25000,Limba română
+Valea Sârbii,sârba,3,44.0820479354715,24.1346954631374,Dolj,Vale,12377,Valea Sârbii,Geomil 25000,Limba română
+Fântâna Sârbilor,sârbi,2,43.9621840472788,23.2790513017204,Dolj,Altele,11802,Fântâna Sârbilor,PDT,Limba română
+Fântâna sîrbilor,sârbi,2,43.9395473603377,23.041916704616,Dolj,Altele,3648,Fântâna sîrbilor,Austriacă,Limba română
+Laku Sîrbesk,sârbi,2,43.9029486842642,23.0383943908608,Dolj,Lac,6017,Laku Sîrbesk,Austriacă,Limba română
+Liwes Sirbi,sârbi,2,44.200986009333,23.796943670774,Dolj,Localitate,12172,Liwes Sirbi,Oltenia-Muntenia (1790),Limba română
+Sârbi,sârbi,2,45.9278148483304,27.3264356129646,Galati,Localitate,9492,Sârbi,PDT,Limba română,Sârbi,Geomil 25000,Limba română
+Valea Sârbilor,sârbi,2,46.1114568802283,27.649247630791,Galati,Vale,9754,Valea Sârbilor,Geomil 25000,Limba română,Valea Sârbilor,Moldova (1892-1898),Limba română
+La Sârbi,sârbi,2,44.1659509152857,26.3706376593578,Giurgiu,Localitate,12061,La Sârbi,PDT,Limba română
+Dealul Poiana Sârbului,sârb,3,44.8510544372522,22.9742413187349,Gorj,Deal,3673,Dealul Poiana Sârbului,PDT,Limba română
+Valea Sârbul,sârb,3,44.8475166055841,23.6003534030203,Gorj,Vale,13951,Valea Sârbul,PDT,Limba română
 Sârbești,sârbești,3,45.1317492754851,23.4676488006512,Gorj,Localitate,12462,Sârbești,Austriacă,Limba română
-Pădurea Sârbeni,sârbeni,3,44.4982362246501,25.3769297697056,Teleorman,Pădure,3387,Pădurea Sârbeni,PDT,Limba română
-Bâtca Sârbeni,sârbeni,3,46.9879938217926,25.9625376613159,Neamt,Înălțime,6472,Bâtca Sârbeni,Geomil 25000,Limba română
+Sârbești,sârbi,2,45.1188407338642,23.7873870133048,Gorj,Localitate,242,Sârbești,Geomil 25000,Limba română
 Sârbeni,sârbeni,3,46.9546280007052,25.3852698438193,Harghita,Localitate,7965,Sârbeni,PDT,Limba română
-Sârbeni,sârbeni,3,44.3702706847826,24.3051806437619,Olt,Altele,10692,Sârbeni,Geomil 25000,Limba română
-Pârâu Sârbeni,sârbeni,3,45.873817758,22.1298231049222,Timis,Vale,12835,Pârâu Sârbeni,Geomil 25000,Limba română
+D. Sirbului,sârb,3,45.365965405038,23.2074154615766,Hunedoara,Deal,10478,D. Sirbului,Transilvania (1869-1870),Limba română
+Sârba,sârba,3,45.9007316485537,23.2995238531802,Hunedoara,Altele,9848,Sârba,PDT,Limba română
+La Sârbești,sârbești,3,46.2903597831491,22.822199800167,Hunedoara,Altele,927,La Sârbești,Geomil 25000,Limba română
+Pârâul Sârbi,sârbi,2,45.9105923677844,22.6461731342904,Hunedoara,Vale,6219,Pârâul Sârbi,PDT,Limba română
+Sârbi,sârbi,2,45.9599829136287,22.7062725072505,Hunedoara,Localitate,940,Sârbi,Geomil 25000,Limba română
+Mov. Sirbuli,sârb,3,44.7572703375339,27.2257805489159,Ialomita,Înălțime,12410,Mov. Sirbuli,Austriacă,Limba română
+Movila Sârbilor,sârbi,2,44.7182752887871,26.6932907901304,Ialomita,Înălțime,3181,Movila Sârbilor,Geomil 25000,Limba română
+Valea Sârbilor,sârbi,2,47.1363281643876,27.1207380320175,Iasi,Vale,2235,Valea Sârbilor,Geomil 25000,Limba română,Valea Sârbilor,PDT,Limba română
+La Lacu Sârbului,sârb,3,44.6766850729423,26.1787860536325,Ilfov,Lac,1323,La Lacu Sârbului,Geomil 25000,Limba română
+Domnești-Serbi,sârbi,2,44.4016605539677,25.9305319526458,Ilfov,Localitate,4232,Domnești-Serbi,PDT,Limba română,Srbi Domnești,Austriacă,Limba română
+Epurești-Srbi,sârbi,2,44.2556461012738,25.8889839205544,Ilfov,Localitate,9990,Epurești-Srbi,Austriacă,Limba română
+Lerodeni srbi,sârbi,2,44.3765186492512,26.2105450427035,Ilfov,Localitate,8468,Lerodeni srbi,Austriacă,Limba română
 Groapa Sârbească,sârbească,3,47.9192214509321,24.6395692246927,Maramures,Altele,7195,Groapa Sârbească,Geomil 25000,Limba română
+Sârbi,sârbi,2,47.7616782552489,23.9414883681373,Maramures,Localitate,7222,Sârbi,Geomil 25000,Limba română,Sârbi,PDT,Limba română
+Sârbi,sârbi,2,47.5949757229517,23.3425778983517,Maramures,Localitate,8219,Sârbi,PDT,Limba română,Sârbi,Geomil 25000,Limba română
+Sârboaia,sârboaia,3,47.5681958585988,23.4109745869282,Maramures,Altele,13216,Sârboaia,Geomil 25000,Limba română
+Drumu Sârbilor,sârbi,2,44.4533972852602,22.5338552774924,Mehedinti,Înălțime,171,Drumu Sârbilor,Geomil 25000,Limba română
+Ogașul Sârboaicei,sârbi,2,44.617147340683,23.3573781164587,Mehedinti,Altele,411,Ogașul Sârboaicei,Geomil 25000,Limba română
+Bâtca Sârbului,sârb,3,47.0267281693646,26.2018310445809,Neamt,Înălțime,672,Bâtca Sârbului,Geomil 25000,Limba română
+Pârâul Sârbului,sârb,3,47.1777978573292,26.0668654320626,Neamt,Vale,9707,Pârâul Sârbului,Moldova (1892-1898),Limba română
+Poiana Piciorul Sârbului,sârb,3,47.2424771574046,26.1620170479808,Neamt,Poiană,7398,Poiana Piciorul Sârbului,Geomil 25000,Limba română
+Sârbul,sârb,3,47.0182595830232,26.3617610302678,Neamt,Vale,11995,Sârbul,Geomil 25000,Limba română
+Bâtca Sârbeni,sârbeni,3,46.9879938217926,25.9625376613159,Neamt,Înălțime,6472,Bâtca Sârbeni,Geomil 25000,Limba română
+Dealul Sârbilor,sârbi,2,46.8143068408135,26.8479277963812,Neamt,Deal,11392,Dealul Sârbilor,Geomil 25000,Limba română
+Sârbi,sârbi,2,47.2595138758057,26.4512546820537,Neamt,Localitate,3889,Sârbi,PDT,Limba română
+Măgura Sârbului,sârb,3,43.8756951537531,24.2889671107247,Olt,Înălțime,9330,Măgura Sârbului,PDT,Limba română
+Valea Sârbului,sârb,3,44.2282336782006,24.2110563158927,Olt,Vale,1294,Valea Sârbului,Geomil 25000,Limba română
+Balta Sârba,sârba,3,44.3019220681157,24.3527995017209,Olt,Apă-deal-câmpie,8118,Balta Sârba,PDT,Limba română
+Sârbeni,sârbeni,3,44.3702706847826,24.3051806437619,Olt,Altele,10692,Sârbeni,Geomil 25000,Limba română
+Brebeni sîrbi,sârbi,2,44.3566568129399,24.4422075373615,Olt,Localitate,5797,Brebeni sîrbi,Austriacă,Limba română
+Corlăteștii Sârbi,sârbi,2,44.1843801093147,24.2438136567472,Olt,Localitate,9485,Corlăteștii Sârbi,PDT,Limba română
+Ipotești serbi,sârbi,2,44.2995152031307,24.4605446396875,Olt,Localitate,5803,Ipotești serbi,Austriacă,Limba română
+Srbi Mâgura,sârbi,2,44.5418748958326,24.7164106526476,Olt,Localitate,5817,Srbi Mâgura,Austriacă,Limba română
+Vâlceaua Sârbi,sârbi,2,43.7853634459868,24.5505544001926,Olt,Vale,8020,Vâlceaua Sârbi,PDT,Limba română
+Valea Sârbilor,sârbi,2,43.8032052574907,24.272219550974,Olt,Vale,3030,Valea Sârbilor,Geomil 25000,Limba română
+Valea Sârbilor,sârbi,2,44.0281570918427,24.5216025647082,Olt,Vale,7747,Valea Sârbilor,Geomil 25000,Limba română
+La Sârbi,sârbi,2,45.0006828037902,25.9997658586299,Prahova,Localitate,10081,La Sârbi,PDT,Limba română
+Serbi,sârbi,2,47.0678022197482,22.7989639252984,Salaj,Localitate,10379,Serbi,Ungară 1869,Limba română,Sârbi,Geomil 25000,Limba română
+Lunca Sârbului,sârb,3,45.8289385708492,24.1159161516503,Sibiu,Apă-deal-câmpie,2542,Lunca Sârbului,Geomil 25000,Limba română
+Valea Sârbilor,sârbi,2,45.7975936239083,24.3937059568419,Sibiu,Vale,8000,Valea Sârbilor,PDT,Limba română
+Pârâul Sârbului,sârb,3,47.3008198147176,26.2176012697782,Suceava,Vale,9557,Pârâul Sârbului,Moldova (1892-1898),Limba română
+Sârbii,sârbi,2,47.8190635443989,25.776013333626,Suceava,Altele,10760,Sârbii,Imperiul Habsburgic (1887),Limba română
+Laku Srbului,sârb,3,44.3234058562928,25.334753292483,Teleorman,Lac,6014,Laku Srbului,Austriacă,Limba română
+Mâg. Serbului,sârb,3,43.9806992480196,24.9378815817648,Teleorman,Înălțime,5791,Mâg. Serbului,Austriacă,Limba română
+Măgura Sârbului,sârb,3,43.9601829266976,24.9067821183693,Teleorman,Înălțime,1358,Măgura Sârbului,Geomil 25000,Limba română
+Puțu Sârbului,sârb,3,44.400095199546,25.1624800954491,Teleorman,Altele,8321,Puțu Sârbului,PDT,Limba română
+Pădurea Sârbeni,sârbeni,3,44.4982362246501,25.3769297697056,Teleorman,Pădure,3387,Pădurea Sârbeni,PDT,Limba română
+Fântâna Sârbilor,sârbi,2,44.1408774554327,24.8801157627378,Teleorman,Altele,9046,Fântâna Sârbilor,PDT,Limba română
+Valea Sârbilor,sârbi,2,43.8703378063872,25.0972321590423,Teleorman,Vale,1381,Valea Sârbilor,Geomil 25000,Limba română
+Cioaca Sârbului,sârb,3,45.9260610121694,22.3954006988924,Timis,Înălțime,875,Cioaca Sârbului,Geomil 25000,Limba română,Dâmbul Sârbului,PDT,Limba română
+Pârâu Sârbului,sârb,3,45.7840965660388,22.3906841374397,Timis,Vale,10307,Pârâu Sârbului,Geomil 25000,Limba română
+Poiana Sârbului,sârb,3,45.7712505242104,21.8589782039927,Timis,Poiană,10866,Poiana Sârbului,Imperiul Habsburgic (1887),Limba română
+Valea Sârbului,sârb,3,45.6451006734723,22.1191098567881,Timis,Vale,6073,Valea Sârbului,Geomil 25000,Limba română
+Valea Sârbului,sârb,3,45.9619612235154,21.1401163192748,Timis,Vale,7638,Valea Sârbului,PDT,Limba română
 Medjița Sârbească,sârbească,3,45.7301001520666,20.9122880612427,Timis,Altele,7619,Medjița Sârbească,PDT,Limba română
 Ohaba sârbească,sârbească,3,45.9500490326396,21.9434738900438,Timis,Localitate,10358,Ohaba Română,Geomil 25000,Limba română
-Valea Sârbească,sârbească,3,44.9397014135323,21.6728162897252,Caras Severin,Vale,12708,Valea Sârbească,Geomil 25000,Limba română
+Pârâu Sârbeni,sârbeni,3,45.873817758,22.1298231049222,Timis,Vale,12835,Pârâu Sârbeni,Geomil 25000,Limba română
 Sânmartinu Sârbesc,sârbesc,3,45.604688951219,20.958370991964,Timis,Localitate,7616,Sânmartinu Sârbesc,Geomil 25000,Limba română
-Valea Sârba,sârba,3,44.2449412566484,23.9135748735948,Dolj,Vale,7728,Valea Sârba,PDT,Limba română,Valea Sârbă,Geomil 25000,Limba română
-Balta Sârba,sârba,3,44.3019220681157,24.3527995017209,Olt,Apă-deal-câmpie,8118,Balta Sârba,PDT,Limba română
-Dealul Sârba,sârba,3,45.7721857264541,27.0315668564185,Vrancea,Deal,9234,Dealul Sârba,PDT,Limba română
-Sârba,sârba,3,46.2628007838855,27.243992898231,Bacau,Localitate,9526,Sârba,Moldova (1892-1898),Limba română
-Sârba,sârba,3,45.9007316485537,23.2995238531802,Hunedoara,Altele,9848,Sârba,PDT,Limba română
-Valea Sârbii,sârba,3,44.0820479354715,24.1346954631374,Dolj,Vale,12377,Valea Sârbii,Geomil 25000,Limba română
+Viile Sârbești,sârbești,3,46.0251766915095,20.9753928261568,Timis,Altele,5657,Viile Sârbești,PDT,Limba română
+La Sârbi,sârbi,2,46.1288596554428,20.2748670629025,Timis,Altele,1960,La Sârbi,Geomil 25000,Limba română,Sârbi,PDT,Limba română
 Sirbowa,sârbova,3,45.7049365653053,21.5526609204283,Timis,Localitate,12053,Sirbowa,Banat (1769-1772),Limba română,Sârbova,Geomil 25000,Limba română
-Sârboaia,sârboaia,3,47.5681958585988,23.4109745869282,Maramures,Altele,13216,Sârboaia,Geomil 25000,Limba română
-Sârboaia,sârboaia,3,46.2968468867278,26.8801111756135,Bacau,Vale,13600,Sârboaia,Geomil 25000,Limba română
+Câmpul Sârbului,sârb,3,44.8540180872177,24.338447018692,Valcea,Câmp,9372,Câmpul Sârbului,PDT,Limba română
+Sârbi,sârbi,2,44.6494703623455,24.0853609859968,Valcea,Localitate,2954,Sârbi,Geomil 25000,Limba română
+Valea Sârbilor,sârbi,2,44.6580010356494,23.9465133152777,Valcea,Vale,260,Valea Sârbilor,Geomil 25000,Limba română,Valea Sârbilor,PDT,Limba română
+Poiana la Prisaca Sârbului,sârb,3,46.6665413962078,27.6527562150806,Vaslui,Poiană,9543,Poiana la Prisaca Sârbului,Moldova (1892-1898),Limba română
+Dealul Sârbilor,sârbi,2,46.7861718426407,27.7440720842129,Vaslui,Deal,9718,Dealul Sârbilor,Moldova (1892-1898),Limba română
+Sârbi,sârbi,2,46.3931752388834,27.8105505819383,Vaslui,Localitate,2176,Sârbi,Geomil 25000,Limba română
+Valea Sârbilor,sârbi,2,46.7165045232251,27.787648765453,Vaslui,Vale,13941,Valea Sârbilor,Moldova (1892-1898),Limba română
+Piscul Sârbului,sârb,3,46.0766036205271,26.7578691097846,Vrancea,Înălțime,11305,Piscul Sârbului,Geomil 25000,Limba română
+Dealul Sârba,sârba,3,45.7721857264541,27.0315668564185,Vrancea,Deal,9234,Dealul Sârba,PDT,Limba română
+Dealul Sârbii Vechi,sârbi,2,46.174523915919,27.2199984826997,Vrancea,Deal,10896,Dealul Sârbii Vechi,Geomil 25000,Limba română
+Sârbi,sârbi,2,45.8704197604365,27.0627512955592,Vrancea,Localitate,5277,Sârbi,Geomil 25000,Limba română

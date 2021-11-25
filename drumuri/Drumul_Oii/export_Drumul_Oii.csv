@@ -1,22 +1,22 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Drumu Oii,Drumul Oii,2,43.9111999196474,24.825665571571,Teleorman,Drum,1357,Drumu Oii,Geomil 25000,Limba română
-Drumu Oii,Drumul Oii,2,44.1459784243306,24.72629634953,Teleorman,Drum,1365,Drumu Oii,Geomil 25000,Limba română,Drumul Oilor,PDT,Limba română
+Drumul Oiei,Drumul Oii,2,44.8222252565916,24.8552982973032,Arges,Drum,9356,Drumul Oiei,PDT,Limba română,Drumu Oii,Geomil 25000,Limba română
+Pe Drumul Oilor,Drumul Oii,2,46.7841014435022,24.2682258057972,Bistrita Nasaud,Drum,11615,Pe Drumul Oilor,Geomil 25000,Limba română
+Movila Drumul Oilor,Drumul Oii,2,44.9452336633703,27.3152511746461,Braila,Înălțime,6738,Movila Drumul Oilor,PDT,Limba română
+Movila Drumu Oilor,Drumul Oii,2,45.1243278193795,26.7446812175139,Buzau,Înălțime,8731,Movila Drumu Oilor,PDT,Limba română
+Drumul Oilor,Drumul Oii,2,44.6256050333248,26.2037897424946,Ilfov,Drum,8779,Drumul Oilor,PDT,Limba română
+Drumul Oilor,Drumul Oii,2,44.5828556862894,23.0646609746204,Mehedinti,Drum,3667,Drumul Oilor,PDT,Limba română
+Copacul de la Drumul Oilor,Drumul Oii,2,44.1189638380524,24.7457023641602,Olt,Altele,7752,Copacul de la Drumul Oilor,PDT,Limba română
+Drumu Oii,Drumul Oii,2,44.6538838280592,24.4884967208032,Olt,Drum,3050,Drumu Oii,Geomil 25000,Limba română
 Drumul Oilor,Drumul Oii,2,44.1926769982131,24.6853807028783,Olt,Drum,2986,Drumul Oilor,PDT,Limba română
 Drumul Oilor,Drumul Oii,2,44.2336068552414,24.6589736731437,Olt,Drum,2987,Drumul Oilor,PDT,Limba română
 Drumul Oilor,Drumul Oii,2,44.3888667288143,24.4024935271097,Olt,Drum,3007,Drumul Oilor,PDT,Limba română
-Drumu Oii,Drumul Oii,2,44.6538838280592,24.4884967208032,Olt,Drum,3050,Drumu Oii,Geomil 25000,Limba română
-Drum Oii,Drumul Oii,2,43.848297330601,24.8394880372322,Teleorman,Drum,3643,Drum Oii,Austriacă,Limba română
-Drumul Oilor,Drumul Oii,2,44.5828556862894,23.0646609746204,Mehedinti,Drum,3667,Drumul Oilor,PDT,Limba română
-Drumu Oii,Drumul Oii,2,44.064844433901,24.7635219071787,Teleorman,Drum,5792,Drumu Oii,Geomil 25000,Limba română
-Movila Drumul Oilor,Drumul Oii,2,44.9452336633703,27.3152511746461,Braila,Înălțime,6738,Movila Drumul Oilor,PDT,Limba română
-Copacul de la Drumul Oilor,Drumul Oii,2,44.1189638380524,24.7457023641602,Olt,Altele,7752,Copacul de la Drumul Oilor,PDT,Limba română
 Drumul Oilor,Drumul Oii,2,44.4803756479589,24.2651565984036,Olt,Drum,8295,Drumul Oilor,PDT,Limba română
-Movila Drumu Oilor,Drumul Oii,2,45.1243278193795,26.7446812175139,Buzau,Înălțime,8731,Movila Drumu Oilor,PDT,Limba română
-Drumul Oilor,Drumul Oii,2,44.6256050333248,26.2037897424946,Ilfov,Drum,8779,Drumul Oilor,PDT,Limba română
 Drumul Oilor,Drumul Oii,2,44.5823342742231,24.4468795966779,Olt,Drum,9349,Drumul Oilor,PDT,Limba română
-Drumul Oiei,Drumul Oii,2,44.8222252565916,24.8552982973032,Arges,Drum,9356,Drumul Oiei,PDT,Limba română,Drumu Oii,Geomil 25000,Limba română
-Drumul Oei,Drumul Oii,2,43.7865943313726,25.2020996881562,Teleorman,Drum,9998,Drumul Oei,PDT,Limba română
-Pe Drumul Oilor,Drumul Oii,2,46.7841014435022,24.2682258057972,Bistrita Nasaud,Drum,11615,Pe Drumul Oilor,Geomil 25000,Limba română
-Găvanul din Drumul Oii,Drumul Oii,2,43.8682612655055,24.8299647892681,Teleorman,Apă-deal-câmpie,12216,Găvanul din Drumul Oii,PDT,Limba română,Găvanu din Drumu Oii,Geomil 25000,Limba română
+Drum Oii,Drumul Oii,2,43.848297330601,24.8394880372322,Teleorman,Drum,3643,Drum Oii,Austriacă,Limba română
 Drum Oii,Drumul Oii,2,43.9964654761951,24.7693836920864,Teleorman,Drum,12421,Drum Oii,Austriacă,Limba română
+Drumu Oii,Drumul Oii,2,43.9111999196474,24.825665571571,Teleorman,Drum,1357,Drumu Oii,Geomil 25000,Limba română
+Drumu Oii,Drumul Oii,2,44.1459784243306,24.72629634953,Teleorman,Drum,1365,Drumu Oii,Geomil 25000,Limba română,Drumul Oilor,PDT,Limba română
+Drumu Oii,Drumul Oii,2,44.064844433901,24.7635219071787,Teleorman,Drum,5792,Drumu Oii,Geomil 25000,Limba română
 Drumu Oii,Drumul Oii,2,44.0866321468722,24.7625291154376,Teleorman,Drum,12429,Drumu Oii,PDT,Limba română
+Drumul Oei,Drumul Oii,2,43.7865943313726,25.2020996881562,Teleorman,Drum,9998,Drumul Oei,PDT,Limba română
+Găvanul din Drumul Oii,Drumul Oii,2,43.8682612655055,24.8299647892681,Teleorman,Apă-deal-câmpie,12216,Găvanul din Drumul Oii,PDT,Limba română,Găvanu din Drumu Oii,Geomil 25000,Limba română

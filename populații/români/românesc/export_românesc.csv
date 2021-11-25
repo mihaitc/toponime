@@ -1,16 +1,16 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
-Dealul Românesc,românesc,3,47.1020823379414,27.2538560254265,Iasi,Deal,1646,Dealul Românesc,Geomil 25000,Limba română
-Muntele Românescu,românesc,3,45.246323552812,25.3064501920939,Dambovita,Înălțime,5218,Muntele Românescu,Geomil 25000,Limba română
 Dealul Pământul Românesc,românesc,3,46.1957210884631,24.0453889106261,Alba,Deal,5507,Dealul Pământul Românesc,Geomil 25000,Limba română
-Râtul Românesc,românesc,3,46.1545894787936,21.0107754686374,Arad,Altele,5643,Râtul Românesc,PDT,Limba română
-Dealul Românesc,românesc,3,46.0777729287606,21.7307603126225,Arad,Deal,6303,Dealul Românesc,PDT,Limba română
-Lacul Peștele Românesc,românesc,3,44.9917827066517,28.0736320641706,Braila,Lac,6711,Lacul Peștele Românesc,PDT,Limba română
-Mănășturu Românesc,românesc,3,46.7766306794,23.0864379907,Cluj,Localitate,7025,Mănășturu Românesc,Geomil 25000,Limba română
-Satul-Mare-Românesc,românesc,3,47.8198982000617,26.0079029789306,Suceava,Localitate,7257,Satul-Mare-Românesc,PDT,Limba română
-Călălăul Românesc,românesc,3,47.1284646163855,22.9823690155291,Salaj,Localitate,7539,Călălăul Românesc,PDT,Limba română
-Cehalul Românesc,românesc,3,47.3832138900637,22.5922970371454,Satu Mare,Localitate,8208,Cehalul Românesc,PDT,Limba română
 Hagăul Românesc,românesc,3,46.2505139570686,23.9911207185522,Alba,Altele,8640,Hagăul Românesc,PDT,Limba română
 Lepadiue romanesce,românesc,3,46.3774306762255,23.6626665862335,Alba,Localitate,10504,Lepadiue romanesce,Transilvania (1869-1870),Limba română
-Ticușul românesc,românesc,3,45.9170507586291,25.180027798701,Brasov,Localitate,10573,Ticușul românesc,Imperiul Habsburgic (1887),Limba română
+Dealul Românesc,românesc,3,46.0777729287606,21.7307603126225,Arad,Deal,6303,Dealul Românesc,PDT,Limba română
+Râtul Românesc,românesc,3,46.1545894787936,21.0107754686374,Arad,Altele,5643,Râtul Românesc,PDT,Limba română
 Budacu Românesc,românesc,3,47.061493509382,24.6572789373112,Bistrita Nasaud,Localitate,10640,Budacu Românesc,Imperiul Habsburgic (1887),Limba română
+Lacul Peștele Românesc,românesc,3,44.9917827066517,28.0736320641706,Braila,Lac,6711,Lacul Peștele Românesc,PDT,Limba română
+Ticușul românesc,românesc,3,45.9170507586291,25.180027798701,Brasov,Localitate,10573,Ticușul românesc,Imperiul Habsburgic (1887),Limba română
+Mănășturu Românesc,românesc,3,46.7766306794,23.0864379907,Cluj,Localitate,7025,Mănășturu Românesc,Geomil 25000,Limba română
+Muntele Românescu,românesc,3,45.246323552812,25.3064501920939,Dambovita,Înălțime,5218,Muntele Românescu,Geomil 25000,Limba română
 Muntele Românesc,românesc,3,45.7547994534335,22.6887340977113,Hunedoara,Înălțime,10685,Muntele Românesc,Imperiul Habsburgic (1887),Limba română
+Dealul Românesc,românesc,3,47.1020823379414,27.2538560254265,Iasi,Deal,1646,Dealul Românesc,Geomil 25000,Limba română
+Călălăul Românesc,românesc,3,47.1284646163855,22.9823690155291,Salaj,Localitate,7539,Călălăul Românesc,PDT,Limba română
+Cehalul Românesc,românesc,3,47.3832138900637,22.5922970371454,Satu Mare,Localitate,8208,Cehalul Românesc,PDT,Limba română
+Satul-Mare-Românesc,românesc,3,47.8198982000617,26.0079029789306,Suceava,Localitate,7257,Satul-Mare-Românesc,PDT,Limba română

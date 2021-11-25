@@ -1,7 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
-Lacul Ovreilor,ovrei,4,44.217415158979,23.6984213067406,Dolj,Lac,7721,Lacul Ovreilor,PDT,Limba română
-Fântâna Ovreiului,ovrei,4,44.1623741058514,23.4525824514119,Dolj,Altele,8097,Fântâna Ovreiului,PDT,Limba română
-Movila Ovreiului,ovrei,4,44.8842632762858,26.9491811953884,Buzau,Înălțime,8730,Movila Ovreiului,PDT,Limba română
-Movila Ovrei,ovrei,4,44.6275650669765,27.1149894754177,Ialomita,Înălțime,9325,Movila Ovrei,Austriacă,Limba română
 Culmea Ovreiului,ovrei,4,45.3986714826996,25.026989729963,Arges,Înălțime,12276,Culmea Ovreiului,Geomil 25000,Limba română
 Valea Ovreiului,ovrei,4,45.1143316421327,24.8900539308228,Arges,Vale,13980,Valea Ovreiului,PDT,Limba română
+Movila Ovreiului,ovrei,4,44.8842632762858,26.9491811953884,Buzau,Înălțime,8730,Movila Ovreiului,PDT,Limba română
+Fântâna Ovreiului,ovrei,4,44.1623741058514,23.4525824514119,Dolj,Altele,8097,Fântâna Ovreiului,PDT,Limba română
+Lacul Ovreilor,ovrei,4,44.217415158979,23.6984213067406,Dolj,Lac,7721,Lacul Ovreilor,PDT,Limba română
+Movila Ovrei,ovrei,4,44.6275650669765,27.1149894754177,Ialomita,Înălțime,9325,Movila Ovrei,Austriacă,Limba română

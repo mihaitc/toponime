@@ -1,6 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Privalul Moldoveanca,moldoveancă,3,44.9184941634625,27.9571119559297,Braila,Apă-deal-câmpie,3197,Privalul Moldoveanca,Geomil 25000,Limba română
-Valea Moldovencei,moldoveancă,3,45.2640540661037,25.6123092655946,Prahova,Vale,7472,Valea Moldovencei,PDT,Limba română
-Dealul Moldovencei,moldoveancă,3,47.104681646388,24.9399205831718,Mures,Înălțime,10019,Dealul Moldovencei,Geomil 25000,Limba română,Dealul Moldovanca,PDT,Limba română
-Dealul Moldovencei,moldoveancă,3,43.8162481109511,23.9359451890103,Dolj,Deal,11606,Dealul Moldovencei,Geomil 25000,Limba română
 Pădurea Moldovana,moldovana,4,47.1540128127771,24.4222836945019,Bistrita Nasaud,Pădure,7074,Pădurea Moldovana,Geomil 25000,Limba română
+Privalul Moldoveanca,moldoveancă,3,44.9184941634625,27.9571119559297,Braila,Apă-deal-câmpie,3197,Privalul Moldoveanca,Geomil 25000,Limba română
+Dealul Moldovencei,moldoveancă,3,43.8162481109511,23.9359451890103,Dolj,Deal,11606,Dealul Moldovencei,Geomil 25000,Limba română
+Dealul Moldovencei,moldoveancă,3,47.104681646388,24.9399205831718,Mures,Înălțime,10019,Dealul Moldovencei,Geomil 25000,Limba română,Dealul Moldovanca,PDT,Limba română
+Valea Moldovencei,moldoveancă,3,45.2640540661037,25.6123092655946,Prahova,Vale,7472,Valea Moldovencei,PDT,Limba română

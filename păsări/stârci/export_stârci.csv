@@ -1,29 +1,29 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-La Stârci,stârci,2,43.7117818107655,25.7669967957779,Giurgiu,Altele,447,La Stârci,Geomil 25000,Limba română
-La Stârci,stârci,2,44.9131714450559,27.9185666096,Braila,Altele,3480,La Stârci,Geomil 25000,Limba română
-Puțul Stârcior,stârci,2,44.3948223487568,25.3497286663736,Teleorman,Altele,3746,Puțul Stârcior,PDT,Limba română
-Piciorul Stârcului,stârci,2,47.1275289174016,26.4163147017273,Neamt,Înălțime,3877,Piciorul Stârcului,PDT,Limba română,Piciorul Stârcului,Geomil 25000,Limba română
-Cuibu Stârcului,stârci,2,45.0085328411107,21.5348205211696,Caras Severin,Altele,5705,Cuibu Stârcului,Geomil 25000,Limba română
-Dealu Stârcului,stârci,2,46.6491380085783,23.877086808103,Cluj,Deal,5882,Dealu Stârcului,Geomil 25000,Limba română
-Valea Stârcului,stârci,2,45.1487963639831,26.5330912982375,Buzau,Vale,6022,Valea Stârcului,Geomil 25000,Limba română,Pârâul Stârcu,PDT,Limba română
-Plaiul Stârcului,stârci,2,45.1708797344564,26.1888231126542,Prahova,Înălțime,7487,Plaiul Stârcului,Geomil 25000,Limba română
-Dealul Stârcilor,stârci,2,45.6293176829371,24.2803147161797,Sibiu,Deal,7512,Dealul Stârcilor,PDT,Limba română
-Valea Stârcului,stârci,2,47.6072171456796,23.1370199129412,Maramures,Vale,8224,Valea Stârcului,PDT,Limba română
-Vârful Stârcilor,stârci,2,47.4320082820736,23.7682370102979,Maramures,Înălțime,8241,Vârful Stârcilor,PDT,Limba română,Vârful Stârcilor,Geomil 25000,Limba română
-Dealul Stârcului,stârci,2,47.1838881747434,23.2484761668324,Salaj,Deal,8995,Dealul Stârcului,PDT,Limba română
-Valea Stârcului,stârci,2,44.5142559345809,23.890331451849,Dolj,Vale,9343,Valea Stârcului,Geomil 25000,Limba română
-Valea Stârcii,stârci,2,44.5539684595791,23.9275889275644,Valcea,Vale,9345,Valea Stârcii,Geomil 25000,Limba română
+Dealu Stârcu,stârci,2,46.1374997018558,22.2315385016793,Arad,Deal,10218,Dealu Stârcu,Geomil 25000,Limba română
 Stârcu,stârci,2,44.8493459080761,24.7436529539713,Arges,Înălțime,9359,Stârcu,Geomil 25000,Limba română
 Dealul Stârcilor,stârci,2,47.2677425834116,24.5800432650147,Bistrita Nasaud,Deal,9861,Dealul Stârcilor,PDT,Limba română
 Valea Stârcului,stârci,2,47.3143899018493,24.5595461728424,Bistrita Nasaud,Vale,9868,Valea Stârcului,PDT,Limba română
-Valea Stârcului,stârci,2,44.8444976050167,25.205444469502,Dambovita,Vale,10144,Valea Stârcului,PDT,Limba română
-Valea Stârcu,stârci,2,44.7966094815323,25.3001208214902,Dambovita,Vale,10153,Valea Stârcu,Geomil 25000,Limba română
-Dealu Stârcu,stârci,2,46.1374997018558,22.2315385016793,Arad,Deal,10218,Dealu Stârcu,Geomil 25000,Limba română
-Valea Stârcului,stârci,2,44.3455232300068,24.6920895153517,Olt,Vale,10993,Valea Stârcului,Geomil 25000,Limba română
-Movila Stârcului-Ceret,stârci,2,44.0522404151737,23.6893668381336,Dolj,Înălțime,11807,Movila Stârcului-Ceret,PDT,Limba română
-Balta Stârcului,stârci,2,47.197864215269,26.7644209562784,Iasi,Apă-deal-câmpie,14147,Balta Stârcului,Geomil 25000,Limba română
-Privalul Bâtlanului,bâtlan,3,44.4275993907914,28.0126105373826,Ialomita,Apă-deal-câmpie,3206,Privalul Bâtlanului,Geomil 25000,Limba română
-La Bâtlani,bâtlan,3,44.175750961232,27.0252609846356,Calarasi,Altele,3257,La Bâtlani,PDT,Limba română
-Pădurea Bâtlanul,bâtlan,3,44.368665607098,27.9498489427527,Ialomita,Pădure,3451,Pădurea Bâtlanul,PDT,Limba română
 Grindul Bâtlanului,bâtlan,3,44.8121882806953,28.0037092281192,Braila,Apă-deal-câmpie,3490,Grindul Bâtlanului,Geomil 25000,Limba română
 Lacul Bâtlani,bâtlan,3,45.0705545250274,28.0499143390452,Braila,Lac,9265,Lacul Bâtlani,PDT,Limba română
+La Stârci,stârci,2,44.9131714450559,27.9185666096,Braila,Altele,3480,La Stârci,Geomil 25000,Limba română
+Valea Stârcului,stârci,2,45.1487963639831,26.5330912982375,Buzau,Vale,6022,Valea Stârcului,Geomil 25000,Limba română,Pârâul Stârcu,PDT,Limba română
+La Bâtlani,bâtlan,3,44.175750961232,27.0252609846356,Calarasi,Altele,3257,La Bâtlani,PDT,Limba română
+Cuibu Stârcului,stârci,2,45.0085328411107,21.5348205211696,Caras Severin,Altele,5705,Cuibu Stârcului,Geomil 25000,Limba română
+Dealu Stârcului,stârci,2,46.6491380085783,23.877086808103,Cluj,Deal,5882,Dealu Stârcului,Geomil 25000,Limba română
+Valea Stârcu,stârci,2,44.7966094815323,25.3001208214902,Dambovita,Vale,10153,Valea Stârcu,Geomil 25000,Limba română
+Valea Stârcului,stârci,2,44.8444976050167,25.205444469502,Dambovita,Vale,10144,Valea Stârcului,PDT,Limba română
+Movila Stârcului-Ceret,stârci,2,44.0522404151737,23.6893668381336,Dolj,Înălțime,11807,Movila Stârcului-Ceret,PDT,Limba română
+Valea Stârcului,stârci,2,44.5142559345809,23.890331451849,Dolj,Vale,9343,Valea Stârcului,Geomil 25000,Limba română
+La Stârci,stârci,2,43.7117818107655,25.7669967957779,Giurgiu,Altele,447,La Stârci,Geomil 25000,Limba română
+Pădurea Bâtlanul,bâtlan,3,44.368665607098,27.9498489427527,Ialomita,Pădure,3451,Pădurea Bâtlanul,PDT,Limba română
+Privalul Bâtlanului,bâtlan,3,44.4275993907914,28.0126105373826,Ialomita,Apă-deal-câmpie,3206,Privalul Bâtlanului,Geomil 25000,Limba română
+Balta Stârcului,stârci,2,47.197864215269,26.7644209562784,Iasi,Apă-deal-câmpie,14147,Balta Stârcului,Geomil 25000,Limba română
+Valea Stârcului,stârci,2,47.6072171456796,23.1370199129412,Maramures,Vale,8224,Valea Stârcului,PDT,Limba română
+Vârful Stârcilor,stârci,2,47.4320082820736,23.7682370102979,Maramures,Înălțime,8241,Vârful Stârcilor,PDT,Limba română,Vârful Stârcilor,Geomil 25000,Limba română
+Piciorul Stârcului,stârci,2,47.1275289174016,26.4163147017273,Neamt,Înălțime,3877,Piciorul Stârcului,PDT,Limba română,Piciorul Stârcului,Geomil 25000,Limba română
+Valea Stârcului,stârci,2,44.3455232300068,24.6920895153517,Olt,Vale,10993,Valea Stârcului,Geomil 25000,Limba română
+Plaiul Stârcului,stârci,2,45.1708797344564,26.1888231126542,Prahova,Înălțime,7487,Plaiul Stârcului,Geomil 25000,Limba română
+Dealul Stârcului,stârci,2,47.1838881747434,23.2484761668324,Salaj,Deal,8995,Dealul Stârcului,PDT,Limba română
+Dealul Stârcilor,stârci,2,45.6293176829371,24.2803147161797,Sibiu,Deal,7512,Dealul Stârcilor,PDT,Limba română
+Puțul Stârcior,stârci,2,44.3948223487568,25.3497286663736,Teleorman,Altele,3746,Puțul Stârcior,PDT,Limba română
+Valea Stârcii,stârci,2,44.5539684595791,23.9275889275644,Valcea,Vale,9345,Valea Stârcii,Geomil 25000,Limba română

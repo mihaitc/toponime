@@ -1,9 +1,9 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-La Usoi,usoi,3,46.8938223758595,22.0373284773299,Bihor,Înălțime,1085,La Usoi,Geomil 25000,Limba română
 Dealu Usoiu,usoi,3,46.0689811476577,23.9207553479099,Alba,Deal,2551,Dealu Usoiu,Geomil 25000,Limba română
-Vârful Usoi,usoi,3,45.9781317304555,22.5221493695284,Hunedoara,Înălțime,9008,Vârful Usoi,PDT,Limba română,Ossoi Rulk B.,Transilvania (1769-1773),Limba română
-Usoiu,usoi,3,46.1104355580865,22.8582326088874,Hunedoara,Înălțime,9667,Usoiu,Geomil 25000,Limba română
 Dealu Usoiu,usoi,3,46.1604238570276,22.1109106208212,Arad,Deal,10212,Dealu Usoiu,Geomil 25000,Limba română
-Valea Usoi,usoi,3,47.313631212332,24.0475337727626,Bistrita Nasaud,Vale,12087,Valea Usoi,Geomil 25000,Limba română
 Vârful Usoi,usoi,3,46.1384996846665,22.019082732958,Arad,Înălțime,13956,Vârful Usoi,PDT,Limba română
 Cioaca Usoiac,usoiac,4,46.1796287016782,21.731705029785,Arad,Înălțime,12328,Cioaca Usoiac,Imperiul Habsburgic (1887),Limba română
+La Usoi,usoi,3,46.8938223758595,22.0373284773299,Bihor,Înălțime,1085,La Usoi,Geomil 25000,Limba română
+Valea Usoi,usoi,3,47.313631212332,24.0475337727626,Bistrita Nasaud,Vale,12087,Valea Usoi,Geomil 25000,Limba română
+Usoiu,usoi,3,46.1104355580865,22.8582326088874,Hunedoara,Înălțime,9667,Usoiu,Geomil 25000,Limba română
+Vârful Usoi,usoi,3,45.9781317304555,22.5221493695284,Hunedoara,Înălțime,9008,Vârful Usoi,PDT,Limba română,Ossoi Rulk B.,Transilvania (1769-1773),Limba română

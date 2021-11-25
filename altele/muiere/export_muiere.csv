@@ -1,43 +1,43 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Măru Muierii,muiere,2,45.8375981593489,23.6366914501643,Alba,Altele,1154,Măru Muierii,Geomil 25000,Limba română
-Muntele Poaia Muierii-Pravăț,muiere,2,45.4506940631737,23.5908852351866,Hunedoara,Înălțime,1191,Muntele Poaia Muierii-Pravăț,Geomil 25000,Limba română
-Pădurea Muierea,muiere,2,44.303141980121,25.8260795827782,Giurgiu,Pădure,1330,Pădurea Muierea,Geomil 25000,Limba română
-Poiana Muierii,muiere,2,45.6522994981203,26.7420995943158,Vrancea,Poiană,2105,Poiana Muierii,Geomil 25000,Limba română
-Dealul Bradul Muierii,muiere,2,45.626052324664,24.1304175530187,Sibiu,Deal,2500,Dealul Bradul Muierii,Geomil 25000,Limba română
-Culmea Muierii,muiere,2,45.6990632392675,23.9462174866643,Sibiu,Înălțime,2505,Culmea Muierii,Geomil 25000,Limba română
-Grosu Muierii,muiere,2,45.7084501189656,23.9619400247925,Sibiu,Înălțime,2510,Grosu Muierii,Geomil 25000,Limba română
-Valea Muierii,muiere,2,45.7900799078068,23.8569120884064,Sibiu,Vale,2519,Valea Muierii,Geomil 25000,Limba română
-Peștera Muierii,muiere,2,45.18892578344,23.753745851283,Gorj,Altele,2924,Peștera Muierii,Geomil 25000,Limba română
-Dealul Muierii,muiere,2,44.2315815839785,24.1617422951004,Dolj,Deal,2976,Dealul Muierii,Geomil 25000,Limba română,Diale Moiere,Austriacă,Limba română
-Dealul Muierii,muiere,2,44.8150362200791,23.7796321701744,Valcea,Deal,3092,Dealul Muierii,Geomil 25000,Limba română
-Dealu Muierii,muiere,2,44.8640438715848,23.7761392035383,Valcea,Deal,3095,Dealu Muierii,Geomil 25000,Limba română
-Dealul Muierii,muiere,2,45.1235054572052,23.7747690877987,Gorj,Deal,3102,Dealul Muierii,Geomil 25000,Limba română
-Grindul Muierei,muiere,2,43.7299434875328,24.0898721933006,Dolj,Apă-deal-câmpie,3332,Grindul Muierei,PDT,Limba română
+Dealul Muierii,muiere,2,45.4265143786413,25.2354285096584,Arges,Deal,6869,Dealul Muierii,PDT,Limba română,Dealul Muierii,Geomil 25000,Limba română
+Valea Muerei,muiere,2,45.2256711803032,24.9752014839535,Arges,Vale,8830,Valea Muerei,PDT,Limba română
+Valea Muerei,muiere,2,44.9718718788737,25.0495692192132,Arges,Vale,10158,Valea Muerei,PDT,Limba română
+Valea Muerei,muiere,2,45.0369164626887,25.0796372828017,Arges,Vale,14174,Valea Muerei,PDT,Limba română
+Muntele Mueruș,mueruș,3,46.3779719530985,26.2641594172817,Bacau,Înălțime,4561,Muntele Mueruș,Geomil 25000,Limba română
+Pârâul Muereasca,muereasca,3,46.808648402598,22.0073983403095,Bihor,Vale,8047,Pârâul Muereasca,PDT,Limba română
+Muierea Moartă,muiere,2,47.055440021113,22.5520945833395,Bihor,Înălțime,8194,Muierea Moartă,PDT,Limba română
 Valea Muierii,muiere,2,46.7581143600971,22.4578640496135,Bihor,Vale,4127,Valea Muierii,Geomil 25000,Limba română
-Valea Muierii de Jos,muiere,2,44.5578435253684,23.6634128676915,Dolj,Vale,4720,Valea Muierii de Jos,PDT,Limba română
-Valea Muierii,muiere,2,44.4505223806915,24.3541031228809,Olt,Vale,5811,Valea Muierii,Austriacă,Limba română
-Gori Mueri,muiere,2,44.5830000702302,24.012474767989,Valcea,Localitate,5832,Gori Mueri,Austriacă,Limba română
+Valea la Trei Muieri,muieri,3,44.9325709955514,27.2924409650888,Braila,Vale,3186,Valea la Trei Muieri,Geomil 25000,Limba română,Valea la Trei Muieri,PDT,Limba română
 Culmea Calea Muierii,muiere,2,45.6245914885613,25.8075291306597,Brasov,Înălțime,6049,Culmea Calea Muierii,Geomil 25000,Limba română
 Valea Muerei,muiere,2,45.4657095700593,25.2112317219399,Brasov,Vale,6862,Valea Muerei,PDT,Limba română,Valea Muierii,Geomil 25000,Limba română
-Dealul Muierii,muiere,2,45.4265143786413,25.2354285096584,Arges,Deal,6869,Dealul Muierii,PDT,Limba română,Dealul Muierii,Geomil 25000,Limba română
-Muierea Moartă,muiere,2,47.055440021113,22.5520945833395,Bihor,Înălțime,8194,Muierea Moartă,PDT,Limba română
-Valea Muerei,muiere,2,45.2256711803032,24.9752014839535,Arges,Vale,8830,Valea Muerei,PDT,Limba română
-Drumul Mueri,muiere,2,44.3612098955393,23.998939758225,Dolj,Drum,9340,Drumul Mueri,PDT,Limba română
-Valea Muerei,muiere,2,44.9718718788737,25.0495692192132,Arges,Vale,10158,Valea Muerei,PDT,Limba română
-Valea Muierii,muiere,2,45.0081559426429,23.1304485575616,Gorj,Vale,10335,Valea Muierii,Geomil 25000,Limba română
-Valea Muerei,muiere,2,45.1784780773841,25.7348379701701,Prahova,Vale,11129,Valea Muerei,PDT,Limba română
-Muierea lui Jiga,muiere,2,45.9039121744603,23.9262370683977,Sibiu,Vale,11837,Muierea lui Jiga,Imperiul Habsburgic (1887),Limba română
-Valea Muerii,muiere,2,44.4344630636567,24.3424137447235,Olt,Vale,12534,Valea Muerii,PDT,Limba română
-Poiana Muierii,muiere,2,44.7095447058276,22.3145679389831,Mehedinti,Poiană,12754,Poiana Muierii,Geomil 25000,Limba română
-Poiana Muierii,muiere,2,45.4663860165191,23.5978483960884,Valcea,Poiană,13834,Poiana Muierii,Geomil 25000,Limba română
-Valea Muerei,muiere,2,45.0369164626887,25.0796372828017,Arges,Vale,14174,Valea Muerei,PDT,Limba română
-Piatra Muierilor,muieri,3,47.7117269280418,25.7605586223537,Suceava,Înălțime,1841,Piatra Muierilor,Geomil 25000,Limba română
-Valea la Trei Muieri,muieri,3,44.9325709955514,27.2924409650888,Braila,Vale,3186,Valea la Trei Muieri,Geomil 25000,Limba română,Valea la Trei Muieri,PDT,Limba română
 Poiana Bromberiște Muierilor,muieri,3,45.2119278372323,21.9367157262164,Caras Severin,Poiană,9427,Poiana Bromberiște Muierilor,PDT,Limba română
-Balta Muierilor,muieri,3,43.9278776486492,23.0312674716087,Dolj,Apă-deal-câmpie,11797,Balta Muierilor,PDT,Limba română
-Valea Muierilor,muieri,3,45.678486055126,22.7354115317375,Hunedoara,Vale,13079,Valea Muierilor,Geomil 25000,Limba română
-Muntele Mueruș,mueruș,3,46.3779719530985,26.2641594172817,Bacau,Înălțime,4561,Muntele Mueruș,Geomil 25000,Limba română
-Muierușu,muieruș,3,44.5652896311614,23.6887661968624,Dolj,Localitate,4721,Muierușu,Geomil 25000,Limba română
-Pârâul Muereasca,muereasca,3,46.808648402598,22.0073983403095,Bihor,Vale,8047,Pârâul Muereasca,PDT,Limba română
-Muereasca,muereasca,3,45.18655576367,24.3214941383804,Valcea,Localitate,12569,Muereasca,Geomil 25000,Limba română
 Pădurea Muiereului,muiereu,3,46.6021419286174,23.572008327371,Cluj,Pădure,8969,Pădurea Muiereului,PDT,Limba română
+Dealul Muierii,muiere,2,44.2315815839785,24.1617422951004,Dolj,Deal,2976,Dealul Muierii,Geomil 25000,Limba română,Diale Moiere,Austriacă,Limba română
+Drumul Mueri,muiere,2,44.3612098955393,23.998939758225,Dolj,Drum,9340,Drumul Mueri,PDT,Limba română
+Grindul Muierei,muiere,2,43.7299434875328,24.0898721933006,Dolj,Apă-deal-câmpie,3332,Grindul Muierei,PDT,Limba română
+Valea Muierii de Jos,muiere,2,44.5578435253684,23.6634128676915,Dolj,Vale,4720,Valea Muierii de Jos,PDT,Limba română
+Balta Muierilor,muieri,3,43.9278776486492,23.0312674716087,Dolj,Apă-deal-câmpie,11797,Balta Muierilor,PDT,Limba română
+Muierușu,muieruș,3,44.5652896311614,23.6887661968624,Dolj,Localitate,4721,Muierușu,Geomil 25000,Limba română
+Pădurea Muierea,muiere,2,44.303141980121,25.8260795827782,Giurgiu,Pădure,1330,Pădurea Muierea,Geomil 25000,Limba română
+Dealul Muierii,muiere,2,45.1235054572052,23.7747690877987,Gorj,Deal,3102,Dealul Muierii,Geomil 25000,Limba română
+Peștera Muierii,muiere,2,45.18892578344,23.753745851283,Gorj,Altele,2924,Peștera Muierii,Geomil 25000,Limba română
+Valea Muierii,muiere,2,45.0081559426429,23.1304485575616,Gorj,Vale,10335,Valea Muierii,Geomil 25000,Limba română
+Muntele Poaia Muierii-Pravăț,muiere,2,45.4506940631737,23.5908852351866,Hunedoara,Înălțime,1191,Muntele Poaia Muierii-Pravăț,Geomil 25000,Limba română
+Valea Muierilor,muieri,3,45.678486055126,22.7354115317375,Hunedoara,Vale,13079,Valea Muierilor,Geomil 25000,Limba română
+Poiana Muierii,muiere,2,44.7095447058276,22.3145679389831,Mehedinti,Poiană,12754,Poiana Muierii,Geomil 25000,Limba română
+Valea Muerii,muiere,2,44.4344630636567,24.3424137447235,Olt,Vale,12534,Valea Muerii,PDT,Limba română
+Valea Muierii,muiere,2,44.4505223806915,24.3541031228809,Olt,Vale,5811,Valea Muierii,Austriacă,Limba română
+Valea Muerei,muiere,2,45.1784780773841,25.7348379701701,Prahova,Vale,11129,Valea Muerei,PDT,Limba română
+Culmea Muierii,muiere,2,45.6990632392675,23.9462174866643,Sibiu,Înălțime,2505,Culmea Muierii,Geomil 25000,Limba română
+Dealul Bradul Muierii,muiere,2,45.626052324664,24.1304175530187,Sibiu,Deal,2500,Dealul Bradul Muierii,Geomil 25000,Limba română
+Grosu Muierii,muiere,2,45.7084501189656,23.9619400247925,Sibiu,Înălțime,2510,Grosu Muierii,Geomil 25000,Limba română
+Muierea lui Jiga,muiere,2,45.9039121744603,23.9262370683977,Sibiu,Vale,11837,Muierea lui Jiga,Imperiul Habsburgic (1887),Limba română
+Valea Muierii,muiere,2,45.7900799078068,23.8569120884064,Sibiu,Vale,2519,Valea Muierii,Geomil 25000,Limba română
+Piatra Muierilor,muieri,3,47.7117269280418,25.7605586223537,Suceava,Înălțime,1841,Piatra Muierilor,Geomil 25000,Limba română
+Muereasca,muereasca,3,45.18655576367,24.3214941383804,Valcea,Localitate,12569,Muereasca,Geomil 25000,Limba română
+Dealu Muierii,muiere,2,44.8640438715848,23.7761392035383,Valcea,Deal,3095,Dealu Muierii,Geomil 25000,Limba română
+Dealul Muierii,muiere,2,44.8150362200791,23.7796321701744,Valcea,Deal,3092,Dealul Muierii,Geomil 25000,Limba română
+Gori Mueri,muiere,2,44.5830000702302,24.012474767989,Valcea,Localitate,5832,Gori Mueri,Austriacă,Limba română
+Poiana Muierii,muiere,2,45.4663860165191,23.5978483960884,Valcea,Poiană,13834,Poiana Muierii,Geomil 25000,Limba română
+Poiana Muierii,muiere,2,45.6522994981203,26.7420995943158,Vrancea,Poiană,2105,Poiana Muierii,Geomil 25000,Limba română

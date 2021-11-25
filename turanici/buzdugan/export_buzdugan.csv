@@ -1,8 +1,8 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Piciorul lui Buzdugan,buzdugan,2,47.1525163449607,25.7216392778964,Neamt,Înălțime,6446,Piciorul lui Buzdugan,PDT,Limba română
-Dealu Buzdugan,buzdugan,2,45.5706301313687,22.2898678536092,Caras Severin,Deal,10861,Dealu Buzdugan,Geomil 25000,Limba română
 La Buzdugan,buzdugan,2,46.2820074728477,27.045253280181,Bacau,Altele,10890,La Buzdugan,Geomil 25000,Limba română
 Pădurea Buzduganului,buzdugan,2,46.1725695123079,27.0257549030622,Bacau,Pădure,10894,Pădurea Buzduganului,Geomil 25000,Limba română
-La Busdugan,buzdugan,2,46.6046163551881,28.0986497563482,Vaslui,Altele,10924,La Busdugan,Moldova (1892-1898),Limba română,La Buzdugan,Geomil 25000,Limba română
-Buzdugan,buzdugan,2,45.0588633259108,24.1366033507915,Valcea,Localitate,11377,Buzdugan,Geomil 25000,Limba română
+Dealu Buzdugan,buzdugan,2,45.5706301313687,22.2898678536092,Caras Severin,Deal,10861,Dealu Buzdugan,Geomil 25000,Limba română
 Dealul Buzduganului,buzdugan,2,44.6239537423071,23.8019792747507,Dolj,Deal,12177,Dealul Buzduganului,Geomil 25000,Limba română
+Piciorul lui Buzdugan,buzdugan,2,47.1525163449607,25.7216392778964,Neamt,Înălțime,6446,Piciorul lui Buzdugan,PDT,Limba română
+Buzdugan,buzdugan,2,45.0588633259108,24.1366033507915,Valcea,Localitate,11377,Buzdugan,Geomil 25000,Limba română
+La Busdugan,buzdugan,2,46.6046163551881,28.0986497563482,Vaslui,Altele,10924,La Busdugan,Moldova (1892-1898),Limba română,La Buzdugan,Geomil 25000,Limba română

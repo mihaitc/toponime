@@ -1,14 +1,14 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
 Pădurea la Tabia,tabie,2,44.1336514736198,27.2610007509904,Calarasi,Pădure,473,Pădurea la Tabia,Geomil 25000,Limba română
 Dealu Arab Tabia,tabie,2,44.0964830843843,27.2867396113881,Constanta,Deal,476,Dealu Arab Tabia,Geomil 25000,Limba română
-Tabia,tabie,2,44.6968492907182,27.9272015732345,Constanta,Altele,3202,Tabia,Geomil 25000,Limba română
-Valea Tabia,tabie,2,44.1940144107966,27.6121415526267,Constanta,Vale,3216,Valea Tabia,PDT,Limba română
-Orta Tabia,tabie,2,44.0997165159512,28.5971085787675,Constanta,Altele,9312,Orta Tabia,PDT,Limba română
 Iarâm Tabia,tabie,2,44.1763997779276,28.6129212342201,Constanta,Altele,9313,Iarâm Tabia,PDT,Limba română
-Tabia Căzăcească,tabie,2,44.2331839922968,28.3029482280823,Constanta,Altele,9315,Tabia Căzăcească,PDT,Limba română
-Tabia Turcească,tabie,2,44.2399580163618,28.2515156273709,Constanta,Altele,9316,Tabia Turcească,PDT,Limba română
-Tabia Franțuzească,tabie,2,44.2134783162149,28.2344412746006,Constanta,Altele,9318,Tabia Franțuzească,PDT,Limba română
+Orta Tabia,tabie,2,44.0997165159512,28.5971085787675,Constanta,Altele,9312,Orta Tabia,PDT,Limba română
+Tabia,tabie,2,44.6968492907182,27.9272015732345,Constanta,Altele,3202,Tabia,Geomil 25000,Limba română
 Tabia Acsan Domâr,tabie,2,44.2602465773708,28.1358485960744,Constanta,Altele,9320,Tabia Acsan Domâr,PDT,Limba română
-Tabia lui Traian,tabie,2,44.217121787365,28.3743407607951,Constanta,Altele,11092,Tabia lui Traian,PDT,Limba română
-Tabia Eschi Duran,tabie,2,44.1871468714123,28.4527518231046,Constanta,Altele,11094,Tabia Eschi Duran,PDT,Limba română
+Tabia Căzăcească,tabie,2,44.2331839922968,28.3029482280823,Constanta,Altele,9315,Tabia Căzăcească,PDT,Limba română
 Tabia Chiopru,tabie,2,44.7014264951065,27.9365514968956,Constanta,Altele,12666,Tabia Chiopru,PDT,Limba română
+Tabia Eschi Duran,tabie,2,44.1871468714123,28.4527518231046,Constanta,Altele,11094,Tabia Eschi Duran,PDT,Limba română
+Tabia Franțuzească,tabie,2,44.2134783162149,28.2344412746006,Constanta,Altele,9318,Tabia Franțuzească,PDT,Limba română
+Tabia lui Traian,tabie,2,44.217121787365,28.3743407607951,Constanta,Altele,11092,Tabia lui Traian,PDT,Limba română
+Tabia Turcească,tabie,2,44.2399580163618,28.2515156273709,Constanta,Altele,9316,Tabia Turcească,PDT,Limba română
+Valea Tabia,tabie,2,44.1940144107966,27.6121415526267,Constanta,Vale,3216,Valea Tabia,PDT,Limba română

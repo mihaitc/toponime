@@ -1,15 +1,15 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
-Valea Baracului,barac,2,44.0608865971462,24.2298677308743,Olt,Vale,3038,Valea Baracului,Geomil 25000,Limba română
-Crucea lui Barac,barac,2,45.1229721008561,26.5808570363673,Buzau,Altele,6023,Crucea lui Barac,Geomil 25000,Limba română
-Movila Baracu,barac,2,44.939142904546,27.4439957982339,Braila,Înălțime,6733,Movila Baracu,PDT,Limba română
-Valea Baracului,barac,2,46.9430306623679,22.0441756086646,Bihor,Vale,6984,Valea Baracului,Geomil 25000,Limba română
 Dealul Baracu,barac,2,46.3871593702606,22.2390805931017,Arad,Deal,7654,Dealul Baracu,PDT,Limba română
-Dealul Baraca,barac,2,44.4582901181257,24.180290455804,Olt,Deal,8296,Dealul Baraca,PDT,Limba română
-Viroaga Barâci,barac,2,44.5602541214007,24.6967332139413,Olt,Vale,8339,Viroaga Barâci,PDT,Limba română
-Piscul Bărăcilor,barac,2,44.9780543213645,23.6036780419951,Gorj,Înălțime,8399,Piscul Bărăcilor,PDT,Limba română
-Valea Baracu,barac,2,44.5303416115515,25.4330581011313,Dambovita,Vale,8472,Valea Baracu,Geomil 25000,Limba română,Valea Baraku,Austriacă,Limba română,Valea Baracu,PDT,Limba română
 Dealul Baracului,barac,2,46.2027092984619,22.2663933516899,Arad,Deal,10366,Dealul Baracului,PDT,Limba română,Dialu Barakului,Ungară 1869,Limba română
+Valea Baracului,barac,2,46.9430306623679,22.0441756086646,Bihor,Vale,6984,Valea Baracului,Geomil 25000,Limba română
+Movila Baracu,barac,2,44.939142904546,27.4439957982339,Braila,Înălțime,6733,Movila Baracu,PDT,Limba română
+Crucea lui Barac,barac,2,45.1229721008561,26.5808570363673,Buzau,Altele,6023,Crucea lui Barac,Geomil 25000,Limba română
 Botu Baracului,barac,2,46.6277637836832,23.8624060198291,Cluj,Înălțime,10662,Botu Baracului,Imperiul Habsburgic (1887),Limba română
-Barak,barac,2,44.8254797604058,26.3198624301615,Prahova,Localitate,12010,Barak,Oltenia-Muntenia (1790),Limba română
+Valea Baracu,barac,2,44.5303416115515,25.4330581011313,Dambovita,Vale,8472,Valea Baracu,Geomil 25000,Limba română,Valea Baraku,Austriacă,Limba română,Valea Baracu,PDT,Limba română
 Poiana Baraca,baraca,3,44.0733091795458,26.2604460887398,Giurgiu,Poiană,10618,Poiana Baraca,PDT,Limba română
+Piscul Bărăcilor,barac,2,44.9780543213645,23.6036780419951,Gorj,Înălțime,8399,Piscul Bărăcilor,PDT,Limba română
 Culmea Baracă,baracă,3,44.8039607884997,22.8168527192767,Mehedinti,Înălțime,12715,Culmea Baracă,Geomil 25000,Limba română
+Dealul Baraca,barac,2,44.4582901181257,24.180290455804,Olt,Deal,8296,Dealul Baraca,PDT,Limba română
+Valea Baracului,barac,2,44.0608865971462,24.2298677308743,Olt,Vale,3038,Valea Baracului,Geomil 25000,Limba română
+Viroaga Barâci,barac,2,44.5602541214007,24.6967332139413,Olt,Vale,8339,Viroaga Barâci,PDT,Limba română
+Barak,barac,2,44.8254797604058,26.3198624301615,Prahova,Localitate,12010,Barak,Oltenia-Muntenia (1790),Limba română

@@ -1,23 +1,23 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Privalul Balaban,balaban,2,44.2507345707207,27.6949317521502,Calarasi,Apă-deal-câmpie,3212,Privalul Balaban,PDT,Limba română
-Poiana Balabanului,balaban,2,44.6883008034769,22.0223775935951,Caras Severin,Poiană,3321,Poiana Balabanului,Geomil 25000,Limba română
-Balabanu,balaban,2,44.3857058727066,27.7349455372785,Ialomita,Altele,3452,Balabanu,Geomil 25000,Limba română,Movila Balabanu,Austriacă,Limba română
-La Balaban,balaban,2,45.797918952617,27.2422464597061,Vrancea,Altele,3559,La Balaban,Geomil 25000,Limba română
-Tufanii lui Balaban,balaban,2,44.341918320907,22.7124174289828,Mehedinti,Altele,3659,Tufanii lui Balaban,Geomil 25000,Limba română,Tufanii lui Balaban,PDT,Limba română
-Dealul Balaban,balaban,2,48.033659969035,26.3519855912174,Botosani,Deal,4894,Dealul Balaban,Geomil 25000,Limba română
 Balabani,balaban,2,45.1636421240176,25.1361188678127,Arges,Localitate,6002,Balabani,Geomil 25000,Limba română
-Muntele Balaban,balaban,2,45.4761660274642,25.9255801733219,Prahova,Înălțime,6047,Muntele Balaban,Geomil 25000,Limba română
-Culmea Balabanului,balaban,2,44.8109500605967,22.4533463352979,Mehedinti,Înălțime,6145,Culmea Balabanului,Geomil 25000,Limba română
-Movila Balaban,balaban,2,44.9532258660005,27.4172188964759,Braila,Înălțime,6732,Movila Balaban,PDT,Limba română,Dealul Pochina Balaban,Geomil 25000,Limba română
-Bălăbanu,balaban,2,45.4743405177938,25.3696142932997,Brasov,Înălțime,6860,Bălăbanu,PDT,Limba română
-Balaban,balaban,2,47.2189676134007,24.1199184178369,Bistrita Nasaud,Altele,7103,Balaban,PDT,Limba română
-Balabanul,balaban,2,45.0990755694564,22.4276589507568,Caras Severin,Înălțime,8680,Balabanul,PDT,Limba română
-Ostrovul Balaban,balaban,2,44.5226457345807,28.0229070644414,Ialomita,Apă-deal-câmpie,9275,Ostrovul Balaban,Geomil 25000,Limba română,Ostrovul Balaban,PDT,Limba română
-Valea Balaban,balaban,2,44.9806768692449,25.3026563537013,Dambovita,Vale,11068,Valea Balaban,PDT,Limba română
 Crângu Balaban,balaban,2,44.45424944591,24.8497378284801,Arges,Apă-deal-câmpie,11188,Crângu Balaban,ANCPI,Limba română
 Valea Balaban,balaban,2,44.4874483221086,25.2310053274559,Arges,Vale,11193,Valea Balaban,ANCPI,Limba română
-Dealul Balabanului,balaban,2,44.9081844488426,22.7157445386171,Mehedinti,Deal,11222,Dealul Balabanului,ANCPI,Limba română
-Capu Balabanu,balaban,2,44.9343330956324,21.8837294973329,Caras Severin,Înălțime,11494,Capu Balabanu,Geomil 25000,Limba română
+Balaban,balaban,2,47.2189676134007,24.1199184178369,Bistrita Nasaud,Altele,7103,Balaban,PDT,Limba română
+Dealul Balaban,balaban,2,48.033659969035,26.3519855912174,Botosani,Deal,4894,Dealul Balaban,Geomil 25000,Limba română
+Movila Balaban,balaban,2,44.9532258660005,27.4172188964759,Braila,Înălțime,6732,Movila Balaban,PDT,Limba română,Dealul Pochina Balaban,Geomil 25000,Limba română
+Bălăbanu,balaban,2,45.4743405177938,25.3696142932997,Brasov,Înălțime,6860,Bălăbanu,PDT,Limba română
 Piscul Balabanului,balaban,2,45.578032569748,26.600260882322,Buzau,Înălțime,12264,Piscul Balabanului,Geomil 25000,Limba română
+Privalul Balaban,balaban,2,44.2507345707207,27.6949317521502,Calarasi,Apă-deal-câmpie,3212,Privalul Balaban,PDT,Limba română
+Balabanul,balaban,2,45.0990755694564,22.4276589507568,Caras Severin,Înălțime,8680,Balabanul,PDT,Limba română
+Capu Balabanu,balaban,2,44.9343330956324,21.8837294973329,Caras Severin,Înălțime,11494,Capu Balabanu,Geomil 25000,Limba română
+Poiana Balabanului,balaban,2,44.6883008034769,22.0223775935951,Caras Severin,Poiană,3321,Poiana Balabanului,Geomil 25000,Limba română
+Valea Balaban,balaban,2,44.9806768692449,25.3026563537013,Dambovita,Vale,11068,Valea Balaban,PDT,Limba română
 Bălăbănești,bălăbănești,3,46.098006129176,27.7205203994186,Galati,Localitate,7372,Bălăbănești,Geomil 25000,Limba română
+Balabanu,balaban,2,44.3857058727066,27.7349455372785,Ialomita,Altele,3452,Balabanu,Geomil 25000,Limba română,Movila Balabanu,Austriacă,Limba română
+Ostrovul Balaban,balaban,2,44.5226457345807,28.0229070644414,Ialomita,Apă-deal-câmpie,9275,Ostrovul Balaban,Geomil 25000,Limba română,Ostrovul Balaban,PDT,Limba română
+Culmea Balabanului,balaban,2,44.8109500605967,22.4533463352979,Mehedinti,Înălțime,6145,Culmea Balabanului,Geomil 25000,Limba română
+Dealul Balabanului,balaban,2,44.9081844488426,22.7157445386171,Mehedinti,Deal,11222,Dealul Balabanului,ANCPI,Limba română
+Tufanii lui Balaban,balaban,2,44.341918320907,22.7124174289828,Mehedinti,Altele,3659,Tufanii lui Balaban,Geomil 25000,Limba română,Tufanii lui Balaban,PDT,Limba română
+Muntele Balaban,balaban,2,45.4761660274642,25.9255801733219,Prahova,Înălțime,6047,Muntele Balaban,Geomil 25000,Limba română
+La Balaban,balaban,2,45.797918952617,27.2422464597061,Vrancea,Altele,3559,La Balaban,Geomil 25000,Limba română
 Bălăbăneasa,bălăbăneasa,3,45.6876541852298,27.339158181068,Vrancea,Apă-deal-câmpie,9530,Bălăbăneasa,Moldova (1892-1898),Limba română

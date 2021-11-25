@@ -1,153 +1,153 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
-Movila Turcului,turc,3,44.9284310711488,26.8979752681507,Buzau,Înălțime,65,Movila Turcului,Geomil 25000,Limba română,Movila Turcului,PDT,Limba română,кург. Турк (mov. Turc),Sovietică,Limba română
-Măgura Turcului,turc,3,44.0741937509513,23.4618765666893,Dolj,Înălțime,151,Măgura Turcului,Geomil 25000,Limba română,Măgura Turcului,PDT,Limba română
-Grindu Turcului,turc,3,44.4378255799796,22.5223798048636,Mehedinti,Înălțime,169,Grindu Turcului,Geomil 25000,Limba română
-Valea Turcului,turc,3,44.993460728019,22.7532764361137,Mehedinti,Vale,194,Valea Turcului,Geomil 25000,Limba română
-Valea Turcu,turc,3,44.6794917011606,24.2410448789788,Valcea,Vale,375,Valea Turcu,Geomil 25000,Limba română
-Privalu Turcu,turc,3,44.1985568472833,27.5585977782738,Calarasi,Apă-deal-câmpie,478,Privalu Turcu,Geomil 25000,Limba română
-Valea Turcu,turc,3,44.6711266221521,27.946960585739,Ialomita,Vale,484,Valea Turcu,Geomil 25000,Limba română
-Puțul Turcului,turc,3,45.2602264726104,27.7410055483299,Braila,Altele,488,Puțul Turcului,Geomil 25000,Limba română
-Crucea Turcului,turc,3,44.5515577803617,26.9959118686816,Ialomita,Altele,496,Crucea Turcului,Geomil 25000,Limba română,Crucea Turcului,PDT,Limba română
-Movila Turcului,turc,3,45.5083371256619,27.9808022983684,Galati,Înălțime,698,Movila Turcului,Geomil 25000,Limba română
-La Grindul Turcului,turc,3,46.0802465877069,27.4023457782506,Galati,Altele,731,La Grindul Turcului,Geomil 25000,Limba română,La Grindul Turcului,PDT,Limba română
-Plaiul Capul Turcului,turc,3,45.7396548088555,26.5671051008219,Vrancea,Înălțime,782,Plaiul Capul Turcului,Geomil 25000,Limba română,Plaiul Capul Turcului,PDT,Limba română
-Valea Turcului,turc,3,45.6739359416387,21.9903663233219,Timis,Vale,883,Valea Turcului,Geomil 25000,Limba română
-Ogașu Turcului,turc,3,45.6045787806,21.899416943,Timis,Vale,884,Ogașu Turcului,Geomil 25000,Limba română
-Lacu Turcului,turc,3,45.0170203683429,22.3486606207106,Caras Severin,Lac,1218,Lacu Turcului,Geomil 25000,Limba română
-Valea Turcului,turc,3,45.5238942320251,21.7629731153699,Caras Severin,Vale,1242,Valea Turcului,Geomil 25000,Limba română
-Măgura Turcului,turc,3,43.7748324569879,25.160584825318,Teleorman,Înălțime,1386,Măgura Turcului,Geomil 25000,Limba română
-Muntele Turcului,turc,3,45.4849987521106,25.6992285146971,Prahova,Înălțime,1556,Muntele Turcului,Geomil 25000,Limba română
-Dealul Turcului,turc,3,46.9213497028717,27.0247032344557,Neamt,Deal,1633,Dealul Turcului,Geomil 25000,Limba română,Dealul Turcului,PDT,Limba română
-Podu Turcului,turc,3,46.2039969804274,27.385425142247,Bacau,Localitate,1712,Podu Turcului,Geomil 25000,Limba română
+Părâul Turcului,turc,3,46.0147884589013,23.4257627745,Alba,Vale,5568,Părâul Turcului,PDT,Limba română
+Valea Turcului,turc,3,46.230281610184,23.4224356859762,Alba,Vale,8646,Valea Turcului,PDT,Limba română
 Dealu Balta Turcului,turc,3,46.1896187319986,22.0047358864165,Arad,Deal,1947,Dealu Balta Turcului,Geomil 25000,Limba română
-Dealul Turcului,turc,3,48.1028844840196,26.5137447692967,Botosani,Deal,2324,Dealul Turcului,Geomil 25000,Limba română
-Iazul Turcului,turc,3,48.144256956385,26.68226692944,Botosani,Apă-deal-câmpie,2326,Iazul Turcului,Geomil 25000,Limba română
-Dealul Poiana Turcului,turc,3,48.1712607077002,26.5170439771162,Botosani,Deal,2328,Dealul Poiana Turcului,Geomil 25000,Limba română
+Dealu Turcului,turc,3,46.1346321579506,22.4214835537117,Arad,Deal,11524,Dealu Turcului,Geomil 25000,Limba română
+Vârful Turcului,turc,3,46.2342373646298,22.1949851446027,Arad,Înălțime,11221,Vârful Turcului,ANCPI,Limba română
+Dealul Turcului,turc,3,45.0673653585048,24.8947247912177,Arges,Deal,5051,Dealul Turcului,Geomil 25000,Limba română
+Movila Turcului,turc,3,44.4731547026667,24.9885958892488,Arges,Înălțime,8328,Movila Turcului,PDT,Limba română,La Măgura Turcului,Geomil 25000,Limba română
+Pădurea Turcului,turc,3,44.4985191944435,25.1563015346113,Arges,Pădure,3388,Pădurea Turcului,Geomil 25000,Limba română,Pădurea Turcului,PDT,Limba română
+Piscul Turcului,turc,3,45.531831284852,24.7772559087802,Arges,Înălțime,10185,Piscul Turcului,Geomil 25000,Limba română
+Puțu Turcului,turc,3,44.4428145302628,25.1895886530011,Arges,Altele,8320,Puțu Turcului,PDT,Limba română
+Val. Turkului,turc,3,44.611710813434,24.7418268014337,Arges,Vale,5819,Val. Turkului,Austriacă,Limba română,Valea Turcului,PDT,Limba română
+Dealul Turcului,turc,3,46.4866934634993,27.1286118635746,Bacau,Deal,9520,Dealul Turcului,Moldova (1892-1898),Limba română
+Dealul Turcului,turc,3,46.4121898411702,26.8183023363243,Bacau,Deal,9670,Dealul Turcului,Moldova (1892-1898),Limba română
+La Podu Turcului,turc,3,46.4594011264988,26.9115806751653,Bacau,Altele,3818,La Podu Turcului,PDT,Limba română
+Podu Turcului,turc,3,46.2039969804274,27.385425142247,Bacau,Localitate,1712,Podu Turcului,Geomil 25000,Limba română
+Valea Turcului,turc,3,46.3771965910581,26.8152925041377,Bacau,Vale,11644,Valea Turcului,Geomil 25000,Limba română
+Dâmbul Turcului,turc,3,47.0721370939794,22.3707535261438,Bihor,Înălțime,4173,Dâmbul Turcului,PDT,Limba română,Palantu Turcului,Geomil 25000,Limba română
+Dealul Turcului,turc,3,46.5785387649314,22.4043832719013,Bihor,Deal,4076,Dealul Turcului,PDT,Limba română,Dealu Turcului,Geomil 25000,Limba română
+La Moara Turcului,turc,3,47.1530663561295,22.1051212073624,Bihor,Altele,5919,Moartea Turcului,Geomil 25000,Limba română,La Moara Turcului,PDT,Limba română
+Râtu Turcului,turc,3,47.1295269595657,22.4038073519235,Bihor,Altele,4176,Râtu Turcului,Geomil 25000,Limba română
+Râtul Turcului,turc,3,47.1050654996831,22.3931832361579,Bihor,Altele,8201,Râtul Turcului,PDT,Limba română
+Coasta Turcului,turc,3,47.2715692961429,24.2883311435037,Bistrita Nasaud,Înălțime,13387,Coasta Turcului,Imperiul Habsburgic (1887),Limba română
 Balta Turcului,turc,3,47.8315953563033,26.5091618739317,Botosani,Apă-deal-câmpie,2350,Balta Turcului,Geomil 25000,Limba română,Balta Turcului,PDT,Limba română
-Movila Mormântul Turcului,turc,3,44.4432818246799,28.1925251900009,Constanta,Înălțime,2839,Movila Mormântul Turcului,Geomil 25000,Limba română
-Movila Turcului,turc,3,44.3256032320289,28.1169721869116,Ialomita,Înălțime,2844,Movila Turcului,Geomil 25000,Limba română,Dealul Turcului,PDT,Limba română
-Movila Turcului,turc,3,44.3579988441051,28.413986388965,Constanta,Înălțime,2872,Movila Turcului,Geomil 25000,Limba română
-Fântâna Turcului,turc,3,44.3947979279291,24.4360004904511,Olt,Altele,3006,Fântâna Turcului,PDT,Limba română
-Măgura Turcului,turc,3,44.0920986223524,24.021441216159,Dolj,Înălțime,3020,Măgura Turcului,Geomil 25000,Limba română
-Măgura Turcului,turc,3,43.859873418077,23.7656085389435,Dolj,Înălțime,3024,Măgura Turcului,Geomil 25000,Limba română,M. turkului,Austriacă,Limba română
-Movila Turcului,turc,3,44.6728273304065,26.9775000550637,Ialomita,Înălțime,3176,Movila Turcului,Geomil 25000,Limba română
+Dealul Poiana Turcului,turc,3,48.1712607077002,26.5170439771162,Botosani,Deal,2328,Dealul Poiana Turcului,Geomil 25000,Limba română
+Dealul Turcului,turc,3,48.1028844840196,26.5137447692967,Botosani,Deal,2324,Dealul Turcului,Geomil 25000,Limba română
+Dealul Turcului,turc,3,47.7711766562017,26.8349244724369,Botosani,Deal,7758,Dealul Turcului,Geomil 25000,Limba română
+Fântâna Turcului,turc,3,47.8387970207017,27.0348623671153,Botosani,Altele,12758,Fântâna Turcului,PDT,Limba română
+Iazul Turcului,turc,3,48.144256956385,26.68226692944,Botosani,Apă-deal-câmpie,2326,Iazul Turcului,Geomil 25000,Limba română
+Movila Turcului,turc,3,47.730187973555,27.0823330575962,Botosani,Înălțime,9729,Movila Turcului,Moldova (1892-1898),Limba română
+Valea Turcului,turc,3,47.8493285243774,26.663691592128,Botosani,Vale,3569,Valea Turcului,PDT,Limba română,Valea Turcului,PDT,Limba română
+La Moara Turkului,turc,3,45.4502132129969,27.5366818476316,Braila,Altele,3618,La Moara Turkului,Austriacă,Limba română
 Movila Turcului,turc,3,44.8062128459439,27.2383097791225,Braila,Înălțime,3184,Movila Turcului,Geomil 25000,Limba română
 Movila Turcului,turc,3,44.8737552092945,27.7742377939349,Braila,Înălțime,3189,Movila Turcului,Geomil 25000,Limba română
-Valea Turcului,turc,3,44.4274715136059,26.6063607778846,Calarasi,Vale,3284,Valea Turcului,PDT,Limba română
-Podul Turcului,turc,3,44.7865501309756,26.2899303803706,Prahova,Altele,3288,Podul Turcului,PDT,Limba română
-Movila Turcului,turc,3,43.7687538385929,25.7275463476542,Giurgiu,Înălțime,3342,Movila Turcului,PDT,Limba română
-Pădurea Turcului,turc,3,44.4985191944435,25.1563015346113,Arges,Pădure,3388,Pădurea Turcului,Geomil 25000,Limba română,Pădurea Turcului,PDT,Limba română
-Privalul Turcului,turc,3,44.1806190783865,27.6686311583851,Constanta,Apă-deal-câmpie,3463,Privalul Turcului,PDT,Limba română
-Movila Turcului,turc,3,45.6790288654891,27.2055067015917,Vrancea,Înălțime,3549,Movila Turcului,PDT,Limba română
-Valea Turcului,turc,3,47.8493285243774,26.663691592128,Botosani,Vale,3569,Valea Turcului,PDT,Limba română,Valea Turcului,PDT,Limba română
-Movila Turcului,turc,3,45.3247537944337,27.1918289538962,Buzau,Înălțime,3581,Movila Turcului,Geomil 25000,Limba română
-Pisku turkului,turc,3,45.2678002108935,27.9986517649779,Braila,Înălțime,3610,Pisku turkului,Austriacă,Limba română
-La Moara Turkului,turc,3,45.4502132129969,27.5366818476316,Braila,Altele,3618,La Moara Turkului,Austriacă,Limba română
-privalo turkului,turc,3,44.1495600144029,27.0206264403318,Calarasi,Apă-deal-câmpie,3621,privalo turkului,Austriacă,Limba română
-Valea Turcului,turc,3,44.1037264244178,25.1096258106279,Teleorman,Vale,3639,Valea Turcului,PDT,Limba română
-Movila Turcului,turc,3,43.9427328398279,23.2018735978099,Dolj,Înălțime,3650,Movila Turcului,PDT,Limba română
-mâg. Turkului,turc,3,44.1485133448455,23.1625765088725,Dolj,Înălțime,3653,mâg. Turkului,Austriacă,Limba română
-Odaia Turcului,turc,3,44.6934225079632,25.4547573899805,Dambovita,Localitate,3710,Odaia Turcului,PDT,Limba română,Odaia Turcului,Geomil 25000,Limba română
-La Podu Turcului,turc,3,46.4594011264988,26.9115806751653,Bacau,Altele,3818,La Podu Turcului,PDT,Limba română
-Dealul Turcului,turc,3,46.5785387649314,22.4043832719013,Bihor,Deal,4076,Dealul Turcului,PDT,Limba română,Dealu Turcului,Geomil 25000,Limba română
-Dâmbul Turcului,turc,3,47.0721370939794,22.3707535261438,Bihor,Înălțime,4173,Dâmbul Turcului,PDT,Limba română,Palantu Turcului,Geomil 25000,Limba română
-Râtu Turcului,turc,3,47.1295269595657,22.4038073519235,Bihor,Altele,4176,Râtu Turcului,Geomil 25000,Limba română
-Costa Turcului,turc,3,44.2138858220984,25.6492903132251,Teleorman,Înălțime,4226,Costa Turcului,PDT,Limba română
-Poiana Turcului,turc,3,44.2114585262073,25.7051242345813,Giurgiu,Poiană,4229,Poiana Turcului,PDT,Limba română
-la Turku,turc,3,44.4388438682066,26.4773557674491,Calarasi,Localitate,4266,la Turku,Austriacă,Limba română
-Buza Turcului,turc,3,45.3898080701539,21.741894424263,Caras Severin,Înălțime,4315,Buza Turcului,Geomil 25000,Limba română,Buza Turcului,PDT,Limba română
-Dealul Grindul Turcului,turc,3,46.4068722418931,24.1931539067071,Mures,Deal,4343,Dealul Grindul Turcului,Geomil 25000,Limba română
-Valea Scările Turcului,turc,3,46.6903015554021,27.495273803029,Vaslui,Vale,4634,Valea Scările Turcului,Geomil 25000,Limba română
-Movila Turcului,turc,3,44.0943870456006,23.5880606412562,Dolj,Înălțime,4665,Movila Turcului,PDT,Limba română
-Podul Turcului,turc,3,44.5971652276865,23.8186188009997,Dolj,Altele,4734,Podul Turcului,PDT,Limba română
-Valea Turcului,turc,3,44.9314345523769,24.7186067077172,Valcea,Vale,4770,Valea Turcului,Geomil 25000,Limba română
-Dealul Turcului,turc,3,47.4931164540949,27.3711917296856,Iasi,Deal,4870,Dealul Turcului,PDT,Limba română
-Dealul Turcului,turc,3,45.0673653585048,24.8947247912177,Arges,Deal,5051,Dealul Turcului,Geomil 25000,Limba română
-Dealul Turcului,turc,3,46.6030963557333,24.546915169517,Mures,Deal,5383,Dealul Turcului,Geomil 25000,Limba română
-Părâul Turcului,turc,3,46.0147884589013,23.4257627745,Alba,Vale,5568,Părâul Turcului,PDT,Limba română
-Valea Turcului,turc,3,45.6290557195461,21.8777230091071,Timis,Vale,5680,Valea Turcului,Geomil 25000,Limba română
-Mâgura Turk,turc,3,43.9913057232963,26.0922235691655,Giurgiu,Înălțime,5743,Mâgura Turk,Austriacă,Limba română
-Val. Turkului,turc,3,44.611710813434,24.7418268014337,Arges,Vale,5819,Val. Turkului,Austriacă,Limba română,Valea Turcului,PDT,Limba română
-La Moara Turcului,turc,3,47.1530663561295,22.1051212073624,Bihor,Altele,5919,Moartea Turcului,Geomil 25000,Limba română,La Moara Turcului,PDT,Limba română
-Valea Turcului,turc,3,45.3271256390254,26.5272682496721,Buzau,Vale,6118,Valea Turcului,Geomil 25000,Limba română
-Turcii Morții,turc,3,45.1143313650963,22.2806134231226,Caras Severin,Altele,6130,Turcii Morții,Geomil 25000,Limba română
-Tâlva Turcului,turc,3,45.4715163548601,21.7703979044057,Caras Severin,Altele,6194,Tâlva Turcului,PDT,Limba română
-Podu Turcului,turc,3,46.9255703518602,27.851106385226,Iasi,Altele,6586,Podu Turcului,PDT,Limba română
 Movila Turcului,turc,3,44.9652903700466,27.7203328336297,Braila,Înălțime,6723,Movila Turcului,PDT,Limba română,Movila Turcului,Geomil 25000,Limba română
+Pisku turkului,turc,3,45.2678002108935,27.9986517649779,Braila,Înălțime,3610,Pisku turkului,Austriacă,Limba română
 Pochina Turcului,turc,3,44.9671007203457,27.422613916015,Braila,Înălțime,6729,Pochina Turcului,PDT,Limba română
+Puțul Turcului,turc,3,45.2602264726104,27.7410055483299,Braila,Altele,488,Puțul Turcului,Geomil 25000,Limba română
 Turcului,turc,3,45.9251440106126,25.2408215989586,Brasov,Altele,6808,Turcului,PDT,Limba română
-Preluca Turcului,turc,3,47.4303433918145,24.0912764953049,Maramures,Altele,7094,Preluca Turcului,Geomil 25000,Limba română
-Râtu Turcului,turc,3,45.739147506387,21.4786847384961,Timis,Altele,7642,Râtu Turcului,PDT,Limba română
-Lacul Turcului,turc,3,44.2260864700034,23.7548547055983,Dolj,Lac,7718,Lacul Turcului,PDT,Limba română
-Măgura Turcului,turc,3,43.9527842974531,24.4754484790379,Olt,Înălțime,7746,Măgura Turcului,Geomil 25000,Limba română
-Dealul Turcului,turc,3,47.7711766562017,26.8349244724369,Botosani,Deal,7758,Dealul Turcului,Geomil 25000,Limba română
-Cotu Turcului,turc,3,47.6019944972096,26.5437213941106,Suceava,Apă-deal-câmpie,7778,Cotu Turcului,PDT,Limba română
-Fântâna Turcului,turc,3,43.7687657807729,24.735410325465,Teleorman,Altele,8008,Fântâna Turcului,PDT,Limba română
-Măgura Rusca Turcului,turc,3,43.7776233375696,24.8292034290848,Teleorman,Înălțime,8012,Măgura Rusca Turcului,Geomil 25000,Limba română
-Dealul Turcului,turc,3,44.9383892205313,23.2663289861167,Gorj,Deal,8056,Dealul Turcului,PDT,Limba română
-Hunia Turcului,turc,3,44.2013097134297,22.8244212805116,Mehedinti,Altele,8084,Hunia Turcului,PDT,Limba română
-Fântâna Turcului,turc,3,44.504734022084,24.4574116071458,Olt,Altele,8120,Fântâna Turcului,PDT,Limba română
-Râtul Turcului,turc,3,47.1050654996831,22.3931832361579,Bihor,Altele,8201,Râtul Turcului,PDT,Limba română
-Puțu Turcului,turc,3,44.4428145302628,25.1895886530011,Arges,Altele,8320,Puțu Turcului,PDT,Limba română
-Movila Turcului,turc,3,44.4731547026667,24.9885958892488,Arges,Înălțime,8328,Movila Turcului,PDT,Limba română,La Măgura Turcului,Geomil 25000,Limba română
-Lacu Turcului,turc,3,44.2127574711448,26.7302118944827,Calarasi,Lac,8458,Lacu Turcului,PDT,Limba română
-Gaura Turcului,turc,3,44.5973037211559,22.25976837462,Mehedinti,Altele,8496,Gaura Turcului,PDT,Limba română
-Dealul Turcului,turc,3,44.8755760295445,21.5966128231918,Caras Severin,Deal,8524,Dealul Turcului,PDT,Limba română
 Valea Turcului,turc,3,45.5647587308382,25.3895695845552,Brasov,Vale,8566,Valea Turcului,PDT,Limba română
-Valea Turcului,turc,3,46.230281610184,23.4224356859762,Alba,Vale,8646,Valea Turcului,PDT,Limba română
-Vârful Turcului,turc,3,45.0852326641143,26.3603742906663,Prahova,Înălțime,8738,Vârful Turcului,PDT,Limba română
-Lacul Turcului,turc,3,44.7632469896158,26.2188579806056,Prahova,Lac,8788,Lacul Turcului,PDT,Limba română,Lacu Turcului,Geomil 25000,Limba română
-Valea la Turcu,turc,3,47.2592865114532,27.1341654701127,Iasi,Vale,8875,Valea la Turcu,PDT,Limba română
-Pârâu Turcu,turc,3,46.0430124457525,22.5934311042505,Hunedoara,Vale,9004,Pârâu Turcu,Geomil 25000,Limba română,Pârâul Turcului,PDT,Limba română
-Valea Turcului,turc,3,45.5990361894667,22.6591448848439,Hunedoara,Vale,9019,Valea Turcului,Geomil 25000,Limba română
-Valea Turcului,turc,3,46.085289898065,27.0914440525686,Vrancea,Vale,9183,Valea Turcului,Geomil 25000,Limba română
-Cotu Turcului,turc,3,45.2961578856732,22.043244284584,Caras Severin,Altele,9426,Cotu Turcului,Geomil 25000,Limba română
-Poiana Preluca Turcului,turc,3,45.0960188373247,22.1069303626927,Caras Severin,Poiană,9431,Poiana Preluca Turcului,PDT,Limba română
-Dealul Turcului,turc,3,46.4866934634993,27.1286118635746,Bacau,Deal,9520,Dealul Turcului,Moldova (1892-1898),Limba română
-Poiana Turcului,turc,3,46.2750198438491,27.8357613635603,Vaslui,Poiană,9610,Poiana Turcului,Moldova (1892-1898),Limba română
-Dealul Turcului,turc,3,46.4121898411702,26.8183023363243,Bacau,Deal,9670,Dealul Turcului,Moldova (1892-1898),Limba română
-Movila Turcului,turc,3,47.730187973555,27.0823330575962,Botosani,Înălțime,9729,Movila Turcului,Moldova (1892-1898),Limba română
-Valea Turcului,turc,3,44.2422845726153,23.6354125182148,Dolj,Vale,9763,Valea Turcului,PDT,Limba română
-Fântâna Turcului,turc,3,44.8428579797728,23.0529591134888,Gorj,Altele,9776,Fântâna Turcului,PDT,Limba română
-Dealul Turcului,turc,3,46.0120751327116,26.688114902784,Vrancea,Deal,9965,Dealul Turcului,Moldova (1892-1898),Limba română
-Dealul Turcului,turc,3,46.2366480341225,24.7743871026401,Mures,Deal,10064,Dealul Turcului,PDT,Limba română
-Piscul Turcului,turc,3,45.531831284852,24.7772559087802,Arges,Înălțime,10185,Piscul Turcului,Geomil 25000,Limba română
-Canalul Turcului,turc,3,47.0176865971111,25.7394683850371,Harghita,Altele,10611,Canalul Turcului,Imperiul Habsburgic (1887),Limba română
-Fântâna Turcului,turc,3,46.7016510947468,24.1559050584089,Mures,Altele,10653,Fântâna Turcului,PDT,Limba română
-Grindul Turcului,turc,3,45.6028578417885,28.0707051953251,Galati,Apă-deal-câmpie,10912,Grindul Turcului,Moldova (1892-1898),Limba română
-Movila Turkului,turc,3,45.2891741805961,27.1311688568822,Buzau,Înălțime,10935,Movila Turkului,Austriacă,Limba română
-Dealul Turcului,turc,3,44.3389580297937,28.0588007803607,Constanta,Deal,11088,Dealul Turcului,Geomil 25000,Limba română
-Poiana Turcului,turc,3,44.9414672718014,25.7543359706681,Dambovita,Poiană,11139,Poiana Turcului,PDT,Limba română
-Bordeiul Turcului,turc,3,44.1807265297113,24.0778931725563,Dolj,Altele,11162,Bordeiul Turcului,PDT,Limba română
-Vârful Turcului,turc,3,46.2342373646298,22.1949851446027,Arad,Înălțime,11221,Vârful Turcului,ANCPI,Limba română
-Piscul Turcului,turc,3,44.4927644511769,23.5049567929393,Dolj,Înălțime,11365,Piscul Turcului,Geomil 25000,Limba română
-Ogașu Turcului,turc,3,45.5886417812287,21.5905913078481,Caras Severin,Vale,11503,Ogașu Turcului,Geomil 25000,Limba română
-Dealu Turcului,turc,3,46.1346321579506,22.4214835537117,Arad,Deal,11524,Dealu Turcului,Geomil 25000,Limba română
-Valea Turcului,turc,3,46.3771965910581,26.8152925041377,Bacau,Vale,11644,Valea Turcului,Geomil 25000,Limba română
-Valea la Podu Turcului,turc,3,47.1311978901106,26.7832041617698,Iasi,Vale,11770,Valea la Podu Turcului,Moldova (1892-1898),Limba română
-Balta Turcului,turc,3,43.903628711663,23.0249848983029,Dolj,Apă-deal-câmpie,11796,Balta Turcului,PDT,Limba română
-Măgura Turcului,turc,3,43.8890301334573,23.1774453575809,Dolj,Înălțime,11799,Măgura Turcului,PDT,Limba română
-Gârla Turcului,turc,3,43.8831924243502,23.4822446093098,Dolj,Apă-deal-câmpie,11803,Gârla Turcului,Geomil 25000,Limba română
-Lacul Turcului,turc,3,44.6494390724999,26.1690285400795,Ilfov,Lac,12127,Lacul Turcului,PDT,Limba română
-Valle Turkului,turc,3,47.1981383005378,23.7131825669226,Cluj,Vale,12154,Valle Turkului,Transilvania (1769-1773),Limba română
-Conveiul Turcului,turc,3,45.0291970536587,21.7822240175969,Caras Severin,Altele,12160,Conveiul Turcului,PDT,Limba română
-W. Turkului,turc,3,43.808805587127,25.5540404918192,Teleorman,Vale,12210,W. Turkului,Oltenia-Muntenia (1790),Limba română
-La Puțul Turcului,turc,3,46.0035918465444,27.7378057364107,Galati,Altele,12258,La Puțul Turcului,Geomil 25000,Limba română
 Dealul Turcului,turc,3,45.5128346443787,26.7179518432845,Buzau,Deal,12266,Dealul Turcului,Geomil 25000,Limba română
-Movila Turcului,turc,3,44.7322189631237,27.7284461510656,Ialomita,Înălțime,12414,Movila Turcului,Geomil 25000,Limba română
-La Lacul Turcului,turc,3,43.9389576666298,25.0087125751343,Teleorman,Lac,12438,La Lacul Turcului,PDT,Limba română
-La Fântâna Turcului,turc,3,44.4031555484261,25.8201233907478,Giurgiu,Altele,12444,La Fântâna Turcului,PDT,Limba română
+Movila Turcului,turc,3,44.9284310711488,26.8979752681507,Buzau,Înălțime,65,Movila Turcului,Geomil 25000,Limba română,Movila Turcului,PDT,Limba română,кург. Турк (mov. Turc),Sovietică,Limba română
+Movila Turcului,turc,3,45.3247537944337,27.1918289538962,Buzau,Înălțime,3581,Movila Turcului,Geomil 25000,Limba română
+Movila Turkului,turc,3,45.2891741805961,27.1311688568822,Buzau,Înălțime,10935,Movila Turkului,Austriacă,Limba română
+Valea Turcului,turc,3,45.3271256390254,26.5272682496721,Buzau,Vale,6118,Valea Turcului,Geomil 25000,Limba română
+la Turku,turc,3,44.4388438682066,26.4773557674491,Calarasi,Localitate,4266,la Turku,Austriacă,Limba română
+Lacu Turcului,turc,3,44.2127574711448,26.7302118944827,Calarasi,Lac,8458,Lacu Turcului,PDT,Limba română
+privalo turkului,turc,3,44.1495600144029,27.0206264403318,Calarasi,Apă-deal-câmpie,3621,privalo turkului,Austriacă,Limba română
+Privalu Turcu,turc,3,44.1985568472833,27.5585977782738,Calarasi,Apă-deal-câmpie,478,Privalu Turcu,Geomil 25000,Limba română
+Valea Turcului,turc,3,44.4274715136059,26.6063607778846,Calarasi,Vale,3284,Valea Turcului,PDT,Limba română
+Buza Turcului,turc,3,45.3898080701539,21.741894424263,Caras Severin,Înălțime,4315,Buza Turcului,Geomil 25000,Limba română,Buza Turcului,PDT,Limba română
+Cetatea Turcului,turc,3,45.2109807708949,21.8935438974539,Caras Severin,Altele,13875,Cetatea Turcului,Geomil 25000,Limba română
+Conveiul Turcului,turc,3,45.0291970536587,21.7822240175969,Caras Severin,Altele,12160,Conveiul Turcului,PDT,Limba română
+Cotu Turcului,turc,3,45.2961578856732,22.043244284584,Caras Severin,Altele,9426,Cotu Turcului,Geomil 25000,Limba română
+Dealul Turcului,turc,3,44.8755760295445,21.5966128231918,Caras Severin,Deal,8524,Dealul Turcului,PDT,Limba română
+Lacu Turcului,turc,3,45.0170203683429,22.3486606207106,Caras Severin,Lac,1218,Lacu Turcului,Geomil 25000,Limba română
+Ogașu Turcului,turc,3,45.5886417812287,21.5905913078481,Caras Severin,Vale,11503,Ogașu Turcului,Geomil 25000,Limba română
+Poiana Preluca Turcului,turc,3,45.0960188373247,22.1069303626927,Caras Severin,Poiană,9431,Poiana Preluca Turcului,PDT,Limba română
+Tâlva Turcului,turc,3,45.4715163548601,21.7703979044057,Caras Severin,Altele,6194,Tâlva Turcului,PDT,Limba română
+Turcii Morții,turc,3,45.1143313650963,22.2806134231226,Caras Severin,Altele,6130,Turcii Morții,Geomil 25000,Limba română
+Valea Turcului,turc,3,45.5238942320251,21.7629731153699,Caras Severin,Vale,1242,Valea Turcului,Geomil 25000,Limba română
 Colnicu Turcului,turc,3,46.6221900039109,22.8366997449337,Cluj,Înălțime,12541,Colnicu Turcului,Geomil 25000,Limba română
-Podul Turcului,turc,3,45.3523242687908,29.48647351689,Tulcea,Apă-deal-câmpie,12639,Podul Turcului,Geomil 25000,Limba română
-Fântâna Turcului,turc,3,47.8387970207017,27.0348623671153,Botosani,Altele,12758,Fântâna Turcului,PDT,Limba română
+Valle Turkului,turc,3,47.1981383005378,23.7131825669226,Cluj,Vale,12154,Valle Turkului,Transilvania (1769-1773),Limba română
+Dealul Turcului,turc,3,44.3389580297937,28.0588007803607,Constanta,Deal,11088,Dealul Turcului,Geomil 25000,Limba română
+Movila Mormântul Turcului,turc,3,44.4432818246799,28.1925251900009,Constanta,Înălțime,2839,Movila Mormântul Turcului,Geomil 25000,Limba română
+Movila Turcului,turc,3,44.3579988441051,28.413986388965,Constanta,Înălțime,2872,Movila Turcului,Geomil 25000,Limba română
+Privalul Turcului,turc,3,44.1806190783865,27.6686311583851,Constanta,Apă-deal-câmpie,3463,Privalul Turcului,PDT,Limba română
+Odaia Turcului,turc,3,44.6934225079632,25.4547573899805,Dambovita,Localitate,3710,Odaia Turcului,PDT,Limba română,Odaia Turcului,Geomil 25000,Limba română
+Poiana Turcului,turc,3,44.9414672718014,25.7543359706681,Dambovita,Poiană,11139,Poiana Turcului,PDT,Limba română
+Balta Turcului,turc,3,43.903628711663,23.0249848983029,Dolj,Apă-deal-câmpie,11796,Balta Turcului,PDT,Limba română
+Bordeiul Turcului,turc,3,44.1807265297113,24.0778931725563,Dolj,Altele,11162,Bordeiul Turcului,PDT,Limba română
+Gârla Turcului,turc,3,43.8831924243502,23.4822446093098,Dolj,Apă-deal-câmpie,11803,Gârla Turcului,Geomil 25000,Limba română
+Lacul Turcului,turc,3,44.2260864700034,23.7548547055983,Dolj,Lac,7718,Lacul Turcului,PDT,Limba română
+mâg. Turkului,turc,3,44.1485133448455,23.1625765088725,Dolj,Înălțime,3653,mâg. Turkului,Austriacă,Limba română
+Măgura Turcului,turc,3,44.0741937509513,23.4618765666893,Dolj,Înălțime,151,Măgura Turcului,Geomil 25000,Limba română,Măgura Turcului,PDT,Limba română
+Măgura Turcului,turc,3,44.0920986223524,24.021441216159,Dolj,Înălțime,3020,Măgura Turcului,Geomil 25000,Limba română
+Măgura Turcului,turc,3,43.859873418077,23.7656085389435,Dolj,Înălțime,3024,Măgura Turcului,Geomil 25000,Limba română,M. turkului,Austriacă,Limba română
+Măgura Turcului,turc,3,43.8890301334573,23.1774453575809,Dolj,Înălțime,11799,Măgura Turcului,PDT,Limba română
+Movila Turcului,turc,3,43.9427328398279,23.2018735978099,Dolj,Înălțime,3650,Movila Turcului,PDT,Limba română
+Movila Turcului,turc,3,44.0943870456006,23.5880606412562,Dolj,Înălțime,4665,Movila Turcului,PDT,Limba română
+Piscul Turcului,turc,3,44.4927644511769,23.5049567929393,Dolj,Înălțime,11365,Piscul Turcului,Geomil 25000,Limba română
+Podul Turcului,turc,3,44.5971652276865,23.8186188009997,Dolj,Altele,4734,Podul Turcului,PDT,Limba română
+Valea Turcului,turc,3,44.2422845726153,23.6354125182148,Dolj,Vale,9763,Valea Turcului,PDT,Limba română
+Grindul Turcului,turc,3,45.6028578417885,28.0707051953251,Galati,Apă-deal-câmpie,10912,Grindul Turcului,Moldova (1892-1898),Limba română
+La Grindul Turcului,turc,3,46.0802465877069,27.4023457782506,Galati,Altele,731,La Grindul Turcului,Geomil 25000,Limba română,La Grindul Turcului,PDT,Limba română
+La Puțul Turcului,turc,3,46.0035918465444,27.7378057364107,Galati,Altele,12258,La Puțul Turcului,Geomil 25000,Limba română
+Movila Turcului,turc,3,45.5083371256619,27.9808022983684,Galati,Înălțime,698,Movila Turcului,Geomil 25000,Limba română
+La Fântâna Turcului,turc,3,44.4031555484261,25.8201233907478,Giurgiu,Altele,12444,La Fântâna Turcului,PDT,Limba română
+Mâgura Turk,turc,3,43.9913057232963,26.0922235691655,Giurgiu,Înălțime,5743,Mâgura Turk,Austriacă,Limba română
+Movila Turcului,turc,3,43.7687538385929,25.7275463476542,Giurgiu,Înălțime,3342,Movila Turcului,PDT,Limba română
+Poiana Turcului,turc,3,44.2114585262073,25.7051242345813,Giurgiu,Poiană,4229,Poiana Turcului,PDT,Limba română
+Dealul Turcului,turc,3,44.9383892205313,23.2663289861167,Gorj,Deal,8056,Dealul Turcului,PDT,Limba română
+Fântâna Turcului,turc,3,44.8428579797728,23.0529591134888,Gorj,Altele,9776,Fântâna Turcului,PDT,Limba română
+Canalul Turcului,turc,3,47.0176865971111,25.7394683850371,Harghita,Altele,10611,Canalul Turcului,Imperiul Habsburgic (1887),Limba română
 Turcul,turc,3,46.8377735485351,25.5055920555782,Harghita,Vale,12872,Turcul,Geomil 25000,Limba română
+Pârâu Turcu,turc,3,46.0430124457525,22.5934311042505,Hunedoara,Vale,9004,Pârâu Turcu,Geomil 25000,Limba română,Pârâul Turcului,PDT,Limba română
+Pârâu Turcului,turc,3,45.3691869575436,22.7753107768025,Hunedoara,Vale,14195,Pârâu Turcului,Geomil 25000,Limba română
+Valea Turcului,turc,3,45.5990361894667,22.6591448848439,Hunedoara,Vale,9019,Valea Turcului,Geomil 25000,Limba română
+Crucea Turcului,turc,3,44.5515577803617,26.9959118686816,Ialomita,Altele,496,Crucea Turcului,Geomil 25000,Limba română,Crucea Turcului,PDT,Limba română
+Movila Turcului,turc,3,44.3256032320289,28.1169721869116,Ialomita,Înălțime,2844,Movila Turcului,Geomil 25000,Limba română,Dealul Turcului,PDT,Limba română
+Movila Turcului,turc,3,44.6728273304065,26.9775000550637,Ialomita,Înălțime,3176,Movila Turcului,Geomil 25000,Limba română
+Movila Turcului,turc,3,44.7322189631237,27.7284461510656,Ialomita,Înălțime,12414,Movila Turcului,Geomil 25000,Limba română
+Valea Turcu,turc,3,44.6711266221521,27.946960585739,Ialomita,Vale,484,Valea Turcu,Geomil 25000,Limba română
+Dealul Turcului,turc,3,47.4931164540949,27.3711917296856,Iasi,Deal,4870,Dealul Turcului,PDT,Limba română
+Podu Turcului,turc,3,46.9255703518602,27.851106385226,Iasi,Altele,6586,Podu Turcului,PDT,Limba română
+Podul Turcului,turc,3,47.0119686246374,27.7362531375367,Iasi,Vale,14111,Podul Turcului,Geomil 25000,Limba română
+Valea la Podu Turcului,turc,3,47.1311978901106,26.7832041617698,Iasi,Vale,11770,Valea la Podu Turcului,Moldova (1892-1898),Limba română
+Valea la Turcu,turc,3,47.2592865114532,27.1341654701127,Iasi,Vale,8875,Valea la Turcu,PDT,Limba română
+Lacul Turcului,turc,3,44.6494390724999,26.1690285400795,Ilfov,Lac,12127,Lacul Turcului,PDT,Limba română
+Preluca Turcului,turc,3,47.4303433918145,24.0912764953049,Maramures,Altele,7094,Preluca Turcului,Geomil 25000,Limba română
+Gaura Turcului,turc,3,44.5973037211559,22.25976837462,Mehedinti,Altele,8496,Gaura Turcului,PDT,Limba română
+Grindu Turcului,turc,3,44.4378255799796,22.5223798048636,Mehedinti,Înălțime,169,Grindu Turcului,Geomil 25000,Limba română
+Hunia Turcului,turc,3,44.2013097134297,22.8244212805116,Mehedinti,Altele,8084,Hunia Turcului,PDT,Limba română
+Valea Turcului,turc,3,44.993460728019,22.7532764361137,Mehedinti,Vale,194,Valea Turcului,Geomil 25000,Limba română
+Dealul Grindul Turcului,turc,3,46.4068722418931,24.1931539067071,Mures,Deal,4343,Dealul Grindul Turcului,Geomil 25000,Limba română
+Dealul Turcului,turc,3,46.6030963557333,24.546915169517,Mures,Deal,5383,Dealul Turcului,Geomil 25000,Limba română
+Dealul Turcului,turc,3,46.2366480341225,24.7743871026401,Mures,Deal,10064,Dealul Turcului,PDT,Limba română
+Fântâna Turcului,turc,3,46.7016510947468,24.1559050584089,Mures,Altele,10653,Fântâna Turcului,PDT,Limba română
+Dealul Turcului,turc,3,46.9213497028717,27.0247032344557,Neamt,Deal,1633,Dealul Turcului,Geomil 25000,Limba română,Dealul Turcului,PDT,Limba română
+Fântâna Turcului,turc,3,44.3947979279291,24.4360004904511,Olt,Altele,3006,Fântâna Turcului,PDT,Limba română
+Fântâna Turcului,turc,3,44.504734022084,24.4574116071458,Olt,Altele,8120,Fântâna Turcului,PDT,Limba română
+Măgura Turcului,turc,3,43.9527842974531,24.4754484790379,Olt,Înălțime,7746,Măgura Turcului,Geomil 25000,Limba română
+Lacul Turcului,turc,3,44.7632469896158,26.2188579806056,Prahova,Lac,8788,Lacul Turcului,PDT,Limba română,Lacu Turcului,Geomil 25000,Limba română
+Muntele Turcului,turc,3,45.4849987521106,25.6992285146971,Prahova,Înălțime,1556,Muntele Turcului,Geomil 25000,Limba română
+Podul Turcului,turc,3,44.7865501309756,26.2899303803706,Prahova,Altele,3288,Podul Turcului,PDT,Limba română
+V. Turku,turc,3,45.4393200976842,25.7484261904751,Prahova,Înălțime,13455,V. Turku,Austriacă,Limba română
+Vârful Turcului,turc,3,45.0852326641143,26.3603742906663,Prahova,Înălțime,8738,Vârful Turcului,PDT,Limba română
+Cotu Turcului,turc,3,47.6019944972096,26.5437213941106,Suceava,Apă-deal-câmpie,7778,Cotu Turcului,PDT,Limba română
+Cotul Turcului,turc,3,47.5019620905832,26.5509047021051,Suceava,Apă-deal-câmpie,14063,Cotul Turcului,Geomil 25000,Limba română
 Turcul,turc,3,47.8442971360144,25.6795732315991,Suceava,Vale,12915,Turcul,Geomil 25000,Limba română
 Turcul,turc,3,47.2896192358901,25.1348726369437,Suceava,Vale,13275,Turcul,Geomil 25000,Limba română
-Coasta Turcului,turc,3,47.2715692961429,24.2883311435037,Bistrita Nasaud,Înălțime,13387,Coasta Turcului,Imperiul Habsburgic (1887),Limba română
-V. Turku,turc,3,45.4393200976842,25.7484261904751,Prahova,Înălțime,13455,V. Turku,Austriacă,Limba română
-Cetatea Turcului,turc,3,45.2109807708949,21.8935438974539,Caras Severin,Altele,13875,Cetatea Turcului,Geomil 25000,Limba română
+Costa Turcului,turc,3,44.2138858220984,25.6492903132251,Teleorman,Înălțime,4226,Costa Turcului,PDT,Limba română
+Fântâna Turcului,turc,3,43.7687657807729,24.735410325465,Teleorman,Altele,8008,Fântâna Turcului,PDT,Limba română
+La Lacul Turcului,turc,3,43.9389576666298,25.0087125751343,Teleorman,Lac,12438,La Lacul Turcului,PDT,Limba română
+Măgura Rusca Turcului,turc,3,43.7776233375696,24.8292034290848,Teleorman,Înălțime,8012,Măgura Rusca Turcului,Geomil 25000,Limba română
+Măgura Turcului,turc,3,43.7748324569879,25.160584825318,Teleorman,Înălțime,1386,Măgura Turcului,Geomil 25000,Limba română
+Valea Turcului,turc,3,44.1037264244178,25.1096258106279,Teleorman,Vale,3639,Valea Turcului,PDT,Limba română
+W. Turkului,turc,3,43.808805587127,25.5540404918192,Teleorman,Vale,12210,W. Turkului,Oltenia-Muntenia (1790),Limba română
 Dealul Turcului,turc,3,45.2236309120694,21.5130562711874,Timis,Deal,13876,Dealul Turcului,PDT,Limba română
-Cotul Turcului,turc,3,47.5019620905832,26.5509047021051,Suceava,Apă-deal-câmpie,14063,Cotul Turcului,Geomil 25000,Limba română
-Podul Turcului,turc,3,47.0119686246374,27.7362531375367,Iasi,Vale,14111,Podul Turcului,Geomil 25000,Limba română
-Pârâu Turcului,turc,3,45.3691869575436,22.7753107768025,Hunedoara,Vale,14195,Pârâu Turcului,Geomil 25000,Limba română
+Ogașu Turcului,turc,3,45.6045787806,21.899416943,Timis,Vale,884,Ogașu Turcului,Geomil 25000,Limba română
 Ogasu Turkului,turc,3,45.6216588933654,21.8022844657351,Timis,Vale,14259,Ogasu Turkului,Ungară 1869,Limba română
+Râtu Turcului,turc,3,45.739147506387,21.4786847384961,Timis,Altele,7642,Râtu Turcului,PDT,Limba română
+Valea Turcului,turc,3,45.6739359416387,21.9903663233219,Timis,Vale,883,Valea Turcului,Geomil 25000,Limba română
+Valea Turcului,turc,3,45.6290557195461,21.8777230091071,Timis,Vale,5680,Valea Turcului,Geomil 25000,Limba română
+Podul Turcului,turc,3,45.3523242687908,29.48647351689,Tulcea,Apă-deal-câmpie,12639,Podul Turcului,Geomil 25000,Limba română
+Valea Turcu,turc,3,44.6794917011606,24.2410448789788,Valcea,Vale,375,Valea Turcu,Geomil 25000,Limba română
+Valea Turcului,turc,3,44.9314345523769,24.7186067077172,Valcea,Vale,4770,Valea Turcului,Geomil 25000,Limba română
+Poiana Turcului,turc,3,46.2750198438491,27.8357613635603,Vaslui,Poiană,9610,Poiana Turcului,Moldova (1892-1898),Limba română
+Valea Scările Turcului,turc,3,46.6903015554021,27.495273803029,Vaslui,Vale,4634,Valea Scările Turcului,Geomil 25000,Limba română
+Dealul Turcului,turc,3,46.0120751327116,26.688114902784,Vrancea,Deal,9965,Dealul Turcului,Moldova (1892-1898),Limba română
+Movila Turcului,turc,3,45.6790288654891,27.2055067015917,Vrancea,Înălțime,3549,Movila Turcului,PDT,Limba română
+Plaiul Capul Turcului,turc,3,45.7396548088555,26.5671051008219,Vrancea,Înălțime,782,Plaiul Capul Turcului,Geomil 25000,Limba română,Plaiul Capul Turcului,PDT,Limba română
+Valea Turcului,turc,3,46.085289898065,27.0914440525686,Vrancea,Vale,9183,Valea Turcului,Geomil 25000,Limba română

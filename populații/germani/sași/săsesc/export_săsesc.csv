@@ -1,12 +1,12 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
-Pădurea Bisericii Săsești,săsesc,4,46.72377786796,24.7169461123822,Mures,Pădure,4336,Pădurea Bisericii Săsești,Geomil 25000,Limba română
+Gruețiu Săsăscu,săsesc,4,46.2513875154387,23.9429086455919,Alba,Altele,11836,Gruețiu Săsăscu,Geomil 25000,Limba română
 Râtul Săsesc,săsesc,4,46.1491412569673,23.9713363412561,Alba,Altele,8157,Râtul Săsesc,PDT,Limba română
-Casa bisericii Săsești,săsesc,4,46.051591591577,24.6121991388381,Sibiu,Altele,8618,Casa bisericii Săsești,PDT,Limba română
-Noul Săsesc,săsesc,4,46.1105856023303,24.6036279711803,Sibiu,Localitate,8619,Noul Săsesc,PDT,Limba română
-Pârâul Săsesc,săsesc,4,46.3002795634296,24.3989102172032,Mures,Vale,8647,Pârâul Săsesc,PDT,Limba română
-Satul Săsesc,săsesc,4,46.6726139032041,25.4996608956396,Harghita,Localitate,10044,Satul Săsesc,PDT,Limba română
 Szaz Pian,săsesc,4,45.9377894147004,23.487641174528,Alba,Localitate,10458,Szaz Pian,Transilvania (1869-1870),Limba maghiară
 Szász Cegő,săsesc,4,47.0692463889004,24.3322630639926,Bistrita Nasaud,Localitate,10465,Szász Cegő,Transilvania (1869-1870),Limba maghiară
 Ticușul săsesc,săsesc,4,45.9286955649274,25.0997048235925,Brasov,Localitate,10574,Ticușul săsesc,Imperiul Habsburgic (1887),Limba română
+Satul Săsesc,săsesc,4,46.6726139032041,25.4996608956396,Harghita,Localitate,10044,Satul Săsesc,PDT,Limba română
 Laslăul săsesc,săsesc,4,46.3677690683546,24.5538100494993,Mures,Localitate,10812,Laslăul săsesc,Imperiul Habsburgic (1887),Limba română
-Gruețiu Săsăscu,săsesc,4,46.2513875154387,23.9429086455919,Alba,Altele,11836,Gruețiu Săsăscu,Geomil 25000,Limba română
+Pădurea Bisericii Săsești,săsesc,4,46.72377786796,24.7169461123822,Mures,Pădure,4336,Pădurea Bisericii Săsești,Geomil 25000,Limba română
+Pârâul Săsesc,săsesc,4,46.3002795634296,24.3989102172032,Mures,Vale,8647,Pârâul Săsesc,PDT,Limba română
+Casa bisericii Săsești,săsesc,4,46.051591591577,24.6121991388381,Sibiu,Altele,8618,Casa bisericii Săsești,PDT,Limba română
+Noul Săsesc,săsesc,4,46.1105856023303,24.6036279711803,Sibiu,Localitate,8619,Noul Săsesc,PDT,Limba română

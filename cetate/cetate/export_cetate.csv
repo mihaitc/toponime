@@ -1,244 +1,244 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
-Cetate,cetate,2,44.8260590264541,26.021703307713,Prahova,Altele,49,Cetate,Geomil 25000,Limba română,Cetățuia,PDT,Limba română
-Cetate,cetate,2,44.1130183302624,23.0312556939072,Dolj,Altele,165,Cetate,Geomil 25000,Limba română
-Dealu Cetatea,cetate,2,43.8497975800369,25.4713641196927,Teleorman,Deal,326,Dealu Cetatea,Geomil 25000,Limba română,Dealul Cetatea,PDT,Limba română
-Valea Cetății,cetate,2,44.4292825261101,23.7537592640252,Dolj,Vale,405,Valea Cetății,Geomil 25000,Limba română,Valea Cetății,PDT,Limba română
-Cetatea,cetate,2,43.9570801541378,25.922732817897,Giurgiu,Altele,453,Cetatea,Geomil 25000,Limba română
-La Cetate,cetate,2,43.9839950875971,25.9519456817202,Giurgiu,Altele,455,La Cetate,Geomil 25000,Limba română,Cetatea,PDT,Limba română
-Valea Cetatea Mică,cetate,2,44.961153165538,25.1096325719525,Arges,Vale,536,Valea Cetatea Mică,Geomil 25000,Limba română,Valea Cetatea Mică,PDT,Limba română
-Valea Cetatea Mare,cetate,2,44.9636793293163,25.1052554987693,Arges,Vale,537,Valea Cetatea Mare,Geomil 25000,Limba română,Valea Cetatea Mare,PDT,Limba română
-Dealu Cetățile,cetate,2,45.9446924552341,22.5436083920762,Hunedoara,Deal,942,Dealu Cetățile,Geomil 25000,Limba română
+Cetate,cetate,2,46.4006191538067,23.5860283458231,Alba,Înălțime,13838,Cetate,Transilvania (1869-1870),Limba română
+Cetatea de Baltă,cetate,2,46.2485573586587,24.1684343447591,Alba,Localitate,7352,Cetatea de Baltă,Geomil 25000,Limba română
+Cetatea Trascăului,cetate,2,46.4250719985626,23.5439815755374,Alba,Altele,1930,Cetatea Trascăului,Geomil 25000,Limba română
+Cetatie Teutiului,cetate,2,46.0800386135494,23.4453356203227,Alba,Altele,10521,Cetatie Teutiului,Transilvania (1869-1870),Limba română
+Cetatje,cetate,2,46.0209682849036,23.4512495570876,Alba,Altele,10454,Cetatje,Transilvania (1869-1870),Limba română,Cetatea Ebernic,Geomil 25000,Limba română
+Csetatije Balte,cetate,2,46.2401291954776,24.1585037188828,Alba,Altele,11879,Csetatije Balte,Transilvania (1769-1773),Limba română
+Dealu Cetatea,cetate,2,45.8269666204981,23.3643459181815,Alba,Deal,1139,Dealu Cetatea,Geomil 25000,Limba română
+Dealu Cetății,cetate,2,46.0429817524418,23.4349206921662,Alba,Deal,5570,Dealu Cetății,Geomil 25000,Limba română
+Dealul La Cetate,cetate,2,46.356484589001,23.9579038397051,Alba,Deal,5503,Dealul La Cetate,Geomil 25000,Limba română
+Pădurea Cetății,cetate,2,46.1747278908025,24.1537223411349,Alba,Pădure,8162,Pădurea Cetății,PDT,Limba română
+Războieni-Cetate,cetate,2,46.4125741981342,23.8694173658208,Alba,Localitate,7068,Războieni-Cetate,Geomil 25000,Limba română
 Cetatea cea Bătrână,cetate,2,46.2692905966721,21.6768052408631,Arad,Altele,958,Cetatea cea Bătrână,Geomil 25000,Limba română
+Cetatea Dezna,cetate,2,46.4091447527173,22.2522287888153,Arad,Altele,7650,Cetatea Dezna,Geomil 25000,Limba română
+Cetatea Noua,cetate,2,46.1697553850116,21.3285409033993,Arad,Altele,5639,Cetatea Noua,PDT,Limba română
+Cetatea Șoimoș,cetate,2,46.1089379635512,21.722712203359,Arad,Altele,1949,Cetatea Șoimoș,Geomil 25000,Limba română
+Cetatea Veche,cetate,2,46.1573233553986,21.2395719980999,Arad,Altele,5638,Cetatea Veche,PDT,Limba română
 Dealu Cetății,cetate,2,46.2658633507187,21.6520232818182,Arad,Deal,959,Dealu Cetății,Geomil 25000,Limba română
 Dealu La Cetate,cetate,2,46.2847871284981,21.9067358598105,Arad,Deal,963,Dealu La Cetate,Geomil 25000,Limba română
 Gruiu Cetatea Mare,cetate,2,46.5887278873283,22.1277285063955,Arad,Înălțime,980,Gruiu Cetatea Mare,Geomil 25000,Limba română,Gruiu Cetatea Mare,PDT,Limba română
-Dealul Cetatea Giugu,cetate,2,47.2713413091797,24.1657621084377,Bistrita Nasaud,Deal,1013,Dealul Cetatea Giugu,Geomil 25000,Limba română
-Dealu Cetate,cetate,2,47.0498727993721,22.5292519953779,Bihor,Deal,1074,Dealu Cetate,Geomil 25000,Limba română
-Dealu Cetatea Caprei,cetate,2,46.8851697048701,23.6896582252061,Cluj,Deal,1108,Dealu Cetatea Caprei,Geomil 25000,Limba română
-Cetatea Fetei,cetate,2,46.7341565107667,23.5039313028199,Cluj,Altele,1112,Cetatea Fetei,Geomil 25000,Limba română
-Pădurea Cetății,cetate,2,46.7588635791784,23.3402668550872,Cluj,Pădure,1114,Pădurea Cetății,Geomil 25000,Limba română,Pădurea Cetății,PDT,Limba română
-Cetatea Roșie,cetate,2,45.6026537150105,23.1467963133823,Hunedoara,Înălțime,1126,Cetatea Roșie,Geomil 25000,Limba română
-Dealu Cetatea,cetate,2,45.8269666204981,23.3643459181815,Alba,Deal,1139,Dealu Cetatea,Geomil 25000,Limba română
-Vârfu Cetatea,cetate,2,45.7489412936188,23.8855091793191,Sibiu,Înălțime,1157,Vârfu Cetatea,Geomil 25000,Limba română
-Măgurea Cetatea,cetate,2,44.1297996002662,25.2017666082696,Teleorman,Înălțime,1247,Măgurea Cetatea,Geomil 25000,Limba română
-Cetate,cetate,2,44.0582242039783,24.6417345814665,Teleorman,Înălțime,1261,Cetate,Geomil 25000,Limba română,La Cetate,PDT,Limba română
+Halta Cetatea Veche,cetate,2,46.3109493733041,21.4525941514578,Arad,Altele,5636,Halta Cetatea Veche,Geomil 25000,Limba română
+La Cetate,cetate,2,46.4835899651584,21.9707399741783,Arad,Altele,8038,La Cetate,Geomil 25000,Limba română,La Cetate,PDT,Limba română
+Cetatea Negru Vodă,cetate,2,45.2171706085024,25.2088348572748,Arges,Altele,5046,Cetatea Negru Vodă,Geomil 25000,Limba română
+Cetatea Orăți,cetate,2,45.4134309758687,25.2204298355243,Arges,Altele,6865,Cetatea Orăți,Geomil 25000,Limba română,Cetatea Neamțului,PDT,Limba română
+La Cetate,cetate,2,44.4849940964542,24.7621047323588,Arges,Altele,11695,La Cetate,Geomil 25000,Limba română
+Ruinele Cetății Radu Negru,cetate,2,45.3546381393112,24.633394524707,Arges,Altele,10199,Ruinele Cetății Radu Negru,Geomil 25000,Limba română
+Valea Cetatea Mare,cetate,2,44.9636793293163,25.1052554987693,Arges,Vale,537,Valea Cetatea Mare,Geomil 25000,Limba română,Valea Cetatea Mare,PDT,Limba română
+Valea Cetatea Mică,cetate,2,44.961153165538,25.1096325719525,Arges,Vale,536,Valea Cetatea Mică,Geomil 25000,Limba română,Valea Cetatea Mică,PDT,Limba română
+Valea Cetăței,cetate,2,44.7121250998109,24.7681855915017,Arges,Vale,3408,Valea Cetăței,PDT,Limba română,Valea Cetății,Geomil 25000,Limba română
+Valea Cetăței,cetate,2,45.2018783168472,25.0973443955889,Arges,Vale,8827,Valea Cetăței,PDT,Limba română
 Valea Cetății,cetate,2,44.7468894306192,24.7874815795613,Arges,Vale,1404,Valea Cetății,Geomil 25000,Limba română,Valea Cetatea,PDT,Limba română
-Dealul Cetate,cetate,2,45.1252262584506,24.4062522903243,Valcea,Deal,1444,Dealul Cetate,Geomil 25000,Limba română
-La Cetate,cetate,2,45.6479597319197,24.4166994162888,Sibiu,Înălțime,1462,La Cetate,Geomil 25000,Limba română
-Muntele Cetății,cetate,2,45.6766538387265,24.4056417411262,Sibiu,,1464,Muntele Cetății,Geomil 25000,Limba română
-La Cetate,cetate,2,44.8667283338654,25.6055059644057,Dambovita,Altele,1534,La Cetate,Geomil 25000,Limba română,La Cetate,PDT,Limba română
-Dealul Cetății,cetate,2,46.979454667354,27.2306797392964,Iasi,Deal,1655,Dealul Cetății,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,46.6088113849432,27.500141224342,Vaslui,Deal,1672,Dealul Cetății,Geomil 25000,Limba română,Dealul Cetațea,Moldova (1892-1898),Limba română
-Cetățuia,cetate,2,47.4210273877153,26.792396587993,Iasi,Altele,1741,Cetățuia,Geomil 25000,Limba română
-Pădurea Cetății,cetate,2,46.0777335233613,24.171258173419,Sibiu,Pădure,1895,Pădurea Cetății,Geomil 25000,Limba română
-Cetatea Trascăului,cetate,2,46.4250719985626,23.5439815755374,Alba,Altele,1930,Cetatea Trascăului,Geomil 25000,Limba română
-Cetatea Șoimoș,cetate,2,46.1089379635512,21.722712203359,Arad,Altele,1949,Cetatea Șoimoș,Geomil 25000,Limba română
 Cetatea lui Bella,cetate,2,46.6171151330284,22.296524048401,Bihor,Înălțime,2004,Cetatea lui Bella,Geomil 25000,Limba română,Cetatea Belavar,PDT,Limba română
-Vârful Cetatea Mare,cetate,2,45.8950995151241,26.3598814425624,Covasna,Înălțime,2113,Vârful Cetatea Mare,Geomil 25000,Limba română
-Poiana cu Cetate,cetate,2,46.9882285599341,27.6032469784226,Iasi,Poiană,2220,Poiana cu Cetate,Geomil 25000,Limba română
-Cetatea Zamca,cetate,2,47.6618588658611,26.2404879510137,Suceava,Altele,2263,Cetatea Zamca,Geomil 25000,Limba română
-Cetatea Suceava,cetate,2,47.6451376853889,26.2703729455983,Suceava,Altele,2264,Cetatea Suceava,Geomil 25000,Limba română
+Cetățile,cetate,2,46.4235386152134,22.6458784314337,Bihor,Altele,9401,Cetățile,PDT,Limba română
+Dealu Cetate,cetate,2,47.0498727993721,22.5292519953779,Bihor,Deal,1074,Dealu Cetate,Geomil 25000,Limba română
+La Cetate,cetate,2,47.1686476783578,21.9260817533296,Bihor,Altele,7581,La Cetate,Geomil 25000,Limba română,La Cetate,PDT,Limba română
+Ruine,cetate,2,46.7905205934501,22.2909786189166,Bihor,Altele,11910,Ruine,Imperiul Habsburgic (1887),Limba germană,Rudera eine Türkischen Cita,Ungaria (1782–1785),Limba germană
+Ruine Adorjan,cetate,2,47.237523936477,22.0447620498804,Bihor,Altele,11975,Ruine Adorjan,Imperiul Habsburgic (1887),Limba germană,Ruine Adorjan,Ungară 1869,Limba germană,Rudera Adoria genant,Ungaria (1782–1785),Limba germană
+Ruine B. Szt. Miklos,cetate,2,46.6932255034742,22.1177744172398,Bihor,Altele,12137,Ruine B. Szt. Miklos,Imperiul Habsburgic (1887),Limba română,Ruine,Ungară 1869,Limba română,Alt Rudera,Ungaria (1782–1785),Limba germană
+Ruinele Cetâții Șoimu,cetate,2,46.6538245346469,22.1059095638369,Bihor,Altele,4113,Ruinele Cetâții Șoimu,PDT,Limba română
+Valea Cetății,cetate,2,47.1456245078955,22.0332161169713,Bihor,Vale,12371,Valea Cetății,Geomil 25000,Limba română
+Cetate,cetate,2,47.0356363363649,24.6750088775311,Bistrita Nasaud,Înălțime,9900,Cetate,PDT,Limba română
+Cetate,cetate,2,46.9414956478852,24.4793450547321,Bistrita Nasaud,Înălțime,12074,Cetate,Imperiul Habsburgic (1887),Limba română
+Csicso Csetate,cetate,2,47.2538633234501,23.9618288769314,Bistrita Nasaud,Înălțime,11892,Csicso Csetate,Transilvania (1769-1773),Limba română
+Dealul Burg (Cetate),cetate,2,47.0755578691559,24.6430165848756,Bistrita Nasaud,Deal,10029,Dealul Burg (Cetate),PDT,Limba română
+Dealul Cetatea,cetate,2,47.1030605503328,24.5161685491983,Bistrita Nasaud,Deal,10028,Dealul Cetatea,PDT,Limba română
+Dealul Cetatea Giugu,cetate,2,47.2713413091797,24.1657621084377,Bistrita Nasaud,Deal,1013,Dealul Cetatea Giugu,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,47.2743000815622,24.3336242009376,Bistrita Nasaud,Deal,4499,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,47.1729321076695,24.4812754107009,Bistrita Nasaud,Deal,4512,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,47.0805779636027,24.6166272548461,Bistrita Nasaud,Deal,12865,Dealul Cetății,Geomil 25000,Limba română
+La Cetate,cetate,2,47.0515846744229,24.4312474790269,Bistrita Nasaud,Altele,4509,La Cetate,Geomil 25000,Limba română
+La Dâmbul Cetăței,cetate,2,47.2105012335011,24.0988391376326,Bistrita Nasaud,Înălțime,7104,La Dâmbul Cetăței,PDT,Limba română
+Râtul cetăți,cetate,2,47.2997983837812,24.3390740707141,Bistrita Nasaud,Apă-deal-câmpie,10587,Râtul cetăți,Imperiul Habsburgic (1887),Limba română
+Valea Cetății,cetate,2,47.2363297342839,24.4493618768939,Bistrita Nasaud,Vale,4516,Valea Cetății,Geomil 25000,Limba română
+Vârful Cetății,cetate,2,47.1003912729301,24.3873672038847,Bistrita Nasaud,Înălțime,4508,Vârful Cetății,Geomil 25000,Limba română,Cetate,PDT,Limba română
+Vârful Cetății,cetate,2,47.4285593691121,24.7751528212389,Bistrita Nasaud,Înălțime,9917,Vârful Cetății,Geomil 25000,Limba română
+Vârful Cetății,cetate,2,47.0694437641868,24.2247028329734,Bistrita Nasaud,Înălțime,11338,Vârful Cetății,Geomil 25000,Limba română
 Cetatea,cetate,2,47.9359538483509,26.5783532042138,Botosani,Înălțime,2319,Cetatea,Geomil 25000,Limba română
-Cetatea Saschiz,cetate,2,46.1966834677785,24.9517598903304,Mures,Altele,2461,Cetatea Saschiz,Geomil 25000,Limba română
-Valea Cetății,cetate,2,45.8385523144917,25.4871120478134,Brasov,Vale,2488,Valea Cetății,Geomil 25000,Limba română
-Valea Cetății,cetate,2,45.8441860818469,25.4475292910788,Brasov,Vale,2489,Valea Cetății,Geomil 25000,Limba română
-La Cetate,cetate,2,47.3975488656127,22.6952422170922,Satu Mare,Altele,2615,La Cetate,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,46.138018473295,24.2816099523808,Sibiu,Deal,2619,Dealul Cetății,Geomil 25000,Limba română
-Cetatea Ascunsă,cetate,2,46.0731421285186,24.3784228417287,Sibiu,Altele,2622,Cetatea Ascunsă,Geomil 25000,Limba română
-La Cetate,cetate,2,46.0774604590509,24.3784926711395,Sibiu,Înălțime,2623,La Cetate,Geomil 25000,Limba română,La Cetate,PDT,Limba română
-Pădurea Cetății,cetate,2,46.0480789538938,24.5894867038494,Sibiu,Pădure,2644,Pădurea Cetății,Geomil 25000,Limba română
+Cetatea Jimbor,cetate,2,46.1107541891255,25.3819584485448,Brasov,Altele,2731,Cetatea Jimbor,Geomil 25000,Limba română
+Cetatea Râșnov,cetate,2,45.5908806729235,25.4695787799701,Brasov,Altele,2783,Cetatea Râșnov,Geomil 25000,Limba română
+Dealul Cetăței,cetate,2,45.5119533214567,25.3687033275736,Brasov,Deal,8579,Dealul Cetăței,PDT,Limba română
 Dealul Cetății,cetate,2,45.857039456323,25.4524836293476,Brasov,Deal,2696,Dealul Cetății,Geomil 25000,Limba română
 Dealul Subcetate,cetate,2,46.0517857768686,25.2069010088816,Brasov,Deal,2725,Dealul Subcetate,Geomil 25000,Limba română
-Cetatea Jimbor,cetate,2,46.1107541891255,25.3819584485448,Brasov,Altele,2731,Cetatea Jimbor,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,45.9218970162249,25.6606645531537,Covasna,Deal,2744,Dealul Cetății,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,46.1571237506998,25.8814477434861,Harghita,Deal,2751,Dealul Cetății,Geomil 25000,Limba română
-Dealul Fântâna Cetăței,cetate,2,45.9052334227164,25.6478667455416,Covasna,Deal,2760,Dealul Fântâna Cetăței,PDT,Limba română
-Cetatea Râșnov,cetate,2,45.5908806729235,25.4695787799701,Brasov,Altele,2783,Cetatea Râșnov,Geomil 25000,Limba română
-Cetatea Ulmetului,cetate,2,44.5478627610378,28.3417574626463,Constanta,Altele,2874,Cetatea Ulmetului,Geomil 25000,Limba română
-Cetatea Troesmis,cetate,2,45.1456950249852,28.1931695137698,Tulcea,Altele,2888,Cetatea Troesmis,Geomil 25000,Limba română
-Cetatea Argamum,cetate,2,44.7586214748614,28.9376013429573,Tulcea,Altele,2912,Cetatea Argamum,Geomil 25000,Limba română
-Cetatea Histria,cetate,2,44.5493209549331,28.771452160053,Tulcea,Altele,2914,Cetatea Histria,Geomil 25000,Limba română
-Dealul Cetatea,cetate,2,44.2941546581591,24.1404308761076,Olt,Deal,2972,Dealul Cetatea,Geomil 25000,Limba română
-Dealu La Cetate,cetate,2,44.9013658399578,23.7669291092721,Valcea,Deal,3096,Dealu La Cetate,Geomil 25000,Limba română
-La Cetate,cetate,2,44.7297445384737,27.8800495661018,Constanta,Altele,3200,La Cetate,Geomil 25000,Limba română
-Cetatea,cetate,2,44.1948362932155,27.600562353143,Constanta,Altele,3215,Cetatea,PDT,Limba română
-Cetatea Malva (Sergidova),cetate,2,43.7635089359173,24.4609202095332,Olt,Altele,3327,Cetatea Malva (Sergidova),PDT,Limba română,Cetatea Sucidava,Geomil 25000,Limba română
-Cetatea Turnului,cetate,2,43.719531868048,24.8610121590992,Teleorman,Altele,3336,Cetatea Turnului,Geomil 25000,Limba română,Ruinele Turnului,PDT,Limba română
-Valea Cetăței,cetate,2,44.7121250998109,24.7681855915017,Arges,Vale,3408,Valea Cetăței,PDT,Limba română,Valea Cetății,Geomil 25000,Limba română
-Cetatea Fetei,cetate,2,44.4163684263926,26.8609005727416,Calarasi,,3434,Cetatea Fetei,PDT,Limba română
-Dealul Cetatea Fetei,cetate,2,44.4122724206994,25.6153205955994,Giurgiu,Deal,3742,Dealul Cetatea Fetei,PDT,Limba română
-Cetatea,cetate,2,43.8189687406917,23.5454925578447,Dolj,Altele,3793,Cetatea,PDT,Limba română,Grindul Cetâții,Geomil 25000,Limba română,la cetate,Austriacă,Limba română
-Poiana la Cetate,cetate,2,45.0460993779367,25.983631711718,Prahova,Poiană,3982,Poiana la Cetate,PDT,Limba română
-Cetatea lui Radu negru,cetate,2,45.668223495947,24.8882604693688,Cluj,Altele,4027,Cetatea lui Radu negru,PDT,Limba română,Cetate,Transilvania (1869-1870),Limba română
-Dealul Cetății,cetate,2,45.567493029379,24.2591806549066,Sibiu,Deal,4041,Dealul Cetății,PDT,Limba română
-Ruinele Cetâții Șoimu,cetate,2,46.6538245346469,22.1059095638369,Bihor,Altele,4113,Ruinele Cetâții Șoimu,PDT,Limba română
-Vârful Cetatea Buda,cetate,2,46.2947748708195,25.2730256058591,Harghita,Înălțime,4269,Vârful Cetatea Buda,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,46.2566148630843,25.4644856343104,Harghita,Deal,4272,Dealul Cetății,Geomil 25000,Limba română
-Cetatea Bădeni,cetate,2,46.2259958828427,25.351086932661,Harghita,Altele,4274,Cetatea Bădeni,Geomil 25000,Limba română
-Spre Cetate,cetate,2,46.272101359792,25.1598160503249,Harghita,Altele,4280,Spre Cetate,Geomil 25000,Limba română
-Cetatea Păgânilor,cetate,2,46.6451345339422,24.3832762996527,Mures,Altele,4337,Cetatea Păgânilor,Geomil 25000,Limba română
-Poiana Cetății,cetate,2,46.1821124619357,24.8933705062723,Mures,Poiană,4365,Poiana Cetății,Geomil 25000,Limba română
-Cetatea Vapo,cetate,2,46.0928095784904,25.8384532720542,Covasna,Altele,4374,Cetatea Vapo,PDT,Limba română
-Dealu Cetatea Mică,cetate,2,47.9758691842659,23.2217658526446,Satu Mare,Deal,4456,Dealu Cetatea Mică,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,47.2743000815622,24.3336242009376,Bistrita Nasaud,Deal,4499,Dealul Cetății,Geomil 25000,Limba română
-Vârful Cetății,cetate,2,47.1003912729301,24.3873672038847,Bistrita Nasaud,Înălțime,4508,Vârful Cetății,Geomil 25000,Limba română,Cetate,PDT,Limba română
-La Cetate,cetate,2,47.0515846744229,24.4312474790269,Bistrita Nasaud,Altele,4509,La Cetate,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,47.1729321076695,24.4812754107009,Bistrita Nasaud,Deal,4512,Dealul Cetății,Geomil 25000,Limba română
-Valea Cetății,cetate,2,47.2363297342839,24.4493618768939,Bistrita Nasaud,Vale,4516,Valea Cetății,Geomil 25000,Limba română
-Vârful Cetății,cetate,2,46.7545894399416,25.6470090712856,Harghita,Înălțime,4542,Vârful Cetății,Geomil 25000,Limba română,Vârful Făgetul Cetății,PDT,Limba română
-Dealul Cetății,cetate,2,46.7294633462535,25.6374250097614,Harghita,Deal,4545,Dealul Cetății,Geomil 25000,Limba română
-Fagul Cetății,cetate,2,46.6520480274591,25.7917987982728,Harghita,Altele,4549,Fagul Cetății,Geomil 25000,Limba română
-Dealul Cetatea Chițoc,cetate,2,46.6074858238512,27.7121942685329,Vaslui,Deal,4616,Dealul Cetatea Chițoc,PDT,Limba română
-Cetatea Veche din coada Băltei,cetate,2,44.0564878064832,23.4362348680485,Dolj,Altele,4657,Cetatea Veche din coada Băltei,PDT,Limba română
-Cetatea Veche,cetate,2,44.5138572037412,23.5718402777686,Dolj,Altele,4697,Cetatea Veche,PDT,Limba română,Castrul Amistria,Geomil 25000,Limba română
-Fântâna la Cetate,cetate,2,44.6182590836559,23.811545914745,Dolj,Altele,4728,Fântâna la Cetate,PDT,Limba română
-La Cetate,cetate,2,44.3521038459621,23.8886637707526,Dolj,Altele,4820,La Cetate,PDT,Limba română
-Cetatea Negru Vodă,cetate,2,45.2171706085024,25.2088348572748,Arges,Altele,5046,Cetatea Negru Vodă,Geomil 25000,Limba română
-Cetate,cetate,2,44.1415872334879,23.8363812170721,Dolj,Înălțime,5110,Cetate,Geomil 25000,Limba română
-Dealu Cetate,cetate,2,44.4517718821434,22.8959711910622,Mehedinti,Deal,5201,Dealu Cetate,Geomil 25000,Limba română
-Cetățile,cetate,2,46.9910347867459,24.7682445437266,Mures,Înălțime,5447,Cetățile,Geomil 25000,Limba română,Cetățile,PDT,Limba română
-Dealul Cetățile,cetate,2,47.0094017185654,24.7888266057753,Mures,Deal,5448,Dealul Cetățile,PDT,Limba română
-Cetatea,cetate,2,46.9870405158514,24.7619086069159,Mures,Înălțime,5449,Cetatea,Geomil 25000,Limba română,Cetățelu,PDT,Limba română
-Dealul La Cetate,cetate,2,46.356484589001,23.9579038397051,Alba,Deal,5503,Dealul La Cetate,Geomil 25000,Limba română
-Subcetate,cetate,2,45.6024675492869,22.9972543668469,Hunedoara,Localitate,5550,Subcetate,Geomil 25000,Limba română
-Dealu Cetății,cetate,2,46.0429817524418,23.4349206921662,Alba,Deal,5570,Dealu Cetății,Geomil 25000,Limba română
-Halta Cetatea Veche,cetate,2,46.3109493733041,21.4525941514578,Arad,Altele,5636,Halta Cetatea Veche,Geomil 25000,Limba română
-Cetatea Veche,cetate,2,46.1573233553986,21.2395719980999,Arad,Altele,5638,Cetatea Veche,PDT,Limba română
-Cetatea Noua,cetate,2,46.1697553850116,21.3285409033993,Arad,Altele,5639,Cetatea Noua,PDT,Limba română
-Cracu Cetății,cetate,2,45.445736888159,21.7951468719132,Caras Severin,Înălțime,5687,Cracu Cetății,Geomil 25000,Limba română
-Cetate,cetate,2,45.4596935301914,26.0306153819374,Prahova,Altele,5766,Cetate,Austriacă,Limba română
-Vârful Cetății,cetate,2,47.105261950691,24.068927324459,Cluj,Înălțime,5856,Vârful Cetății,Geomil 25000,Limba română
-Vârfu Cetății,cetate,2,47.1907390648186,23.2734329790085,Salaj,Înălțime,5937,Vârfu Cetății,Geomil 25000,Limba română
-Cetatea Ardud,cetate,2,47.654918782538,22.8876470857319,Satu Mare,Altele,5961,Cetatea Ardud,Geomil 25000,Limba română
-Dealu Cetății,cetate,2,47.7633151614,23.3044497321,Maramures,Deal,5967,Dealu Cetății,Geomil 25000,Limba română,Dealul Cetății,PDT,Limba română
-Vârful Cetatea Racoți,cetate,2,46.7745206677309,24.8648369174519,Mures,Înălțime,6065,Vârful Cetatea Racoți,Geomil 25000,Limba română
-Dealu Cetate,cetate,2,45.6296443476461,22.1183625305758,Timis,Deal,6074,Dealu Cetate,Geomil 25000,Limba română
-Cetatea,cetate,2,47.5582814302432,25.9067252951882,Suceava,Înălțime,6331,Cetatea,PDT,Limba română
-Cetatea Dinogeția,cetate,2,45.3791824126913,28.1385463762605,Tulcea,Altele,6684,Cetatea Dinogeția,Geomil 25000,Limba română,Cetățuia Bisericuța,PDT,Limba română
-Culmea Cetății,cetate,2,46.1414575394326,26.1496907760825,Covasna,Înălțime,6777,Culmea Cetății,Geomil 25000,Limba română
-Valea Cetății,cetate,2,46.0637749123496,25.9765203117324,Covasna,Vale,6780,Valea Cetății,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,46.3173993282358,25.1449136642899,Harghita,Deal,6787,Dealul Cetății,Geomil 25000,Limba română
 La Cetate,cetate,2,45.9787216589281,25.280619165646,Brasov,Altele,6798,La Cetate,PDT,Limba română
 Valea Cetăței,cetate,2,45.6288603451247,25.602430391853,Brasov,Vale,6839,Valea Cetăței,PDT,Limba română
-Cetatea Orăți,cetate,2,45.4134309758687,25.2204298355243,Arges,Altele,6865,Cetatea Orăți,Geomil 25000,Limba română,Cetatea Neamțului,PDT,Limba română
-Dealu Cetatea,cetate,2,47.1809366618758,23.4095712978263,Salaj,Deal,6933,Dealu Cetatea,Geomil 25000,Limba română
-Dealu Cetății,cetate,2,47.2404901702147,23.3397337206787,Salaj,Deal,6935,Dealu Cetății,Geomil 25000,Limba română
-Dealul Cetate,cetate,2,47.3586578885203,22.6035692197713,Satu Mare,Deal,6971,Dealul Cetate,Geomil 25000,Limba română
-Ruinele Cetății,cetate,2,47.0981863130776,22.6902653768732,Salaj,Altele,7012,Ruinele Cetății,Geomil 25000,Limba română
-Cartierul Cetatea Veche,cetate,2,46.8810384599921,23.0050428088034,Cluj,Localitate,7017,Cartierul Cetatea Veche,Geomil 25000,Limba română
-Dealu Cetății,cetate,2,46.8763538038694,22.8755051235885,Cluj,Deal,7022,Dealu Cetății,Geomil 25000,Limba română
-Valea Cetății,cetate,2,46.7845537903678,23.1633825002032,Cluj,Vale,7034,Valea Cetății,Geomil 25000,Limba română
-Cetatea lui Gelu,cetate,2,46.9766672849401,23.670938043328,Cluj,Altele,7041,Cetatea lui Gelu,Geomil 25000,Limba română
-Cetatea,cetate,2,46.654751922645,23.5966726563531,Cluj,Altele,7057,Cetatea,Geomil 25000,Limba română
-Războieni-Cetate,cetate,2,46.4125741981342,23.8694173658208,Alba,Localitate,7068,Războieni-Cetate,Geomil 25000,Limba română
-La Dâmbul Cetăței,cetate,2,47.2105012335011,24.0988391376326,Bistrita Nasaud,Înălțime,7104,La Dâmbul Cetăței,PDT,Limba română
-La Cetate,cetate,2,46.4451115464567,24.5731444557296,Mures,Înălțime,7334,La Cetate,Geomil 25000,Limba română
-Cetatea de Baltă,cetate,2,46.2485573586587,24.1684343447591,Alba,Localitate,7352,Cetatea de Baltă,Geomil 25000,Limba română
-Ruinele Cetății Neamțului,cetate,2,47.2142868416489,26.3437812767691,Neamt,Altele,7392,Ruinele Cetății Neamțului,Geomil 25000,Limba română
-Valea Cetatea,cetate,2,44.7761234859628,23.5939114428956,Gorj,Vale,7428,Valea Cetatea,PDT,Limba română
-La Cetate,cetate,2,45.6528802467469,24.2700974014668,Sibiu,Înălțime,7514,La Cetate,PDT,Limba română,La Cetate,Geomil 25000,Limba română
-Dealu Cetății,cetate,2,46.9362031366618,23.1471775987347,Salaj,Deal,7521,Dealu Cetății,Geomil 25000,Limba română
-La Cetate,cetate,2,47.1686476783578,21.9260817533296,Bihor,Altele,7581,La Cetate,Geomil 25000,Limba română,La Cetate,PDT,Limba română
-Cetatea Dezna,cetate,2,46.4091447527173,22.2522287888153,Arad,Altele,7650,Cetatea Dezna,Geomil 25000,Limba română
-Cetatea Padea,cetate,2,44.0341078534678,23.8706116022698,Dolj,Altele,7691,Cetatea Padea,PDT,Limba română
-Dealul Cetății,cetate,2,45.8441794521204,26.0167695737763,Covasna,Deal,7921,Dealul Cetății,Geomil 25000,Limba română
-Cetatea Fagului,cetate,2,46.0865329083043,25.6511346372872,Covasna,Altele,7938,Cetatea Fagului,PDT,Limba română
-Dealul Cetății,cetate,2,46.1451149249186,25.1111098315105,Sibiu,Deal,7948,Dealul Cetății,PDT,Limba română,Dealul Cetății,Geomil 25000,Limba română,Burgberg,Transilvania (1869-1870),Limba română
-Dealul Cetății,cetate,2,45.8840791105551,24.0562817005225,Sibiu,Deal,7991,Dealul Cetății,PDT,Limba română
-Cetatea Scurtă,cetate,2,45.7582670820579,23.9617863457194,Sibiu,Altele,8004,Cetatea Scurtă,PDT,Limba română
-Cetatea Lungă,cetate,2,45.7628616550536,23.9519464808221,Sibiu,Altele,8005,Cetatea Lungă,PDT,Limba română
-La Cetate,cetate,2,46.4835899651584,21.9707399741783,Arad,Altele,8038,La Cetate,Geomil 25000,Limba română,La Cetate,PDT,Limba română
-Cetatea,cetate,2,44.9257057548884,23.1301049262381,Gorj,Localitate,8060,Cetatea,PDT,Limba română
-Cetatea,cetate,2,43.9627508581239,23.6080750223416,Dolj,Altele,8103,Cetatea,PDT,Limba română
-Pădurea Cetății,cetate,2,46.1747278908025,24.1537223411349,Alba,Pădure,8162,Pădurea Cetății,PDT,Limba română
-Ruinele Cetății Pintea,cetate,2,47.4064005048119,23.3240063379483,Salaj,Altele,8173,Ruinele Cetății Pintea,Geomil 25000,Limba română,Ruinele Benedek,PDT,Limba română
-Vârful Cetății,cetate,2,47.3243718035902,22.9778880108836,Salaj,Înălțime,8181,Vârful Cetății,PDT,Limba română
-Dealul La Cetate,cetate,2,44.7444003753749,22.7369199903714,Mehedinti,Deal,8408,Dealul La Cetate,Geomil 25000,Limba română
+Valea Cetății,cetate,2,45.8385523144917,25.4871120478134,Brasov,Vale,2488,Valea Cetății,Geomil 25000,Limba română
+Valea Cetății,cetate,2,45.8441860818469,25.4475292910788,Brasov,Vale,2489,Valea Cetății,Geomil 25000,Limba română
+Cetatea Fetei,cetate,2,44.4163684263926,26.8609005727416,Calarasi,,3434,Cetatea Fetei,PDT,Limba română
 Cetatea,cetate,2,44.9354100805659,21.7679262006726,Caras Severin,Altele,8537,Cetatea,PDT,Limba română,Cetate,Geomil 25000,Limba română
-Dealul Cetăței,cetate,2,45.5119533214567,25.3687033275736,Brasov,Deal,8579,Dealul Cetăței,PDT,Limba română
-Valea Cetăței,cetate,2,45.2018783168472,25.0973443955889,Arges,Vale,8827,Valea Cetăței,PDT,Limba română
-Dealul Cetăței,cetate,2,46.889984288509,23.5599114674184,Cluj,Deal,8942,Dealul Cetăței,PDT,Limba română
-Cetatea Sărei,cetate,2,46.9173426785741,23.5952785259634,Cluj,Altele,8943,Cetatea Sărei,PDT,Limba română
+Cetatea Turcului,cetate,2,45.211193759935,21.8944432159022,Caras Severin,Altele,13874,Cetatea Turcului,Geomil 25000,Limba română
+Cracu Cetății,cetate,2,45.445736888159,21.7951468719132,Caras Severin,Înălțime,5687,Cracu Cetății,Geomil 25000,Limba română
+Altese Schloss (Castelul Vechi),cetate,2,46.6431001538834,23.5669330828049,Cluj,Altele,11938,Altese Schloss (Castelul Vechi),Transilvania (1769-1773),Limba germană
+Cartierul Cetatea Veche,cetate,2,46.8810384599921,23.0050428088034,Cluj,Localitate,7017,Cartierul Cetatea Veche,Geomil 25000,Limba română
 Cetate,cetate,2,46.7264280189036,23.3530030258571,Cluj,Altele,8960,Cetate,PDT,Limba română,Cetate,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,47.1329724939737,23.3027841515656,Salaj,Deal,8998,Dealul Cetății,PDT,Limba română
-Cetatea Cazacilor,cetate,2,44.0759578401071,25.0004339327492,Teleorman,Altele,9047,Cetatea Cazacilor,PDT,Limba română
-Dealul Cetatea,cetate,2,44.0730191340519,25.0994414925716,Teleorman,Deal,9049,Dealul Cetatea,PDT,Limba română
-Dealul Cetății,cetate,2,47.4903434106661,26.4068812704727,Suceava,Deal,9063,Dealul Cetății,PDT,Limba română
-Pârâul Cetăței,cetate,2,47.0874098554012,26.0862932706694,Neamt,Vale,9120,Pârâul Cetăței,PDT,Limba română
-La Cetate,cetate,2,45.1880619585669,28.7691199080428,Tulcea,Altele,9284,La Cetate,PDT,Limba română
-Cetatea Bisericei,cetate,2,45.1005369001562,29.0678754124118,Tulcea,Altele,9288,Cetatea Bisericei,PDT,Limba română
-Drumul Cetății,cetate,2,45.0970848412423,29.0672071931949,Tulcea,Drum,9289,Drumul Cetății,PDT,Limba română
-Cetatea Eraclia,cetate,2,44.8843668144584,28.8348852739785,Tulcea,Altele,9293,Cetatea Eraclia,Geomil 25000,Limba română
-Cetățile,cetate,2,46.4235386152134,22.6458784314337,Bihor,Altele,9401,Cetățile,PDT,Limba română
-Movila Cetatea,cetate,2,44.2081746550461,25.1839367518437,Teleorman,Înălțime,9450,Movila Cetatea,Geomil 25000,Limba română,Movila Cetatea,PDT,Limba română
+Cetate,cetate,2,46.9028048364024,22.9533901940245,Cluj,Altele,10425,Cetate,PDT,Limba română,Várhegy,Transilvania (1869-1870),Limba maghiară
+Cetatea,cetate,2,46.654751922645,23.5966726563531,Cluj,Altele,7057,Cetatea,Geomil 25000,Limba română
+Cetatea,cetate,2,46.5380650712583,23.7984400325767,Cluj,Altele,10815,Cetatea,Imperiul Habsburgic (1887),Limba română
+Cetatea,cetate,2,46.5479865862286,23.0760990253225,Cluj,Altele,12546,Cetatea,Geomil 25000,Limba română
+Cetatea Fetei,cetate,2,46.7341565107667,23.5039313028199,Cluj,Altele,1112,Cetatea Fetei,Geomil 25000,Limba română
+Cetatea lui Gelu,cetate,2,46.9766672849401,23.670938043328,Cluj,Altele,7041,Cetatea lui Gelu,Geomil 25000,Limba română
+Cetatea lui Radu negru,cetate,2,45.668223495947,24.8882604693688,Cluj,Altele,4027,Cetatea lui Radu negru,PDT,Limba română,Cetate,Transilvania (1869-1870),Limba română
+Cetatea Sărei,cetate,2,46.9173426785741,23.5952785259634,Cluj,Altele,8943,Cetatea Sărei,PDT,Limba română
+Dealu Cetatea Caprei,cetate,2,46.8851697048701,23.6896582252061,Cluj,Deal,1108,Dealu Cetatea Caprei,Geomil 25000,Limba română
+Dealu Cetății,cetate,2,46.8763538038694,22.8755051235885,Cluj,Deal,7022,Dealu Cetății,Geomil 25000,Limba română
+Dealu Cetății,cetate,2,46.7649394884233,22.9885423296941,Cluj,Deal,11534,Dealu Cetății,Geomil 25000,Limba română
+Dealul Cetăței,cetate,2,46.889984288509,23.5599114674184,Cluj,Deal,8942,Dealul Cetăței,PDT,Limba română
+Dealul Cetății,cetate,2,46.8968766645743,23.3786983669163,Cluj,Deal,10406,Dealul Cetății,PDT,Limba română
+Dealul Cetății,cetate,2,46.6978426788564,23.3021710304853,Cluj,Deal,11531,Dealul Cetății,ANCPI,Limba română
+Pădurea Cetății,cetate,2,46.7588635791784,23.3402668550872,Cluj,Pădure,1114,Pădurea Cetății,Geomil 25000,Limba română,Pădurea Cetății,PDT,Limba română
+Valea Cetății,cetate,2,46.7845537903678,23.1633825002032,Cluj,Vale,7034,Valea Cetății,Geomil 25000,Limba română
+Vârful Cetății,cetate,2,47.105261950691,24.068927324459,Cluj,Înălțime,5856,Vârful Cetății,Geomil 25000,Limba română
+Cetatea,cetate,2,44.1948362932155,27.600562353143,Constanta,Altele,3215,Cetatea,PDT,Limba română
+Cetatea Ulmetului,cetate,2,44.5478627610378,28.3417574626463,Constanta,Altele,2874,Cetatea Ulmetului,Geomil 25000,Limba română
+La Cetate,cetate,2,44.7297445384737,27.8800495661018,Constanta,Altele,3200,La Cetate,Geomil 25000,Limba română
+La Cetate,cetate,2,44.2453654683628,28.217375430867,Constanta,Altele,11090,La Cetate,Geomil 25000,Limba română
+La Cetate,cetate,2,43.9821080282895,28.1900284508418,Constanta,Altele,13639,La Cetate,Geomil 25000,Limba română
+Valea Cetății,cetate,2,44.0957030480889,27.9478206507505,Constanta,Vale,13637,Valea Cetății,Geomil 25000,Limba română
+Cetatea Fagului,cetate,2,46.0865329083043,25.6511346372872,Covasna,Altele,7938,Cetatea Fagului,PDT,Limba română
+Cetatea Vapo,cetate,2,46.0928095784904,25.8384532720542,Covasna,Altele,4374,Cetatea Vapo,PDT,Limba română
+Culmea Cetății,cetate,2,46.1414575394326,26.1496907760825,Covasna,Înălțime,6777,Culmea Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,45.9218970162249,25.6606645531537,Covasna,Deal,2744,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,45.8441794521204,26.0167695737763,Covasna,Deal,7921,Dealul Cetății,Geomil 25000,Limba română
+Dealul Fântâna Cetăței,cetate,2,45.9052334227164,25.6478667455416,Covasna,Deal,2760,Dealul Fântâna Cetăței,PDT,Limba română
+Valea Cetatea Melcului,cetate,2,45.7563518022083,25.8915651627185,Covasna,Vale,11448,Valea Cetatea Melcului,Geomil 25000,Limba română
+Valea Cetății,cetate,2,46.0637749123496,25.9765203117324,Covasna,Vale,6780,Valea Cetății,Geomil 25000,Limba română
+Vârful Cetatea Mare,cetate,2,45.8950995151241,26.3598814425624,Covasna,Înălțime,2113,Vârful Cetatea Mare,Geomil 25000,Limba română
+Vârful Cetății,cetate,2,45.964894634203,25.6786331538028,Covasna,Înălțime,11457,Vârful Cetății,Geomil 25000,Limba română
+Cetatea,cetate,2,44.991825663506,25.4552418988693,Dambovita,Altele,10073,Cetatea,Geomil 25000,Limba română,Cetatea,PDT,Limba română
+La Cetate,cetate,2,44.8667283338654,25.6055059644057,Dambovita,Altele,1534,La Cetate,Geomil 25000,Limba română,La Cetate,PDT,Limba română
+Cetate,cetate,2,44.1130183302624,23.0312556939072,Dolj,Altele,165,Cetate,Geomil 25000,Limba română
+Cetate,cetate,2,44.1415872334879,23.8363812170721,Dolj,Înălțime,5110,Cetate,Geomil 25000,Limba română
+Cetatea,cetate,2,43.8189687406917,23.5454925578447,Dolj,Altele,3793,Cetatea,PDT,Limba română,Grindul Cetâții,Geomil 25000,Limba română,la cetate,Austriacă,Limba română
+Cetatea,cetate,2,43.9627508581239,23.6080750223416,Dolj,Altele,8103,Cetatea,PDT,Limba română
+Cetatea,cetate,2,44.3605041165444,23.3985869716778,Dolj,Altele,13579,Cetatea,PDT,Limba română
+Cetatea Padea,cetate,2,44.0341078534678,23.8706116022698,Dolj,Altele,7691,Cetatea Padea,PDT,Limba română
+Cetatea Veche,cetate,2,44.5138572037412,23.5718402777686,Dolj,Altele,4697,Cetatea Veche,PDT,Limba română,Castrul Amistria,Geomil 25000,Limba română
+Cetatea Veche din coada Băltei,cetate,2,44.0564878064832,23.4362348680485,Dolj,Altele,4657,Cetatea Veche din coada Băltei,PDT,Limba română
+Fântâna la Cetate,cetate,2,44.6182590836559,23.811545914745,Dolj,Altele,4728,Fântâna la Cetate,PDT,Limba română
+La Cetate,cetate,2,44.3521038459621,23.8886637707526,Dolj,Altele,4820,La Cetate,PDT,Limba română
+Piscul Cetăței,cetate,2,44.5740304696355,23.5974189706987,Dolj,Înălțime,13855,Piscul Cetăței,PDT,Limba română
+Valea Cetății,cetate,2,44.4292825261101,23.7537592640252,Dolj,Vale,405,Valea Cetății,Geomil 25000,Limba română,Valea Cetății,PDT,Limba română
+Cetatea,cetate,2,43.9570801541378,25.922732817897,Giurgiu,Altele,453,Cetatea,Geomil 25000,Limba română
+Dealul Cetatea Fetei,cetate,2,44.4122724206994,25.6153205955994,Giurgiu,Deal,3742,Dealul Cetatea Fetei,PDT,Limba română
+La Cetate,cetate,2,43.9839950875971,25.9519456817202,Giurgiu,Altele,455,La Cetate,Geomil 25000,Limba română,Cetatea,PDT,Limba română
+Cetatea,cetate,2,44.9257057548884,23.1301049262381,Gorj,Localitate,8060,Cetatea,PDT,Limba română
+Valea Cetatea,cetate,2,44.7761234859628,23.5939114428956,Gorj,Vale,7428,Valea Cetatea,PDT,Limba română
+Cetatea Bădeni,cetate,2,46.2259958828427,25.351086932661,Harghita,Altele,4274,Cetatea Bădeni,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,46.1571237506998,25.8814477434861,Harghita,Deal,2751,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,46.2566148630843,25.4644856343104,Harghita,Deal,4272,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,46.7294633462535,25.6374250097614,Harghita,Deal,4545,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,46.3173993282358,25.1449136642899,Harghita,Deal,6787,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,46.5943889008413,25.1741218106594,Harghita,Deal,10032,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,46.3164786280944,25.7854768767697,Harghita,Deal,10049,Dealul Cetății,PDT,Limba română,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetății Mici,cetate,2,46.3364841650485,25.7971253350696,Harghita,Deal,10048,Dealul Cetății Mici,PDT,Limba română,Dealul Cetății Mici,Geomil 25000,Limba română
+Dealul Spatele Cetății,cetate,2,46.3618602961331,25.4210476604457,Harghita,Deal,11467,Dealul Spatele Cetății,Geomil 25000,Limba română
+Fagul Cetății,cetate,2,46.6520480274591,25.7917987982728,Harghita,Altele,4549,Fagul Cetății,Geomil 25000,Limba română
+Pârâul Cetății,cetate,2,46.3934511939235,25.6885745986629,Harghita,Vale,10051,Pârâul Cetății,PDT,Limba română
+Spre Cetate,cetate,2,46.272101359792,25.1598160503249,Harghita,Altele,4280,Spre Cetate,Geomil 25000,Limba română
+Vârful Cetatea Buda,cetate,2,46.2947748708195,25.2730256058591,Harghita,Înălțime,4269,Vârful Cetatea Buda,Geomil 25000,Limba română
+Vârful Cetății,cetate,2,46.7545894399416,25.6470090712856,Harghita,Înălțime,4542,Vârful Cetății,Geomil 25000,Limba română,Vârful Făgetul Cetății,PDT,Limba română
+Vârful Cetății,cetate,2,46.6322282036357,25.5319459114628,Harghita,Înălțime,10046,Vârful Cetății,PDT,Limba română,Vârful Cetății,Geomil 25000,Limba română
+Altes Schlos (Palat Vechi),cetate,2,45.512692129776,22.9537630624427,Hunedoara,Altele,13239,Altes Schlos (Palat Vechi),Transilvania (1769-1773),Limba română
 Cetate Boli,cetate,2,45.4512744033229,23.3141340845155,Hunedoara,Altele,9809,Cetate Boli,PDT,Limba română
+Cetatea din Colț,cetate,2,45.4783985078609,22.8740591159524,Hunedoara,Altele,10332,Cetatea din Colț,Geomil 25000,Limba română
+Cetatea Roșie,cetate,2,45.6026537150105,23.1467963133823,Hunedoara,Înălțime,1126,Cetatea Roșie,Geomil 25000,Limba română
+Dealu Cetățile,cetate,2,45.9446924552341,22.5436083920762,Hunedoara,Deal,942,Dealu Cetățile,Geomil 25000,Limba română
+La Cetate,cetate,2,45.8891701161537,22.8964466713053,Hunedoara,Altele,10239,La Cetate,Geomil 25000,Limba română
+Muchia Cetății,cetate,2,45.7667513797402,23.3065731974203,Hunedoara,Înălțime,9842,Muchia Cetății,Geomil 25000,Limba română
+Pârâul cetății,cetate,2,45.8950386365601,23.1812487769797,Hunedoara,Vale,10549,Pârâul cetății,Imperiul Habsburgic (1887),Limba română
 Ruinele Cetății Fețele Albe,cetate,2,45.6260540991215,23.2786862952504,Hunedoara,Altele,9830,Ruinele Cetății Fețele Albe,Geomil 25000,Limba română
 Ruinele Cetății Sarmizetetusa Regia,cetate,2,45.6227597063052,23.3083119636049,Hunedoara,Altele,9831,Ruinele Cetății Sarmizetetusa Regia,Geomil 25000,Limba română
-Muchia Cetății,cetate,2,45.7667513797402,23.3065731974203,Hunedoara,Înălțime,9842,Muchia Cetății,Geomil 25000,Limba română
-Cetate,cetate,2,47.0356363363649,24.6750088775311,Bistrita Nasaud,Înălțime,9900,Cetate,PDT,Limba română
-Vârful Cetății,cetate,2,47.4285593691121,24.7751528212389,Bistrita Nasaud,Înălțime,9917,Vârful Cetății,Geomil 25000,Limba română
-Dealul Cetatea,cetate,2,47.1030605503328,24.5161685491983,Bistrita Nasaud,Deal,10028,Dealul Cetatea,PDT,Limba română
-Dealul Burg (Cetate),cetate,2,47.0755578691559,24.6430165848756,Bistrita Nasaud,Deal,10029,Dealul Burg (Cetate),PDT,Limba română
-Dealul Cetății,cetate,2,46.5943889008413,25.1741218106594,Harghita,Deal,10032,Dealul Cetății,Geomil 25000,Limba română
-Vârful Cetății,cetate,2,46.6322282036357,25.5319459114628,Harghita,Înălțime,10046,Vârful Cetății,PDT,Limba română,Vârful Cetății,Geomil 25000,Limba română
-Dealul Cetății Mici,cetate,2,46.3364841650485,25.7971253350696,Harghita,Deal,10048,Dealul Cetății Mici,PDT,Limba română,Dealul Cetății Mici,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,46.3164786280944,25.7854768767697,Harghita,Deal,10049,Dealul Cetății,PDT,Limba română,Dealul Cetății,Geomil 25000,Limba română
-Pârâul Cetății,cetate,2,46.3934511939235,25.6885745986629,Harghita,Vale,10051,Pârâul Cetății,PDT,Limba română
-Cetatea,cetate,2,44.991825663506,25.4552418988693,Dambovita,Altele,10073,Cetatea,Geomil 25000,Limba română,Cetatea,PDT,Limba română
-Ruinele Cetății Radu Negru,cetate,2,45.3546381393112,24.633394524707,Arges,Altele,10199,Ruinele Cetății Radu Negru,Geomil 25000,Limba română
-La Cetate,cetate,2,45.8891701161537,22.8964466713053,Hunedoara,Altele,10239,La Cetate,Geomil 25000,Limba română
-Cetatea din Colț,cetate,2,45.4783985078609,22.8740591159524,Hunedoara,Altele,10332,Cetatea din Colț,Geomil 25000,Limba română
-Cetatea,cetate,2,47.1339882914539,23.425246326961,Salaj,Altele,10389,Cetatea,PDT,Limba română
-Dealul Cetății,cetate,2,46.8968766645743,23.3786983669163,Cluj,Deal,10406,Dealul Cetății,PDT,Limba română
-Cetate,cetate,2,46.9028048364024,22.9533901940245,Cluj,Altele,10425,Cetate,PDT,Limba română,Várhegy,Transilvania (1869-1870),Limba maghiară
-Cetate,cetate,2,45.8035814786509,23.8374393052104,Sibiu,Altele,10451,Cetate,Transilvania (1869-1870),Limba română
-Cetatje,cetate,2,46.0209682849036,23.4512495570876,Alba,Altele,10454,Cetatje,Transilvania (1869-1870),Limba română,Cetatea Ebernic,Geomil 25000,Limba română
-Cetatie Teutiului,cetate,2,46.0800386135494,23.4453356203227,Alba,Altele,10521,Cetatie Teutiului,Transilvania (1869-1870),Limba română
-Pârâul cetății,cetate,2,45.8950386365601,23.1812487769797,Hunedoara,Vale,10549,Pârâul cetății,Imperiul Habsburgic (1887),Limba română
-Râtul cetăți,cetate,2,47.2997983837812,24.3390740707141,Bistrita Nasaud,Apă-deal-câmpie,10587,Râtul cetăți,Imperiul Habsburgic (1887),Limba română
-Dealul Cetății,cetate,2,43.6588517944637,25.3380538971186,Teleorman,Deal,10689,Dealul Cetății,Geomil 25000,Limba română
-Cetatea,cetate,2,46.5380650712583,23.7984400325767,Cluj,Altele,10815,Cetatea,Imperiul Habsburgic (1887),Limba română
-Vârful Cetății,cetate,2,46.5762085931848,24.8853526854569,Mures,Înălțime,10841,Vârful Cetății,Geomil 25000,Limba română
-Cetatea Fetei,cetate,2,44.8511888402444,28.5938515784682,Tulcea,Altele,11086,Cetatea Fetei,PDT,Limba română
-La Cetate,cetate,2,44.2453654683628,28.217375430867,Constanta,Altele,11090,La Cetate,Geomil 25000,Limba română
-Vârful Cetății,cetate,2,47.0694437641868,24.2247028329734,Bistrita Nasaud,Înălțime,11338,Vârful Cetății,Geomil 25000,Limba română
+Subcetate,cetate,2,45.6024675492869,22.9972543668469,Hunedoara,Localitate,5550,Subcetate,Geomil 25000,Limba română
+Cetățuia,cetate,2,47.4210273877153,26.792396587993,Iasi,Altele,1741,Cetățuia,Geomil 25000,Limba română
+Dealul Cetatea,cetate,2,47.1928046463879,26.9333336538481,Iasi,Deal,11773,Dealul Cetatea,PDT,Limba română
+Dealul Cetății,cetate,2,46.979454667354,27.2306797392964,Iasi,Deal,1655,Dealul Cetății,Geomil 25000,Limba română
+Poiana cu Cetate,cetate,2,46.9882285599341,27.6032469784226,Iasi,Poiană,2220,Poiana cu Cetate,Geomil 25000,Limba română
+Dealu Cetății,cetate,2,47.7633151614,23.3044497321,Maramures,Deal,5967,Dealu Cetății,Geomil 25000,Limba română,Dealul Cetății,PDT,Limba română
+Dealu Cetate,cetate,2,44.4517718821434,22.8959711910622,Mehedinti,Deal,5201,Dealu Cetate,Geomil 25000,Limba română
 Dealul Cetății,cetate,2,44.2950345744846,23.0889733202618,Mehedinti,Deal,11374,Dealul Cetății,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,47.0867599854799,23.4307171724474,Salaj,Deal,11418,Dealul Cetății,Geomil 25000,Limba română
-Valea Cetatea Melcului,cetate,2,45.7563518022083,25.8915651627185,Covasna,Vale,11448,Valea Cetatea Melcului,Geomil 25000,Limba română
-Vârful Cetății,cetate,2,45.964894634203,25.6786331538028,Covasna,Înălțime,11457,Vârful Cetății,Geomil 25000,Limba română
-Dealul Spatele Cetății,cetate,2,46.3618602961331,25.4210476604457,Harghita,Deal,11467,Dealul Spatele Cetății,Geomil 25000,Limba română
+Dealul La Cetate,cetate,2,44.7444003753749,22.7369199903714,Mehedinti,Deal,8408,Dealul La Cetate,Geomil 25000,Limba română
+Cetatea,cetate,2,46.9870405158514,24.7619086069159,Mures,Înălțime,5449,Cetatea,Geomil 25000,Limba română,Cetățelu,PDT,Limba română
+Cetatea,cetate,2,46.4504351848393,24.8912784591889,Mures,Vale,11939,Cetatea,Geomil 25000,Limba română, Vár Pataka (Valea Cetății),Transilvania (1769-1773),Limba maghiară
+Cetatea Păgânilor,cetate,2,46.6451345339422,24.3832762996527,Mures,Altele,4337,Cetatea Păgânilor,Geomil 25000,Limba română
+Cetatea Saschiz,cetate,2,46.1966834677785,24.9517598903304,Mures,Altele,2461,Cetatea Saschiz,Geomil 25000,Limba română
+Cetățile,cetate,2,46.9910347867459,24.7682445437266,Mures,Înălțime,5447,Cetățile,Geomil 25000,Limba română,Cetățile,PDT,Limba română
+Dealul Cetatea Uriașilor,cetate,2,46.209924388378,24.9991136359817,Mures,Deal,12644,Dealul Cetatea Uriașilor,PDT,Limba română
 Dealul Cetății,cetate,2,46.4075925058368,24.9026266725918,Mures,Deal,11478,Dealul Cetății,Geomil 25000,Limba română
 Dealul Cetății,cetate,2,46.4888600674365,24.9310748028332,Mures,Deal,11481,Dealul Cetății,Geomil 25000,Limba română
-Dealul Cetății,cetate,2,46.6978426788564,23.3021710304853,Cluj,Deal,11531,Dealul Cetății,ANCPI,Limba română
-Dealu Cetății,cetate,2,46.7649394884233,22.9885423296941,Cluj,Deal,11534,Dealu Cetății,Geomil 25000,Limba română
-La Cetate,cetate,2,43.8681362432247,24.3681252189747,Olt,Altele,11603,La Cetate,Geomil 25000,Limba română
-La Cetate,cetate,2,44.4849940964542,24.7621047323588,Arges,Altele,11695,La Cetate,Geomil 25000,Limba română
-Dealul Cetatea,cetate,2,47.1928046463879,26.9333336538481,Iasi,Deal,11773,Dealul Cetatea,PDT,Limba română
-Dealul Cetății,cetate,2,45.9274687308189,24.3102686912389,Sibiu,Deal,11842,Dealul Cetății,ANCPI,Limba română
-Csetatije Balte,cetate,2,46.2401291954776,24.1585037188828,Alba,Altele,11879,Csetatije Balte,Transilvania (1769-1773),Limba română
-Csicso Csetate,cetate,2,47.2538633234501,23.9618288769314,Bistrita Nasaud,Înălțime,11892,Csicso Csetate,Transilvania (1769-1773),Limba română
-Ruine,cetate,2,46.7905205934501,22.2909786189166,Bihor,Altele,11910,Ruine,Imperiul Habsburgic (1887),Limba germană,Rudera eine Türkischen Cita,Ungaria (1782–1785),Limba germană
-Altese Schloss (Castelul Vechi),cetate,2,46.6431001538834,23.5669330828049,Cluj,Altele,11938,Altese Schloss (Castelul Vechi),Transilvania (1769-1773),Limba germană
-Cetatea,cetate,2,46.4504351848393,24.8912784591889,Mures,Vale,11939,Cetatea,Geomil 25000,Limba română, Vár Pataka (Valea Cetății),Transilvania (1769-1773),Limba maghiară
-Pârâul Cetății,cetate,2,46.5740071791744,24.9937850365767,Mures,Vale,11940,Pârâul Cetății,PDT,Limba română,Var pataka,Transilvania (1769-1773),Limba maghiară,Vár patak (Pârâul Cetății),Imperiul Habsburgic (1887),Limba maghiară
-Ruine Adorjan,cetate,2,47.237523936477,22.0447620498804,Bihor,Altele,11975,Ruine Adorjan,Imperiul Habsburgic (1887),Limba germană,Ruine Adorjan,Ungară 1869,Limba germană,Rudera Adoria genant,Ungaria (1782–1785),Limba germană
-Cetate,cetate,2,46.9414956478852,24.4793450547321,Bistrita Nasaud,Înălțime,12074,Cetate,Imperiul Habsburgic (1887),Limba română
-La Cetate,cetate,2,46.7131117796505,24.8826844134372,Mures,Altele,12082,La Cetate,PDT,Limba română
-Ruine B. Szt. Miklos,cetate,2,46.6932255034742,22.1177744172398,Bihor,Altele,12137,Ruine B. Szt. Miklos,Imperiul Habsburgic (1887),Limba română,Ruine,Ungară 1869,Limba română,Alt Rudera,Ungaria (1782–1785),Limba germană
-Valea Cetăței,cetate,2,44.1391772038844,25.1414137414872,Teleorman,Vale,12206,Valea Cetăței,Geomil 25000,Limba română
-Reduta Neamțului,cetate,2,43.853795572914,24.7512385438135,Teleorman,Altele,12218,Reduta Neamțului,PDT,Limba română
-Valea Cetății,cetate,2,47.1456245078955,22.0332161169713,Bihor,Vale,12371,Valea Cetății,Geomil 25000,Limba română
-Cetatea,cetate,2,46.5479865862286,23.0760990253225,Cluj,Altele,12546,Cetatea,Geomil 25000,Limba română
-Dealul Cetatea Uriașilor,cetate,2,46.209924388378,24.9991136359817,Mures,Deal,12644,Dealul Cetatea Uriașilor,PDT,Limba română
-Dealul Cetății,cetate,2,47.0805779636027,24.6166272548461,Bistrita Nasaud,Deal,12865,Dealul Cetății,Geomil 25000,Limba română
-Altes Schlos (Palat Vechi),cetate,2,45.512692129776,22.9537630624427,Hunedoara,Altele,13239,Altes Schlos (Palat Vechi),Transilvania (1769-1773),Limba română
-Cetatea,cetate,2,44.3605041165444,23.3985869716778,Dolj,Altele,13579,Cetatea,PDT,Limba română
-Valea Cetății,cetate,2,44.0957030480889,27.9478206507505,Constanta,Vale,13637,Valea Cetății,Geomil 25000,Limba română
-La Cetate,cetate,2,43.9821080282895,28.1900284508418,Constanta,Altele,13639,La Cetate,Geomil 25000,Limba română
-Cetate,cetate,2,46.4006191538067,23.5860283458231,Alba,Înălțime,13838,Cetate,Transilvania (1869-1870),Limba română
-Piscul Cetăței,cetate,2,44.5740304696355,23.5974189706987,Dolj,Înălțime,13855,Piscul Cetăței,PDT,Limba română
-Cetatea Turcului,cetate,2,45.211193759935,21.8944432159022,Caras Severin,Altele,13874,Cetatea Turcului,Geomil 25000,Limba română
-Csetate lui Ivan,cetate,2,45.6049204206244,24.0299309410333,Sibiu,Altele,13966,Csetate lui Ivan,Transilvania (1769-1773),Limba română
 Dealul Cetății,cetate,2,46.3154982993216,24.52268518962,Mures,Deal,14004,Dealul Cetății,PDT,Limba română
 Dealul Cetății,cetate,2,46.768625322897,24.5803193741061,Mures,Deal,14019,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetățile,cetate,2,47.0094017185654,24.7888266057753,Mures,Deal,5448,Dealul Cetățile,PDT,Limba română
 Fața Cetății,cetate,2,46.1832353453716,25.073490866922,Mures,Înălțime,14082,Fața Cetății,Geomil 25000,Limba română
+La Cetate,cetate,2,46.4451115464567,24.5731444557296,Mures,Înălțime,7334,La Cetate,Geomil 25000,Limba română
+La Cetate,cetate,2,46.7131117796505,24.8826844134372,Mures,Altele,12082,La Cetate,PDT,Limba română
+Pârâul Cetății,cetate,2,46.5740071791744,24.9937850365767,Mures,Vale,11940,Pârâul Cetății,PDT,Limba română,Var pataka,Transilvania (1769-1773),Limba maghiară,Vár patak (Pârâul Cetății),Imperiul Habsburgic (1887),Limba maghiară
+Poiana Cetății,cetate,2,46.1821124619357,24.8933705062723,Mures,Poiană,4365,Poiana Cetății,Geomil 25000,Limba română
+Vârful Cetatea Racoți,cetate,2,46.7745206677309,24.8648369174519,Mures,Înălțime,6065,Vârful Cetatea Racoți,Geomil 25000,Limba română
+Vârful Cetății,cetate,2,46.5762085931848,24.8853526854569,Mures,Înălțime,10841,Vârful Cetății,Geomil 25000,Limba română
+Pârâul Cetăței,cetate,2,47.0874098554012,26.0862932706694,Neamt,Vale,9120,Pârâul Cetăței,PDT,Limba română
+Ruinele Cetății Neamțului,cetate,2,47.2142868416489,26.3437812767691,Neamt,Altele,7392,Ruinele Cetății Neamțului,Geomil 25000,Limba română
+Cetatea Malva (Sergidova),cetate,2,43.7635089359173,24.4609202095332,Olt,Altele,3327,Cetatea Malva (Sergidova),PDT,Limba română,Cetatea Sucidava,Geomil 25000,Limba română
+Dealul Cetatea,cetate,2,44.2941546581591,24.1404308761076,Olt,Deal,2972,Dealul Cetatea,Geomil 25000,Limba română
+La Cetate,cetate,2,43.8681362432247,24.3681252189747,Olt,Altele,11603,La Cetate,Geomil 25000,Limba română
+Cetate,cetate,2,44.8260590264541,26.021703307713,Prahova,Altele,49,Cetate,Geomil 25000,Limba română,Cetățuia,PDT,Limba română
+Cetate,cetate,2,45.4596935301914,26.0306153819374,Prahova,Altele,5766,Cetate,Austriacă,Limba română
+Poiana la Cetate,cetate,2,45.0460993779367,25.983631711718,Prahova,Poiană,3982,Poiana la Cetate,PDT,Limba română
+Cetatea,cetate,2,47.1339882914539,23.425246326961,Salaj,Altele,10389,Cetatea,PDT,Limba română
+Dealu Cetatea,cetate,2,47.1809366618758,23.4095712978263,Salaj,Deal,6933,Dealu Cetatea,Geomil 25000,Limba română
+Dealu Cetății,cetate,2,47.2404901702147,23.3397337206787,Salaj,Deal,6935,Dealu Cetății,Geomil 25000,Limba română
+Dealu Cetății,cetate,2,46.9362031366618,23.1471775987347,Salaj,Deal,7521,Dealu Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,47.1329724939737,23.3027841515656,Salaj,Deal,8998,Dealul Cetății,PDT,Limba română
+Dealul Cetății,cetate,2,47.0867599854799,23.4307171724474,Salaj,Deal,11418,Dealul Cetății,Geomil 25000,Limba română
+Ruinele Cetății,cetate,2,47.0981863130776,22.6902653768732,Salaj,Altele,7012,Ruinele Cetății,Geomil 25000,Limba română
+Ruinele Cetății Pintea,cetate,2,47.4064005048119,23.3240063379483,Salaj,Altele,8173,Ruinele Cetății Pintea,Geomil 25000,Limba română,Ruinele Benedek,PDT,Limba română
+Vârfu Cetății,cetate,2,47.1907390648186,23.2734329790085,Salaj,Înălțime,5937,Vârfu Cetății,Geomil 25000,Limba română
+Vârful Cetății,cetate,2,47.3243718035902,22.9778880108836,Salaj,Înălțime,8181,Vârful Cetății,PDT,Limba română
+Cetatea Ardud,cetate,2,47.654918782538,22.8876470857319,Satu Mare,Altele,5961,Cetatea Ardud,Geomil 25000,Limba română
+Dealu Cetatea Mică,cetate,2,47.9758691842659,23.2217658526446,Satu Mare,Deal,4456,Dealu Cetatea Mică,Geomil 25000,Limba română
+Dealul Cetate,cetate,2,47.3586578885203,22.6035692197713,Satu Mare,Deal,6971,Dealul Cetate,Geomil 25000,Limba română
+La Cetate,cetate,2,47.3975488656127,22.6952422170922,Satu Mare,Altele,2615,La Cetate,Geomil 25000,Limba română
+Cetate,cetate,2,45.8035814786509,23.8374393052104,Sibiu,Altele,10451,Cetate,Transilvania (1869-1870),Limba română
+Cetatea Ascunsă,cetate,2,46.0731421285186,24.3784228417287,Sibiu,Altele,2622,Cetatea Ascunsă,Geomil 25000,Limba română
+Cetatea Lungă,cetate,2,45.7628616550536,23.9519464808221,Sibiu,Altele,8005,Cetatea Lungă,PDT,Limba română
+Cetatea Scurtă,cetate,2,45.7582670820579,23.9617863457194,Sibiu,Altele,8004,Cetatea Scurtă,PDT,Limba română
+Csetate lui Ivan,cetate,2,45.6049204206244,24.0299309410333,Sibiu,Altele,13966,Csetate lui Ivan,Transilvania (1769-1773),Limba română
+Dealul Cetății,cetate,2,46.138018473295,24.2816099523808,Sibiu,Deal,2619,Dealul Cetății,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,45.567493029379,24.2591806549066,Sibiu,Deal,4041,Dealul Cetății,PDT,Limba română
+Dealul Cetății,cetate,2,46.1451149249186,25.1111098315105,Sibiu,Deal,7948,Dealul Cetății,PDT,Limba română,Dealul Cetății,Geomil 25000,Limba română,Burgberg,Transilvania (1869-1870),Limba română
+Dealul Cetății,cetate,2,45.8840791105551,24.0562817005225,Sibiu,Deal,7991,Dealul Cetății,PDT,Limba română
+Dealul Cetății,cetate,2,45.9274687308189,24.3102686912389,Sibiu,Deal,11842,Dealul Cetății,ANCPI,Limba română
+La Cetate,cetate,2,45.6479597319197,24.4166994162888,Sibiu,Înălțime,1462,La Cetate,Geomil 25000,Limba română
+La Cetate,cetate,2,46.0774604590509,24.3784926711395,Sibiu,Înălțime,2623,La Cetate,Geomil 25000,Limba română,La Cetate,PDT,Limba română
+La Cetate,cetate,2,45.6528802467469,24.2700974014668,Sibiu,Înălțime,7514,La Cetate,PDT,Limba română,La Cetate,Geomil 25000,Limba română
+Muntele Cetății,cetate,2,45.6766538387265,24.4056417411262,Sibiu,,1464,Muntele Cetății,Geomil 25000,Limba română
+Pădurea Cetății,cetate,2,46.0777335233613,24.171258173419,Sibiu,Pădure,1895,Pădurea Cetății,Geomil 25000,Limba română
+Pădurea Cetății,cetate,2,46.0480789538938,24.5894867038494,Sibiu,Pădure,2644,Pădurea Cetății,Geomil 25000,Limba română
+Vârfu Cetatea,cetate,2,45.7489412936188,23.8855091793191,Sibiu,Înălțime,1157,Vârfu Cetatea,Geomil 25000,Limba română
+Cetatea,cetate,2,47.5582814302432,25.9067252951882,Suceava,Înălțime,6331,Cetatea,PDT,Limba română
+Cetatea Suceava,cetate,2,47.6451376853889,26.2703729455983,Suceava,Altele,2264,Cetatea Suceava,Geomil 25000,Limba română
+Cetatea Zamca,cetate,2,47.6618588658611,26.2404879510137,Suceava,Altele,2263,Cetatea Zamca,Geomil 25000,Limba română
+Dealul Cetății,cetate,2,47.4903434106661,26.4068812704727,Suceava,Deal,9063,Dealul Cetății,PDT,Limba română
+Cetate,cetate,2,44.0582242039783,24.6417345814665,Teleorman,Înălțime,1261,Cetate,Geomil 25000,Limba română,La Cetate,PDT,Limba română
+Cetatea Cazacilor,cetate,2,44.0759578401071,25.0004339327492,Teleorman,Altele,9047,Cetatea Cazacilor,PDT,Limba română
+Cetatea Turnului,cetate,2,43.719531868048,24.8610121590992,Teleorman,Altele,3336,Cetatea Turnului,Geomil 25000,Limba română,Ruinele Turnului,PDT,Limba română
+Dealu Cetatea,cetate,2,43.8497975800369,25.4713641196927,Teleorman,Deal,326,Dealu Cetatea,Geomil 25000,Limba română,Dealul Cetatea,PDT,Limba română
+Dealul Cetatea,cetate,2,44.0730191340519,25.0994414925716,Teleorman,Deal,9049,Dealul Cetatea,PDT,Limba română
+Dealul Cetății,cetate,2,43.6588517944637,25.3380538971186,Teleorman,Deal,10689,Dealul Cetății,Geomil 25000,Limba română
+Măgurea Cetatea,cetate,2,44.1297996002662,25.2017666082696,Teleorman,Înălțime,1247,Măgurea Cetatea,Geomil 25000,Limba română
+Movila Cetatea,cetate,2,44.2081746550461,25.1839367518437,Teleorman,Înălțime,9450,Movila Cetatea,Geomil 25000,Limba română,Movila Cetatea,PDT,Limba română
+Reduta Neamțului,cetate,2,43.853795572914,24.7512385438135,Teleorman,Altele,12218,Reduta Neamțului,PDT,Limba română
+Valea Cetăței,cetate,2,44.1391772038844,25.1414137414872,Teleorman,Vale,12206,Valea Cetăței,Geomil 25000,Limba română
+Dealu Cetate,cetate,2,45.6296443476461,22.1183625305758,Timis,Deal,6074,Dealu Cetate,Geomil 25000,Limba română
+Cetatea Argamum,cetate,2,44.7586214748614,28.9376013429573,Tulcea,Altele,2912,Cetatea Argamum,Geomil 25000,Limba română
+Cetatea Bisericei,cetate,2,45.1005369001562,29.0678754124118,Tulcea,Altele,9288,Cetatea Bisericei,PDT,Limba română
+Cetatea Dinogeția,cetate,2,45.3791824126913,28.1385463762605,Tulcea,Altele,6684,Cetatea Dinogeția,Geomil 25000,Limba română,Cetățuia Bisericuța,PDT,Limba română
+Cetatea Eraclia,cetate,2,44.8843668144584,28.8348852739785,Tulcea,Altele,9293,Cetatea Eraclia,Geomil 25000,Limba română
+Cetatea Fetei,cetate,2,44.8511888402444,28.5938515784682,Tulcea,Altele,11086,Cetatea Fetei,PDT,Limba română
+Cetatea Histria,cetate,2,44.5493209549331,28.771452160053,Tulcea,Altele,2914,Cetatea Histria,Geomil 25000,Limba română
+Cetatea Troesmis,cetate,2,45.1456950249852,28.1931695137698,Tulcea,Altele,2888,Cetatea Troesmis,Geomil 25000,Limba română
+Drumul Cetății,cetate,2,45.0970848412423,29.0672071931949,Tulcea,Drum,9289,Drumul Cetății,PDT,Limba română
+La Cetate,cetate,2,45.1880619585669,28.7691199080428,Tulcea,Altele,9284,La Cetate,PDT,Limba română
+Dealu La Cetate,cetate,2,44.9013658399578,23.7669291092721,Valcea,Deal,3096,Dealu La Cetate,Geomil 25000,Limba română
+Dealul Cetate,cetate,2,45.1252262584506,24.4062522903243,Valcea,Deal,1444,Dealul Cetate,Geomil 25000,Limba română
+Dealul Cetatea Chițoc,cetate,2,46.6074858238512,27.7121942685329,Vaslui,Deal,4616,Dealul Cetatea Chițoc,PDT,Limba română
+Dealul Cetății,cetate,2,46.6088113849432,27.500141224342,Vaslui,Deal,1672,Dealul Cetății,Geomil 25000,Limba română,Dealul Cetațea,Moldova (1892-1898),Limba română

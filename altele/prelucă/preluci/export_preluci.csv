@@ -1,18 +1,18 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
+Preluci,preluci,3,46.456209805389,26.2741784844341,Bacau,Localitate,13041,Preluci,Geomil 25000,Limba română
+Dealu Prelucilor,preluci,3,46.5554791585013,22.6042825417321,Bihor,Deal,13074,Dealu Prelucilor,Geomil 25000,Limba română
+Prelucele,preluci,3,46.9531773312501,22.7963435753241,Bihor,Localitate,13421,Prelucele,Geomil 25000,Limba română
+Pârâul Prelucilor,preluci,3,47.5558364975397,24.9838237517365,Bistrita Nasaud,Vale,13828,Pârâul Prelucilor,Geomil 25000,Limba română
+Poeana Prelucilor,preluci,3,47.1633905242859,25.0009644394834,Bistrita Nasaud,Poiană,13393,Poeana Prelucilor,Imperiul Habsburgic (1887),Limba română
+Poiana Prelucilor,preluci,3,47.193235644017,25.0509704534443,Bistrita Nasaud,Poiană,13140,Poiana Prelucilor,Geomil 25000,Limba română
+Prelucile Gaja,preluci,3,47.5264941588385,24.9165907391041,Bistrita Nasaud,Înălțime,13826,Prelucile Gaja,Geomil 25000,Limba română
+Valea Prelucilor,preluci,3,46.7537447742368,23.0532818063616,Cluj,Vale,13066,Valea Prelucilor,Geomil 25000,Limba română
+Prelucile,preluci,3,45.5051334983775,23.2258782482874,Hunedoara,Înălțime,13434,Prelucile,Geomil 25000,Limba română
+Vârful Prelucele,preluci,3,45.5133697954509,23.3376114230838,Hunedoara,Înălțime,13164,Vârful Prelucele,Geomil 25000,Limba română
 Prelucile,preluci,3,47.6111413677464,24.6692071765377,Maramures,Altele,13021,Prelucile,Geomil 25000,Limba română
 Valea Prelucilor,preluci,3,47.5497948900231,25.0099028163973,Maramures,Vale,13022,Valea Prelucilor,Geomil 25000,Limba română
 Pârâul Prelucilor,preluci,3,46.7306307389058,26.3707468129079,Neamt,Vale,13035,Pârâul Prelucilor,Geomil 25000,Limba română
-Preluci,preluci,3,46.456209805389,26.2741784844341,Bacau,Localitate,13041,Preluci,Geomil 25000,Limba română
-Valea Prelucilor,preluci,3,46.7537447742368,23.0532818063616,Cluj,Vale,13066,Valea Prelucilor,Geomil 25000,Limba română
-Dealu Prelucilor,preluci,3,46.5554791585013,22.6042825417321,Bihor,Deal,13074,Dealu Prelucilor,Geomil 25000,Limba română
-Poiana Prelucilor,preluci,3,47.193235644017,25.0509704534443,Bistrita Nasaud,Poiană,13140,Poiana Prelucilor,Geomil 25000,Limba română
-Vârful Prelucele,preluci,3,45.5133697954509,23.3376114230838,Hunedoara,Înălțime,13164,Vârful Prelucele,Geomil 25000,Limba română
-Preluci,preluci,3,47.3101314263981,23.4657223855199,Salaj,Localitate,13170,Preluci,Geomil 25000,Limba română
-Poeana Prelucilor,preluci,3,47.1633905242859,25.0009644394834,Bistrita Nasaud,Poiană,13393,Poeana Prelucilor,Imperiul Habsburgic (1887),Limba română
-Prelucele,preluci,3,46.9531773312501,22.7963435753241,Bihor,Localitate,13421,Prelucele,Geomil 25000,Limba română
-Prelucile,preluci,3,45.5051334983775,23.2258782482874,Hunedoara,Înălțime,13434,Prelucile,Geomil 25000,Limba română
-La Preluci,preluci,3,47.2522745964908,25.7193386233369,Suceava,Înălțime,13520,La Preluci,Geomil 25000,Limba română
-Prelucile Gaja,preluci,3,47.5264941588385,24.9165907391041,Bistrita Nasaud,Înălțime,13826,Prelucile Gaja,Geomil 25000,Limba română
-Pârâul Prelucilor,preluci,3,47.5558364975397,24.9838237517365,Bistrita Nasaud,Vale,13828,Pârâul Prelucilor,Geomil 25000,Limba română
-Dealul Preluci,preluci,3,47.3251817126068,23.7561540708484,Salaj,Deal,14032,Dealul Preluci,PDT,Limba română
 Pârâul Prelucilor,preluci,3,47.1826072653639,26.0533488436662,Neamt,Vale,14113,Pârâul Prelucilor,Geomil 25000,Limba română
+Dealul Preluci,preluci,3,47.3251817126068,23.7561540708484,Salaj,Deal,14032,Dealul Preluci,PDT,Limba română
+Preluci,preluci,3,47.3101314263981,23.4657223855199,Salaj,Localitate,13170,Preluci,Geomil 25000,Limba română
+La Preluci,preluci,3,47.2522745964908,25.7193386233369,Suceava,Înălțime,13520,La Preluci,Geomil 25000,Limba română

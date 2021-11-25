@@ -1,13 +1,13 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Gruiul Rudarul Mare,rudar,2,45.4369042478923,24.0448814686215,Valcea,Înălțime,1178,Gruiul Rudarul Mare,Geomil 25000,Limba română
+Valea Rudarului,rudar,2,45.3912122089792,24.6352897824197,Arges,Vale,4985,Valea Rudarului,Geomil 25000,Limba română
+Muchia Rudarului,rudar,2,45.3871693553847,26.5456818369029,Buzau,Înălțime,11709,Muchia Rudarului,Geomil 25000,Limba română
+Valea Rudarului,rudar,2,45.1808992956589,26.455203237615,Buzau,Vale,7493,Valea Rudarului,Geomil 25000,Limba română
 Puțu Rudarului,rudar,2,44.1095948786518,26.6729509584577,Calarasi,Altele,3269,Puțu Rudarului,PDT,Limba română
+Piscul cu Rudarul,rudar,2,44.5964923636086,23.8264495071978,Dolj,Înălțime,4733,Piscul cu Rudarul,PDT,Limba română
+Piscul Rudarului,rudar,2,44.5823468082175,23.8115493224221,Dolj,Înălțime,4725,Piscul Rudarului,PDT,Limba română
+Valea Rudarului,rudar,2,44.1362043132834,23.356302623861,Dolj,Vale,4646,Valea Rudarului,PDT,Limba română,Valea Rudarului,Geomil 25000,Limba română
 Lacul Rudarului,rudar,2,44.0529375246504,26.192668187474,Giurgiu,Lac,3631,Lacul Rudarului,Austriacă,Limba română
 Puțul-Rudarului,rudar,2,44.4175848834901,25.6290357824702,Giurgiu,Altele,3739,Puțul-Rudarului,PDT,Limba română
-Valea Rudarului,rudar,2,44.1362043132834,23.356302623861,Dolj,Vale,4646,Valea Rudarului,PDT,Limba română,Valea Rudarului,Geomil 25000,Limba română
-Piscul Rudarului,rudar,2,44.5823468082175,23.8115493224221,Dolj,Înălțime,4725,Piscul Rudarului,PDT,Limba română
-Piscul cu Rudarul,rudar,2,44.5964923636086,23.8264495071978,Dolj,Înălțime,4733,Piscul cu Rudarul,PDT,Limba română
-Valea Rudarului,rudar,2,44.6705857805268,24.1362756432338,Valcea,Vale,4797,Valea Rudarului,PDT,Limba română
-Valea Rudarului,rudar,2,45.3912122089792,24.6352897824197,Arges,Vale,4985,Valea Rudarului,Geomil 25000,Limba română
-Valea Rudarului,rudar,2,45.1808992956589,26.455203237615,Buzau,Vale,7493,Valea Rudarului,Geomil 25000,Limba română
 Valea Rudarului,rudar,2,45.0353642227636,26.2005463577327,Prahova,Vale,10086,Valea Rudarului,PDT,Limba română
-Muchia Rudarului,rudar,2,45.3871693553847,26.5456818369029,Buzau,Înălțime,11709,Muchia Rudarului,Geomil 25000,Limba română
+Gruiul Rudarul Mare,rudar,2,45.4369042478923,24.0448814686215,Valcea,Înălțime,1178,Gruiul Rudarul Mare,Geomil 25000,Limba română
+Valea Rudarului,rudar,2,44.6705857805268,24.1362756432338,Valcea,Vale,4797,Valea Rudarului,PDT,Limba română

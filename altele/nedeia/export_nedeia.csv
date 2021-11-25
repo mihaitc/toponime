@@ -1,31 +1,31 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Nedeia,nedeia,2,46.9445896648825,26.662490619068,Neamt,Altele,2048,Nedeia,Geomil 25000,Limba română
-Nedeia,nedeia,2,43.8544351156886,23.7720010596857,Dolj,Localitate,3025,Nedeia,Geomil 25000,Limba română
-Vârful Cornu Nedeii,nedeia,2,47.6474398112314,24.8635528167994,Maramures,Înălțime,4538,Vârful Cornu Nedeii,Geomil 25000,Limba română
-Dealul Nedeii,nedeia,2,45.553890770335,21.87967451415,Caras Severin,Deal,5683,Dealul Nedeii,Geomil 25000,Limba română
-Dealul Nedeia,nedeia,2,45.478766039455,21.8991875831989,Caras Severin,Deal,5686,Dealul Nedeia,Geomil 25000,Limba română
-Vârfu Nedeii,nedeia,2,46.4928655880692,23.05586692403,Cluj,Înălțime,5906,Vârfu Nedeii,Geomil 25000,Limba română
-Pădurea Nedeii,nedeia,2,47.5350629614314,25.742531253437,Suceava,Pădure,6329,Pădurea Nedeii,Geomil 25000,Limba română
-La Nedeia,nedeia,2,46.2396299388711,27.7709990309521,Vaslui,Altele,6557,La Nedeia,PDT,Limba română
-Buza Nedeii,nedeia,2,45.3537751221429,22.555002011993,Caras Severin,Înălțime,8665,Buza Nedeii,Geomil 25000,Limba română
-Nedeia,nedeia,2,46.8493935095911,26.6113667498863,Neamt,Altele,9146,Nedeia,PDT,Limba română
-Piatra Nedeia,nedeia,2,45.1513914719855,22.0361977687106,Caras Severin,Înălțime,9429,Piatra Nedeia,PDT,Limba română
-Dealul Nedeia,nedeia,2,45.9652424029479,27.865045541157,Galati,Deal,9747,Dealul Nedeia,Geomil 25000,Limba română
-Vârful Nedeia Străjii,nedeia,2,47.5403104452911,24.6490592324693,Bistrita Nasaud,Înălțime,9923,Vârful Nedeia Străjii,Geomil 25000,Limba română
-Dealu Nedeia,nedeia,2,45.9352934703956,22.3759182930009,Arad,Deal,10224,Dealu Nedeia,Geomil 25000,Limba română
-Nedeia,nedeia,2,45.301049344895,22.7763640003633,Hunedoara,Înălțime,10334,Nedeia,Geomil 25000,Limba română
-Bâtca Nedeii,nedeia,2,47.3203143028307,25.7435274230609,Suceava,Înălțime,10729,Bâtca Nedeii,Geomil 25000,Limba română,Bâtca Nedeii,Imperiul Habsburgic (1887),Limba română
-Vârfu Nedeii,nedeia,2,45.9740380043658,22.785957358158,Hunedoara,Înălțime,10875,Vârfu Nedeii,Imperiul Habsburgic (1887),Limba română
 La Nedeea,nedeia,2,46.0304368309563,23.3031930610161,Alba,Înălțime,11324,La Nedeea,Geomil 25000,Limba română
-Vârful Nedeii,nedeia,2,47.5308178932904,24.5571855022137,Bistrita Nasaud,Înălțime,11407,Vârful Nedeii,Geomil 25000,Limba română
+Dealu Nedeia,nedeia,2,45.9352934703956,22.3759182930009,Arad,Deal,10224,Dealu Nedeia,Geomil 25000,Limba română
 Valea Nedeii,nedeia,2,46.2027861897577,27.4708756407186,Bacau,Vale,11434,Valea Nedeii,Geomil 25000,Limba română
-Vârfu Nedeii,nedeia,2,47.9803507700438,23.19879885972,Satu Mare,Înălțime,11850,Vârfu Nedeii,Geomil 25000,Limba română
-Nedee,nedeia,2,45.7882587152312,23.0236759455556,Hunedoara,Altele,12863,Nedee,Geomil 25000,Limba română
 Nedeia Țăranului,nedeia,2,47.4780687503657,24.6826434813318,Bistrita Nasaud,Înălțime,13138,Nedeia Țăranului,Geomil 25000,Limba română
-Dealu Nedeiu,nedei,3,45.803160788103,23.6496088885585,Sibiu,Deal,2520,Dealu Nedeiu,Geomil 25000,Limba română
+Vârful Nedeia Străjii,nedeia,2,47.5403104452911,24.6490592324693,Bistrita Nasaud,Înălțime,9923,Vârful Nedeia Străjii,Geomil 25000,Limba română
+Vârful Nedeii,nedeia,2,47.5308178932904,24.5571855022137,Bistrita Nasaud,Înălțime,11407,Vârful Nedeii,Geomil 25000,Limba română
+Buza Nedeii,nedeia,2,45.3537751221429,22.555002011993,Caras Severin,Înălțime,8665,Buza Nedeii,Geomil 25000,Limba română
+Dealul Nedeia,nedeia,2,45.478766039455,21.8991875831989,Caras Severin,Deal,5686,Dealul Nedeia,Geomil 25000,Limba română
+Dealul Nedeii,nedeia,2,45.553890770335,21.87967451415,Caras Severin,Deal,5683,Dealul Nedeii,Geomil 25000,Limba română
+Piatra Nedeia,nedeia,2,45.1513914719855,22.0361977687106,Caras Severin,Înălțime,9429,Piatra Nedeia,PDT,Limba română
+Vârfu Nedeii,nedeia,2,46.4928655880692,23.05586692403,Cluj,Înălțime,5906,Vârfu Nedeii,Geomil 25000,Limba română
+Nedeia,nedeia,2,43.8544351156886,23.7720010596857,Dolj,Localitate,3025,Nedeia,Geomil 25000,Limba română
+Dealul Nedeia,nedeia,2,45.9652424029479,27.865045541157,Galati,Deal,9747,Dealul Nedeia,Geomil 25000,Limba română
 La Nedei,nedei,3,45.3221584822645,23.8418705988198,Gorj,Înălțime,2929,La Nedei,Geomil 25000,Limba română
 Vârfu Nedeilor,nedei,3,45.2354862000767,22.9550852129026,Gorj,Înălțime,11579,Vârfu Nedeilor,Geomil 25000,Limba română
 Dial Nedej,nedei,3,45.5263272726475,23.0217884887153,Hunedoara,Deal,12733,Dial Nedej,Transilvania (1769-1773),Limba română
-Vârfu Nedeiu,nedeiu,3,47.9499662687837,23.3652092235162,Satu Mare,Înălțime,4461,Vârfu Nedeiu,Geomil 25000,Limba română
-Nedeița,nedeiță,3,45.0916684605617,24.0376080349743,Valcea,Înălțime,7425,Nedeița,Geomil 25000,Limba română
+Nedee,nedeia,2,45.7882587152312,23.0236759455556,Hunedoara,Altele,12863,Nedee,Geomil 25000,Limba română
+Nedeia,nedeia,2,45.301049344895,22.7763640003633,Hunedoara,Înălțime,10334,Nedeia,Geomil 25000,Limba română
+Vârfu Nedeii,nedeia,2,45.9740380043658,22.785957358158,Hunedoara,Înălțime,10875,Vârfu Nedeii,Imperiul Habsburgic (1887),Limba română
+Vârful Cornu Nedeii,nedeia,2,47.6474398112314,24.8635528167994,Maramures,Înălțime,4538,Vârful Cornu Nedeii,Geomil 25000,Limba română
+Nedeia,nedeia,2,46.9445896648825,26.662490619068,Neamt,Altele,2048,Nedeia,Geomil 25000,Limba română
+Nedeia,nedeia,2,46.8493935095911,26.6113667498863,Neamt,Altele,9146,Nedeia,PDT,Limba română
 Plaiul Nedelelor,nedele,3,45.0926696168048,25.6755595757927,Prahova,Înălțime,14262,Plaiul Nedelelor,PDT,Limba română
+Vârfu Nedeii,nedeia,2,47.9803507700438,23.19879885972,Satu Mare,Înălțime,11850,Vârfu Nedeii,Geomil 25000,Limba română
+Vârfu Nedeiu,nedeiu,3,47.9499662687837,23.3652092235162,Satu Mare,Înălțime,4461,Vârfu Nedeiu,Geomil 25000,Limba română
+Dealu Nedeiu,nedei,3,45.803160788103,23.6496088885585,Sibiu,Deal,2520,Dealu Nedeiu,Geomil 25000,Limba română
+Bâtca Nedeii,nedeia,2,47.3203143028307,25.7435274230609,Suceava,Înălțime,10729,Bâtca Nedeii,Geomil 25000,Limba română,Bâtca Nedeii,Imperiul Habsburgic (1887),Limba română
+Pădurea Nedeii,nedeia,2,47.5350629614314,25.742531253437,Suceava,Pădure,6329,Pădurea Nedeii,Geomil 25000,Limba română
+Nedeița,nedeiță,3,45.0916684605617,24.0376080349743,Valcea,Înălțime,7425,Nedeița,Geomil 25000,Limba română
+La Nedeia,nedeia,2,46.2396299388711,27.7709990309521,Vaslui,Altele,6557,La Nedeia,PDT,Limba română

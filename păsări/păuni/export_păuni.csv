@@ -1,5 +1,5 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
 Dealul Păunilor,păuni,2,45.0424837881891,25.0516482186291,Arges,Deal,543,Dealul Păunilor,Geomil 25000,Limba română
-Valea Păunului,păuni,2,45.9711682932044,24.7543809587613,Sibiu,Vale,2656,Valea Păunului,Geomil 25000,Limba română
-Culmea La Păuni,păuni,2,44.5183073537795,22.9220705871295,Mehedinti,Înălțime,3146,Culmea La Păuni,Geomil 25000,Limba română
 Valea Păuniței,păuni,2,44.2368375988935,24.0005503597117,Dolj,Vale,7731,Valea Păuniței,PDT,Limba română
+Culmea La Păuni,păuni,2,44.5183073537795,22.9220705871295,Mehedinti,Înălțime,3146,Culmea La Păuni,Geomil 25000,Limba română
+Valea Păunului,păuni,2,45.9711682932044,24.7543809587613,Sibiu,Vale,2656,Valea Păunului,Geomil 25000,Limba română

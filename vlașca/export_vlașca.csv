@@ -1,24 +1,24 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
-Valea Vlașca,vlașca,1,44.3800285020706,23.9832566396696,Olt,Vale,272,Valea Vlașca,Geomil 25000,Limba română
-Dărăști-Vlașca,vlașca,1,44.2933146585859,26.0097468644567,Giurgiu,Localitate,465,Dărăști-Vlașca,Geomil 25000,Limba română
-Vlașca,vlașca,1,44.403457737046,27.854603353566,Ialomita,Înălțime,2831,Vlașca,Geomil 25000,Limba română
-Vlașca,vlașca,1,44.2920251869175,24.0340108792381,Dolj,Localitate,4815,Vlașca,PDT,Limba română
-Valea Vlașca,vlașca,1,44.9719323961455,22.1061895181721,Caras Severin,Vale,5719,Valea Vlașca,Geomil 25000,Limba română,Valea Vlașca,PDT,Limba română
-Vlașca,vlașca,1,44.8601990129867,21.465873368942,Caras Severin,Altele,11493,Vlașca,Geomil 25000,Limba română
-Vlașca,vlașca,1,46.189268178229,26.7414014145831,Bacau,Localitate,12395,Vlașca,Geomil 25000,Limba română
-Valea Vlașcei,vlașca,1,45.1505455472017,26.0086572015592,Prahova,Vale,13841,Valea Vlașcei,Geomil 25000,Limba română
-La Vlășceni,vlășceni,2,44.8069421761149,26.1166009603932,Prahova,Altele,37,La Vlășceni,Geomil 25000,Limba română,ур. Ла-Влэсчени (La Vlăsceni),Sovietică,Limba română,La Vlăscenii,PDT,Limba română
 Vlăsceanca,vlășceni,2,45.123394793744,25.0813321499091,Arges,Altele,545,Vlăsceanca,Geomil 25000,Limba română
-Vârfu Vlașcu Mare,vlașcu,2,45.0867229368761,22.5210180040722,Caras Severin,Înălțime,1221,Vârfu Vlașcu Mare,Geomil 25000,Limba română,Vârfu Vlașcul Mare,PDT,Limba română
-Vlașcu Mic,vlașcu,2,45.0612077124669,22.5166940702429,Caras Severin,Înălțime,1222,Vlașcu Mic,Geomil 25000,Limba română
-La Valah,valah,2,47.5977220558203,25.2653835550016,Suceava,Altele,1855,La Valah,Geomil 25000,Limba română
-Valea Vlașinului,vlașin,2,44.1004447572421,25.8649597990648,Giurgiu,Vale,3170,Valea Vlașinului,PDT,Limba română
-Valea Vlăscianului,vlăscian,2,44.0876947078621,25.8621110901426,Giurgiu,Vale,3173,Valea Vlăscianului,PDT,Limba română
+Valea Vlășcuța,vlășcuță,2,44.611312860195,24.8193712045687,Arges,Vale,11696,Valea Vlășcuța,Geomil 25000,Limba română
+Vlășcuța din Vale,vlășcuță,2,44.5330489758899,24.7756071782476,Arges,Localitate,8335,Vlășcuța din Vale,PDT,Limba română
+Vlașca,vlașca,1,46.189268178229,26.7414014145831,Bacau,Localitate,12395,Vlașca,Geomil 25000,Limba română
+Vlăsinești,vlăsinești,2,47.9343865904607,26.8874399698324,Botosani,Localitate,6673,Vlăsinești,PDT,Limba română,Vlăsinești,Geomil 25000,Limba română
 Vlăsceana,vlăsceană,2,44.2494946178468,27.6777053958981,Calarasi,Apă-deal-câmpie,3211,Vlăsceana,PDT,Limba română
 Vlăsceana,vlăsceană,2,44.2294063492199,27.7132829145572,Calarasi,Altele,12479,Vlăsceana,PDT,Limba română
-Vlăsinești,vlăsinești,2,47.9343865904607,26.8874399698324,Botosani,Localitate,6673,Vlăsinești,PDT,Limba română,Vlăsinești,Geomil 25000,Limba română
-Vlășcuța din Vale,vlășcuță,2,44.5330489758899,24.7756071782476,Arges,Localitate,8335,Vlășcuța din Vale,PDT,Limba română
-Valea Vlășcuța,vlășcuță,2,44.611312860195,24.8193712045687,Arges,Vale,11696,Valea Vlășcuța,Geomil 25000,Limba română
+Valea Vlașca,vlașca,1,44.9719323961455,22.1061895181721,Caras Severin,Vale,5719,Valea Vlașca,Geomil 25000,Limba română,Valea Vlașca,PDT,Limba română
+Vlașca,vlașca,1,44.8601990129867,21.465873368942,Caras Severin,Altele,11493,Vlașca,Geomil 25000,Limba română
+Vârfu Vlașcu Mare,vlașcu,2,45.0867229368761,22.5210180040722,Caras Severin,Înălțime,1221,Vârfu Vlașcu Mare,Geomil 25000,Limba română,Vârfu Vlașcul Mare,PDT,Limba română
+Vlașcu Mic,vlașcu,2,45.0612077124669,22.5166940702429,Caras Severin,Înălțime,1222,Vlașcu Mic,Geomil 25000,Limba română
 Vlăsceni,vlăsceni,2,44.5831869924563,25.6005172760328,Dambovita,Localitate,8477,Vlăsceni,PDT,Limba română,Vlăsceni,Geomil 25000,Limba română,Vlâșeni,Austriacă,Limba română
+Vlașca,vlașca,1,44.2920251869175,24.0340108792381,Dolj,Localitate,4815,Vlașca,PDT,Limba română
+Dărăști-Vlașca,vlașca,1,44.2933146585859,26.0097468644567,Giurgiu,Localitate,465,Dărăști-Vlașca,Geomil 25000,Limba română
+Valea Vlăscianului,vlăscian,2,44.0876947078621,25.8621110901426,Giurgiu,Vale,3173,Valea Vlăscianului,PDT,Limba română
+Valea Vlașinului,vlașin,2,44.1004447572421,25.8649597990648,Giurgiu,Vale,3170,Valea Vlașinului,PDT,Limba română
+Vlașca,vlașca,1,44.403457737046,27.854603353566,Ialomita,Înălțime,2831,Vlașca,Geomil 25000,Limba română
 Pădurea Vlăsia,vlăsia,2,44.6807388720862,26.1922682499401,Ilfov,Pădure,8781,Pădurea Vlăsia,Geomil 25000,Limba română
+Valea Vlașca,vlașca,1,44.3800285020706,23.9832566396696,Olt,Vale,272,Valea Vlașca,Geomil 25000,Limba română
+Valea Vlașcei,vlașca,1,45.1505455472017,26.0086572015592,Prahova,Vale,13841,Valea Vlașcei,Geomil 25000,Limba română
+La Vlășceni,vlășceni,2,44.8069421761149,26.1166009603932,Prahova,Altele,37,La Vlășceni,Geomil 25000,Limba română,ур. Ла-Влэсчени (La Vlăsceni),Sovietică,Limba română,La Vlăscenii,PDT,Limba română
+La Valah,valah,2,47.5977220558203,25.2653835550016,Suceava,Altele,1855,La Valah,Geomil 25000,Limba română
 Dealul Vlascei,vlasca,2,45.73236187283,26.7028027912194,Vrancea,Deal,9225,Dealul Vlascei,PDT,Limba română

@@ -1,29 +1,29 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
-Dealu Păcură,păcură,2,44.3074384803537,24.4187257131683,Olt,Deal,1289,Dealu Păcură,Geomil 25000,Limba română
-Valea Păcurii,păcură,2,45.0350384582714,25.4609741803218,Dambovita,Vale,1532,Valea Păcurii,Geomil 25000,Limba română
-Valea Păcurei,păcură,2,45.0153293191707,25.6063886221792,Dambovita,Vale,1539,Valea Păcurei,Geomil 25000,Limba română
+Dealul Păcurii,păcură,2,46.35762091886,26.698193023877,Bacau,Deal,4581,Dealul Păcurii,Geomil 25000,Limba română
+Dealul Păcurii,păcură,2,46.1883917801006,26.4960940539989,Bacau,Deal,7924,Dealul Păcurii,PDT,Limba română
+Lacul Păcurile,păcură,2,46.2940004238882,26.5818095344698,Bacau,Lac,5324,Lacul Păcurile,PDT,Limba română
+Pârâul Păcurei,păcură,2,46.4376342767164,26.4870743006623,Bacau,Vale,7937,Pârâul Păcurei,PDT,Limba română
+Păcurița,păcuriță,3,46.2791053536623,26.5036483884627,Bacau,Vale,12940,Păcurița,Geomil 25000,Limba română
+Păcură,păcură,2,45.3634682537676,26.380525092868,Buzau,Localitate,8771,Păcură,PDT,Limba română
+Păcurile,păcură,2,45.4151141627304,26.6180597857199,Buzau,Localitate,12727,Păcurile,Geomil 25000,Limba română
 Pârâul Păcura,păcură,2,45.3693303228282,26.2106394306512,Buzau,Vale,2816,Pârâul Păcura,Geomil 25000,Limba română
 Valea Păcura,păcură,2,45.1545524801538,26.6364586243086,Buzau,Vale,3963,Valea Păcura,Geomil 25000,Limba română
-Dealul Păcurii,păcură,2,46.35762091886,26.698193023877,Bacau,Deal,4581,Dealul Păcurii,Geomil 25000,Limba română
-Valea Păcurei,păcură,2,45.9787947516681,26.7321826994572,Vrancea,Vale,5270,Valea Păcurei,Geomil 25000,Limba română
-Lacul Păcurile,păcură,2,46.2940004238882,26.5818095344698,Bacau,Lac,5324,Lacul Păcurile,PDT,Limba română
-Valea Păcurii,păcură,2,47.6250497393379,24.4245256318818,Maramures,Vale,7149,Valea Păcurii,Geomil 25000,Limba română
-Plaiul Păcurei,păcură,2,45.0243288937753,25.6016319885764,Dambovita,Înălțime,7462,Plaiul Păcurei,Geomil 25000,Limba română
-Păcurile,păcură,2,45.1913737364295,26.1577019556925,Prahova,Înălțime,7482,Păcurile,Geomil 25000,Limba română
-Dealul Păcurii,păcură,2,46.1883917801006,26.4960940539989,Bacau,Deal,7924,Dealul Păcurii,PDT,Limba română
-Pârâul Păcurei,păcură,2,46.4376342767164,26.4870743006623,Bacau,Vale,7937,Pârâul Păcurei,PDT,Limba română
-Băile de Păcura,păcură,2,47.6585784577767,24.3041193438693,Maramures,Altele,8256,Băile de Păcura,PDT,Limba română
-Păcură,păcură,2,45.3634682537676,26.380525092868,Buzau,Localitate,8771,Păcură,PDT,Limba română
 Mină de păcură,păcură,2,44.9674535393683,25.6026597362957,Dambovita,Altele,8805,Mină de păcură,PDT,Limba română
+Plaiul Păcurei,păcură,2,45.0243288937753,25.6016319885764,Dambovita,Înălțime,7462,Plaiul Păcurei,Geomil 25000,Limba română
 Puț de păcură,păcură,2,44.9830172356685,25.6216445679176,Dambovita,Altele,8808,Puț de păcură,PDT,Limba română
+Valea Păcurei,păcură,2,45.0153293191707,25.6063886221792,Dambovita,Vale,1539,Valea Păcurei,Geomil 25000,Limba română
 Valea Păcurei,păcură,2,45.1022958072875,25.5696913800041,Dambovita,Vale,8815,Valea Păcurei,PDT,Limba română
-Valea Păcuri,păcură,2,45.6901531484444,26.8413116474594,Vrancea,Vale,9241,Valea Păcuri,PDT,Limba română
+Valea Păcurii,păcură,2,45.0350384582714,25.4609741803218,Dambovita,Vale,1532,Valea Păcurii,Geomil 25000,Limba română
+Băile de Păcura,păcură,2,47.6585784577767,24.3041193438693,Maramures,Altele,8256,Băile de Păcura,PDT,Limba română
+Valea Păcurii,păcură,2,47.6250497393379,24.4245256318818,Maramures,Vale,7149,Valea Păcurii,Geomil 25000,Limba română
+La Păcuri,păcuri,3,46.6839616732062,26.3424680954859,Neamt,Altele,14098,La Păcuri,PDT,Limba română
+Dealu Păcură,păcură,2,44.3074384803537,24.4187257131683,Olt,Deal,1289,Dealu Păcură,Geomil 25000,Limba română
+Păcurile,păcură,2,45.1913737364295,26.1577019556925,Prahova,Înălțime,7482,Păcurile,Geomil 25000,Limba română
 Valea Păcurei,păcură,2,45.1316198579316,26.2391828606652,Prahova,Vale,12450,Valea Păcurei,Geomil 25000,Limba română
 Valea Păcurei,păcură,2,45.1341215431937,26.194334178555,Prahova,Vale,12456,Valea Păcurei,PDT,Limba română
-Păcurile,păcură,2,45.4151141627304,26.6180597857199,Buzau,Localitate,12727,Păcurile,Geomil 25000,Limba română
-Pârâul Păcurei,păcură,2,45.6167061268346,26.7776132171529,Vrancea,Vale,12948,Pârâul Păcurei,Geomil 25000,Limba română
-Păcura,păcură,2,46.0606440588275,26.7572602140233,Vrancea,Vale,13333,Păcura,Geomil 25000,Limba română
 Valea Păcurei,păcură,2,45.0926918508431,25.6924425578267,Prahova,Vale,14263,Valea Păcurei,PDT,Limba română
 Păcureți,păcureți,3,45.1451028430853,26.129571430383,Prahova,Localitate,12603,Păcureți,Geomil 25000,Limba română
-Păcurița,păcuriță,3,46.2791053536623,26.5036483884627,Bacau,Vale,12940,Păcurița,Geomil 25000,Limba română
-La Păcuri,păcuri,3,46.6839616732062,26.3424680954859,Neamt,Altele,14098,La Păcuri,PDT,Limba română
+Păcura,păcură,2,46.0606440588275,26.7572602140233,Vrancea,Vale,13333,Păcura,Geomil 25000,Limba română
+Pârâul Păcurei,păcură,2,45.6167061268346,26.7776132171529,Vrancea,Vale,12948,Pârâul Păcurei,Geomil 25000,Limba română
+Valea Păcurei,păcură,2,45.9787947516681,26.7321826994572,Vrancea,Vale,5270,Valea Păcurei,Geomil 25000,Limba română
+Valea Păcuri,păcură,2,45.6901531484444,26.8413116474594,Vrancea,Vale,9241,Valea Păcuri,PDT,Limba română

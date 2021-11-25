@@ -1,49 +1,49 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Juden Wiese (Lunca Evreilor),evrei,2,45.3538795751832,21.4186948982295,Timis,Apă-deal-câmpie,11689,Juden Wiese (Lunca Evreilor),PDT,Limba germană
-Tufa Ovreiului,ovreu,3,44.804509716083,26.1331116755034,Prahova,Altele,38,Tufa Ovreiului,PDT,Limba română
-Valea Crângul Ovreiului,ovreu,3,44.1253985919577,25.9464046805491,Giurgiu,Vale,3167,Valea Crângul Ovreiului,PDT,Limba română
-Puțul Ovreiului,ovreu,3,44.3193921933702,27.3610159135154,Calarasi,Altele,3303,Puțul Ovreiului,PDT,Limba română
-Movila Ovreiului,ovreu,3,45.1614671203111,27.1035923861057,Braila,Înălțime,3586,Movila Ovreiului,PDT,Limba română,Movile Evreului,Geomil 25000,Limba română
-Măgura Ovreilor,ovreu,3,43.975655449301,22.9397424760401,Dolj,Înălțime,3647,Măgura Ovreilor,Austriacă,Limba română
-Măgura Ovreiului,ovreu,3,44.1033957705903,23.1437824876206,Dolj,Înălțime,3651,mâg. Ovreiului,Austriacă,Limba română,Măgura Ovreiului,PDT,Limba română
-La lacul Ovreiului,ovreu,3,44.2646273177992,25.40696928656,Teleorman,Lac,3723,La lacul Ovreiului,PDT,Limba română
-Cumea Jidanului,jidan,3,46.8714688634011,25.8018544925282,Neamt,Înălțime,1889,Cumea Jidanului,Geomil 25000,Limba română,Muntele Jidanului,PDT,Limba română
-Dealul Jidanului,jidan,3,47.8913109257079,26.624949731881,Botosani,Deal,2338,Dealul Jidanului,Geomil 25000,Limba română
-Valea Jidanului,jidan,3,47.8699835025895,26.5325708542284,Botosani,Vale,2349,Valea Jidanului,Geomil 25000,Limba română
-Dealul Jidanului,jidan,3,47.4086030710615,27.0713237389299,Iasi,Deal,2441,Dealul Jidanului,Geomil 25000,Limba română
-Lanu Jidanului,jidan,3,47.4250617158005,27.3049863797244,Iasi,Altele,4865,Lanu Jidanului,PDT,Limba română
-Pârâu Jidanului,jidan,3,45.2649778784626,22.9019647605838,Gorj,Vale,5128,Pârâu Jidanului,Geomil 25000,Limba română
-Pârâu lui Jidanu,jidan,3,45.3842842325364,22.4185498932307,Caras Severin,Vale,6094,Pârâu lui Jidanu,Geomil 25000,Limba română
-Poiana la Stâna Jidanului,jidan,3,47.3454042312113,25.5443806792764,Suceava,Poiană,6391,Poiana la Stâna Jidanului,PDT,Limba română
-Piciorul Jidanului,jidan,3,47.1665365475901,25.6144446599083,Suceava,Înălțime,6449,Piciorul Jidanului,PDT,Limba română
-Hârtopul Jidanului,jidan,3,47.3513966047712,27.1753377771487,Iasi,Înălțime,6640,Hârtopul Jidanului,PDT,Limba română
-Movila Jidanului,jidan,3,44.9313525819585,28.2029782845756,Tulcea,Înălțime,6706,Movila Jidanului,PDT,Limba română
-Valea Jidanului,jidan,3,46.9466400745819,25.8367124957262,Harghita,Vale,7139,Valea Jidanului,PDT,Limba română
-Cârșia Jidanului,jidan,3,44.9464882785615,21.8056872620301,Caras Severin,Altele,8536,Cârșia Jidanului,PDT,Limba română
-Movila Jidanului,jidan,3,45.3158912383289,27.170905626115,Buzau,Înălțime,8722,Movila Jidanului,PDT,Limba română
-Pârâul Jidanului,jidan,3,47.0358314512005,25.8997110003099,Neamt,Vale,9108,Pârâul Jidanului,PDT,Limba română
-Valea Bordeiu Jidanului,jidan,3,47.4600099899806,26.7768800273909,Iasi,Vale,9561,Valea Bordeiu Jidanului,Moldova (1892-1898),Limba română
-Movila Jidanului,jidan,3,47.8920733123524,26.4996785189638,Botosani,Înălțime,9581,Movila Jidanului,Moldova (1892-1898),Limba română
-Pârâul Jidanului,jidan,3,47.2040744717097,25.2544917142269,Suceava,Vale,9941,Pârâul Jidanului,Moldova (1892-1898),Limba română
-La Buda Jidanului,jidan,3,46.1807338689874,26.768629148228,Bacau,Altele,11304,La Buda Jidanului,Geomil 25000,Limba română
-Gârla Jidanului,jidan,3,45.3289577340604,29.3160387507959,Tulcea,Apă-deal-câmpie,12640,Gârla Jidanului,British Maps (1944),Limba română
-Valea Jidovului,jidov,3,46.1241936924025,26.9701884641678,Bacau,Vale,5305,Valea Jidovului,PDT,Limba română,Valea Jidovului,Geomil 25000,Limba română
-Plaiul Jidovu,jidov,3,45.1278001500078,25.2561463491165,Dambovita,Înălțime,8825,Plaiul Jidovu,PDT,Limba română
-Jidovul,jidov,3,47.4568134647668,25.0180667703827,Bistrita Nasaud,Vale,12893,Jidovul,Geomil 25000,Limba română
-La Cimitirul Evreiesc,evreiesc,3,46.8132779000068,28.1146086211781,Vaslui,Altele,1698,La Cimitirul Evreiesc,Geomil 25000,Limba română
-La Cimitirul Evreiesc,evreiesc,3,47.9691904136818,26.8603005743015,Botosani,Altele,1815,La Cimitirul Evreiesc,Geomil 25000,Limba română
-Cimitirul Evreesc,evreiesc,3,45.7173869290288,27.2090482266956,Vrancea,Altele,3550,Cimitirul Evreesc,PDT,Limba română
-Cimitirul Israelit,israelit,3,44.1227748569658,24.3300536303277,Olt,Altele,3042,Cimitirul Israelit,PDT,Limba română
-Cimitirul Israelit,israelit,3,45.393632628953,27.0505396792161,Buzau,Altele,8742,Cimitirul Israelit,PDT,Limba română
-Kașeria Ovreiki,ovreică,4,45.3266446709342,27.797217467464,Braila,Altele,3609,Kașeria Ovreiki,Austriacă,Limba română
-Poiana Jidoafcei,jidoafcă,4,47.2343394458284,25.6894179341872,Suceava,Poiană,6401,Poiana Jidoafcei,PDT,Limba română
-Valea Jidovoaie,jidovoaie,4,47.7010333282902,23.6523640429366,Maramures,Vale,7216,Valea Jidovoaie,PDT,Limba română
-Vârful Jidului,jid,4,45.5221296164043,23.9165501721112,Valcea,Înălțime,7414,Vârful Jidului,Geomil 25000,Limba română
-Lacul Ovreilor,ovrei,4,44.217415158979,23.6984213067406,Dolj,Lac,7721,Lacul Ovreilor,PDT,Limba română
-Fântâna Ovreiului,ovrei,4,44.1623741058514,23.4525824514119,Dolj,Altele,8097,Fântâna Ovreiului,PDT,Limba română
-Movila Ovreiului,ovrei,4,44.8842632762858,26.9491811953884,Buzau,Înălțime,8730,Movila Ovreiului,PDT,Limba română
-Movila Ovrei,ovrei,4,44.6275650669765,27.1149894754177,Ialomita,Înălțime,9325,Movila Ovrei,Austriacă,Limba română
 Culmea Ovreiului,ovrei,4,45.3986714826996,25.026989729963,Arges,Înălțime,12276,Culmea Ovreiului,Geomil 25000,Limba română
 Valea Ovreiului,ovrei,4,45.1143316421327,24.8900539308228,Arges,Vale,13980,Valea Ovreiului,PDT,Limba română
-Jidești,jidești,5,46.9031352863592,26.5780831396091,Neamt,Localitate,9624,Jidești,Moldova (1892-1898),Limba română
+La Buda Jidanului,jidan,3,46.1807338689874,26.768629148228,Bacau,Altele,11304,La Buda Jidanului,Geomil 25000,Limba română
+Valea Jidovului,jidov,3,46.1241936924025,26.9701884641678,Bacau,Vale,5305,Valea Jidovului,PDT,Limba română,Valea Jidovului,Geomil 25000,Limba română
+Jidovul,jidov,3,47.4568134647668,25.0180667703827,Bistrita Nasaud,Vale,12893,Jidovul,Geomil 25000,Limba română
+La Cimitirul Evreiesc,evreiesc,3,47.9691904136818,26.8603005743015,Botosani,Altele,1815,La Cimitirul Evreiesc,Geomil 25000,Limba română
+Dealul Jidanului,jidan,3,47.8913109257079,26.624949731881,Botosani,Deal,2338,Dealul Jidanului,Geomil 25000,Limba română
+Movila Jidanului,jidan,3,47.8920733123524,26.4996785189638,Botosani,Înălțime,9581,Movila Jidanului,Moldova (1892-1898),Limba română
+Valea Jidanului,jidan,3,47.8699835025895,26.5325708542284,Botosani,Vale,2349,Valea Jidanului,Geomil 25000,Limba română
+Kașeria Ovreiki,ovreică,4,45.3266446709342,27.797217467464,Braila,Altele,3609,Kașeria Ovreiki,Austriacă,Limba română
+Movila Ovreiului,ovreu,3,45.1614671203111,27.1035923861057,Braila,Înălțime,3586,Movila Ovreiului,PDT,Limba română,Movile Evreului,Geomil 25000,Limba română
+Cimitirul Israelit,israelit,3,45.393632628953,27.0505396792161,Buzau,Altele,8742,Cimitirul Israelit,PDT,Limba română
+Movila Jidanului,jidan,3,45.3158912383289,27.170905626115,Buzau,Înălțime,8722,Movila Jidanului,PDT,Limba română
+Movila Ovreiului,ovrei,4,44.8842632762858,26.9491811953884,Buzau,Înălțime,8730,Movila Ovreiului,PDT,Limba română
+Puțul Ovreiului,ovreu,3,44.3193921933702,27.3610159135154,Calarasi,Altele,3303,Puțul Ovreiului,PDT,Limba română
+Cârșia Jidanului,jidan,3,44.9464882785615,21.8056872620301,Caras Severin,Altele,8536,Cârșia Jidanului,PDT,Limba română
+Pârâu lui Jidanu,jidan,3,45.3842842325364,22.4185498932307,Caras Severin,Vale,6094,Pârâu lui Jidanu,Geomil 25000,Limba română
+Plaiul Jidovu,jidov,3,45.1278001500078,25.2561463491165,Dambovita,Înălțime,8825,Plaiul Jidovu,PDT,Limba română
+Fântâna Ovreiului,ovrei,4,44.1623741058514,23.4525824514119,Dolj,Altele,8097,Fântâna Ovreiului,PDT,Limba română
+Lacul Ovreilor,ovrei,4,44.217415158979,23.6984213067406,Dolj,Lac,7721,Lacul Ovreilor,PDT,Limba română
+Măgura Ovreilor,ovreu,3,43.975655449301,22.9397424760401,Dolj,Înălțime,3647,Măgura Ovreilor,Austriacă,Limba română
+Măgura Ovreiului,ovreu,3,44.1033957705903,23.1437824876206,Dolj,Înălțime,3651,mâg. Ovreiului,Austriacă,Limba română,Măgura Ovreiului,PDT,Limba română
+Valea Crângul Ovreiului,ovreu,3,44.1253985919577,25.9464046805491,Giurgiu,Vale,3167,Valea Crângul Ovreiului,PDT,Limba română
+Pârâu Jidanului,jidan,3,45.2649778784626,22.9019647605838,Gorj,Vale,5128,Pârâu Jidanului,Geomil 25000,Limba română
+Valea Jidanului,jidan,3,46.9466400745819,25.8367124957262,Harghita,Vale,7139,Valea Jidanului,PDT,Limba română
+Movila Ovrei,ovrei,4,44.6275650669765,27.1149894754177,Ialomita,Înălțime,9325,Movila Ovrei,Austriacă,Limba română
+Dealul Jidanului,jidan,3,47.4086030710615,27.0713237389299,Iasi,Deal,2441,Dealul Jidanului,Geomil 25000,Limba română
+Hârtopul Jidanului,jidan,3,47.3513966047712,27.1753377771487,Iasi,Înălțime,6640,Hârtopul Jidanului,PDT,Limba română
+Lanu Jidanului,jidan,3,47.4250617158005,27.3049863797244,Iasi,Altele,4865,Lanu Jidanului,PDT,Limba română
+Valea Bordeiu Jidanului,jidan,3,47.4600099899806,26.7768800273909,Iasi,Vale,9561,Valea Bordeiu Jidanului,Moldova (1892-1898),Limba română
+Valea Jidovoaie,jidovoaie,4,47.7010333282902,23.6523640429366,Maramures,Vale,7216,Valea Jidovoaie,PDT,Limba română
 Stânca Judeilor,judei,3,47.9371926450669,24.0854348850094,Maramures,Înălțime,12039,Stânca Judeilor,PDT,Limba română
+Cumea Jidanului,jidan,3,46.8714688634011,25.8018544925282,Neamt,Înălțime,1889,Cumea Jidanului,Geomil 25000,Limba română,Muntele Jidanului,PDT,Limba română
+Pârâul Jidanului,jidan,3,47.0358314512005,25.8997110003099,Neamt,Vale,9108,Pârâul Jidanului,PDT,Limba română
+Jidești,jidești,5,46.9031352863592,26.5780831396091,Neamt,Localitate,9624,Jidești,Moldova (1892-1898),Limba română
+Cimitirul Israelit,israelit,3,44.1227748569658,24.3300536303277,Olt,Altele,3042,Cimitirul Israelit,PDT,Limba română
+Tufa Ovreiului,ovreu,3,44.804509716083,26.1331116755034,Prahova,Altele,38,Tufa Ovreiului,PDT,Limba română
+Pârâul Jidanului,jidan,3,47.2040744717097,25.2544917142269,Suceava,Vale,9941,Pârâul Jidanului,Moldova (1892-1898),Limba română
+Piciorul Jidanului,jidan,3,47.1665365475901,25.6144446599083,Suceava,Înălțime,6449,Piciorul Jidanului,PDT,Limba română
+Poiana la Stâna Jidanului,jidan,3,47.3454042312113,25.5443806792764,Suceava,Poiană,6391,Poiana la Stâna Jidanului,PDT,Limba română
+Poiana Jidoafcei,jidoafcă,4,47.2343394458284,25.6894179341872,Suceava,Poiană,6401,Poiana Jidoafcei,PDT,Limba română
+La lacul Ovreiului,ovreu,3,44.2646273177992,25.40696928656,Teleorman,Lac,3723,La lacul Ovreiului,PDT,Limba română
+Juden Wiese (Lunca Evreilor),evrei,2,45.3538795751832,21.4186948982295,Timis,Apă-deal-câmpie,11689,Juden Wiese (Lunca Evreilor),PDT,Limba germană
+Gârla Jidanului,jidan,3,45.3289577340604,29.3160387507959,Tulcea,Apă-deal-câmpie,12640,Gârla Jidanului,British Maps (1944),Limba română
+Movila Jidanului,jidan,3,44.9313525819585,28.2029782845756,Tulcea,Înălțime,6706,Movila Jidanului,PDT,Limba română
+Vârful Jidului,jid,4,45.5221296164043,23.9165501721112,Valcea,Înălțime,7414,Vârful Jidului,Geomil 25000,Limba română
+La Cimitirul Evreiesc,evreiesc,3,46.8132779000068,28.1146086211781,Vaslui,Altele,1698,La Cimitirul Evreiesc,Geomil 25000,Limba română
+Cimitirul Evreesc,evreiesc,3,45.7173869290288,27.2090482266956,Vrancea,Altele,3550,Cimitirul Evreesc,PDT,Limba română

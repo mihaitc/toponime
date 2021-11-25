@@ -1,52 +1,52 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3,Nume 4,Hartă 4,Limbă 4
-Grădiștea,grădiște,2,44.8883446415209,26.5121328382631,Prahova,Localitate,60,Grădiștea,Geomil 25000,Limba română,Gradiștea,Austriacă,Limba română,Grădiștea,PDT,Limba română,Грэдиштя (Grădiștea),Sovietică,Limba română
-Dealul Grădiștei,grădiște,2,44.4635783806682,23.2389555736685,Dolj,Vale,120,Dealul Grădiștei,PDT,Limba română,Dealul Grădiștii,Geomil 25000,Limba română,ур. Грэдиштей (dealul Grădiștei),Sovietică,Limba română
-Dealu Grădiștea,grădiște,2,44.8722142821563,23.8020688846147,Valcea,Deal,249,Dealu Grădiștea,Geomil 25000,Limba română
-Dealu Grădiștea,grădiște,2,44.4565057352266,24.2496434978111,Olt,Deal,281,Dealu Grădiștea,Geomil 25000,Limba română,Dealul Grădiștea,PDT,Limba română
-Grădiștea,grădiște,2,44.2326723379514,26.1457182568403,Giurgiu,Înălțime,466,Grădiștea,Geomil 25000,Limba română
-Movila Grădiștea,grădiște,2,44.2425348833339,27.2279241334509,Calarasi,Înălțime,469,Movila Grădiștea,Geomil 25000,Limba română
-Grădiștea Ceacu,grădiște,2,44.176324312104,27.2137614511945,Calarasi,Înălțime,471,Grădiștea Ceacu,Geomil 25000,Limba română
-Grădiștea Călărași,grădiște,2,44.1692506198359,27.2993656442342,Calarasi,Înălțime,472,Grădiștea Călărași,Geomil 25000,Limba română
-Grădiștea Mică,grădiște,2,44.1829605761603,27.4834540781102,Calarasi,Înălțime,474,Grădiștea Mică,Geomil 25000,Limba română
-La Grădiște,grădiște,2,44.7960483793666,27.7397125256838,Braila,Altele,486,La Grădiște,Geomil 25000,Limba română
-Grădiștea Scurta,grădiște,2,45.2387649127901,28.0613107649638,Braila,Înălțime,492,Grădiștea Scurta,Geomil 25000,Limba română
-Pădurea Pechea Grădiștea,grădiște,2,45.183832703181,25.0294874099906,Arges,Pădure,560,Pădurea Pechea Grădiștea,Geomil 25000,Limba română
-Dealul Grădiștea,grădiște,2,45.1303284971375,26.0972164884926,Prahova,Deal,822,Dealul Grădiștea,Geomil 25000,Limba română
 Grădiște,grădiște,2,46.218334188336,21.3332792828709,Arad,Înălțime,1097,Grădiște,Geomil 25000,Limba română
-Grădiște,grădiște,2,45.2218388896863,22.132592145749,Caras Severin,Înălțime,1231,Grădiște,Geomil 25000,Limba română,Kraku Grâdiște,Ungară 1869,Limba română
-La Gârla Grădiștei,grădiște,2,43.712849685904,24.3655597026256,Olt,Apă-deal-câmpie,1269,La Gârla Grădiștei,Geomil 25000,Limba română,Gârla Grădiștea,PDT,Limba română
-La Grădiște,grădiște,2,44.0853075632261,26.7126404710994,Calarasi,Înălțime,1312,La Grădiște,Geomil 25000,Limba română,La Grădiște,PDT,Limba română
-Grădiștea,grădiște,2,44.6549862710305,26.2979876599265,Ilfov,Înălțime,1320,Grădiștea,Geomil 25000,Limba română
+Grădiștea,grădiște,2,46.2033278304659,21.319305402793,Arad,Localitate,5637,Grădiștea,PDT,Limba română
+Valea Grădiștei,grădiște,2,46.3516921469426,21.9913091071428,Arad,Vale,12518,Valea Grădiștei,Geomil 25000,Limba română
+Grădiștea,grădiște,2,44.7687730081576,24.6495113579394,Arges,Înălțime,9355,Grădiștea,PDT,Limba română
+Grădiștea,grădiște,2,44.7703249111309,24.7973412097314,Arges,Localitate,14185,Grădiștea,PDT,Limba română
+Pădurea Pechea Grădiștea,grădiște,2,45.183832703181,25.0294874099906,Arges,Pădure,560,Pădurea Pechea Grădiștea,Geomil 25000,Limba română
+Valea Grădiștea,grădiște,2,44.8138379341911,24.7579975191749,Arges,Vale,14186,Valea Grădiștea,PDT,Limba română
+Grădiștea,grădiște,2,45.2663986422565,27.3921992915891,Braila,Localitate,8720,Grădiștea,Geomil 25000,Limba română
+Grădiștea Scurta,grădiște,2,45.2387649127901,28.0613107649638,Braila,Înălțime,492,Grădiștea Scurta,Geomil 25000,Limba română
+La Grădiște,grădiște,2,44.7960483793666,27.7397125256838,Braila,Altele,486,La Grădiște,Geomil 25000,Limba română
+Grădiștea,grădiște,2,45.6173735239128,25.4430389747237,Brasov,Altele,6841,Grădiștea,PDT,Limba română
+Grădiștea,grădiște,2,45.4495110522774,25.2870658395288,Brasov,Altele,9800,Grădiștea,PDT,Limba română
+Grădișeta Roseți,grădiște,2,44.1777254284714,27.4309245625525,Calarasi,Înălțime,3301,Grădișeta Roseți,Geomil 25000,Limba română
 Grădiștea,grădiște,2,44.1762610135192,27.1688758655051,Calarasi,Înălțime,3229,Grădiștea,Geomil 25000,Limba română
-La Grădiște,grădiște,2,44.2757106921063,26.8964381220533,Calarasi,Altele,3250,La Grădiște,PDT,Limba română,Insula Grădiște,Geomil 25000,Limba română
-La Grădiște,grădiște,2,44.2724772768328,26.869137422265,Calarasi,Altele,3251,La Grădiște,Geomil 25000,Limba română,La Grădiște,PDT,Limba română
-Movila Grădiștea,grădiște,2,44.1868663378775,27.0032114518317,Calarasi,Înălțime,3254,Movila Grădiștea,PDT,Limba română
-Grădiștea Mare,grădiște,2,44.181394873772,26.9123790683153,Calarasi,Altele,3260,Grădiștea Mare,PDT,Limba română
-Grădiștea Mică,grădiște,2,44.1727777556136,26.9135136895918,Calarasi,Altele,3261,Grădiștea Mică,PDT,Limba română
-Movila Fundu Grădiștea,grădiște,2,44.1542793744075,26.884324002041,Calarasi,Înălțime,3263,Movila Fundu Grădiștea,Geomil 25000,Limba română
+Grădiștea Călărași,grădiște,2,44.1692506198359,27.2993656442342,Calarasi,Înălțime,472,Grădiștea Călărași,Geomil 25000,Limba română
+Grădiștea Ceacu,grădiște,2,44.176324312104,27.2137614511945,Calarasi,Înălțime,471,Grădiștea Ceacu,Geomil 25000,Limba română
 Grădiștea Coslogeni,grădiște,2,44.1889759485026,27.5031227539156,Calarasi,Înălțime,3295,Grădiștea Coslogeni,PDT,Limba română
 Grădiștea lui Ilie,grădiște,2,44.1918137816116,27.5181011983302,Calarasi,Înălțime,3296,Grădiștea lui Ilie,PDT,Limba română
-Grădișeta Roseți,grădiște,2,44.1777254284714,27.4309245625525,Calarasi,Înălțime,3301,Grădișeta Roseți,Geomil 25000,Limba română
+Grădiștea Mare,grădiște,2,44.181394873772,26.9123790683153,Calarasi,Altele,3260,Grădiștea Mare,PDT,Limba română
+Grădiștea Mică,grădiște,2,44.1829605761603,27.4834540781102,Calarasi,Înălțime,474,Grădiștea Mică,Geomil 25000,Limba română
+Grădiștea Mică,grădiște,2,44.1727777556136,26.9135136895918,Calarasi,Altele,3261,Grădiștea Mică,PDT,Limba română
+Grădiștioara,grădiște,2,44.3355790223141,27.8003263719286,Calarasi,Apă-deal-câmpie,3453,Grădiștioara,PDT,Limba română
+La Grădiște,grădiște,2,44.0853075632261,26.7126404710994,Calarasi,Înălțime,1312,La Grădiște,Geomil 25000,Limba română,La Grădiște,PDT,Limba română
+La Grădiște,grădiște,2,44.2757106921063,26.8964381220533,Calarasi,Altele,3250,La Grădiște,PDT,Limba română,Insula Grădiște,Geomil 25000,Limba română
+La Grădiște,grădiște,2,44.2724772768328,26.869137422265,Calarasi,Altele,3251,La Grădiște,Geomil 25000,Limba română,La Grădiște,PDT,Limba română
+Movila Fundu Grădiștea,grădiște,2,44.1542793744075,26.884324002041,Calarasi,Înălțime,3263,Movila Fundu Grădiștea,Geomil 25000,Limba română
+Movila Grădiștea,grădiște,2,44.2425348833339,27.2279241334509,Calarasi,Înălțime,469,Movila Grădiștea,Geomil 25000,Limba română
+Movila Grădiștea,grădiște,2,44.1868663378775,27.0032114518317,Calarasi,Înălțime,3254,Movila Grădiștea,PDT,Limba română
+Movila Grădiștea,grădiște,2,44.4959789742871,26.4439354461993,Calarasi,Înălțime,3624,Movila Grădiștea,PDT,Limba română,Movila Grădiște,Geomil 25000,Limba română
+Grădiște,grădiște,2,45.2218388896863,22.132592145749,Caras Severin,Înălțime,1231,Grădiște,Geomil 25000,Limba română,Kraku Grâdiște,Ungară 1869,Limba română
+Balta Grădiștea,grădiște,2,44.1737816228018,23.8584348791454,Dolj,Apă-deal-câmpie,7697,Balta Grădiștea,PDT,Limba română
+Dealul Grădiștei,grădiște,2,44.4635783806682,23.2389555736685,Dolj,Vale,120,Dealul Grădiștei,PDT,Limba română,Dealul Grădiștii,Geomil 25000,Limba română,ур. Грэдиштей (dealul Grădiștei),Sovietică,Limba română
+Grădiștea,grădiște,2,44.2326723379514,26.1457182568403,Giurgiu,Înălțime,466,Grădiștea,Geomil 25000,Limba română
+Grediștor,grădiște,2,43.7360269925292,25.7752505206719,Giurgiu,Altele,5739,Grediștor,Austriacă,Limba română
+Movila Grădiștea,grădiște,2,43.7274825217117,25.5954668233614,Giurgiu,Înălțime,3784,Movila Grădiștea,PDT,Limba română
+Valea Grădiștea Mare,grădiște,2,44.8568980091464,22.9297019531273,Gorj,Vale,3680,Valea Grădiștea Mare,PDT,Limba română
+Grădiște,grădiște,2,45.5951446874582,22.9496474555275,Hunedoara,Altele,5549,Grădiște,Geomil 25000,Limba română
 Grădiștea de lângă gârlă,grădiște,2,44.4007994709013,27.9169921898573,Ialomita,Înălțime,3449,Grădiștea de lângă gârlă,PDT,Limba română
 Grădiștea Stoicii,grădiște,2,44.3861253545813,27.9248469535724,Ialomita,Înălțime,3450,Grădiștea Stoicii,Geomil 25000,Limba română,Grindul Grădiștei,PDT,Limba română
-Grădiștioara,grădiște,2,44.3355790223141,27.8003263719286,Calarasi,Apă-deal-câmpie,3453,Grădiștioara,PDT,Limba română
-Movila Grădiștea,grădiște,2,44.4959789742871,26.4439354461993,Calarasi,Înălțime,3624,Movila Grădiștea,PDT,Limba română,Movila Grădiște,Geomil 25000,Limba română
-Valea Grădiștea Mare,grădiște,2,44.8568980091464,22.9297019531273,Gorj,Vale,3680,Valea Grădiștea Mare,PDT,Limba română
-Movila Grădiștea,grădiște,2,43.7274825217117,25.5954668233614,Giurgiu,Înălțime,3784,Movila Grădiștea,PDT,Limba română
-Dealu Grădiștea,grădiște,2,44.8579190517377,24.1090897076485,Valcea,Deal,5205,Dealu Grădiștea,Geomil 25000,Limba română
-Grădiște,grădiște,2,45.5951446874582,22.9496474555275,Hunedoara,Altele,5549,Grădiște,Geomil 25000,Limba română
-Grădiștea,grădiște,2,46.2033278304659,21.319305402793,Arad,Localitate,5637,Grădiștea,PDT,Limba română
-Grădiște,grădiște,2,45.9341240812568,21.0186598866782,Timis,Altele,5656,Grădiște,PDT,Limba română
-Grediștor,grădiște,2,43.7360269925292,25.7752505206719,Giurgiu,Altele,5739,Grediștor,Austriacă,Limba română
-Gradiștea,grădiște,2,44.4304739160277,24.3468294302232,Olt,Înălțime,5810,Gradiștea,Austriacă,Limba română
-Grădiștea,grădiște,2,45.6173735239128,25.4430389747237,Brasov,Altele,6841,Grădiștea,PDT,Limba română
-Grădiște,grădiște,2,45.5977488788395,20.9415709816146,Timis,Altele,7615,Grădiște,Geomil 25000,Limba română
-Balta Grădiștea,grădiște,2,44.1737816228018,23.8584348791454,Dolj,Apă-deal-câmpie,7697,Balta Grădiștea,PDT,Limba română
-Grădiștea,grădiște,2,45.2663986422565,27.3921992915891,Braila,Localitate,8720,Grădiștea,Geomil 25000,Limba română
-Grădiștea,grădiște,2,44.7687730081576,24.6495113579394,Arges,Înălțime,9355,Grădiștea,PDT,Limba română
 Movila Grădiștea,grădiște,2,47.4145467208357,26.975632416367,Iasi,Înălțime,9728,Movila Grădiștea,Moldova (1892-1898),Limba română
-Grădiștea,grădiște,2,45.4495110522774,25.2870658395288,Brasov,Altele,9800,Grădiștea,PDT,Limba română
+Grădiștea,grădiște,2,44.6549862710305,26.2979876599265,Ilfov,Înălțime,1320,Grădiștea,Geomil 25000,Limba română
+Dealu Grădiștea,grădiște,2,44.4565057352266,24.2496434978111,Olt,Deal,281,Dealu Grădiștea,Geomil 25000,Limba română,Dealul Grădiștea,PDT,Limba română
+Gradiștea,grădiște,2,44.4304739160277,24.3468294302232,Olt,Înălțime,5810,Gradiștea,Austriacă,Limba română
+La Gârla Grădiștei,grădiște,2,43.712849685904,24.3655597026256,Olt,Apă-deal-câmpie,1269,La Gârla Grădiștei,Geomil 25000,Limba română,Gârla Grădiștea,PDT,Limba română
+Dealul Grădiștea,grădiște,2,45.1303284971375,26.0972164884926,Prahova,Deal,822,Dealul Grădiștea,Geomil 25000,Limba română
+Grădiștea,grădiște,2,44.8883446415209,26.5121328382631,Prahova,Localitate,60,Grădiștea,Geomil 25000,Limba română,Gradiștea,Austriacă,Limba română,Grădiștea,PDT,Limba română,Грэдиштя (Grădiștea),Sovietică,Limba română
+Grădiște,grădiște,2,45.9341240812568,21.0186598866782,Timis,Altele,5656,Grădiște,PDT,Limba română
+Grădiște,grădiște,2,45.5977488788395,20.9415709816146,Timis,Altele,7615,Grădiște,Geomil 25000,Limba română
 Grădiștea,grădiște,2,44.9031092020065,28.8624063363409,Tulcea,Înălțime,11079,Grădiștea,Geomil 25000,Limba română
-Valea Grădiștei,grădiște,2,46.3516921469426,21.9913091071428,Arad,Vale,12518,Valea Grădiștei,Geomil 25000,Limba română
-Grădiștea,grădiște,2,44.7703249111309,24.7973412097314,Arges,Localitate,14185,Grădiștea,PDT,Limba română
-Valea Grădiștea,grădiște,2,44.8138379341911,24.7579975191749,Arges,Vale,14186,Valea Grădiștea,PDT,Limba română
+Dealu Grădiștea,grădiște,2,44.8722142821563,23.8020688846147,Valcea,Deal,249,Dealu Grădiștea,Geomil 25000,Limba română
+Dealu Grădiștea,grădiște,2,44.8579190517377,24.1090897076485,Valcea,Deal,5205,Dealu Grădiștea,Geomil 25000,Limba română

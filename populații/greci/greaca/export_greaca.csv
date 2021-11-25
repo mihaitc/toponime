@@ -1,12 +1,12 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Valea Greaca,greaca,3,44.6807967936169,25.1861330129835,Arges,Vale,1398,Valea Greaca,Geomil 25000,Limba română
-La Greaca,greaca,3,47.6190600061301,27.3314488790036,Botosani,Altele,2432,La Greaca,Geomil 25000,Limba română
-Dealul Greaca,greaca,3,45.474108122306,27.8652455285888,Galati,Deal,3531,Dealul Greaca,PDT,Limba română,Dealul Greaca,Geomil 25000,Limba română
-Dealul Grecei,greaca,3,47.3127507064319,27.3800392799176,Iasi,Deal,4856,Dealul Grecei,PDT,Limba română,Dealul Greaca,Geomil 25000,Limba română
+Valea Greacă,greaca,3,45.0474121144185,24.7955318905559,Arges,Vale,9693,Valea Greacă,Geomil 25000,Limba română
 Valea Grecii,greaca,3,45.2202497044266,25.1962166807236,Arges,Vale,5048,Valea Grecii,Geomil 25000,Limba română
-Pădurea Greaca,greaca,3,44.6916181567317,23.3516288187677,Gorj,Pădure,7435,Pădurea Greaca,PDT,Limba română
+La Greaca,greaca,3,47.6190600061301,27.3314488790036,Botosani,Altele,2432,La Greaca,Geomil 25000,Limba română
 Valea Grecii,greaca,3,45.0038416494326,25.5257264038377,Dambovita,Vale,7461,Valea Grecii,Geomil 25000,Limba română
 Lacul Greaca,greaca,3,44.1334235797329,23.7201411844917,Dolj,Lac,7707,Lacul Greaca,PDT,Limba română
 Lacul Greaca,greaca,3,44.2251937135426,23.6852819795797,Dolj,Lac,7727,Lacul Greaca,PDT,Limba română
+Dealul Greaca,greaca,3,45.474108122306,27.8652455285888,Galati,Deal,3531,Dealul Greaca,PDT,Limba română,Dealul Greaca,Geomil 25000,Limba română
 Dealul Greaca,greaca,3,45.5211572227461,27.8900630425225,Galati,Deal,8710,Dealul Greaca,PDT,Limba română
-Valea Greacă,greaca,3,45.0474121144185,24.7955318905559,Arges,Vale,9693,Valea Greacă,Geomil 25000,Limba română
+Pădurea Greaca,greaca,3,44.6916181567317,23.3516288187677,Gorj,Pădure,7435,Pădurea Greaca,PDT,Limba română
+Dealul Grecei,greaca,3,47.3127507064319,27.3800392799176,Iasi,Deal,4856,Dealul Grecei,PDT,Limba română,Dealul Greaca,Geomil 25000,Limba română

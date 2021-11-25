@@ -1,37 +1,37 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Valea Jidovului,jidov (uriaș),2,44.9554062694854,23.6610696103283,Gorj,Vale,8395,Valea Jidovului,Geomil 25000,Limba română,Valea Jidovului,PDT,Limba română
-Valea Jidovului,jidov (uriaș),2,44.2915868466185,24.9559816345484,Teleorman,Vale,9039,Valea Jidovului,PDT,Limba română
-Zsidovu,jidov (uriaș),2,46.0974001830538,23.2272479439899,Alba,Înălțime,10518,Zsidovu,Transilvania (1869-1870),Limba română
-Valea Jidovului,jidov (uriaș),2,44.2735255489443,25.3180837799216,Teleorman,Vale,10969,Valea Jidovului,PDT,Limba română
 Dealu Jidovului,jidov (uriaș),2,46.0861711374426,23.2233304683578,Alba,Deal,11955,Dealu Jidovului,Geomil 25000,Limba română,Juden B.,Transilvania (1769-1773),Limba germană
-Dealul Jidovilor,jidovi (uriași),3,44.4504521145076,23.1455020567127,Mehedinti,Deal,136,Dealul Jidovilor,PDT,Limba română
-Pădurea Jidoviilor,jidovi (uriași),3,44.4219658677234,22.9536896223988,Mehedinti,Pădure,8384,Pădurea Jidoviilor,Geomil 25000,Limba română
-Măgura Jidovilor,jidovi (uriași),3,43.8270520032757,24.2310105255594,Olt,Înălțime,8394,Măgura Jidovilor,PDT,Limba română
-Valea Jidovilor,jidovi (uriași),3,44.7281313223961,22.7953186954638,Mehedinti,Vale,8410,Valea Jidovilor,PDT,Limba română
-Dealul Jidovilor,jidovi (uriași),3,44.4750588653572,24.105746942404,Olt,Deal,8414,Dealul Jidovilor,PDT,Limba română
-Lacul Jidovi,jidovi (uriași),3,44.8662824573345,25.6840819656795,Dambovita,Lac,11142,Lacul Jidovi,PDT,Limba română
-Jidovii,jidovi (uriași),3,45.7950861681787,23.1259244981095,Hunedoara,Înălțime,11236,Jidovii,Geomil 25000,Limba română
-Jidovi,jidovi (uriași),3,45.0248716105167,23.6556374853175,Gorj,Altele,13649,Jidovi,Austriacă,Limba română
+Zsidovu,jidov (uriaș),2,46.0974001830538,23.2272479439899,Alba,Înălțime,10518,Zsidovu,Transilvania (1869-1870),Limba română
+Jidovina,jidovina (urias),3,46.4582501891198,23.4477117467079,Alba,Înălțime,12736,Jidovina,Imperiul Habsburgic (1887),Limba română
+Dealu Jidovina,jidovina (urias),3,46.5205701443036,22.1537594763804,Arad,Deal,11331,Dealu Jidovina,Geomil 25000,Limba română
+Valea Jidovița,jidovița (uriaș),3,46.0891325554834,22.181692083706,Arad,Vale,10215,Valea Jidovița,Geomil 25000,Limba română
+Jidovina lui Potoroacă,jidovina (urias),3,46.4632938781691,26.3878391748665,Bacau,Înălțime,12774,Jidovina lui Potoroacă,PDT,Limba română
+Valea Jidovna,jidovna (uriaș),3,46.2803007426108,27.4500550506912,Bacau,Vale,14122,Valea Jidovna,Geomil 25000,Limba română
+Jidovina,jidovina (urias),3,46.822582055187,22.1249603957948,Bihor,Altele,10374,Jidovina,PDT,Limba română
+Jidovina,jidovina (urias),3,46.8717345359259,22.2733853898901,Bihor,Înălțime,14215,Jidovina,PDT,Limba română
+Jidovița,jidovița (uriaș),3,47.2785984168718,24.4219006776786,Bistrita Nasaud,Localitate,9873,Jidovița,PDT,Limba română
+Dealul Jidovina,jidovina (urias),3,48.0774325408501,26.4203205707057,Botosani,Deal,9577,Dealul Jidovina,Moldova (1892-1898),Limba română
+Dealul Jidovina,jidovina (urias),3,48.1801566133211,26.4791016896211,Botosani,Deal,13590,Dealul Jidovina,PDT,Limba română
+Valea Jidovinei,jidovina (urias),3,47.7597207880097,27.2064663349357,Botosani,Vale,11555,Valea Jidovinei,Geomil 25000,Limba română
+Jidaia,jidaia (uriaș),3,45.3205858871367,22.2388645548727,Caras Severin,Altele,11780,Jidaia,ANCPI,Limba română
+Poiana Jidovina,jidovina (urias),3,44.9103804854637,22.3040076543227,Caras Severin,Poiană,9437,Poiana Jidovina,PDT,Limba română
+Poiana Jidovina,jidovina (urias),3,45.0467848908098,21.9737362883015,Caras Severin,Poiană,13486,Poiana Jidovina,PDT,Limba română
+Zsidovin,jidovina (urias),3,45.4275664204423,21.6284522868045,Caras Severin,Localitate,10248,Zsidovin,Ungară 1869,Limba română
+Valea Jidovinca,jidovinca (uriaș),3,44.7885302164391,22.1129723466985,Caras Severin,Vale,13085,Valea Jidovinca,Geomil 25000,Limba română
 jidova,jidova (uriaș),3,44.9308468671432,25.3231149753644,Dambovita,Înălțime,8383,jidova,PDT,Limba română
+Lacul Jidovi,jidovi (uriași),3,44.8662824573345,25.6840819656795,Dambovita,Lac,11142,Lacul Jidovi,PDT,Limba română
+Valea Jidovului,jidov (uriaș),2,44.9554062694854,23.6610696103283,Gorj,Vale,8395,Valea Jidovului,Geomil 25000,Limba română,Valea Jidovului,PDT,Limba română
+Jidovi,jidovi (uriași),3,45.0248716105167,23.6556374853175,Gorj,Altele,13649,Jidovi,Austriacă,Limba română
 Jidovia,jidovia (uriaș),3,44.8591266416186,23.1263426331757,Gorj,Înălțime,8392,Jidovia,Geomil 25000,Limba română,Jidovia,PDT,Limba română
 Culmea Jidovina,jidovina (urias),3,44.8582926068153,23.4837427283523,Gorj,Înălțime,8406,Culmea Jidovina,Geomil 25000,Limba română
-Poiana Jidovina,jidovina (urias),3,44.9103804854637,22.3040076543227,Caras Severin,Poiană,9437,Poiana Jidovina,PDT,Limba română
-Dealul Jidovina,jidovina (urias),3,48.0774325408501,26.4203205707057,Botosani,Deal,9577,Dealul Jidovina,Moldova (1892-1898),Limba română
-Zsidovin,jidovina (urias),3,45.4275664204423,21.6284522868045,Caras Severin,Localitate,10248,Zsidovin,Ungară 1869,Limba română
-Jidovina,jidovina (urias),3,46.822582055187,22.1249603957948,Bihor,Altele,10374,Jidovina,PDT,Limba română
-Dealu Jidovina,jidovina (urias),3,46.5205701443036,22.1537594763804,Arad,Deal,11331,Dealu Jidovina,Geomil 25000,Limba română
-Valea Jidovinei,jidovina (urias),3,47.7597207880097,27.2064663349357,Botosani,Vale,11555,Valea Jidovinei,Geomil 25000,Limba română
-La Jidovina,jidovina (urias),3,45.4749677864333,22.8217206486279,Hunedoara,Altele,12470,La Jidovina,ANCPI,Limba română
-Jidovina,jidovina (urias),3,46.4582501891198,23.4477117467079,Alba,Înălțime,12736,Jidovina,Imperiul Habsburgic (1887),Limba română
-Jidovina lui Potoroacă,jidovina (urias),3,46.4632938781691,26.3878391748665,Bacau,Înălțime,12774,Jidovina lui Potoroacă,PDT,Limba română
-Jidovina,jidovina (urias),3,46.7698866360975,26.5556134713399,Neamt,Altele,13115,Jidovina,Geomil 25000,Limba română
-Poiana Jidovina,jidovina (urias),3,45.0467848908098,21.9737362883015,Caras Severin,Poiană,13486,Poiana Jidovina,PDT,Limba română
-Dealul Jidovina,jidovina (urias),3,48.1801566133211,26.4791016896211,Botosani,Deal,13590,Dealul Jidovina,PDT,Limba română
-Jidovina,jidovina (urias),3,46.8717345359259,22.2733853898901,Bihor,Înălțime,14215,Jidovina,PDT,Limba română
-Dealul Jidovana,jidovana (uriaș),3,44.8904562826944,22.7128426929981,Mehedinti,Deal,8411,Dealul Jidovana,Geomil 25000,Limba română
-Jidovița,jidovița (uriaș),3,47.2785984168718,24.4219006776786,Bistrita Nasaud,Localitate,9873,Jidovița,PDT,Limba română
-Valea Jidovița,jidovița (uriaș),3,46.0891325554834,22.181692083706,Arad,Vale,10215,Valea Jidovița,Geomil 25000,Limba română
-Jidaia,jidaia (uriaș),3,45.3205858871367,22.2388645548727,Caras Severin,Altele,11780,Jidaia,ANCPI,Limba română
 Vârful Jdovinii,jdovină (uriaș),3,45.639631696798,22.8513092257258,Hunedoara,Înălțime,12313,Vârful Jdovinii,Imperiul Habsburgic (1887),Limba română,Sidovina,Transilvania (1769-1773),Limba română
-Valea Jidovinca,jidovinca (uriaș),3,44.7885302164391,22.1129723466985,Caras Severin,Vale,13085,Valea Jidovinca,Geomil 25000,Limba română
-Valea Jidovna,jidovna (uriaș),3,46.2803007426108,27.4500550506912,Bacau,Vale,14122,Valea Jidovna,Geomil 25000,Limba română
+Jidovii,jidovi (uriași),3,45.7950861681787,23.1259244981095,Hunedoara,Înălțime,11236,Jidovii,Geomil 25000,Limba română
+La Jidovina,jidovina (urias),3,45.4749677864333,22.8217206486279,Hunedoara,Altele,12470,La Jidovina,ANCPI,Limba română
+Dealul Jidovana,jidovana (uriaș),3,44.8904562826944,22.7128426929981,Mehedinti,Deal,8411,Dealul Jidovana,Geomil 25000,Limba română
+Dealul Jidovilor,jidovi (uriași),3,44.4504521145076,23.1455020567127,Mehedinti,Deal,136,Dealul Jidovilor,PDT,Limba română
+Pădurea Jidoviilor,jidovi (uriași),3,44.4219658677234,22.9536896223988,Mehedinti,Pădure,8384,Pădurea Jidoviilor,Geomil 25000,Limba română
+Valea Jidovilor,jidovi (uriași),3,44.7281313223961,22.7953186954638,Mehedinti,Vale,8410,Valea Jidovilor,PDT,Limba română
+Jidovina,jidovina (urias),3,46.7698866360975,26.5556134713399,Neamt,Altele,13115,Jidovina,Geomil 25000,Limba română
+Dealul Jidovilor,jidovi (uriași),3,44.4750588653572,24.105746942404,Olt,Deal,8414,Dealul Jidovilor,PDT,Limba română
+Măgura Jidovilor,jidovi (uriași),3,43.8270520032757,24.2310105255594,Olt,Înălțime,8394,Măgura Jidovilor,PDT,Limba română
+Valea Jidovului,jidov (uriaș),2,44.2915868466185,24.9559816345484,Teleorman,Vale,9039,Valea Jidovului,PDT,Limba română
+Valea Jidovului,jidov (uriaș),2,44.2735255489443,25.3180837799216,Teleorman,Vale,10969,Valea Jidovului,PDT,Limba română

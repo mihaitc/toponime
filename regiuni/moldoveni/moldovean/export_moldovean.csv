@@ -1,13 +1,13 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Poiana Moldoveanului,moldovean,3,47.3049938938546,26.2647692638178,Suceava,Poiană,2254,Poiana Moldoveanului,Geomil 25000,Limba română,Poiana Moldoveanu,PDT,Limba română
-Valea Moldoveanu,moldovean,3,45.0045104262212,24.6072243629283,Arges,Vale,3077,Valea Moldoveanu,Geomil 25000,Limba română
-Movila Moldoveanu,moldovean,3,44.5309135424014,27.8585293336747,Ialomita,Înălțime,3445,Movila Moldoveanu,PDT,Limba română
 Moldoveanu,moldovean,3,45.6004961993206,24.7353287854847,Arges,Înălțime,5013,Moldoveanu,Geomil 25000,Limba română
+Valea Moldoveanu,moldovean,3,45.0045104262212,24.6072243629283,Arges,Vale,3077,Valea Moldoveanu,Geomil 25000,Limba română
 Valea Moldoveanului,moldovean,3,45.2571322078084,25.009714328637,Arges,Vale,5062,Valea Moldoveanului,Geomil 25000,Limba română
-Moldoveanul,moldovean,3,46.9283774042943,25.292022442151,Harghita,Vale,5411,Moldoveanul,Geomil 25000,Limba română
-Puțul Moldoveanului,moldovean,3,44.2508873130658,24.5077055150627,Olt,Altele,8117,Puțul Moldoveanului,PDT,Limba română
-Valea Moldoveanului,moldovean,3,44.9436782666085,28.5453387957681,Tulcea,Vale,9297,Valea Moldoveanului,Geomil 25000,Limba română
-Prislopul Moldoveanului,moldovean,3,47.2361855471635,24.9069327364789,Bistrita Nasaud,Înălțime,11104,Prislopul Moldoveanului,Geomil 25000,Limba română
-Moldoveanul,moldovean,3,45.127751175429,26.3070635143449,Prahova,Localitate,12453,Moldoveanul,PDT,Limba română
-Lacul Moldoveanu,moldovean,3,45.5582639416848,26.6774296640923,Buzau,Lac,13297,Lacul Moldoveanu,Geomil 25000,Limba română
 Valea Moldovanului,moldovan,4,46.7342976027319,22.6866147878029,Bihor,Vale,5913,Valea Moldovanului,Geomil 25000,Limba română
+Prislopul Moldoveanului,moldovean,3,47.2361855471635,24.9069327364789,Bistrita Nasaud,Înălțime,11104,Prislopul Moldoveanului,Geomil 25000,Limba română
+Lacul Moldoveanu,moldovean,3,45.5582639416848,26.6774296640923,Buzau,Lac,13297,Lacul Moldoveanu,Geomil 25000,Limba română
+Moldoveanul,moldovean,3,46.9283774042943,25.292022442151,Harghita,Vale,5411,Moldoveanul,Geomil 25000,Limba română
+Movila Moldoveanu,moldovean,3,44.5309135424014,27.8585293336747,Ialomita,Înălțime,3445,Movila Moldoveanu,PDT,Limba română
+Puțul Moldoveanului,moldovean,3,44.2508873130658,24.5077055150627,Olt,Altele,8117,Puțul Moldoveanului,PDT,Limba română
+Moldoveanul,moldovean,3,45.127751175429,26.3070635143449,Prahova,Localitate,12453,Moldoveanul,PDT,Limba română
+Poiana Moldoveanului,moldovean,3,47.3049938938546,26.2647692638178,Suceava,Poiană,2254,Poiana Moldoveanului,Geomil 25000,Limba română,Poiana Moldoveanu,PDT,Limba română
+Valea Moldoveanului,moldovean,3,44.9436782666085,28.5453387957681,Tulcea,Vale,9297,Valea Moldoveanului,Geomil 25000,Limba română

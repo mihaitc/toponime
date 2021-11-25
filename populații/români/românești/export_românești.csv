@@ -1,28 +1,28 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Tătarul Românești,românești,3,47.3671734104048,25.1477871746229,Suceava,Altele,1874,Tătarul Românești,Geomil 25000,Limba română
-Românești,românești,3,45.8171478100038,26.6845116172967,Vrancea,Localitate,2131,Românești,Geomil 25000,Limba română
-Românești,românești,3,47.7334338405673,27.2369548506494,Botosani,Localitate,2390,Românești,Geomil 25000,Limba română
-Românești,românești,3,44.8986011336055,23.9330371189128,Valcea,Localitate,3097,Românești,Geomil 25000,Limba română,Românești,PDT,Limba română
-Dealul Româneștilor,românești,3,47.8416294935771,26.7780304572259,Botosani,Deal,3573,Dealul Româneștilor,PDT,Limba română
-Românești,românești,3,44.5630697706491,25.6269130884734,Dambovita,Localitate,3711,Românești,PDT,Limba română
+Valea Românești,românești,3,45.1814852334296,24.8095243024275,Arges,Vale,5067,Valea Românești,PDT,Limba română
 Românești,românești,3,46.4930398377221,26.6632115844836,Bacau,Localitate,3837,Românești,Geomil 25000,Limba română
 Viile Românești,românești,3,47.1050876872288,22.1141879150875,Bihor,Altele,4183,Viile Românești,PDT,Limba română
-Românești,românești,3,47.4033755674528,23.6430246210348,Maramures,Localitate,4430,Românești,Geomil 25000,Limba română
-Românești,românești,3,47.7923896042501,23.1127513222428,Satu Mare,Localitate,4473,Românești,Geomil 25000,Limba română
-Românești,românești,3,47.2846110397198,27.3170552804213,Iasi,Localitate,4837,Românești,PDT,Limba română,Românești,Geomil 25000,Limba română
-Valea Românești,românești,3,45.1814852334296,24.8095243024275,Arges,Vale,5067,Valea Românești,PDT,Limba română
-Românești,românești,3,45.0111455635058,23.2636049541086,Gorj,Localitate,5100,Românești,Geomil 25000,Limba română,Romînești,Austriacă,Limba română
-Românești,românești,3,44.3944164981659,23.7818560809481,Dolj,Localitate,5105,Românești,Geomil 25000,Limba română,Romunești,Austriacă,Limba română
-Bălțile Românești,românești,3,46.0109656997572,20.5034168162528,Timis,Apă-deal-câmpie,5670,Bălțile Românești,PDT,Limba română
-Românești,românești,3,47.7843076751229,26.0780483353158,Suceava,Localitate,7255,Românești,PDT,Limba română,Românești,Geomil 25000,Limba română
-Dealul Românești,românești,3,46.100649680819,27.6987024882106,Galati,Deal,7374,Dealul Românești,Geomil 25000,Limba română
-Pârâul Românești,românești,3,46.9031391610505,26.8284452990534,Neamt,Vale,7812,Pârâul Românești,PDT,Limba română
+Dealul Româneștilor,românești,3,47.8416294935771,26.7780304572259,Botosani,Deal,3573,Dealul Româneștilor,PDT,Limba română
+Românești,românești,3,47.7334338405673,27.2369548506494,Botosani,Localitate,2390,Românești,Geomil 25000,Limba română
 Locurile Românești,românești,3,46.1204943042675,25.1500995413243,Brasov,Altele,7946,Locurile Românești,PDT,Limba română
-Viile Românești,românești,3,46.2065394338137,24.2681378943473,Sibiu,Altele,8631,Viile Românești,PDT,Limba română
-La Românești,românești,3,45.5142401592117,26.9888136912042,Vrancea,Localitate,8748,La Românești,PDT,Limba română,La Românești,Geomil 25000,Limba română
-Românești,românești,3,44.8551499524587,26.0738834062891,Prahova,Localitate,8798,Românești,Geomil 25000,Limba română,Românești,PDT,Limba română
-Românești,românești,3,45.8131906475883,22.3130071004844,Timis,Localitate,10311,Românești,Geomil 25000,Limba română
-D. Rumuniesce,românești,3,46.9143016908704,22.9686941252418,Salaj,Deal,10426,D. Rumuniesce,Transilvania (1869-1870),Limba română
-Alt-Fratautz Rumänisch,românești,3,47.9094405146181,25.8725154515294,Suceava,Localitate,10758,Alt-Fratautz Rumänisch,Imperiul Habsburgic (1887),Limba germană
+Românești,românești,3,44.5630697706491,25.6269130884734,Dambovita,Localitate,3711,Românești,PDT,Limba română
 Viile Românești,românești,3,44.8186353484313,25.7637737908725,Dambovita,Altele,11058,Viile Românești,Geomil 25000,Limba română
+Românești,românești,3,44.3944164981659,23.7818560809481,Dolj,Localitate,5105,Românești,Geomil 25000,Limba română,Romunești,Austriacă,Limba română
+Dealul Românești,românești,3,46.100649680819,27.6987024882106,Galati,Deal,7374,Dealul Românești,Geomil 25000,Limba română
+Românești,românești,3,45.0111455635058,23.2636049541086,Gorj,Localitate,5100,Românești,Geomil 25000,Limba română,Romînești,Austriacă,Limba română
+Românești,românești,3,47.2846110397198,27.3170552804213,Iasi,Localitate,4837,Românești,PDT,Limba română,Românești,Geomil 25000,Limba română
+Românești,românești,3,47.4033755674528,23.6430246210348,Maramures,Localitate,4430,Românești,Geomil 25000,Limba română
+Pârâul Românești,românești,3,46.9031391610505,26.8284452990534,Neamt,Vale,7812,Pârâul Românești,PDT,Limba română
+Românești,românești,3,44.8551499524587,26.0738834062891,Prahova,Localitate,8798,Românești,Geomil 25000,Limba română,Românești,PDT,Limba română
+D. Rumuniesce,românești,3,46.9143016908704,22.9686941252418,Salaj,Deal,10426,D. Rumuniesce,Transilvania (1869-1870),Limba română
+Românești,românești,3,47.7923896042501,23.1127513222428,Satu Mare,Localitate,4473,Românești,Geomil 25000,Limba română
 Pietrele Românești,românești,3,45.601022468696,23.9804378349876,Sibiu,Înălțime,13093,Pietrele Românești,ANCPI,Limba română
+Viile Românești,românești,3,46.2065394338137,24.2681378943473,Sibiu,Altele,8631,Viile Românești,PDT,Limba română
+Alt-Fratautz Rumänisch,românești,3,47.9094405146181,25.8725154515294,Suceava,Localitate,10758,Alt-Fratautz Rumänisch,Imperiul Habsburgic (1887),Limba germană
+Românești,românești,3,47.7843076751229,26.0780483353158,Suceava,Localitate,7255,Românești,PDT,Limba română,Românești,Geomil 25000,Limba română
+Tătarul Românești,românești,3,47.3671734104048,25.1477871746229,Suceava,Altele,1874,Tătarul Românești,Geomil 25000,Limba română
+Bălțile Românești,românești,3,46.0109656997572,20.5034168162528,Timis,Apă-deal-câmpie,5670,Bălțile Românești,PDT,Limba română
+Românești,românești,3,45.8131906475883,22.3130071004844,Timis,Localitate,10311,Românești,Geomil 25000,Limba română
+Românești,românești,3,44.8986011336055,23.9330371189128,Valcea,Localitate,3097,Românești,Geomil 25000,Limba română,Românești,PDT,Limba română
+La Românești,românești,3,45.5142401592117,26.9888136912042,Vrancea,Localitate,8748,La Românești,PDT,Limba română,La Românești,Geomil 25000,Limba română
+Românești,românești,3,45.8171478100038,26.6845116172967,Vrancea,Localitate,2131,Românești,Geomil 25000,Limba română

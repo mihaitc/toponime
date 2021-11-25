@@ -1,22 +1,22 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Pădurea Cioroiului,cioroi,3,47.246804694015,26.3934267075273,Neamt,Pădure,658,Pădurea Cioroiului,Geomil 25000,Limba română
-Valea Cioroiului,cioroi,3,47.705226004342,24.0618647245519,Maramures,Vale,916,Valea Cioroiului,Geomil 25000,Limba română
-Valea Cioroilor,cioroi,3,46.8620822929378,22.0943866445231,Bihor,Vale,1082,Valea Cioroilor,Geomil 25000,Limba română
-Ostrovu Cioroiu,cioroi,3,43.7247202874437,25.0181089194651,Teleorman,Altele,1346,Ostrovu Cioroiu,Geomil 25000,Limba română
-Tarlaua Cioroi,cioroi,3,43.9176676285027,24.5507633792371,Olt,Altele,1354,Tarlaua Cioroi,Geomil 25000,Limba română
-Plaiul Cioroiului,cioroi,3,45.3405833727374,24.1361523562812,Valcea,Înălțime,2933,Plaiul Cioroiului,Geomil 25000,Limba română
-Cioroiu,cioroi,3,44.2384361492471,24.3779621049828,Olt,Localitate,3010,Cioroiu,Geomil 25000,Limba română
-Cioroiu,cioroi,3,44.874977288634,27.9015873400211,Braila,Altele,3193,Cioroiu,Geomil 25000,Limba română
-Pădurea Cioroiu,cioroi,3,44.9224262452528,27.9188386699287,Braila,Pădure,3196,Pădurea Cioroiu,Geomil 25000,Limba română
 Valea Cioroiului,cioroi,3,44.4757469660796,24.8651096715092,Arges,Vale,3397,Valea Cioroiului,Geomil 25000,Limba română,Valea Cioroiului,PDT,Limba română
+Valea Cioroilor,cioroi,3,46.8620822929378,22.0943866445231,Bihor,Vale,1082,Valea Cioroilor,Geomil 25000,Limba română
 Valea Cioroilor,cioroi,3,46.9761371131109,22.3492486835441,Bihor,Vale,4158,Valea Cioroilor,PDT,Limba română
-Valea Cioroiu,cioroi,3,44.9505691031271,23.6881025537224,Gorj,Vale,5082,Valea Cioroiu,PDT,Limba română
-Pârâu Cioroiului,cioroi,3,46.1341399273783,22.6928052388941,Hunedoara,Vale,6270,Pârâu Cioroiului,Geomil 25000,Limba română
-Cioroiul,cioroi,3,47.1567397718893,23.0915057326016,Salaj,Înălțime,7556,Cioroiul,PDT,Limba română
-Cioroiul,cioroi,3,44.2302036684456,24.4133392126273,Olt,Altele,8115,Cioroiul,PDT,Limba română
-Pârâul Cioroiul,cioroi,3,44.9726575490253,25.4066945313247,Dambovita,Vale,8382,Pârâul Cioroiul,PDT,Limba română
-La Gitul Cioroiului,cioroi,3,44.4507361043656,28.0737125429965,Ialomita,Altele,9276,La Gitul Cioroiului,Geomil 25000,Limba română
 Valea Cioroiu,cioroi,3,47.0076680561076,22.4251341025767,Bihor,Vale,9939,Valea Cioroiu,Geomil 25000,Limba română
 Valea Cioroiului,cioroi,3,46.978556936929,22.4877501774604,Bihor,Vale,10274,Valea Cioroiului,PDT,Limba română
-Bâtca cioroiului,cioroi,3,46.9498905110366,25.4203356545823,Harghita,Înălțime,10606,Bâtca cioroiului,Imperiul Habsburgic (1887),Limba română
+Cioroiu,cioroi,3,44.874977288634,27.9015873400211,Braila,Altele,3193,Cioroiu,Geomil 25000,Limba română
+Pădurea Cioroiu,cioroi,3,44.9224262452528,27.9188386699287,Braila,Pădure,3196,Pădurea Cioroiu,Geomil 25000,Limba română
+Pârâul Cioroiul,cioroi,3,44.9726575490253,25.4066945313247,Dambovita,Vale,8382,Pârâul Cioroiul,PDT,Limba română
 Pădurea Cioroiul,cioroi,3,44.2256324411875,23.8496610704117,Dolj,Pădure,12170,Pădurea Cioroiul,PDT,Limba română
+Valea Cioroiu,cioroi,3,44.9505691031271,23.6881025537224,Gorj,Vale,5082,Valea Cioroiu,PDT,Limba română
+Bâtca cioroiului,cioroi,3,46.9498905110366,25.4203356545823,Harghita,Înălțime,10606,Bâtca cioroiului,Imperiul Habsburgic (1887),Limba română
+Pârâu Cioroiului,cioroi,3,46.1341399273783,22.6928052388941,Hunedoara,Vale,6270,Pârâu Cioroiului,Geomil 25000,Limba română
+La Gitul Cioroiului,cioroi,3,44.4507361043656,28.0737125429965,Ialomita,Altele,9276,La Gitul Cioroiului,Geomil 25000,Limba română
+Valea Cioroiului,cioroi,3,47.705226004342,24.0618647245519,Maramures,Vale,916,Valea Cioroiului,Geomil 25000,Limba română
+Pădurea Cioroiului,cioroi,3,47.246804694015,26.3934267075273,Neamt,Pădure,658,Pădurea Cioroiului,Geomil 25000,Limba română
+Cioroiu,cioroi,3,44.2384361492471,24.3779621049828,Olt,Localitate,3010,Cioroiu,Geomil 25000,Limba română
+Cioroiul,cioroi,3,44.2302036684456,24.4133392126273,Olt,Altele,8115,Cioroiul,PDT,Limba română
+Tarlaua Cioroi,cioroi,3,43.9176676285027,24.5507633792371,Olt,Altele,1354,Tarlaua Cioroi,Geomil 25000,Limba română
+Cioroiul,cioroi,3,47.1567397718893,23.0915057326016,Salaj,Înălțime,7556,Cioroiul,PDT,Limba română
+Ostrovu Cioroiu,cioroi,3,43.7247202874437,25.0181089194651,Teleorman,Altele,1346,Ostrovu Cioroiu,Geomil 25000,Limba română
+Plaiul Cioroiului,cioroi,3,45.3405833727374,24.1361523562812,Valcea,Înălțime,2933,Plaiul Cioroiului,Geomil 25000,Limba română

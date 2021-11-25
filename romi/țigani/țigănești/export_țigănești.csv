@@ -1,12 +1,12 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Valea Țigănești,țigănești,3,45.4346055247839,22.2590506776592,Caras Severin,Vale,859,Valea Țigănești,Geomil 25000,Limba română
-Ziganești,țigănești,3,45.2952171071875,26.326681963737,Buzau,Localitate,5758,Ziganești,Austriacă,Limba română
-Țigănești,țigănești,3,43.9001651878461,25.3793196884378,Teleorman,Localitate,5783,Țigănești,Geomil 25000,Limba română,Tziganești,Austriacă,Limba română
-Vârful Țigănești,țigănești,3,47.9722986646795,23.4599968327121,Satu Mare,Înălțime,7226,Vârful Țigănești,PDT,Limba română
-Țigănești,țigănești,3,46.3963857419191,27.2604289653543,Bacau,Localitate,7848,Țigănești,Geomil 25000,Limba română
-Dealul Țigănești,țigănești,3,46.3512238967963,27.2085204881218,Bacau,Deal,7889,Dealul Țigănești,PDT,Limba română
-Pădurea Țigănești,țigănești,3,44.726219978,26.1241897484,Ilfov,Pădure,8803,Pădurea Țigănești,PDT,Limba română
 Țigănești,țigănești,3,44.8502377790965,25.0883891428705,Arges,Localitate,10157,Țigănești,PDT,Limba română
-Ciganesti,țigănești,3,47.6167430556998,23.3661378136258,Maramures,Altele,10546,Ciganesti,Imperiul Habsburgic (1887),Limba română
+Dealul Țigănești,țigănești,3,46.3512238967963,27.2085204881218,Bacau,Deal,7889,Dealul Țigănești,PDT,Limba română
+Țigănești,țigănești,3,46.3963857419191,27.2604289653543,Bacau,Localitate,7848,Țigănești,Geomil 25000,Limba română
+Ziganești,țigănești,3,45.2952171071875,26.326681963737,Buzau,Localitate,5758,Ziganești,Austriacă,Limba română
+Valea Țigănești,țigănești,3,45.4346055247839,22.2590506776592,Caras Severin,Vale,859,Valea Țigănești,Geomil 25000,Limba română
 Țigănești,țigănești,3,44.6604537596879,25.800716947677,Dambovita,Localitate,11056,Țigănești,PDT,Limba română
 Podu Cziganestilor,țigănești,3,44.0751853106469,25.6653876828656,Giurgiu,Altele,12016,Podu Cziganestilor,Oltenia-Muntenia (1790),Limba română
+Pădurea Țigănești,țigănești,3,44.726219978,26.1241897484,Ilfov,Pădure,8803,Pădurea Țigănești,PDT,Limba română
+Ciganesti,țigănești,3,47.6167430556998,23.3661378136258,Maramures,Altele,10546,Ciganesti,Imperiul Habsburgic (1887),Limba română
+Vârful Țigănești,țigănești,3,47.9722986646795,23.4599968327121,Satu Mare,Înălțime,7226,Vârful Țigănești,PDT,Limba română
+Țigănești,țigănești,3,43.9001651878461,25.3793196884378,Teleorman,Localitate,5783,Țigănești,Geomil 25000,Limba română,Tziganești,Austriacă,Limba română

@@ -1,62 +1,62 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
-Dealul Olteanului,olteni,2,44.8644990919472,23.8014341106488,Valcea,Deal,252,Dealul Olteanului,Geomil 25000,Limba română
-Valea Oltenilor,olteni,2,45.1908620011386,24.9817275468129,Arges,Vale,561,Valea Oltenilor,Geomil 25000,Limba română
-Olteni,olteni,2,45.7330735079673,27.1005293136509,Vrancea,Localitate,766,Olteni,Geomil 25000,Limba română,Olteni,Geomil 25000,Limba română
-Olteni,olteni,2,44.3963414870719,25.9467619726905,Ilfov,Localitate,1329,Olteni,Geomil 25000,Limba română
-Olteni,olteni,2,45.1429503670711,24.3812975758682,Valcea,Localitate,1447,Olteni,Geomil 25000,Limba română
-Olteni,olteni,2,44.8446491895023,25.3970926235206,Dambovita,Localitate,1525,Olteni,Geomil 25000,Limba română
-Dealul Oltenilor,olteni,2,46.1544157823039,24.4843932008463,Sibiu,Deal,1899,Dealul Oltenilor,Geomil 25000,Limba română
-Olteni,olteni,2,46.3403370853242,23.5210391660749,Alba,Localitate,1928,Olteni,Geomil 25000,Limba română
-Ogașu Olteni,olteni,2,44.9491501756588,21.9719549099442,Caras Severin,Altele,3313,Ogașu Olteni,Geomil 25000,Limba română
-Măgura Oltenilor,olteni,2,44.0136345890543,23.486383769529,Dolj,Înălțime,3345,Măgura Oltenilor,PDT,Limba română
-Olteni,olteni,2,44.6296736904696,25.4056280518558,Dambovita,Localitate,3378,Olteni,PDT,Limba română
-Olteni,olteni,2,44.6900276820499,24.7703084134492,Arges,Localitate,3405,Olteni,PDT,Limba română
-Olteni,olteni,2,44.7929367956981,27.3564728126305,Braila,Localitate,3601,Olteni,Austriacă,Limba română
-Olteni,olteni,2,45.225699809936,26.0198413427946,Prahova,Localitate,3993,Olteni,Geomil 25000,Limba română,Olteni,Austriacă,Limba română
-Oltenii,olteni,2,44.5173662379342,25.7476690594857,Giurgiu,Localitate,4239,Oltenii,PDT,Limba română,Olteni,Austriacă,Limba română
-Valea Oltenilor,olteni,2,44.4877762676083,23.724750222241,Dolj,Vale,4692,Valea Oltenilor,PDT,Limba română
-Valea Oltenilor,olteni,2,45.2295379936245,24.9967674079472,Arges,Vale,5059,Valea Oltenilor,PDT,Limba română
-Olteni,olteni,2,45.7298311423496,27.0930589854834,Vrancea,Localitate,5257,Olteni,Austriacă,Limba română
-Olteni,olteni,2,44.5191573333643,24.5645450508924,Olt,Localitate,5813,Olteni,Austriacă,Limba română
-Dealul Oltenilor,olteni,2,45.0442149982328,24.66716583391,Arges,Deal,6905,Dealul Oltenilor,Geomil 25000,Limba română
-Olteni,olteni,2,44.5866243946351,24.937826357013,Arges,Localitate,8303,Olteni,PDT,Limba română
-Olteni,olteni,2,44.9813951470753,24.2650860015818,Valcea,Localitate,8430,Olteni,PDT,Limba română
-Valea Oltenilor,olteni,2,44.0762915141292,25.390680029187,Teleorman,Vale,9026,Valea Oltenilor,PDT,Limba română
-Drăganul Olteni,olteni,2,44.9415907989259,24.7163109660034,Arges,Localitate,9366,Drăganul Olteni,PDT,Limba română
-Olteni,olteni,2,44.1773279210544,25.2950368161848,Teleorman,Localitate,9451,Olteni,Geomil 25000,Limba română,Olteni ,PDT,Limba română
+Valea Olteanului,oltean,3,46.2363062974133,23.1668500402581,Alba,Vale,5580,Valea Olteanului,Geomil 25000,Limba română
 D. Oltenilor,olteni,2,46.2618427401611,23.3183274284685,Alba,Deal,10510,D. Oltenilor,Transilvania (1869-1870),Limba română
-Valea Olteni,olteni,2,44.5023901257043,24.4245714050751,Olt,Vale,11692,Valea Olteni,Geomil 25000,Limba română
-Valea Olteanca,olteancă,3,44.8985601816149,24.0985969489869,Valcea,Vale,349,Valea Olteanca,Geomil 25000,Limba română
+Olteni,olteni,2,46.3403370853242,23.5210391660749,Alba,Localitate,1928,Olteni,Geomil 25000,Limba română
+Dealu Olteanului,oltean,3,44.8653709894177,24.7798092469233,Arges,Deal,3066,Dealu Olteanului,Geomil 25000,Limba română
+Dealul Olteanului,oltean,3,45.2055469592686,24.6920861462369,Arges,Deal,4064,Dealul Olteanului,PDT,Limba română
+Valea Olteanului,oltean,3,45.0239741236252,24.8039404278239,Arges,Vale,6896,Valea Olteanului,Geomil 25000,Limba română
+Dealu Olteanca,olteancă,3,44.9680677594204,24.9928178415394,Arges,Deal,6012,Dealu Olteanca,Geomil 25000,Limba română
+Dealul Oltenilor,olteni,2,45.0442149982328,24.66716583391,Arges,Deal,6905,Dealul Oltenilor,Geomil 25000,Limba română
+Drăganul Olteni,olteni,2,44.9415907989259,24.7163109660034,Arges,Localitate,9366,Drăganul Olteni,PDT,Limba română
+Olteni,olteni,2,44.6900276820499,24.7703084134492,Arges,Localitate,3405,Olteni,PDT,Limba română
+Olteni,olteni,2,44.5866243946351,24.937826357013,Arges,Localitate,8303,Olteni,PDT,Limba română
+Valea Oltenilor,olteni,2,45.1908620011386,24.9817275468129,Arges,Vale,561,Valea Oltenilor,Geomil 25000,Limba română
+Valea Oltenilor,olteni,2,45.2295379936245,24.9967674079472,Arges,Vale,5059,Valea Oltenilor,PDT,Limba română
+Secătura Olteanului,oltean,3,46.1051443997218,26.4886748733237,Bacau,Altele,10880,Secătura Olteanului,Imperiul Habsburgic (1887),Limba română
+Olteanca,olteancă,3,46.0961386169,26.9021389942,Bacau,Vale,5290,Olteanca,Geomil 25000,Limba română
+Olteni,olteni,2,44.7929367956981,27.3564728126305,Braila,Localitate,3601,Olteni,Austriacă,Limba română
+Piscul Olteanului,oltean,3,45.7946365354766,25.2389583829193,Brasov,Înălțime,2690,Piscul Olteanului,Geomil 25000,Limba română
+Olteana,olteană,3,45.3659605302323,22.1117501783642,Caras Severin,Altele,4327,Olteana,Geomil 25000,Limba română
 Pârâu Olteana,olteancă,3,45.3091791195608,22.5084035084777,Caras Severin,Vale,854,Pârâu Olteana,Geomil 25000,Limba română
+Ogașu Olteni,olteni,2,44.9491501756588,21.9719549099442,Caras Severin,Altele,3313,Ogașu Olteni,Geomil 25000,Limba română
+Pârâu lui Oltean,oltean,3,46.6033141824701,22.9503978973303,Cluj,Vale,5902,Pârâu lui Oltean,Geomil 25000,Limba română
+Valea Olteanului,oltean,3,44.854444261572,25.7390394635669,Dambovita,Vale,1536,Valea Olteanului,Geomil 25000,Limba română
+Olteni,olteni,2,44.8446491895023,25.3970926235206,Dambovita,Localitate,1525,Olteni,Geomil 25000,Limba română
+Olteni,olteni,2,44.6296736904696,25.4056280518558,Dambovita,Localitate,3378,Olteni,PDT,Limba română
+Măgura Oltenilor,olteni,2,44.0136345890543,23.486383769529,Dolj,Înălțime,3345,Măgura Oltenilor,PDT,Limba română
+Valea Oltenilor,olteni,2,44.4877762676083,23.724750222241,Dolj,Vale,4692,Valea Oltenilor,PDT,Limba română
+Lacul Olteanului,oltean,3,44.1663948288944,25.8030050184604,Giurgiu,Lac,4221,Lacul Olteanului,PDT,Limba română
+Puțu Olteanului,oltean,3,43.8596506839886,25.843666381146,Giurgiu,Altele,10616,Puțu Olteanului,PDT,Limba română
+Oltenii,olteni,2,44.5173662379342,25.7476690594857,Giurgiu,Localitate,4239,Oltenii,PDT,Limba română,Olteni,Austriacă,Limba română
+Oltianului,oltean,3,45.6281290049519,22.8269734281237,Hunedoara,Înălțime,12315,Oltianului,Imperiul Habsburgic (1887),Limba română
+Rovina Olteanului,oltean,3,44.5351061922225,26.3059076580947,Ilfov,Altele,8777,Rovina Olteanului,PDT,Limba română
+Olteni,olteni,2,44.3963414870719,25.9467619726905,Ilfov,Localitate,1329,Olteni,Geomil 25000,Limba română
+Olteanul,oltean,3,44.8785758682865,22.9194527069339,Mehedinti,Localitate,3683,Olteanul,PDT,Limba română,Olteanu,Geomil 25000,Limba română,Olteanu,Austriacă,Limba română
 Olteanca,olteancă,3,44.4337603249204,22.9596148666371,Mehedinti,Localitate,3663,Olteanca,PDT,Limba română,Olteanca,Geomil 25000,Limba română
 Olteanca,olteancă,3,44.4470676913355,22.9736563338179,Mehedinti,Înălțime,5197,Olteanca,Geomil 25000,Limba română
+Valea Olteanca,olteancă,3,44.3485372721876,23.1513029152513,Mehedinti,Vale,6165,Valea Olteanca,Geomil 25000,Limba română,Valea Oltenci,Austriacă,Limba română
+Dealul Curătura Olteanului,oltean,3,47.1554975217886,26.4872655983914,Neamt,Deal,9142,Dealul Curătura Olteanului,PDT,Limba română
+Livezile Olteanului,oltean,3,46.9522726425908,26.0610166517275,Neamt,Altele,6476,Livezile Olteanului,PDT,Limba română
+Plaiu Olteanului,oltean,3,47.2704546088292,26.0985516223764,Neamt,Înălțime,9704,Plaiu Olteanului,Moldova (1892-1898),Limba română
+Olteni,olteni,2,44.5191573333643,24.5645450508924,Olt,Localitate,5813,Olteni,Austriacă,Limba română
+Valea Olteni,olteni,2,44.5023901257043,24.4245714050751,Olt,Vale,11692,Valea Olteni,Geomil 25000,Limba română
+Piscul Olteanului,oltean,3,45.151785542658,26.1845155782819,Prahova,Înălțime,12457,Piscul Olteanului,PDT,Limba română
+Olteni,olteni,2,45.225699809936,26.0198413427946,Prahova,Localitate,3993,Olteni,Geomil 25000,Limba română,Olteni,Austriacă,Limba română
+Dealul Olteanului,oltean,3,47.1803555126896,23.5324468849248,Salaj,Deal,8949,Dealul Olteanului,PDT,Limba română
+Crucea Olteanului,oltean,3,45.8165555441653,24.3956443780988,Sibiu,Altele,8002,Crucea Olteanului,PDT,Limba română
+Dealul Oltenilor,olteni,2,46.1544157823039,24.4843932008463,Sibiu,Deal,1899,Dealul Oltenilor,Geomil 25000,Limba română
+Olteanca,olteancă,3,43.8298279408594,24.7948499509453,Teleorman,Localitate,8011,Olteanca,Geomil 25000,Limba română
+Olteni,olteni,2,44.1773279210544,25.2950368161848,Teleorman,Localitate,9451,Olteni,Geomil 25000,Limba română,Olteni ,PDT,Limba română
+Valea Oltenilor,olteni,2,44.0762915141292,25.390680029187,Teleorman,Vale,9026,Valea Oltenilor,PDT,Limba română
 Olteanca,olteancă,3,44.8113938958935,24.1068948274739,Valcea,Localitate,5202,Olteanca,Geomil 25000,Limba română
 Olteanca,olteancă,3,44.8613233567912,24.0978574389153,Valcea,Localitate,5206,Olteanca,Geomil 25000,Limba română
-Olteanca,olteancă,3,46.0961386169,26.9021389942,Bacau,Vale,5290,Olteanca,Geomil 25000,Limba română
-Dealu Olteanca,olteancă,3,44.9680677594204,24.9928178415394,Arges,Deal,6012,Dealu Olteanca,Geomil 25000,Limba română
-Valea Olteanca,olteancă,3,44.3485372721876,23.1513029152513,Mehedinti,Vale,6165,Valea Olteanca,Geomil 25000,Limba română,Valea Oltenci,Austriacă,Limba română
-Olteanca,olteancă,3,43.8298279408594,24.7948499509453,Teleorman,Localitate,8011,Olteanca,Geomil 25000,Limba română
-Valea Olteanului,oltean,3,44.854444261572,25.7390394635669,Dambovita,Vale,1536,Valea Olteanului,Geomil 25000,Limba română
-Piscul Olteanului,oltean,3,45.7946365354766,25.2389583829193,Brasov,Înălțime,2690,Piscul Olteanului,Geomil 25000,Limba română
-Dealu Olteanului,oltean,3,44.8653709894177,24.7798092469233,Arges,Deal,3066,Dealu Olteanului,Geomil 25000,Limba română
-Olteanul,oltean,3,44.8785758682865,22.9194527069339,Mehedinti,Localitate,3683,Olteanul,PDT,Limba română,Olteanu,Geomil 25000,Limba română,Olteanu,Austriacă,Limba română
-Dealul Olteanului,oltean,3,45.2055469592686,24.6920861462369,Arges,Deal,4064,Dealul Olteanului,PDT,Limba română
-Lacul Olteanului,oltean,3,44.1663948288944,25.8030050184604,Giurgiu,Lac,4221,Lacul Olteanului,PDT,Limba română
-La Olteanu,oltean,3,45.5342826930056,27.131469571015,Vrancea,Altele,5258,La Olteanu,Austriacă,Limba română
-Valea Olteanului,oltean,3,46.2363062974133,23.1668500402581,Alba,Vale,5580,Valea Olteanului,Geomil 25000,Limba română
-Pârâu lui Oltean,oltean,3,46.6033141824701,22.9503978973303,Cluj,Vale,5902,Pârâu lui Oltean,Geomil 25000,Limba română
-Livezile Olteanului,oltean,3,46.9522726425908,26.0610166517275,Neamt,Altele,6476,Livezile Olteanului,PDT,Limba română
-Valea Olteanului,oltean,3,45.0239741236252,24.8039404278239,Arges,Vale,6896,Valea Olteanului,Geomil 25000,Limba română
-Crucea Olteanului,oltean,3,45.8165555441653,24.3956443780988,Sibiu,Altele,8002,Crucea Olteanului,PDT,Limba română
-Râpa Olteanul,oltean,3,45.5780724961502,26.9918054788242,Vrancea,Înălțime,8750,Râpa Olteanul,PDT,Limba română
-Rovina Olteanului,oltean,3,44.5351061922225,26.3059076580947,Ilfov,Altele,8777,Rovina Olteanului,PDT,Limba română
-Dealul Olteanului,oltean,3,47.1803555126896,23.5324468849248,Salaj,Deal,8949,Dealul Olteanului,PDT,Limba română
-Dealul Curătura Olteanului,oltean,3,47.1554975217886,26.4872655983914,Neamt,Deal,9142,Dealul Curătura Olteanului,PDT,Limba română
-Puțu Olteanului,oltean,3,45.8579631564573,27.2590133115357,Vrancea,Altele,9649,Puțu Olteanului,Moldova (1892-1898),Limba română
-Plaiu Olteanului,oltean,3,47.2704546088292,26.0985516223764,Neamt,Înălțime,9704,Plaiu Olteanului,Moldova (1892-1898),Limba română
-Puțu Olteanului,oltean,3,43.8596506839886,25.843666381146,Giurgiu,Altele,10616,Puțu Olteanului,PDT,Limba română
-Secătura Olteanului,oltean,3,46.1051443997218,26.4886748733237,Bacau,Altele,10880,Secătura Olteanului,Imperiul Habsburgic (1887),Limba română
-Oltianului,oltean,3,45.6281290049519,22.8269734281237,Hunedoara,Înălțime,12315,Oltianului,Imperiul Habsburgic (1887),Limba română
-Piscul Olteanului,oltean,3,45.151785542658,26.1845155782819,Prahova,Înălțime,12457,Piscul Olteanului,PDT,Limba română
+Valea Olteanca,olteancă,3,44.8985601816149,24.0985969489869,Valcea,Vale,349,Valea Olteanca,Geomil 25000,Limba română
+Dealul Olteanului,olteni,2,44.8644990919472,23.8014341106488,Valcea,Deal,252,Dealul Olteanului,Geomil 25000,Limba română
+Olteni,olteni,2,45.1429503670711,24.3812975758682,Valcea,Localitate,1447,Olteni,Geomil 25000,Limba română
+Olteni,olteni,2,44.9813951470753,24.2650860015818,Valcea,Localitate,8430,Olteni,PDT,Limba română
 Oltenești,oltenești,3,46.5838516694478,27.9012275472673,Vaslui,Localitate,2199,Oltenești,Geomil 25000,Limba română
-Olteana,olteană,3,45.3659605302323,22.1117501783642,Caras Severin,Altele,4327,Olteana,Geomil 25000,Limba română
+La Olteanu,oltean,3,45.5342826930056,27.131469571015,Vrancea,Altele,5258,La Olteanu,Austriacă,Limba română
+Puțu Olteanului,oltean,3,45.8579631564573,27.2590133115357,Vrancea,Altele,9649,Puțu Olteanului,Moldova (1892-1898),Limba română
+Râpa Olteanul,oltean,3,45.5780724961502,26.9918054788242,Vrancea,Înălțime,8750,Râpa Olteanul,PDT,Limba română
+Olteni,olteni,2,45.7330735079673,27.1005293136509,Vrancea,Localitate,766,Olteni,Geomil 25000,Limba română,Olteni,Geomil 25000,Limba română
+Olteni,olteni,2,45.7298311423496,27.0930589854834,Vrancea,Localitate,5257,Olteni,Austriacă,Limba română

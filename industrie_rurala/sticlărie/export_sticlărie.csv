@@ -1,22 +1,22 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
-Sticlăria,sticlărie,2,45.1101705085724,24.3981198216101,Valcea,Altele,328,Sticlăria,Geomil 25000,Limba română
-Plaiul Sticlăriei,sticlărie,2,45.0470811200981,25.3361704190833,Dambovita,Înălțime,1504,Plaiul Sticlăriei,Geomil 25000,Limba română
-Dealul Sticlăriei,sticlărie,2,45.5386585816265,25.4648890142195,Brasov,Deal,1546,Dealul Sticlăriei,Geomil 25000,Limba română
-Sticlăria,sticlărie,2,44.6991603206449,26.0104242945322,Ilfov,Altele,4250,Sticlăria,PDT,Limba română
-La Sticlărie,sticlărie,2,44.6887117043797,25.9903014844664,Ilfov,Altele,4251,La Sticlărie,PDT,Limba română
-Fabrică de Sticlărie,sticlărie,2,46.1597977926626,26.6109305609029,Bacau,Altele,5308,Fabrică de Sticlărie,PDT,Limba română
+În Glăjărie,glăjărie,3,45.312747131168,24.6725175030107,Arges,Altele,11172,În Glăjărie,ANCPI,Limba română
+Valea Sticlarului,sticlar,3,46.2998567613861,26.6978926467179,Bacau,Vale,5328,Valea Sticlarului,PDT,Limba română
 Dealul Sticlăriei,sticlărie,2,46.1742821786832,26.6524985532879,Bacau,Deal,5311,Dealul Sticlăriei,Geomil 25000,Limba română
-Valea Sticlăriei,sticlărie,2,47.4007161242794,26.7960637847812,Iasi,Vale,6627,Valea Sticlăriei,Geomil 25000,Limba română
+Fabrică de Sticlărie,sticlărie,2,46.1597977926626,26.6109305609029,Bacau,Altele,5308,Fabrică de Sticlărie,PDT,Limba română
 Pădurea Sticlăriei,sticlărie,2,46.5477819778575,26.3384767836556,Bacau,Pădure,7880,Pădurea Sticlăriei,Geomil 25000,Limba română
 Pârâul Sticlăriei,sticlărie,2,46.2106625477704,26.4712211124717,Bacau,Vale,7925,Pârâul Sticlăriei,PDT,Limba română
+Valea Glăgeria,glăjărie,3,45.5267086452756,25.4394538964599,Brasov,Vale,12832,Valea Glăgeria,Geomil 25000,Limba română
+Valea Glăjăriei,glăjărie,3,45.9868812794503,25.394814434324,Brasov,Vale,11384,Valea Glăjăriei,Geomil 25000,Limba română
+Dealul Sticlăriei,sticlărie,2,45.5386585816265,25.4648890142195,Brasov,Deal,1546,Dealul Sticlăriei,Geomil 25000,Limba română
 Valea Sticlăriei,sticlărie,2,45.5974090015847,25.5268478184191,Brasov,Vale,8575,Valea Sticlăriei,Geomil 25000,Limba română
+Plaiul Sticlăriei,sticlărie,2,45.0470811200981,25.3361704190833,Dambovita,Înălțime,1504,Plaiul Sticlăriei,Geomil 25000,Limba română
 Sticlărie,sticlărie,2,46.9629472553706,25.5676676295571,Harghita,Altele,13880,Sticlărie,PDT,Limba română
+Pârâu Glăjeria,glăjărie,3,45.7531373390612,23.3052677028324,Hunedoara,Vale,9840,Pârâu Glăjeria,Geomil 25000,Limba română
+Valea Sticlăriei,sticlărie,2,47.4007161242794,26.7960637847812,Iasi,Vale,6627,Valea Sticlăriei,Geomil 25000,Limba română
+La Sticlărie,sticlărie,2,44.6887117043797,25.9903014844664,Ilfov,Altele,4251,La Sticlărie,PDT,Limba română
+Sticlăria,sticlărie,2,44.6991603206449,26.0104242945322,Ilfov,Altele,4250,Sticlăria,PDT,Limba română
+Glăjărie,glăjărie,3,46.8357891913173,24.9343752840195,Mures,Localitate,6064,Glăjărie,Geomil 25000,Limba română
 Plaiul Sticlăriei,sticlărie,2,45.0661808424143,25.6951870559128,Prahova,Înălțime,14260,Plaiul Sticlăriei,PDT,Limba română
 Glăjărie,glăjărie,3,45.6689886682359,24.5032425074761,Sibiu,Altele,1469,Glăjărie,Geomil 25000,Limba română
 La Glăjărie,glăjărie,3,45.6868456063948,24.6622389055181,Sibiu,Altele,4956,La Glăjărie,Geomil 25000,Limba română
-Glăjărie,glăjărie,3,46.8357891913173,24.9343752840195,Mures,Localitate,6064,Glăjărie,Geomil 25000,Limba română
-Pârâu Glăjeria,glăjărie,3,45.7531373390612,23.3052677028324,Hunedoara,Vale,9840,Pârâu Glăjeria,Geomil 25000,Limba română
-În Glăjărie,glăjărie,3,45.312747131168,24.6725175030107,Arges,Altele,11172,În Glăjărie,ANCPI,Limba română
-Valea Glăjăriei,glăjărie,3,45.9868812794503,25.394814434324,Brasov,Vale,11384,Valea Glăjăriei,Geomil 25000,Limba română
-Valea Glăgeria,glăjărie,3,45.5267086452756,25.4394538964599,Brasov,Vale,12832,Valea Glăgeria,Geomil 25000,Limba română
-Valea Sticlarului,sticlar,3,46.2998567613861,26.6978926467179,Bacau,Vale,5328,Valea Sticlarului,PDT,Limba română
+Sticlăria,sticlărie,2,45.1101705085724,24.3981198216101,Valcea,Altele,328,Sticlăria,Geomil 25000,Limba română

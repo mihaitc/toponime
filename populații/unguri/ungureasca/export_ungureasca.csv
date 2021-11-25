@@ -1,15 +1,15 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
-Ungureasca,ungureasca,3,46.6770025509175,22.2092626420873,Bihor,Altele,985,Ungureasca,Geomil 25000,Limba română
-Pădurea Ungurească,ungureasca,3,47.5400043668531,23.8433956029223,Maramures,Pădure,1036,Pădurea Ungurească,Geomil 25000,Limba română
-Bretea ungurească,ungureasca,3,45.6572591127147,23.0015408856592,Hunedoara,Localitate,5557,Bretea ungurească,PDT,Limba română
-Bunea Ungurească,ungureasca,3,45.9241003043565,22.0915056536846,Timis,Localitate,6312,Bunea Ungurească,PDT,Limba română
-Valea Ungurească,ungureasca,3,45.4843315327876,21.4860778495743,Caras Severin,Vale,7609,Valea Ungurească,PDT,Limba română
-Via Ungurească,ungureasca,3,47.1381583689076,24.4143911086436,Bistrita Nasaud,Altele,9053,Via Ungurească,PDT,Limba română
-Böca unguriască,ungureasca,3,46.7347747590813,24.7983676796262,Mures,Localitate,10473,Böca unguriască,Transilvania (1869-1870),Limba română
+Bucerdea Ungurească,ungureasca,3,46.1597041411345,23.529388063349,Alba,Localitate,10673,Bucerdea Ungurească,Imperiul Habsburgic (1887),Limba română
 Ghribova unguresce,ungureasca,3,46.2579314630824,23.6692255535222,Alba,Localitate,10502,Ghribova unguresce,Transilvania (1869-1870),Limba română
 Lopadea ungureasca,ungureasca,3,46.2915402441299,23.818343695315,Alba,Localitate,10543,Lopadea ungureasca,Imperiul Habsburgic (1887),Limba română
-Nimigea ungurească,ungureasca,3,47.2534208114816,24.2999899628192,Bistrita Nasaud,Localitate,10584,Nimigea ungurească,Imperiul Habsburgic (1887),Limba română
-Bucerdea Ungurească,ungureasca,3,46.1597041411345,23.529388063349,Alba,Localitate,10673,Bucerdea Ungurească,Imperiul Habsburgic (1887),Limba română
-Pădurea Ungurasca,ungureasca,3,47.3769595144363,22.9140659789939,Salaj,Pădure,10785,Pădurea Ungurasca,Imperiul Habsburgic (1887),Limba română
-Valea Ungurească,ungureasca,3,47.9029677273648,23.8041579746272,Maramures,Vale,11519,Valea Ungurească,Geomil 25000,Limba română
 Măgura Ungurească,ungureasca,3,46.1180144567726,23.2170890781921,Alba,Înălțime,11952,Măgura Ungurească,PDT,Limba română
+Ungureasca,ungureasca,3,46.6770025509175,22.2092626420873,Bihor,Altele,985,Ungureasca,Geomil 25000,Limba română
+Nimigea ungurească,ungureasca,3,47.2534208114816,24.2999899628192,Bistrita Nasaud,Localitate,10584,Nimigea ungurească,Imperiul Habsburgic (1887),Limba română
+Via Ungurească,ungureasca,3,47.1381583689076,24.4143911086436,Bistrita Nasaud,Altele,9053,Via Ungurească,PDT,Limba română
+Valea Ungurească,ungureasca,3,45.4843315327876,21.4860778495743,Caras Severin,Vale,7609,Valea Ungurească,PDT,Limba română
+Bretea ungurească,ungureasca,3,45.6572591127147,23.0015408856592,Hunedoara,Localitate,5557,Bretea ungurească,PDT,Limba română
+Pădurea Ungurească,ungureasca,3,47.5400043668531,23.8433956029223,Maramures,Pădure,1036,Pădurea Ungurească,Geomil 25000,Limba română
+Valea Ungurească,ungureasca,3,47.9029677273648,23.8041579746272,Maramures,Vale,11519,Valea Ungurească,Geomil 25000,Limba română
+Böca unguriască,ungureasca,3,46.7347747590813,24.7983676796262,Mures,Localitate,10473,Böca unguriască,Transilvania (1869-1870),Limba română
+Pădurea Ungurasca,ungureasca,3,47.3769595144363,22.9140659789939,Salaj,Pădure,10785,Pădurea Ungurasca,Imperiul Habsburgic (1887),Limba română
+Bunea Ungurească,ungureasca,3,45.9241003043565,22.0915056536846,Timis,Localitate,6312,Bunea Ungurească,PDT,Limba română

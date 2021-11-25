@@ -1,8 +1,8 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
-Coasta Țigănimei,țigănime,4,48.1242260062815,26.9013343841915,Botosani,Înălțime,4876,Coasta Țigănimei,PDT,Limba română
-Mahalaua Țigănimea,țigănime,4,48.2274163846164,26.6260828777997,Botosani,Localitate,4883,Mahalaua Țigănimea,PDT,Limba română
-Cotu Țigănimi,țigănime,4,48.1537624321183,26.5589084244268,Botosani,Localitate,4886,Cotu Țigănimi,PDT,Limba română
-Pârâul Țigănimii,țigănime,4,47.8977325211574,26.1248720340731,Suceava,Vale,7258,Pârâul Țigănimii,PDT,Limba română
-Dealul Țigănimei,țigănime,4,46.8949983845776,26.8738187918174,Neamt,Deal,7811,Dealul Țigănimei,PDT,Limba română
 Țigănime,țigănime,4,46.4694552854625,26.9473358950634,Bacau,Altele,9517,Țigănime,PDT,Limba română
+Coasta Țigănimei,țigănime,4,48.1242260062815,26.9013343841915,Botosani,Înălțime,4876,Coasta Țigănimei,PDT,Limba română
+Cotu Țigănimi,țigănime,4,48.1537624321183,26.5589084244268,Botosani,Localitate,4886,Cotu Țigănimi,PDT,Limba română
+Mahalaua Țigănimea,țigănime,4,48.2274163846164,26.6260828777997,Botosani,Localitate,4883,Mahalaua Țigănimea,PDT,Limba română
 Vâlceaua Țigănimei,țigănime,4,45.032214842087,23.1347234733259,Gorj,Vale,9790,Vâlceaua Țigănimei,PDT,Limba română
+Dealul Țigănimei,țigănime,4,46.8949983845776,26.8738187918174,Neamt,Deal,7811,Dealul Țigănimei,PDT,Limba română
+Pârâul Țigănimii,țigănime,4,47.8977325211574,26.1248720340731,Suceava,Vale,7258,Pârâul Țigănimii,PDT,Limba română

@@ -1,67 +1,67 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Dealu Chiliilor,chilii,2,44.8970551907035,23.0772451827619,Gorj,Deal,207,Dealu Chiliilor,Geomil 25000,Limba română
-Valea Chiliilor,chilii,2,44.7112350821926,22.9770539324664,Mehedinti,Vale,419,Valea Chiliilor,Geomil 25000,Limba română
-Chilia,chilii,2,44.4898253972842,22.6553823907783,Mehedinti,Înălțime,425,Chilia,Geomil 25000,Limba română
-Colțul Chiliilor,chilii,2,45.5702599206645,25.2460454807652,Brasov,Altele,607,Colțul Chiliilor,Geomil 25000,Limba română
 Lunca Chiliei,chilii,2,45.9977545994995,23.6128156317312,Alba,Apă-deal-câmpie,1147,Lunca Chiliei,Geomil 25000,Limba română
+Chilii,chilii,2,45.239280442387,25.0533827332025,Arges,Localitate,4963,Chilii,Geomil 25000,Limba română,Chilii,PDT,Limba română
+Pârâul Chiliei,chilii,2,45.2626400339377,24.7335909791077,Arges,Vale,11116,Pârâul Chiliei,PDT,Limba română
+Pârâul Valea Chiliilor,chilii,2,45.2166531122046,25.2206430859618,Arges,Vale,5047,Pârâul Valea Chiliilor,Geomil 25000,Limba română
+Chilia Benei,chilii,2,46.3415274809821,27.1291456256769,Bacau,Localitate,7839,Chilia Benei,Geomil 25000,Limba română
 Dealul Chiliei,chilii,2,46.7251249006107,27.1677314679236,Bacau,Deal,1605,Dealul Chiliei,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,46.3461680431526,26.6857958468313,Bacau,Deal,4579,Dealul Chiliei,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,46.3266363675883,26.619306135535,Bacau,Deal,5326,Dealul Chiliei,PDT,Limba română
+Dealul Chiliei,chilii,2,46.2434275219691,27.1540653697745,Bacau,Deal,7844,Dealul Chiliei,Geomil 25000,Limba română
+La Chilii,chilii,2,46.623521782821,26.4288154848837,Bacau,Altele,9160,La Chilii,PDT,Limba română
+Pârâul Chiliei,chilii,2,46.3094288166653,26.7352070339067,Bacau,Vale,5330,Pârâul Chiliei,PDT,Limba română
+Pârâul Chiliei,chilii,2,46.2439365154505,26.8915719236686,Bacau,Vale,13594,Pârâul Chiliei,PDT,Limba română
+Colțul Chiliilor,chilii,2,45.5702599206645,25.2460454807652,Brasov,Altele,607,Colțul Chiliilor,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,46.1192189593762,25.1871999730891,Brasov,Deal,7943,Dealul Chiliei,Geomil 25000,Limba română,Vârful Chilia,PDT,Limba română
+Chilia,chilii,2,45.340630530052,26.4653571407681,Buzau,Localitate,8772,Chilia,PDT,Limba română
+Chiliile,chilii,2,45.4394833925127,26.6136377118887,Buzau,Localitate,11198,Chiliile,ANCPI,Limba română
+La Chili,chilii,2,45.580419171969,26.6507093871215,Buzau,Altele,8759,La Chili,PDT,Limba română
+Muchia Chiliilor,chilii,2,45.2939589244773,26.4153679160423,Buzau,Înălțime,12600,Muchia Chiliilor,Geomil 25000,Limba română
+Piscul la Chilii,chilii,2,45.4552388476055,26.5089071674207,Buzau,Înălțime,8764,Piscul la Chilii,PDT,Limba română
+Dealu Chiliilor,chilii,2,45.0893404510577,21.5472559493357,Caras Severin,Deal,5708,Dealu Chiliilor,Geomil 25000,Limba română
+Valea Chiliei,chilii,2,46.0455273376062,27.347293986731,Galati,Vale,11429,Valea Chiliei,Geomil 25000,Limba română
+Dealu Chiliilor,chilii,2,44.8970551907035,23.0772451827619,Gorj,Deal,207,Dealu Chiliilor,Geomil 25000,Limba română
+Dealul Chilii,chilii,2,44.9201616677441,23.3719355526768,Gorj,Deal,12449,Dealul Chilii,PDT,Limba română
+Chilia,chilii,2,46.9197636532307,25.7770121679045,Harghita,Vale,7136,Chilia,Geomil 25000,Limba română
+Dealu Chilii,chilii,2,46.1477438948222,22.8930553067473,Hunedoara,Deal,9666,Dealu Chilii,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,47.3005335883626,26.8117278604632,Iasi,Deal,11398,Dealul Chiliei,Geomil 25000,Limba română
+Poiana Chiliei,chilii,2,47.1611498851678,26.71177285835,Iasi,Poiană,14148,Poiana Chiliei,Moldova (1892-1898),Limba română
+Chilia,chilii,2,44.4898253972842,22.6553823907783,Mehedinti,Înălțime,425,Chilia,Geomil 25000,Limba română
+Valea Chiliilor,chilii,2,44.7112350821926,22.9770539324664,Mehedinti,Vale,419,Valea Chiliilor,Geomil 25000,Limba română
+Chilie,chilii,2,46.4527130743924,24.4844298438164,Mures,Altele,7337,Chilie,Geomil 25000,Limba română
+Chilia,chilii,2,47.0399933615451,26.6295115199573,Neamt,Localitate,9710,Chilia,Moldova (1892-1898),Limba română
+Chilii,chilii,2,46.8024940669045,27.0335296238773,Neamt,Localitate,9629,Chilii,Geomil 25000,Limba română,Chiliele,Moldova (1892-1898),Limba română
+Dealul Chiliei,chilii,2,47.2916284287478,26.1915242478971,Neamt,Deal,7400,Dealul Chiliei,Geomil 25000,Limba română
 Dealul Chiliilor,chilii,2,46.8226814997947,27.0620007330878,Neamt,Deal,1620,Dealul Chiliilor,Geomil 25000,Limba română
-La Chiliuțe,chilii,2,46.526357067922,27.914785223955,Vaslui,Altele,1687,La Chiliuțe,Geomil 25000,Limba română
+La Chilie,chilii,2,46.7712258849345,26.1483682819079,Neamt,Altele,6524,La Chilie,PDT,Limba română
 La Chilii,chilii,2,46.8181370980543,26.3635668069755,Neamt,Altele,2031,La Chilii,Geomil 25000,Limba română
 La Chilii,chilii,2,47.0723630747382,26.1657521906726,Neamt,Altele,2055,La Chilii,Geomil 25000,Limba română
-Dealul Chiliilor,chilii,2,45.8763331527955,26.7708318660401,Vrancea,Deal,2134,Dealul Chiliilor,Geomil 25000,Limba română,Dealul Chiliilor,PDT,Limba română
-Pădurea Chiliei,chilii,2,47.7583406893902,26.2097278338916,Suceava,Pădure,2301,Pădurea Chiliei,Geomil 25000,Limba română
-Valea Chiliile,chilii,2,44.7229746672455,24.0358720133994,Valcea,Vale,2949,Valea Chiliile,Geomil 25000,Limba română
-Chilii,chilii,2,44.2666728978603,24.2080687466467,Olt,Localitate,2973,Chilii,Geomil 25000,Limba română
-Vârful Chilii,chilii,2,45.0771413158649,26.1139811227223,Prahova,Înălțime,3980,Vârful Chilii,PDT,Limba română
-Pădurea Chilia,chilii,2,47.6295247520409,23.1111296155247,Satu Mare,Pădure,4424,Pădurea Chilia,Geomil 25000,Limba română
-Dealul Chiliei,chilii,2,46.3461680431526,26.6857958468313,Bacau,Deal,4579,Dealul Chiliei,Geomil 25000,Limba română
-Dealul Chiliei,chilii,2,46.6329082055773,27.4823549640847,Vaslui,Deal,4620,Dealul Chiliei,Geomil 25000,Limba română
-Chilii,chilii,2,45.239280442387,25.0533827332025,Arges,Localitate,4963,Chilii,Geomil 25000,Limba română,Chilii,PDT,Limba română
-Pârâul Valea Chiliilor,chilii,2,45.2166531122046,25.2206430859618,Arges,Vale,5047,Pârâul Valea Chiliilor,Geomil 25000,Limba română
-La Chilii,chilii,2,45.9325825082119,26.5339434745733,Vrancea,Altele,5265,La Chilii,Geomil 25000,Limba română
-Dealul Chiliei,chilii,2,46.3266363675883,26.619306135535,Bacau,Deal,5326,Dealul Chiliei,PDT,Limba română
-Pârâul Chiliei,chilii,2,46.3094288166653,26.7352070339067,Bacau,Vale,5330,Pârâul Chiliei,PDT,Limba română
-Pârâul Chiliei,chilii,2,45.8399821022205,26.9344157335956,Vrancea,Vale,5359,Pârâul Chiliei,PDT,Limba română
-Dealu Chiliilor,chilii,2,45.0893404510577,21.5472559493357,Caras Severin,Deal,5708,Dealu Chiliilor,Geomil 25000,Limba română
-Pădurea Chilia,chilii,2,47.6475323941466,23.0428202990879,Satu Mare,Pădure,5958,Pădurea Chilia,Geomil 25000,Limba română
-Pădurea Chiliei,chilii,2,47.608461620674,25.8161875872196,Suceava,Pădure,6324,Pădurea Chiliei,Geomil 25000,Limba română
-La Chilie,chilii,2,46.7712258849345,26.1483682819079,Neamt,Altele,6524,La Chilie,PDT,Limba română
-Chilia,chilii,2,46.9197636532307,25.7770121679045,Harghita,Vale,7136,Chilia,Geomil 25000,Limba română
-Obcina Chiliei,chilii,2,46.9195781642868,25.9377341249894,Neamt,Înălțime,7140,Obcina Chiliei,Geomil 25000,Limba română
-La Chilii,chilii,2,47.9591537277238,23.4206694091363,Satu Mare,Altele,7227,La Chilii,PDT,Limba română
-Chilie,chilii,2,46.4527130743924,24.4844298438164,Mures,Altele,7337,Chilie,Geomil 25000,Limba română
 La Chilii,chilii,2,47.2019689707954,26.2620839065318,Neamt,Altele,7396,La Chilii,Geomil 25000,Limba română
+Obcina Chiliei,chilii,2,46.9195781642868,25.9377341249894,Neamt,Înălțime,7140,Obcina Chiliei,Geomil 25000,Limba română
+Pârâul Chiliilor,chilii,2,46.8199551572604,26.2220296870737,Neamt,Vale,13662,Pârâul Chiliilor,PDT,Limba română
 Piciorul Chiliei,chilii,2,47.173357436803,26.185886424821,Neamt,Înălțime,7397,Piciorul Chiliei,Geomil 25000,Limba română
-Dealul Chiliei,chilii,2,47.2916284287478,26.1915242478971,Neamt,Deal,7400,Dealul Chiliei,Geomil 25000,Limba română
-Chilia Benei,chilii,2,46.3415274809821,27.1291456256769,Bacau,Localitate,7839,Chilia Benei,Geomil 25000,Limba română
-Dealul Chiliei,chilii,2,46.2434275219691,27.1540653697745,Bacau,Deal,7844,Dealul Chiliei,Geomil 25000,Limba română
-Dealul Chiliei,chilii,2,46.1192189593762,25.1871999730891,Brasov,Deal,7943,Dealul Chiliei,Geomil 25000,Limba română,Vârful Chilia,PDT,Limba română
-Chiliile,chilii,2,44.2051956602329,24.4127777407279,Olt,Localitate,8114,Chiliile,PDT,Limba română
 Chilia,chilii,2,44.7825534081772,24.560507224306,Olt,Localitate,8127,Chilia,PDT,Limba română,Chilia,Geomil 25000,Limba română
-La Chili,chilii,2,45.580419171969,26.6507093871215,Buzau,Altele,8759,La Chili,PDT,Limba română
-Piscul la Chilii,chilii,2,45.4552388476055,26.5089071674207,Buzau,Înălțime,8764,Piscul la Chilii,PDT,Limba română
-Chilia,chilii,2,45.340630530052,26.4653571407681,Buzau,Localitate,8772,Chilia,PDT,Limba română
-La Chilii,chilii,2,46.623521782821,26.4288154848837,Bacau,Altele,9160,La Chilii,PDT,Limba română
-Valea Chiliilor,chilii,2,45.7295686870885,26.9443265244627,Vrancea,Vale,9238,Valea Chiliilor,PDT,Limba română
-Chilii,chilii,2,46.8024940669045,27.0335296238773,Neamt,Localitate,9629,Chilii,Geomil 25000,Limba română,Chiliele,Moldova (1892-1898),Limba română
-Dealu Chilii,chilii,2,46.1477438948222,22.8930553067473,Hunedoara,Deal,9666,Dealu Chilii,Geomil 25000,Limba română
-Chilia,chilii,2,47.0399933615451,26.6295115199573,Neamt,Localitate,9710,Chilia,Moldova (1892-1898),Limba română
-Vârful Chiliilor,chilii,2,47.4612817310127,25.4630118689545,Suceava,Înălțime,10715,Vârful Chiliilor,Geomil 25000,Limba română
+Chilii,chilii,2,44.2666728978603,24.2080687466467,Olt,Localitate,2973,Chilii,Geomil 25000,Limba română
+Chiliile,chilii,2,44.2051956602329,24.4127777407279,Olt,Localitate,8114,Chiliile,PDT,Limba română
+Valea Chilii,chilii,2,45.1467501111799,25.9506056034257,Prahova,Vale,11133,Valea Chilii,PDT,Limba română
+Vârful Chilii,chilii,2,45.0771413158649,26.1139811227223,Prahova,Înălțime,3980,Vârful Chilii,PDT,Limba română
+La Chilii,chilii,2,47.9591537277238,23.4206694091363,Satu Mare,Altele,7227,La Chilii,PDT,Limba română
+Pădurea Chilia,chilii,2,47.6295247520409,23.1111296155247,Satu Mare,Pădure,4424,Pădurea Chilia,Geomil 25000,Limba română
+Pădurea Chilia,chilii,2,47.6475323941466,23.0428202990879,Satu Mare,Pădure,5958,Pădurea Chilia,Geomil 25000,Limba română
+Pe Chilii,chilii,2,47.9715119609721,23.3542604218865,Satu Mare,Altele,12040,Pe Chilii,Geomil 25000,Limba română
 Chilia,chilii,2,47.3465733564999,25.3725231774419,Suceava,Altele,10723,Chilia,Imperiul Habsburgic (1887),Limba română
 Dealul Chiliei,chilii,2,47.6509787612182,26.0188070699672,Suceava,Deal,10749,Dealul Chiliei,Imperiul Habsburgic (1887),Limba română
-Pârâul Chiliei,chilii,2,45.2626400339377,24.7335909791077,Arges,Vale,11116,Pârâul Chiliei,PDT,Limba română
-Valea Chilii,chilii,2,45.1467501111799,25.9506056034257,Prahova,Vale,11133,Valea Chilii,PDT,Limba română
-Chiliile,chilii,2,45.4394833925127,26.6136377118887,Buzau,Localitate,11198,Chiliile,ANCPI,Limba română
-Dealul Chiliei,chilii,2,47.3005335883626,26.8117278604632,Iasi,Deal,11398,Dealul Chiliei,Geomil 25000,Limba română
-Valea Chiliei,chilii,2,46.0455273376062,27.347293986731,Galati,Vale,11429,Valea Chiliei,Geomil 25000,Limba română
-Pe Chilii,chilii,2,47.9715119609721,23.3542604218865,Satu Mare,Altele,12040,Pe Chilii,Geomil 25000,Limba română
-Dealul Chilii,chilii,2,44.9201616677441,23.3719355526768,Gorj,Deal,12449,Dealul Chilii,PDT,Limba română
-Kilia,chilii,2,45.0850305963206,24.0074930461272,Valcea,Localitate,12591,Kilia,Austriacă,Limba română
-Muchia Chiliilor,chilii,2,45.2939589244773,26.4153679160423,Buzau,Înălțime,12600,Muchia Chiliilor,Geomil 25000,Limba română
-Valea Chiliei,chilii,2,46.0084886951561,26.9788178757704,Vrancea,Vale,13332,Valea Chiliei,Moldova (1892-1898),Limba română
-Pârâul Chiliei,chilii,2,46.2439365154505,26.8915719236686,Bacau,Vale,13594,Pârâul Chiliei,PDT,Limba română
-Pârâul Chiliilor,chilii,2,46.8199551572604,26.2220296870737,Neamt,Vale,13662,Pârâul Chiliilor,PDT,Limba română
 Killia,chilii,2,47.4927336513753,25.4253427859928,Suceava,Altele,13777,Killia,Bucovina (1861-1864),Limba română
+Pădurea Chiliei,chilii,2,47.7583406893902,26.2097278338916,Suceava,Pădure,2301,Pădurea Chiliei,Geomil 25000,Limba română
+Pădurea Chiliei,chilii,2,47.608461620674,25.8161875872196,Suceava,Pădure,6324,Pădurea Chiliei,Geomil 25000,Limba română
+Vârful Chiliilor,chilii,2,47.4612817310127,25.4630118689545,Suceava,Înălțime,10715,Vârful Chiliilor,Geomil 25000,Limba română
+Kilia,chilii,2,45.0850305963206,24.0074930461272,Valcea,Localitate,12591,Kilia,Austriacă,Limba română
+Valea Chiliile,chilii,2,44.7229746672455,24.0358720133994,Valcea,Vale,2949,Valea Chiliile,Geomil 25000,Limba română
+Dealul Chiliei,chilii,2,46.6329082055773,27.4823549640847,Vaslui,Deal,4620,Dealul Chiliei,Geomil 25000,Limba română
 Dealul Chiliei,chilii,2,46.4109320749427,27.9005165244834,Vaslui,Deal,13945,Dealul Chiliei,Moldova (1892-1898),Limba română
-Poiana Chiliei,chilii,2,47.1611498851678,26.71177285835,Iasi,Poiană,14148,Poiana Chiliei,Moldova (1892-1898),Limba română
+La Chiliuțe,chilii,2,46.526357067922,27.914785223955,Vaslui,Altele,1687,La Chiliuțe,Geomil 25000,Limba română
+Dealul Chiliilor,chilii,2,45.8763331527955,26.7708318660401,Vrancea,Deal,2134,Dealul Chiliilor,Geomil 25000,Limba română,Dealul Chiliilor,PDT,Limba română
+La Chilii,chilii,2,45.9325825082119,26.5339434745733,Vrancea,Altele,5265,La Chilii,Geomil 25000,Limba română
+Pârâul Chiliei,chilii,2,45.8399821022205,26.9344157335956,Vrancea,Vale,5359,Pârâul Chiliei,PDT,Limba română
+Valea Chiliei,chilii,2,46.0084886951561,26.9788178757704,Vrancea,Vale,13332,Valea Chiliei,Moldova (1892-1898),Limba română
+Valea Chiliilor,chilii,2,45.7295686870885,26.9443265244627,Vrancea,Vale,9238,Valea Chiliilor,PDT,Limba română

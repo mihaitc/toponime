@@ -1,42 +1,42 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Valea Remetea,remetea,2,45.9750198662575,25.4850655049613,Brasov,Vale,2738,Valea Remetea,Geomil 25000,Limba română
-Pădurea Remetu,remetea,2,47.1864416549645,22.3518867220055,Bihor,Pădure,4178,Pădurea Remetu,Geomil 25000,Limba română
-Pădurea Remetea,remetea,2,46.9832189730254,25.5222658963951,Harghita,Pădure,5417,Pădurea Remetea,Geomil 25000,Limba română
-Remetea,remetea,2,46.9869126012338,24.844961194006,Mures,Altele,5444,Remetea,PDT,Limba română,Remetea,Geomil 25000,Limba română
-Remetea,remetea,2,46.1203743956138,23.4295001190658,Alba,Localitate,5576,Remetea,Geomil 25000,Limba română
-Valea Remetei,remetea,2,45.5042656024963,21.8952922856983,Caras Severin,Vale,5684,Valea Remetei,Geomil 25000,Limba română,Valea Remetea,PDT,Limba română
-Pădurea Remetea Oașului,remetea,2,47.8852588026328,23.2987011221038,Satu Mare,Pădure,5969,Pădurea Remetea Oașului,Geomil 25000,Limba română
-Câmpia Remetea,remetea,2,45.8900395679702,25.845512493722,Covasna,Câmp,6055,Câmpia Remetea,Geomil 25000,Limba română
-La Remetea,remetea,2,46.1596840766919,22.90382197585,Hunedoara,Altele,6253,La Remetea,Geomil 25000,Limba română
-Dealul Remetea,remetea,2,45.7667456128953,25.343071837043,Brasov,Deal,6816,Dealul Remetea,Geomil 25000,Limba română
-Remetea,remetea,2,46.7390627659305,22.3489394596979,Bihor,Localitate,6989,Remetea,Geomil 25000,Limba română
-Rimetea,remetea,2,46.4534330209952,23.567647273985,Alba,Localitate,7062,Rimetea,Geomil 25000,Limba română
-Remetea,remetea,2,46.5725759761649,24.5203321549323,Mures,Localitate,7332,Remetea,Geomil 25000,Limba română
-Remetea Mare,remetea,2,45.7816429587193,21.3765287166047,Timis,Localitate,7640,Remetea Mare,Geomil 25000,Limba română
-Pe Remetea,remetea,2,45.7985296097564,24.2338611821877,Sibiu,Altele,7995,Pe Remetea,PDT,Limba română
-Valea Remetea,remetea,2,47.32188468021,24.630628264132,Bistrita Nasaud,Vale,9865,Valea Remetea,Geomil 25000,Limba română
-Remetea,remetea,2,46.7944705160031,25.4518496875331,Harghita,Localitate,10036,Remetea,Geomil 25000,Limba română
-Remetea Mică,remetea,2,45.9654471753247,21.4778466858913,Timis,Localitate,10355,Remetea Mică,Geomil 25000,Limba română
-Remetea Chiorului,remetea,2,47.5278612515383,23.5452852605991,Maramures,Localitate,10560,Remetea Chiorului,PDT,Limba română,Remete,Imperiul Habsburgic (1887),Limba română
-Remetea,remetea,2,45.8039997248798,24.7945241681965,Brasov,Altele,11777,Remetea,Geomil 25000,Limba română
-Valea Remeți,remeți,3,47.3800418511489,22.8439989243629,Salaj,Vale,2617,Valea Remeți,Geomil 25000,Limba română
-Remeți,remeți,3,46.8469375022175,22.6559728560142,Bihor,Localitate,5917,Remeți,Geomil 25000,Limba română
-Valea Remeți,remeți,3,47.4048348124816,22.8282136182785,Salaj,Vale,5943,Valea Remeți,Geomil 25000,Limba română
-Remeți,remeți,3,47.0551445653591,23.4571156420272,Salaj,Altele,6925,Remeți,Geomil 25000,Limba română
-Remeți,remeți,3,47.9900178404963,23.6382851525923,Maramures,Localitate,7225,Remeți,PDT,Limba română,Remeți,Geomil 25000,Limba română
-Valea Rimeților,remeți,3,46.9554405937897,22.3727478279003,Bihor,Vale,10277,Valea Rimeților,PDT,Limba română
-Remeți,remeți,3,47.4800378416658,23.3349989456784,Maramures,Localitate,10562,Remeți,PDT,Limba română
-Pădurea Remeteag,remeteag,3,46.1542628527785,21.0315090959487,Arad,Pădure,5644,Pădurea Remeteag,PDT,Limba română
-Remete,remete,3,46.8736986232569,23.0173636243427,Cluj,Înălțime,7016,Remete,Geomil 25000,Limba română
-Remeteu,remete,3,47.7004892921107,23.306397393718,Satu Mare,Localitate,10317,Remeteu,Ungară 1869,Limba română
-Remete,remete,3,46.8812778393022,22.9179056830561,Cluj,Localitate,10429,Remete,PDT,Limba română,Remete,Transilvania (1869-1870),Limba română
-Remete,remete,3,45.7650304088564,25.7999549976871,Covasna,Altele,10877,Remete,Imperiul Habsburgic (1887),Limba română
 Valea Remete,remete,3,46.320919602974,23.5826212825631,Alba,Vale,11832,Valea Remete,Imperiul Habsburgic (1887),Limba română
-Remete,remete,3,46.2922851749184,25.3993750862495,Harghita,Localitate,12556,Remete,Transilvania (1769-1773),Limba română,Remete,Imperiul Habsburgic (1887),Limba română
-Remete,remete,3,46.6610354701546,24.9236063906403,Mures,Localitate,12813,Remete,Transilvania (1769-1773),Limba română
-La Rimețe,rimețe,3,47.0928062348861,23.772475445156,Cluj,Altele,7049,La Rimețe,Geomil 25000,Limba română
+Remetea,remetea,2,46.1203743956138,23.4295001190658,Alba,Localitate,5576,Remetea,Geomil 25000,Limba română
+Rimetea,remetea,2,46.4534330209952,23.567647273985,Alba,Localitate,7062,Rimetea,Geomil 25000,Limba română
+Pădurea Remeteag,remeteag,3,46.1542628527785,21.0315090959487,Arad,Pădure,5644,Pădurea Remeteag,PDT,Limba română
+Pădurea Remetu,remetea,2,47.1864416549645,22.3518867220055,Bihor,Pădure,4178,Pădurea Remetu,Geomil 25000,Limba română
+Remetea,remetea,2,46.7390627659305,22.3489394596979,Bihor,Localitate,6989,Remetea,Geomil 25000,Limba română
+Remeți,remeți,3,46.8469375022175,22.6559728560142,Bihor,Localitate,5917,Remeți,Geomil 25000,Limba română
+Valea Rimeților,remeți,3,46.9554405937897,22.3727478279003,Bihor,Vale,10277,Valea Rimeților,PDT,Limba română
+Valea Remetea,remetea,2,47.32188468021,24.630628264132,Bistrita Nasaud,Vale,9865,Valea Remetea,Geomil 25000,Limba română
 Rimeti,rimețe,3,46.8430355439443,24.2465706737881,Bistrita Nasaud,Înălțime,10495,Rimeti,Transilvania (1869-1870),Limba română
-Valea Rimeți,rimețe,3,46.7637771883243,24.1993776096951,Mures,Vale,10654,Valea Rimeți,PDT,Limba română
-Pădurea Rimetea,rimetea,3,46.9096225317368,23.489936974264,Cluj,Pădure,11419,Pădurea Rimetea,Geomil 25000,Limba română
-Rimetea,rimetea,3,45.8177017955082,23.861305221774,Sibiu,Altele,11838,Rimetea,Imperiul Habsburgic (1887),Limba română,Remetea,Geomil 25000,Limba română
+Dealul Remetea,remetea,2,45.7667456128953,25.343071837043,Brasov,Deal,6816,Dealul Remetea,Geomil 25000,Limba română
+Remetea,remetea,2,45.8039997248798,24.7945241681965,Brasov,Altele,11777,Remetea,Geomil 25000,Limba română
+Valea Remetea,remetea,2,45.9750198662575,25.4850655049613,Brasov,Vale,2738,Valea Remetea,Geomil 25000,Limba română
 Vârful Remecioara,remecioara,3,45.5206646982973,22.6408903613904,Caras Severin,Înălțime,13234,Vârful Remecioara,Imperiul Habsburgic (1887),Limba română,Vurfu Remetu,Transilvania (1769-1773),Limba română
+Valea Remetei,remetea,2,45.5042656024963,21.8952922856983,Caras Severin,Vale,5684,Valea Remetei,Geomil 25000,Limba română,Valea Remetea,PDT,Limba română
+Remete,remete,3,46.8736986232569,23.0173636243427,Cluj,Înălțime,7016,Remete,Geomil 25000,Limba română
+Remete,remete,3,46.8812778393022,22.9179056830561,Cluj,Localitate,10429,Remete,PDT,Limba română,Remete,Transilvania (1869-1870),Limba română
+La Rimețe,rimețe,3,47.0928062348861,23.772475445156,Cluj,Altele,7049,La Rimețe,Geomil 25000,Limba română
+Pădurea Rimetea,rimetea,3,46.9096225317368,23.489936974264,Cluj,Pădure,11419,Pădurea Rimetea,Geomil 25000,Limba română
+Remete,remete,3,45.7650304088564,25.7999549976871,Covasna,Altele,10877,Remete,Imperiul Habsburgic (1887),Limba română
+Câmpia Remetea,remetea,2,45.8900395679702,25.845512493722,Covasna,Câmp,6055,Câmpia Remetea,Geomil 25000,Limba română
+Remete,remete,3,46.2922851749184,25.3993750862495,Harghita,Localitate,12556,Remete,Transilvania (1769-1773),Limba română,Remete,Imperiul Habsburgic (1887),Limba română
+Pădurea Remetea,remetea,2,46.9832189730254,25.5222658963951,Harghita,Pădure,5417,Pădurea Remetea,Geomil 25000,Limba română
+Remetea,remetea,2,46.7944705160031,25.4518496875331,Harghita,Localitate,10036,Remetea,Geomil 25000,Limba română
+La Remetea,remetea,2,46.1596840766919,22.90382197585,Hunedoara,Altele,6253,La Remetea,Geomil 25000,Limba română
+Remetea Chiorului,remetea,2,47.5278612515383,23.5452852605991,Maramures,Localitate,10560,Remetea Chiorului,PDT,Limba română,Remete,Imperiul Habsburgic (1887),Limba română
+Remeți,remeți,3,47.9900178404963,23.6382851525923,Maramures,Localitate,7225,Remeți,PDT,Limba română,Remeți,Geomil 25000,Limba română
+Remeți,remeți,3,47.4800378416658,23.3349989456784,Maramures,Localitate,10562,Remeți,PDT,Limba română
+Remete,remete,3,46.6610354701546,24.9236063906403,Mures,Localitate,12813,Remete,Transilvania (1769-1773),Limba română
+Remetea,remetea,2,46.9869126012338,24.844961194006,Mures,Altele,5444,Remetea,PDT,Limba română,Remetea,Geomil 25000,Limba română
+Remetea,remetea,2,46.5725759761649,24.5203321549323,Mures,Localitate,7332,Remetea,Geomil 25000,Limba română
+Valea Rimeți,rimețe,3,46.7637771883243,24.1993776096951,Mures,Vale,10654,Valea Rimeți,PDT,Limba română
+Remeți,remeți,3,47.0551445653591,23.4571156420272,Salaj,Altele,6925,Remeți,Geomil 25000,Limba română
+Valea Remeți,remeți,3,47.3800418511489,22.8439989243629,Salaj,Vale,2617,Valea Remeți,Geomil 25000,Limba română
+Valea Remeți,remeți,3,47.4048348124816,22.8282136182785,Salaj,Vale,5943,Valea Remeți,Geomil 25000,Limba română
+Remeteu,remete,3,47.7004892921107,23.306397393718,Satu Mare,Localitate,10317,Remeteu,Ungară 1869,Limba română
+Pădurea Remetea Oașului,remetea,2,47.8852588026328,23.2987011221038,Satu Mare,Pădure,5969,Pădurea Remetea Oașului,Geomil 25000,Limba română
+Pe Remetea,remetea,2,45.7985296097564,24.2338611821877,Sibiu,Altele,7995,Pe Remetea,PDT,Limba română
+Rimetea,rimetea,3,45.8177017955082,23.861305221774,Sibiu,Altele,11838,Rimetea,Imperiul Habsburgic (1887),Limba română,Remetea,Geomil 25000,Limba română
+Remetea Mare,remetea,2,45.7816429587193,21.3765287166047,Timis,Localitate,7640,Remetea Mare,Geomil 25000,Limba română
+Remetea Mică,remetea,2,45.9654471753247,21.4778466858913,Timis,Localitate,10355,Remetea Mică,Geomil 25000,Limba română
