@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealu Stupineaua</name><description>Nume: Dealu Stupineaua, Tip: stupinea, Nivel: 4, Județ: Olt, Formă: Deal, ID: 3060 <br /><b>Variante</b><br />Nume: Dealu Stupineaua, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.337681,44.685792,0</coordinates></Point></Placemark>
+<Placemark><name>Valea Stupineaua</name><description>Nume: Valea Stupineaua, Tip: stupinea, Nivel: 4, Județ: Olt, Formă: Vale, ID: 3061, ID Părinte: 3060 <br /><b>Variante</b><br />Nume: Valea Stupineaua, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.334983,44.678785,0</coordinates></Point></Placemark>
+<Placemark><LineString id="3061_3060"><tessellate>1</tessellate><coordinates>24.334983,44.678785,0.
+24.337681,44.685792,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

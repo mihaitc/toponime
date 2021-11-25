@@ -1,0 +1,20 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Castelul Tetuchi,castel,2,45.9440249348918,23.7449165943342,Alba,Altele,5545,,Castelul Tetuchi,PDT,Limba română
+Valea Castelului,castel,2,46.2679622423766,23.6857497339222,Alba,Vale,4391,,Valea Castelului,Geomil 25000,Limba română
+Castelul Mocrea,castel,2,46.3950242729875,21.8116986756261,Arad,Altele,7598,,Castelul Mocrea,PDT,Limba română
+La Castel,castel,2,46.3834665568416,21.873236125749,Arad,Altele,7599,,La Castel,PDT,Limba română
+Castelul Poiana Florilor,castel,2,47.1432828792274,22.3789707993844,Bihor,Altele,8206,,Castelul Poiana Florilor,PDT,Limba română
+Pădurea Castelului,castel,2,46.8067290152947,24.3447831379934,Bistrita Nasaud,Pădure,10655,,Pădurea Castelului,PDT,Limba română
+Dealul Castelului,castel,2,44.2423636329087,28.3392603739465,Constanta,Deal,2869,2868,Dealul Castelului,Geomil 25000,Limba română
+Movila Castelul Vechi,castel,2,44.7217294238625,28.0955236002675,Constanta,Înălțime,3492,,Movila Castelul Vechi,Geomil 25000,Limba română
+Movila Castelului,castel,2,44.2314139159283,28.3413650018676,Constanta,Înălțime,2868,,Movila Castelului,Geomil 25000,Limba română
+Dealul Castelului,castel,2,45.9938558091346,25.8547864873713,Covasna,Deal,4381,,Dealul Castelului,Geomil 25000,Limba română
+Coasta Castelului,castel,2,46.7499824860664,24.4020531816697,Mures,Înălțime,5470,,Coasta Castelului,PDT,Limba română
+Dealul. Castelului,castel,2,46.8080769377411,24.589063265146,Mures,Deal,5458,,Dealul. Castelului,PDT,Limba română
+La Castel,castel,2,46.4627876091861,24.3484446930751,Mures,Altele,7348,,La Castel,Geomil 25000,Limba română
+La Castel,castel,2,45.391473033951,26.0751598759178,Prahova,Altele,2824,,La Castel,Geomil 25000,Limba română
+Dâmbul Castelului,castel,2,47.3237798565283,23.3867434360866,Salaj,Înălțime,8988,,Dâmbul Castelului,PDT,Limba română
+La Castel,castel,2,46.1051669893101,24.6441079618777,Sibiu,Altele,8621,,La Castel,Geomil 25000,Limba română
+La Castel,castel,2,45.8987346839045,21.5257174504485,Timis,Altele,10353,,La Castel,Geomil 25000,Limba română,Castel,PDT,Limba română
+La Castel,castel,2,45.470111963685,23.9245266568228,Valcea,Altele,7422,,La Castel,Geomil 25000,Limba română
+Pârâul Castelu,castel,2,45.4622538093044,23.9284176261655,Valcea,Vale,7423,7422,Pârâul Castelu,Geomil 25000,Limba română

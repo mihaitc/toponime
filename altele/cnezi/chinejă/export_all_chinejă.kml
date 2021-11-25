@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Pădurea Chineja</name><description>Nume: Pădurea Chineja, Tip: chinejă, Nivel: 3, Județ: Galati, Formă: Pădure, ID: 10908, ID Părinte: 7371 <br /><b>Variante</b><br />Nume: Pădurea Chineja, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>27.929688,45.925234,0</coordinates></Point></Placemark>
+<Placemark><LineString id="10908_7371"><tessellate>1</tessellate><coordinates>27.929688,45.925234,0.
+27.912582,46.046940,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Valea Chinejei</name><description>Nume: Valea Chinejei, Tip: chinejă, Nivel: 3, Județ: Galati, Formă: Vale, ID: 7371 <br /><b>Variante</b><br />Nume: Valea Chinejei, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>27.912582,46.046940,0</coordinates></Point></Placemark></Document></kml>

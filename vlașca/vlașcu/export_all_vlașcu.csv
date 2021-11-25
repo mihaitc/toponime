@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Cracu Vlașcu Mare,vlașcu,2,45.0682135462491,22.5399760832772,Caras Severin,Înălțime,1224,1221,Cracu Vlașcu Mare,Geomil 25000,Limba română
+Cracu Vlașcu Mic,vlașcu,2,45.0579147523511,22.53454973525,Caras Severin,Înălțime,1223,1222,Cracu Vlașcu Mic,Geomil 25000,Limba română
+Vârfu Vlașcu Mare,vlașcu,2,45.0867229368761,22.5210180040722,Caras Severin,Înălțime,1221,,Vârfu Vlașcu Mare,Geomil 25000,Limba română,Vârfu Vlașcul Mare,PDT,Limba română
+Vlașcu Mic,vlașcu,2,45.0612077124669,22.5166940702429,Caras Severin,Înălțime,1222,,Vlașcu Mic,Geomil 25000,Limba română

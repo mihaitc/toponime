@@ -1,0 +1,49 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Lespezea,lespezea,4,46.4746786037507,22.9055663934835,Alba,Localitate,13198,,Lespezea,Geomil 25000,Limba română
+Dealu Lespezi,lespezi,2,46.3849580123285,22.7177558909161,Alba,Deal,13077,,Dealu Lespezi,Geomil 25000,Limba română
+Vârful Lespezi,lespezi,2,46.2140794033601,23.3236152859967,Alba,Înălțime,13470,,Vârful Lespezi,PDT,Limba română
+Lespedioara,lespedioara,3,46.3420456181134,22.7014404042519,Arad,Altele,13219,,Lespedioara,Geomil 25000,Limba română
+Culmea Lespezilor,lespezi,2,45.5714876217273,24.5647483432631,Arges,Înălțime,13233,,Culmea Lespezilor,Geomil 25000,Limba română
+Lespezi,lespezi,2,45.1373645966007,25.1244134695384,Arges,Localitate,13124,,Lespezi,Geomil 25000,Limba română
+Lespezile,lespezi,2,45.4674484341462,24.7454668337874,Arges,Înălțime,12970,,Lespezile,Geomil 25000,Limba română
+Pârâul cu Lespezi,lespezi,2,45.5644281428931,25.064495396913,Arges,Vale,12964,,Pârâul cu Lespezi,Geomil 25000,Limba română
+Valea Lespezilor,lespezi,2,45.4906402968235,25.0509370096686,Arges,Vale,13451,,Valea Lespezilor,Geomil 25000,Limba română
+Lespezi,lespezi,2,46.6642329759769,26.7654965926369,Bacau,Localitate,13121,,Lespezi,Geomil 25000,Limba română
+Pârâul Lespezilor,lespezi,2,46.564494133761,26.3578671896825,Bacau,Vale,13117,,Pârâul Lespezilor,Geomil 25000,Limba română
+Valea Lespezilor,lespezi,2,46.1209870774148,26.9514928215727,Bacau,Vale,13042,,Valea Lespezilor,Geomil 25000,Limba română
+Valea Lespezii,lespede,3,47.5566352202155,24.5911091228162,Bistrita Nasaud,Vale,13139,,Valea Lespezii,Geomil 25000,Limba română
+Valea Lespezii,lespede,3,47.4392593815214,24.3303600532308,Bistrita Nasaud,Vale,13889,,Valea Lespezii,Geomil 25000,Limba română
+La Lespezi,lespezi,2,45.5329607326291,25.2823340329885,Brasov,Altele,12962,,La Lespezi,Geomil 25000,Limba română
+Pârâul Lespezii,lespede,3,45.5954194229347,26.5456113703409,Buzau,Vale,13782,,Pârâul Lespezii,Geomil 25000,Limba română
+Culmea Lespezilor,lespezi,2,45.1309003721201,26.5487910398711,Buzau,Înălțime,13150,,Culmea Lespezilor,Geomil 25000,Limba română
+La Lespezi,lespezi,2,45.4214057504546,26.2001856216313,Buzau,Altele,14223,,La Lespezi,Geomil 25000,Limba română
+Poienile Lespezilor,lespezi,2,45.524906078939,26.4293868667622,Buzau,Poiană,13339,,Poienile Lespezilor,Geomil 25000,Limba română
+Pârâu Lespezi,lespezi,2,45.5977407534631,22.2054140396407,Caras Severin,Vale,13352,,Pârâu Lespezi,Geomil 25000,Limba română
+Valea cu Lespezi,lespezi,2,44.9986664392755,25.3307700865239,Dambovita,Vale,13622,,Valea cu Lespezi,PDT,Limba română
+Culmea Lespezilor,lespezi,2,47.116040592506,25.5198497356765,Harghita,Înălțime,13261,,Culmea Lespezilor,Geomil 25000,Limba română
+Dâmbul Lespezii,lespede,3,45.3448564630062,23.2941810095107,Hunedoara,Înălțime,13431,,Dâmbul Lespezii,Imperiul Habsburgic (1887),Limba română
+Dealu Lespezile,lespezi,2,46.1554769621333,22.6259752675729,Hunedoara,Deal,13987,,Dealu Lespezile,Geomil 25000,Limba română
+Muntele Lespezi,lespezi,2,45.4312151273264,22.8254441572962,Hunedoara,Înălțime,13812,,Muntele Lespezi,Geomil 25000,Limba română
+Pârâul Lespezi,lespezi,2,45.4433240751865,22.8180774066409,Hunedoara,Vale,13813,13812,Pârâul Lespezi,Geomil 25000,Limba română
+Lespezi,lespezi,2,47.3632224447749,26.69028801979,Iasi,Localitate,13122,,Lespezi,Geomil 25000,Limba română
+Valea Lespedei,lespede,3,47.8519053231057,24.3386668590801,Maramures,Vale,13127,,Valea Lespedei,Geomil 25000,Limba română
+Pe Lespezi,lespezi,2,47.7792369650759,23.7769282817811,Maramures,Altele,13001,,Pe Lespezi,Geomil 25000,Limba română
+Dealu Lespezilor,lespezi,2,44.6619976013985,22.1317257627225,Mehedinti,Deal,13868,,Dealu Lespezilor,Geomil 25000,Limba română,V. Lespez,Ungară 1869,Limba română
+Pârâu Lespezilor,lespezi,2,44.661454558758,22.1546801429963,Mehedinti,Vale,13869,13868,Pârâu Lespezilor,Geomil 25000,Limba română
+Valea Lespezi,lespezi,2,44.66737655344,22.1514818482191,Mehedinti,Vale,13870,13868,Valea Lespezi,Geomil 25000,Limba română
+Poiana Lespezilor,lespezi,2,46.663341057273,25.1634455012321,Mures,Poiană,13795,,Poiana Lespezilor,Geomil 25000,Limba română
+Pârâul Lespezilor,lespezi,2,46.7375942070027,26.150488713012,Neamt,Vale,13660,,Pârâul Lespezilor,Geomil 25000,Limba română
+Piciorul Lespezilor,lespezi,2,46.8557242381183,26.2452488623746,Neamt,Înălțime,13111,13110,Piciorul Lespezilor,Geomil 25000,Limba română
+Vârful Lespezilor,lespezi,2,46.8500340139768,26.2815723366089,Neamt,Înălțime,13110,,Vârful Lespezilor,Geomil 25000,Limba română
+Valea Lespezii,lespede,3,45.3457745702168,26.0413691766211,Prahova,Vale,13343,,Valea Lespezii,Geomil 25000,Limba română
+Mon Lespetz,lespezi,2,45.2708235586495,25.6181170007071,Prahova,Mănăstire,13457,,Mon Lespetz,Valahia-Moldova (1773-1774),Limba română
+Valea Lespezi,lespezi,2,45.122903033126,25.9588006692021,Prahova,Vale,13842,,Valea Lespezi,Geomil 25000,Limba română,Valea Lespezi,PDT,Limba română
+Dealu Lespezile,lespezi,2,47.5424484087031,23.0516372004565,Satu Mare,Deal,13376,,Dealu Lespezile,Geomil 25000,Limba română
+Valea Lespezi,lespezi,2,47.9882059980431,23.2554535644033,Satu Mare,Vale,13378,,Valea Lespezi,Geomil 25000,Limba română
+Pârâul Lespezilor,lespezi,2,47.1207880947493,25.5375251709254,Suceava,Vale,13410,13261,Pârâul Lespezilor,Geomil 25000,Limba română
+Pârâu cu Lespezi,lespezi,2,45.7121013562827,22.402035863118,Timis,Vale,13355,,Pârâu cu Lespezi,Geomil 25000,Limba română
+Lespedele,lespedele,3,45.0555562902185,23.8959274794758,Valcea,Înălțime,13856,,Lespedele,Geomil 25000,Limba română
+Lespezi,lespezi,2,45.1183090760221,24.385132661682,Valcea,Localitate,13978,,Lespezi,Geomil 25000,Limba română
+Culmea Lespezi,lespezi,2,45.9283736229702,26.486499722021,Vrancea,Înălțime,13302,,Culmea Lespezi,Geomil 25000,Limba română
+Lespezi,lespezi,2,46.159772566016,27.2371759418094,Vrancea,Localitate,13123,,Lespezi,Geomil 25000,Limba română
+Pârâul Lespezi,lespezi,2,45.9079062746439,26.5159105993359,Vrancea,Vale,13300,13302,Pârâul Lespezi,Geomil 25000,Limba română

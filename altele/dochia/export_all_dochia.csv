@@ -1,0 +1,8 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Lunca Dochiei,dochia,2,46.1176733970754,27.0657039728712,Bacau,Apă-deal-câmpie,5336,,Lunca Dochiei,Geomil 25000,Limba română,Lunca Dochiei,PDT,Limba română
+Dochia,dochia,2,47.3128196638367,27.2845133248313,Iasi,Altele,12926,,Dochia,Geomil 25000,Limba română
+Valea Dochia,dochia,2,47.3022961164631,27.2900248742307,Iasi,Vale,12925,12926,Valea Dochia,Geomil 25000,Limba română
+Dochia,dochia,2,46.9086170164418,26.565435074524,Neamt,Localitate,9623,,Dochia,Geomil 25000,Limba română,Dochia,Moldova (1892-1898),Limba română
+Jgheabul Dochiei,dochia,2,46.896058951895,25.9861714574243,Neamt,Vale,6507,,Jgheabul Dochiei,PDT,Limba română
+La Dochia,dochia,2,46.975069360561,25.963362096383,Neamt,Altele,6474,,La Dochia,PDT,Limba română
+Muchia Dochiei,dochia,2,45.5926310826767,27.0124454834987,Vrancea,Înălțime,5255,,Muchia Dochiei,Geomil 25000,Limba română

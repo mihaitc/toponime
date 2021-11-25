@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Pădurea Vlăsia,vlăsia,2,44.6807388720862,26.1922682499401,Ilfov,Pădure,8781,,Pădurea Vlăsia,Geomil 25000,Limba română
+Poiana Vlăsia,vlăsia,2,44.683320059399,26.2213490626036,Ilfov,Poiană,8783,8781,Poiana Vlăsia,PDT,Limba română
+Vlăsia,vlăsia,2,44.6709698555495,26.2078031806183,Ilfov,Localitate,8782,8781,Vlăsia,PDT,Limba română

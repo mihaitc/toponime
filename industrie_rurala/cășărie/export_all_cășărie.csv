@@ -1,0 +1,27 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Cășeriei,cășărie,2,45.2131870342293,24.9081951290628,Arges,Vale,11567,,Valea Cășeriei,Geomil 25000,Limba română
+Pârâul Cășăriilor,cășărie,2,46.6644801100477,26.2772964004996,Bacau,Vale,10940,,Pârâul Cășăriilor,Geomil 25000,Limba română
+Cășieria,cășărie,2,45.5361978636027,25.8422737311157,Brasov,Altele,10568,,Cășieria,Imperiul Habsburgic (1887),Limba română
+Pârâul Cășăria,cășărie,2,45.7558442627,26.5168401968,Buzau,Vale,13338,788,Pârâul Cășăria,Geomil 25000,Limba română
+Mov. de la Kasarie,cășărie,2,44.3384117543334,26.8605685414062,Calarasi,Altele,12877,,Mov. de la Kasarie,Austriacă,Limba română
+La Cășărie,cășărie,2,45.3499226827162,25.4317510718276,Dambovita,Altele,1486,,La Cășărie,Geomil 25000,Limba română
+Valea Cășăriei,cășărie,2,44.1497584107847,25.7235462223486,Giurgiu,Vale,4219,,Valea Cășăriei,Geomil 25000,Limba română,Valea Cășăriei,PDT,Limba română
+Cășăria,cășărie,2,46.9868245657801,26.4151259616073,Neamt,Localitate,2053,,Cășăria,Geomil 25000,Limba română
+Coasta Cășăriei,cășărie,2,46.9841101929841,26.4351777515239,Neamt,Înălțime,2052,2053,Coasta Cășăriei,Geomil 25000,Limba română
+Dealul Cășăriei,cășărie,2,46.9816309498303,26.4240230952645,Neamt,Deal,2051,2053,Dealul Cășăriei,Geomil 25000,Limba română
+Dealul Cășăriei,cășărie,2,46.9894834001116,26.4063529740648,Neamt,Deal,2054,2053,Dealul Cășăriei,Geomil 25000,Limba română
+Valea Căsăriei,cășărie,2,46.7078665050706,26.1572903323604,Neamt,Vale,6527,,Valea Căsăriei,PDT,Limba română
+Kasaria,cășărie,2,45.4051141724001,25.9343130752773,Prahova,Altele,13447,,Kasaria,Valahia-Moldova (1773-1774),Limba română
+Kasaria,cășărie,2,45.4301785335677,25.9374596797862,Prahova,Altele,13448,,Kasaria,Valahia-Moldova (1773-1774),Limba română
+Plaiul Cășăriei,cășărie,2,45.3513802532868,25.5258834415719,Prahova,Înălțime,1541,,Plaiul Cășăriei,Geomil 25000,Limba română
+Valea Cășăriei,cășărie,2,45.4500425592539,25.5750767586386,Prahova,Vale,581,,Valea Cășăriei,Geomil 25000,Limba română
+Valea Cășăriei,cășărie,2,45.3668649515322,25.5569839287263,Prahova,Vale,9794,,Valea Cășăriei,PDT,Limba română
+Valea Cășeriei,cășărie,2,45.446211517961,26.0172427779578,Prahova,Vale,800,,Valea Cășeriei,Geomil 25000,Limba română
+Valea Cășeriei,cășărie,2,43.9467984370843,25.4882696341914,Teleorman,Vale,1390,,Valea Cășeriei,Geomil 25000,Limba română,Valea Cășeriei,PDT,Limba română
+La Cășerie,cășărie,2,45.3894002142752,23.6359003655708,Valcea,Altele,14107,,La Cășerie,Geomil 25000,Limba română
+Muchia Cășăriei,cășărie,2,45.275267398298,23.877555842104,Valcea,Înălțime,2927,2928,Muchia Cășăriei,Geomil 25000,Limba română
+Muntele Cășăriei,cășărie,2,45.2889788052371,23.8590019387746,Valcea,Înălțime,2928,,Muntele Cășăriei,Geomil 25000,Limba română
+Valje Kasserie,cășărie,2,45.4303805547698,24.4359369743036,Valcea,Vale,11930,,Valje Kasserie,Valahia-Moldova (1773-1774),Limba română
+Pârâul Căsăriei,cășărie,2,45.8738681984526,26.5286374646066,Vrancea,Înălțime,2119,2118,Pârâul Căsăriei,Geomil 25000,Limba română
+Plaiul Cășăriei,cășărie,2,45.874659906468,26.5159654548312,Vrancea,Înălțime,2118,,Plaiul Cășăriei,Geomil 25000,Limba română
+Vârful Cășăria,cășărie,2,45.740132956965,26.542971472318,Vrancea,Înălțime,788,,Vârful Cășăria,Geomil 25000,Limba română

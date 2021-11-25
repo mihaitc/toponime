@@ -1,0 +1,35 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Csetteczellu,cetățea,2,45.8744840355115,23.4699800822527,Alba,Altele,13241,,Csetteczellu,Transilvania (1769-1773),Limba română
+Cetetzel,cetățea,2,46.38805059033,22.3248587188889,Arad,Înălțime,12606,,Cetetzel,Imperiul Habsburgic (1887),Limba română
+Valea Cetățelei,cetățea,2,46.3895742333677,22.3553220433343,Arad,Vale,1939,12606,Valea Cetățelei,Geomil 25000,Limba română
+Vârfu Cetățeaua,cetățea,2,46.2755425959962,22.4409649761614,Arad,Înălțime,5601,,Vârfu Cetățeaua,Geomil 25000,Limba română
+Valea Cetățeaua,cetățea,2,44.7396081913547,24.7786187761142,Arges,Vale,4778,1404,Valea Cetățeaua,PDT,Limba română
+Dealul Cetățele,cetățea,2,46.2098748956011,27.180378610945,Bacau,Deal,9677,,Dealul Cetățele,Moldova (1892-1898),Limba română
+Cetățeaua,cetățea,2,46.5286931348743,22.3501139843334,Bihor,Altele,12042,,Cetățeaua,PDT,Limba română
+Cetățeaua,cetățea,2,46.931807091907,22.1482854516332,Bihor,Înălțime,12360,,Cetățeaua,PDT,Limba română
+Cetățele,cetățea,2,46.5832007950948,22.3045321327623,Bihor,Altele,4080,,Cetățele,PDT,Limba română
+Cetățele,cetățea,2,46.9098769426247,21.9986340679883,Bihor,Altele,14211,,Cetățele,PDT,Limba română
+Valea Cetățelelor,cetățea,2,46.6767932520762,22.5468610772628,Bihor,Vale,1004,,Valea Cetățelelor,Geomil 25000,Limba română
+Vârful Cetățeaua,cetățea,2,46.6249217788996,22.2490652417459,Bihor,Înălțime,986,,Vârful Cetățeaua,Geomil 25000,Limba română
+Dealul Cetățele,cetățea,2,47.213493671661,24.1416732166066,Bistrita Nasaud,Deal,1012,,Dealul Cetățele,Geomil 25000,Limba română,Dealul Cetăței,PDT,Limba română
+Lacul Cetățele,cetățea,2,47.2136066044617,24.1438642233942,Bistrita Nasaud,Lac,7105,1012,Lacul Cetățele,Geomil 25000,Limba română
+Dealul Cetățele,cetățea,2,46.0170553203142,25.4460602014504,Brasov,Deal,10831,,Dealul Cetățele,Imperiul Habsburgic (1887),Limba română
+Pârâul Cetățelei,cetățea,2,45.9740872526831,25.2825592596859,Brasov,Vale,6799,6798,Pârâul Cetățelei,PDT,Limba română
+Pe Cetățea,cetățea,2,45.801642124634,24.6942204869305,Brasov,Altele,2674,2675,Pe Cetățea,Geomil 25000,Limba română
+Culmea Cetățele,cetățea,2,45.5656635479195,22.2111266570233,Caras Severin,Înălțime,6184,,Culmea Cetățele,PDT,Limba română
+Dealu Cetățeaua,cetățea,2,46.8143905781932,23.23622033405,Cluj,Deal,7028,,Dealu Cetățeaua,Geomil 25000,Limba română
+Dealu Cetățeaua,cetățea,2,47.2100446593081,23.7432095002104,Cluj,Deal,7048,,Dealu Cetățeaua,Geomil 25000,Limba română,Cetățeul,PDT,Limba română
+Peștera Cetățeaua Mare,cetățea,2,46.5625932212495,23.6724193701049,Cluj,Altele,13881,,Peștera Cetățeaua Mare,ANCPI,Limba română
+Piatra Czetecelle,cetățea,2,46.7420683571408,22.8304924602475,Cluj,Înălțime,12768,,Piatra Czetecelle,Transilvania (1769-1773),Limba română
+Dealu Cetățaua,cetățea,2,45.9954188865773,22.4698344687508,Hunedoara,Deal,10229,,Dealu Cetățaua,Geomil 25000,Limba română
+Dealu Cetăței,cetățea,2,46.1528692548151,22.7249661889818,Hunedoara,Deal,6233,,Dealu Cetăței,Geomil 25000,Limba română
+Cetățele,cetățea,2,47.5967307811217,23.7354936344944,Maramures,Localitate,7210,7209,Cetățele,Geomil 25000,Limba română
+Dealul Cetățele,cetățea,2,47.6006944752206,23.7434206141165,Maramures,Deal,7209,,Dealul Cetățele,Geomil 25000,Limba română
+Dosul Cetățelei,cetățea,2,47.6533960829367,24.1996034823942,Maramures,Altele,7164,,Dosul Cetățelei,Geomil 25000,Limba română
+Fața Cetățelei,cetățea,2,47.6585024841327,24.2032861827239,Maramures,Altele,7165,7164,Fața Cetățelei,Geomil 25000,Limba română
+Cetățea,cetățea,2,46.2104390477133,24.8511826199081,Mures,Altele,2467,,Cetățea,Geomil 25000,Limba română
+Dealul Cetățeaua,cetățea,2,47.0501000867237,22.7145075964125,Salaj,Deal,12787,,Dealul Cetățeaua,PDT,Limba română
+Vârfu Cetățelii,cetățea,2,46.9015219257346,22.9665735961438,Salaj,Înălțime,10424,10425,Vârfu Cetățelii,Geomil 25000,Limba română,Vârful Cetății,PDT,Limba română,Vártető,Transilvania (1869-1870),Limba maghiară
+Jghiabul Cetățelii,cetățea,2,47.9729176328247,23.2235525700892,Satu Mare,Vale,11989,4456,Jghiabul Cetățelii,PDT,Limba română
+Vârfu Cetățeaua,cetățea,2,48.0224699200994,23.1449826356438,Satu Mare,Înălțime,2604,,Vârfu Cetățeaua,Geomil 25000,Limba română
+Valea Cetățeaua,cetățea,2,46.0442866680087,24.5878726837672,Sibiu,Vale,9680,2644,Valea Cetățeaua,PDT,Limba română

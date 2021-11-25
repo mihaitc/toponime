@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Muierușu,muieruș,3,44.5652896311614,23.6887661968624,Dolj,Localitate,4721,,Muierușu,Geomil 25000,Limba română
+Valea Muierușului,muieruș,3,44.5636159426452,23.6801616872821,Dolj,Vale,4722,4721,Valea Muierușului,Geomil 25000,Limba română

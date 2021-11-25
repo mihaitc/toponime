@@ -1,0 +1,9 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Pârâul Turburea,turburea,3,45.3232263306558,24.6973501878542,Arges,Vale,12957,,Pârâul Turburea,Geomil 25000,Limba română
+Turburea,turburea,3,45.3287765642103,24.7003664921291,Arges,Localitate,12958,12957,Turburea,Geomil 25000,Limba română
+Turburea,turburea,3,45.3168478923449,24.7240594190876,Arges,Înălțime,12959,12957,Turburea,Geomil 25000,Limba română
+Val. Turbure,turburea,3,45.2290126723888,26.3164109758096,Buzau,Vale,13346,,Val. Turbure,Austriacă,Limba română
+Tilva Turbure,turburea,3,44.9085762961385,21.8348718279851,Caras Severin,Înălțime,13872,,Tilva Turbure,Ungară 1869,Limba română
+Turburea,turburea,3,44.7197491092419,23.5147193706934,Gorj,Localitate,13013,13012,Turburea,Geomil 25000,Limba română
+Valea Turburea,turburea,3,44.7426055555168,23.5394626885371,Gorj,Vale,13012,,Valea Turburea,Geomil 25000,Limba română
+Turburea,turburea,3,44.8823096111952,23.8571234055937,Valcea,Localitate,13014,,Turburea,Geomil 25000,Limba română

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>jidova</name><description>Nume: jidova, Tip: jidova (uriaș), Nivel: 3, Județ: Dambovita, Formă: Înălțime, ID: 8383 <br /><b>Variante</b><br />Nume: jidova, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>25.323115,44.930847,0</coordinates></Point></Placemark>
+<Placemark><name>Valea Jidovii</name><description>Nume: Valea Jidovii, Tip: jidova (uriaș), Nivel: 3, Județ: Mehedinti, Formă: Vale, ID: 8388, ID Părinte: 8384 <br /><b>Variante</b><br />Nume: Valea Jidovii, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>22.965110,44.420224,0</coordinates></Point></Placemark>
+<Placemark><LineString id="8388_8384"><tessellate>1</tessellate><coordinates>22.965110,44.420224,0.
+22.953690,44.421966,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

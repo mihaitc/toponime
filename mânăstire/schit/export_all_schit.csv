@@ -1,0 +1,96 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Coasta Schitului,schit,2,45.302716119299,25.1059550163393,Arges,Înălțime,1479,,Coasta Schitului,Geomil 25000,Limba română
+Fața Schitului,schit,2,45.1999878824883,24.9969325313912,Arges,Localitate,4966,,Fața Schitului,Geomil 25000,Limba română
+Pădurea Fața Schitului,schit,2,45.2474419422624,24.727518881558,Arges,Pădure,4051,,Pădurea Fața Schitului,Geomil 25000,Limba română
+Pădurea Schitu,schit,2,45.1687163833281,24.3961367520865,Arges,Pădure,1442,1443,Pădurea Schitu,Geomil 25000,Limba română
+Pădurea Schitu Budișteni,schit,2,44.8113929256688,25.1722579398932,Arges,Pădure,11699,,Pădurea Schitu Budișteni,Geomil 25000,Limba română
+Pădurea Schitului,schit,2,45.2808787784223,24.5736873750413,Arges,Pădure,1437,,Pădurea Schitului,Geomil 25000,Limba română
+Poiana Schitului,schit,2,45.2537620100961,24.8705518433541,Arges,Poiană,11118,,Poiana Schitului,PDT,Limba română
+Schitu,schit,2,45.1620468071535,24.3860511094249,Arges,Altele,1443,,Schitu,Geomil 25000,Limba română
+Schitu Scoicești,schit,2,44.8175089575719,25.1481928674576,Arges,Localitate,10171,,Schitu Scoicești,Geomil 25000,Limba română
+Schitu-Matei,schit,2,45.0991883926793,24.5622041774079,Arges,Localitate,6907,1420,Schitu-Matei,Geomil 25000,Limba română
+Valea Schitului,schit,2,44.8870449326112,24.9743913082049,Arges,Vale,548,,Valea Schitului,Geomil 25000,Limba română
+Valea Schitului,schit,2,45.0941328793573,24.5627770939114,Arges,Vale,1420,,Valea Schitului,Geomil 25000,Limba română
+Valea Schitului,schit,2,45.2482460458753,24.9603634863449,Arges,Vale,4964,,Valea Schitului,Geomil 25000,Limba română
+Dealul Schitului,schit,2,46.2318855770925,27.1688464925567,Bacau,Deal,3921,12637,Dealul Schitului,Geomil 25000,Limba română
+Drumul Schitului,schit,2,46.6100936352052,26.8244889152141,Bacau,Drum,7875,,Drumul Schitului,Geomil 25000,Limba română
+La Schit,schit,2,46.0973089721117,26.5543812435185,Bacau,Altele,693,,La Schit,Geomil 25000,Limba română
+La Schit,schit,2,46.4746233502047,27.1527180301691,Bacau,Altele,7867,,La Schit,Geomil 25000,Limba română
+Pârâul Schitului,schit,2,46.6436432984015,26.7595127935538,Bacau,Vale,3825,13865,Pârâul Schitului,PDT,Limba română
+Poiana Schitului,schit,2,46.395861534306,26.5763867044926,Bacau,Poiană,7933,,Poiana Schitului,PDT,Limba română
+Poiana Schitului,schit,2,46.4170527066144,26.5769483240743,Bacau,Poiană,7934,7935,Poiana Schitului,PDT,Limba română
+Poiana Schitului,schit,2,46.5615011365084,26.4874937618426,Bacau,Poiană,9957,,Poiana Schitului,Moldova (1892-1898),Limba română
+Schitu,schit,2,46.3040868412834,26.9474502723467,Bacau,Localitate,10885,,Schitu,Moldova (1892-1898),Limba română
+Schitu-Sava,schit,2,46.4174361681708,26.5836696075426,Bacau,Altele,7935,,Schitu-Sava,PDT,Limba română
+Poiana Schitul Balș,schit,2,47.5113803851824,26.813619663001,Botosani,Poiană,1747,,Poiana Schitul Balș,Geomil 25000,Limba română
+La Skit,schit,2,45.1190003844468,26.4893244802399,Buzau,Mănăstire,13807,,La Skit,Austriacă,Limba română
+Piciorul Schitululi,schit,2,45.4358760458136,26.4517120246633,Buzau,Înălțime,6116,,Piciorul Schitululi,Geomil 25000,Limba română,Piciorul Schitululi,PDT,Limba română
+Plaiul Schitului,schit,2,45.1725546674318,26.3612707944786,Buzau,Înălțime,6035,7500,Plaiul Schitului,Geomil 25000,Limba română
+Râpa Schitululi,schit,2,45.4394106076961,26.4393659248197,Buzau,Înălțime,8767,6116,Râpa Schitululi,PDT,Limba română
+Schitul,schit,2,45.1708300356912,26.3764726699725,Buzau,Localitate,7500,,Schitul,PDT,Limba română
+Valea Schitu Negoiță,schit,2,45.1582703974168,26.6103416715787,Buzau,Vale,3962,,Valea Schitu Negoiță,Geomil 25000,Limba română,Valea Schitul Negoiță,PDT,Limba română
+Valea Schitului,schit,2,45.1294647883553,26.4798411409737,Buzau,Vale,6026,13807,Valea Schitului,Geomil 25000,Limba română,Valea Schitului,PDT,Limba română
+Vârful Schitului,schit,2,45.1674809461339,26.3637027378272,Buzau,Înălțime,7499,7500,Vârful Schitului,PDT,Limba română
+Schitul,schit,2,43.9411577036529,28.6297343188751,Constanta,Localitate,9307,,Schitul,PDT,Limba română
+Pădurea Schitu,schit,2,44.9688727182904,25.1788854835605,Dambovita,Pădure,11065,530,Pădurea Schitu,PDT,Limba română
+Schitu,schit,2,44.5995808607629,25.3639709648102,Dambovita,Localitate,11701,,Schitu,PDT,Limba română
+Grindul Schitului,schit,2,44.1185863019082,23.8962971447238,Dolj,Apă-deal-câmpie,7700,,Grindul Schitului,PDT,Limba română
+Pădurea Schitului,schit,2,44.1301903461683,23.6410577609225,Dolj,Pădure,1301,,Pădurea Schitului,Geomil 25000,Limba română
+Pădurea Schitului,schit,2,44.2832759021293,24.0773290459207,Dolj,Pădure,3013,,Pădurea Schitului,Geomil 25000,Limba română
+Schitu,schit,2,44.5085255768766,23.5045899777247,Dolj,Localitate,4699,12185,Schitu,Geomil 25000,Limba română
+Skitt,schit,2,44.5098114625256,23.5363353595009,Dolj,Altele,12185,,Skitt,Oltenia-Muntenia (1790),Limba română
+Valea Schitului,schit,2,44.126057181643,23.6397101620992,Dolj,Vale,7708,1301,Valea Schitului,PDT,Limba română
+Dealu Schitu,schit,2,44.1436185668261,25.8581646038595,Giurgiu,Deal,3152,3151,Dealu Schitu,Geomil 25000,Limba română,Dealu Schit,PDT,Limba română
+La Schit,schit,2,44.3497917959898,25.7758966533661,Giurgiu,Altele,10092,,La Schit,Geomil 25000,Limba română
+Pădurea Schitul,schit,2,44.1491787867186,25.8500357592029,Giurgiu,Pădure,4223,3151,Pădurea Schitul,PDT,Limba română
+Schitu,schit,2,44.1419738429396,25.8381597567362,Giurgiu,Localitate,3151,,Schitu,Geomil 25000,Limba română
+La Schit,schit,2,45.1041102966716,22.9432027326737,Gorj,Altele,846,,La Schit,Geomil 25000,Limba română
+Skitu Kosturi,schit,2,45.2231821536139,23.6344204836504,Gorj,Altele,13562,,Skitu Kosturi,Austriacă,Limba română
+Valea Schitu,schit,2,44.755009677433,23.6924599707926,Gorj,Vale,5147,,Valea Schitu,Geomil 25000,Limba română
+Cotul Schitului,schit,2,44.6030799101361,27.5207098037321,Ialomita,Apă-deal-câmpie,3440,3442,Cotul Schitului,Geomil 25000,Limba română
+La Schit,schit,2,44.7280824204755,26.4552259137815,Ialomita,Altele,3287,,La Schit,PDT,Limba română
+Movila Schitul,schit,2,44.5984008270678,27.5241727140714,Ialomita,Înălțime,3442,,Movila Schitul,PDT,Limba română
+Dealul Schitului,schit,2,46.9806001229767,27.5864482928731,Iasi,Deal,2221,2222,Dealul Schitului,Geomil 25000,Limba română
+Poiana Schitului,schit,2,46.9860675810966,27.5849731833781,Iasi,Poiană,2222,,Poiana Schitului,Geomil 25000,Limba română
+Schitu Duca,schit,2,47.0358606986881,27.7692284087608,Iasi,Localitate,6587,,Schitu Duca,PDT,Limba română,Schitu Duca,Geomil 25000,Limba română
+Schitu Hadâmbului,schit,2,47.01074673569,27.4330625460134,Iasi,Altele,13627,,Schitu Hadâmbului,Geomil 25000,Limba română
+Schitul Dunca,schit,2,46.902490792745,27.9208951551212,Iasi,Altele,1700,,Schitul Dunca,Geomil 25000,Limba română
+La Schitu Ruinat,schit,2,44.3296817158272,25.9568553529784,Ilfov,Altele,4230,,La Schitu Ruinat,PDT,Limba română
+Valea Schitului,schit,2,44.7180626076238,26.0687253275259,Ilfov,Vale,1325,,Valea Schitului,Geomil 25000,Limba română,Valea Schitul,PDT,Limba română
+Culmea Schitului,schit,2,47.0100987826214,25.8939067400419,Neamt,Înălțime,7137,,Culmea Schitului,Geomil 25000,Limba română
+Dealul Schitului,schit,2,47.0886220410564,26.5028536390874,Neamt,Deal,662,,Dealul Schitului,Geomil 25000,Limba română,Dealul Schitului,PDT,Limba română
+Poiana Schitului,schit,2,47.0871749039043,26.4946663194453,Neamt,Poiană,3874,662,Poiana Schitului,PDT,Limba română
+Schitu Tarcău,schit,2,46.7610315660582,26.1786491667046,Neamt,Localitate,6525,,Schitu Tarcău,Geomil 25000,Limba română
+Schitul,schit,2,47.0402557897711,25.9547549589391,Neamt,Localitate,6467,,Schitul,PDT,Limba română
+Schitul Durău,schit,2,46.9964668377208,25.922606946924,Neamt,Localitate,6475,,Schitul Durău,PDT,Limba română
+Schitul Lipovenilor,schit,2,46.8886831954018,26.3229462999916,Neamt,Altele,6492,,Schitul Lipovenilor,PDT,Limba română
+Gârla Schitului,schit,2,44.1174210708122,24.5385482361316,Olt,Apă-deal-câmpie,12136,,Gârla Schitului,PDT,Limba română
+Pădurea Schitu,schit,2,44.5877299429259,24.3375236708905,Olt,Pădure,9347,,Pădurea Schitu,Geomil 25000,Limba română,Pădurea Schitu,PDT,Limba română
+Schitu,schit,2,44.3550203046249,24.5693045719956,Olt,Localitate,3003,,Schitu,Geomil 25000,Limba română
+Schitu,schit,2,44.359207371848,24.5809116073842,Olt,Înălțime,3004,3003,Schitu,Geomil 25000,Limba română
+Schitul din Deal,schit,2,44.5036692309769,24.226187811084,Olt,Localitate,8294,,Schitul din Deal,PDT,Limba română
+Valea Schitului,schit,2,45.3079258905775,26.1047729554316,Prahova,Vale,2818,,Valea Schitului,Geomil 25000,Limba română
+Dealul la Schit,schit,2,47.7153136295889,26.3615321079544,Suceava,Deal,7272,,Dealul la Schit,PDT,Limba română
+Gulea (Schit),schit,2,47.4127745286671,26.6049766812413,Suceava,Localitate,14048,,Gulea (Schit),Moldova (1892-1898),Limba română
+Pădurea Schitului,schit,2,47.7686936296397,26.2424711159081,Suceava,Pădure,2302,2303,Pădurea Schitului,Geomil 25000,Limba română
+Schitul,schit,2,47.7591845913297,26.2392159119726,Suceava,Vale,2300,2303,Schitul,Geomil 25000,Limba română
+Schitul,schit,2,47.7732725822897,26.2165056534025,Suceava,,2303,,Schitul,Geomil 25000,Limba română
+Schitu-Poenari,schit,2,43.9877825752006,25.4759718740412,Teleorman,Localitate,9024,,Schitu-Poenari,PDT,Limba română
+Dealu Schitului,schit,2,44.7136164838428,24.0710763185006,Valcea,Deal,2950,,Dealu Schitului,Geomil 25000,Limba română
+La Schit,schit,2,44.7269035080438,24.2036728579776,Valcea,Altele,4791,,La Schit,Geomil 25000,Limba română,La Schit,PDT,Limba română
+Schitu,schit,2,44.9833008533716,24.4770551629596,Valcea,Localitate,3078,,Schitu,Geomil 25000,Limba română
+Cimitirul Schitu,schit,2,46.6644875112814,28.0551169101292,Vaslui,Altele,8849,,Cimitirul Schitu,PDT,Limba română
+Dealul Schitului,schit,2,46.8304901888619,27.8638978036063,Vaslui,Deal,2204,2203,Dealul Schitului,Geomil 25000,Limba română
+Dealul Schitului,schit,2,46.7728702224401,27.2732529706258,Vaslui,Deal,7290,,Dealul Schitului,Geomil 25000,Limba română
+Pădurea Schitului,schit,2,46.4905711893751,27.6777624618229,Vaslui,Pădure,1678,,Pădurea Schitului,Geomil 25000,Limba română
+Pădurea Schitului,schit,2,46.8208453880357,27.8598429017729,Vaslui,Pădure,2203,,Pădurea Schitului,Geomil 25000,Limba română
+Poiana Schitului,schit,2,46.2116396481821,27.7839775135178,Vaslui,Poiană,719,,Poiana Schitului,Geomil 25000,Limba română,Poiana Schitului,PDT,Limba română
+Schitu,schit,2,46.5076410174518,27.6708047785109,Vaslui,Localitate,7283,7284,Schitu,Geomil 25000,Limba română
+Valea Schitului,schit,2,46.4896710904889,27.674480628449,Vaslui,Vale,1679,1678,Valea Schitului,Geomil 25000,Limba română
+Culmea Schitu,schit,2,45.8719316303795,26.8613784749848,Vrancea,Înălțime,9218,,Culmea Schitu,Geomil 25000,Limba română
+Dealul Crucea Schitului,schit,2,45.8601038206264,26.9675477534947,Vrancea,Deal,5275,,Dealul Crucea Schitului,Geomil 25000,Limba română
+Fața Schitului,schit,2,45.9752278683063,26.573034603667,Vrancea,Înălțime,9214,,Fața Schitului,Geomil 25000,Limba română
+Pădurea Schitu Valea Neagră,schit,2,45.8156179503267,26.6124838606656,Vrancea,Pădure,2129,13788,Pădurea Schitu Valea Neagră,Geomil 25000,Limba română
+Pârâul Schitului,schit,2,45.6086929352111,27.0353011755907,Vrancea,Vale,2146,,Pârâul Schitului,Geomil 25000,Limba română
+Pârâul Schitului,schit,2,45.8636293024587,26.8539300748615,Vrancea,Vale,9219,9218,Pârâul Schitului,Geomil 25000,Limba română
+Skit Kotești,schit,2,45.6504384302125,27.0398109132081,Vrancea,Mănăstire,12998,,Skit Kotești,Austriacă,Limba română

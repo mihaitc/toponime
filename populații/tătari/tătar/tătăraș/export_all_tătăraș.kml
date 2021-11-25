@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealul Tătărașului</name><description>Nume: Dealul Tătărașului, Tip: tătăraș, Nivel: 4, Județ: Suceava, Formă: Deal, ID: 1788, ID Părinte: 9056 <br /><b>Variante</b><br />Nume: Dealul Tătărașului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.261112,47.628523,0</coordinates></Point></Placemark>
+<Placemark><LineString id="1788_9056"><tessellate>1</tessellate><coordinates>26.261112,47.628523,0.
+26.260275,47.632990,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Gârla Tătărașu</name><description>Nume: Gârla Tătărașu, Tip: tătăraș, Nivel: 4, Județ: Tulcea, Formă: Apă-deal-câmpie, ID: 2908, ID Părinte: 2909 <br /><b>Variante</b><br />Nume: Gârla Tătărașu, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>29.265595,45.388822,0</coordinates></Point></Placemark>
+<Placemark><LineString id="2908_2909"><tessellate>1</tessellate><coordinates>29.265595,45.388822,0.
+29.222151,45.404914,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

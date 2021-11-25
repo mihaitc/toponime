@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Unguroaia,unguroaie,3,47.6111554993864,26.7010200228286,Botosani,Localitate,2358,,Unguroaia,Geomil 25000,Limba română
+Unguroaia,unguroaie,3,47.6071396683681,26.6868755739392,Botosani,Vale,2359,2358,Unguroaia,Geomil 25000,Limba română

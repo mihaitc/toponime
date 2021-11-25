@@ -1,0 +1,12 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Mănăstur,mănăștur,2,46.0263373446056,21.1124036179671,Arad,Altele,5647,,Mănăstur,PDT,Limba română
+Mănăștur,mănăștur,2,46.009955717848,21.1295105269396,Arad,Localitate,5648,5647,Mănăștur,PDT,Limba română,Mănăștur,Geomil 25000,Limba română
+Valea Mănăștur,mănăștur,2,46.00326961585,21.1704830848322,Arad,Vale,5649,5647,Valea Mănăștur,Geomil 25000,Limba română
+Cartierul Mănăștur,mănăștur,2,46.7610064715871,23.5412392338761,Cluj,Localitate,7053,,Cartierul Mănăștur,Geomil 25000,Limba română
+Mănășturel,mănăștur,2,47.1715512041261,23.9482406713085,Cluj,Localitate,4396,,Mănășturel,Geomil 25000,Limba română
+Pădurea Mânășturului,mănăștur,2,46.7439503528615,23.5496114342383,Cluj,Pădure,7054,7053,Pădurea Mânășturului,Geomil 25000,Limba română
+Copalnic-Mănăștur,mănăștur,2,47.5050350609937,23.6774929392179,Maramures,Localitate,8236,,Copalnic-Mănăștur,PDT,Limba română
+Monostor,mănăștur,2,47.6636059527521,23.4048997580472,Maramures,Localitate,10829,,Monostor,Ungară 1869,Limba română
+Lanu Mănăștur,mănăștur,2,45.9812836683977,21.147912048415,Timis,Altele,5650,5647,Lanu Mănăștur,Geomil 25000,Limba română
+Mănăștur,mănăștur,2,45.8363324755566,22.0614579725243,Timis,Localitate,4298,4300,Mănăștur,Geomil 25000,Limba română
+Mănăstur,mănăștur,2,45.9798297351088,21.0537637591023,Timis,Altele,10004,,Mănăstur,PDT,Limba română

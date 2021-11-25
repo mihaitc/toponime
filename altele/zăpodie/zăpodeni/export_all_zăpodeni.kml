@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealul Zăpodeni</name><description>Nume: Dealul Zăpodeni, Tip: zăpodeni, Nivel: 3, Județ: Bacau, Formă: Deal, ID: 7860, ID Părinte: 4639 <br /><b>Variante</b><br />Nume: Dealul Zăpodeni, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>27.332395,46.571347,0</coordinates></Point></Placemark>
+<Placemark><LineString id="7860_4639"><tessellate>1</tessellate><coordinates>27.332395,46.571347,0.
+27.310458,46.565094,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

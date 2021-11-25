@@ -1,0 +1,45 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+La Vărărie,vărărie,3,46.5704515117128,26.459184780471,Bacau,Altele,9956,,La Vărărie,Moldova (1892-1898),Limba română
+Valea Vărăria,vărărie,3,46.3616745806519,27.1688071316867,Bacau,Vale,7886,,Valea Vărăria,PDT,Limba română
+Valea Vărăriei,vărărie,3,46.1613728500245,27.0263875881472,Bacau,Vale,1734,,Valea Vărăriei,Geomil 25000,Limba română,Valea Vărăriei,PDT,Limba română
+Valea Vărăriei,vărărie,3,46.2855135637181,27.3823682478217,Bacau,Vale,13644,,Valea Vărăriei,Geomil 25000,Limba română
+Vărărie,vărărie,3,46.3098351803935,26.6789698945854,Bacau,Altele,5327,,Vărărie,PDT,Limba română
+Vărăria,vărărie,3,46.9575813578005,22.4047388118439,Bihor,Altele,4167,,Vărăria,PDT,Limba română
+Vărăria,vărărie,3,47.2177861529283,24.9487758726646,Bistrita Nasaud,Vale,13761,,Vărăria,Geomil 25000,Limba română
+Dealul Vărăriei,vărărie,3,47.5768711077554,26.8065886398287,Botosani,Deal,1756,,Dealul Vărăriei,Geomil 25000,Limba română
+La Vărărie,vărărie,3,48.2395261929652,26.6369045119215,Botosani,Altele,2008,,La Vărărie,Geomil 25000,Limba română,La Vărărie,PDT,Limba română
+Valea Vărăriilor,vărărie,3,44.1171177343837,25.8663320932264,Giurgiu,Vale,3153,,Valea Vărăriilor,Geomil 25000,Limba română
+Vărăria,vărărie,3,46.9569726825819,25.8079627148454,Harghita,Vale,11719,,Vărăria,Geomil 25000,Limba română
+Dealul Vărăriei,vărărie,3,47.0078283225041,27.8088662802112,Iasi,Deal,2214,,Dealul Vărăriei,Geomil 25000,Limba română
+Dealul Vărăriei,vărărie,3,47.0167725231802,27.6779589795297,Iasi,Deal,2219,,Dealul Vărăriei,Geomil 25000,Limba română
+La Vărărie,vărărie,3,47.3695364614532,26.8749685309711,Iasi,Altele,6619,,La Vărărie,PDT,Limba română
+Pădurea Vărăriei,vărărie,3,46.9209069444586,27.9292869557362,Iasi,Pădure,6580,,Pădurea Vărăriei,Geomil 25000,Limba română
+Dealu Vărăria,vărărie,3,44.4521982229734,22.9904248961052,Mehedinti,Deal,5198,,Dealu Vărăria,Geomil 25000,Limba română
+Arșița Vărăriei,vărărie,3,47.1724849180847,26.0324360247056,Neamt,Altele,11652,,Arșița Vărăriei,Geomil 25000,Limba română
+Dealul Vărăria,vărărie,3,46.9465525406775,26.3959007264711,Neamt,Deal,3855,,Dealul Vărăria,PDT,Limba română
+Dealul Vărăriei,vărărie,3,47.1145225340847,26.265726838027,Neamt,Deal,9127,3858,Dealul Vărăriei,PDT,Limba română,Dealul Vărăriei,Geomil 25000,Limba română
+Fântâna la Vărărie,vărărie,3,47.1809974644315,26.5150076649209,Neamt,Altele,3879,659,Fântâna la Vărărie,PDT,Limba română
+La Vărărie,vărărie,3,47.189405914218,26.5143005767139,Neamt,Altele,659,,La Vărărie,Geomil 25000,Limba română
+Piciorul Vărăriei,vărărie,3,47.1752960319145,26.0226790343904,Neamt,Înălțime,14115,11652,Piciorul Vărăriei,Geomil 25000,Limba română
+Poiana Vărăriei,vărărie,3,47.112827075626,26.264213708708,Neamt,Poiană,3858,,Poiana Vărăriei,PDT,Limba română
+Șesul la Vărărie,vărărie,3,47.1867329598156,26.5058063863229,Neamt,Câmp,3880,659,Șesul la Vărărie,PDT,Limba română
+Vărărie,vărărie,3,46.8042734687432,26.4004137856127,Neamt,Altele,9597,,Vărărie,Moldova (1892-1898),Limba română
+Dealul sub Vărărie,vărărie,3,47.7970212638397,26.2392466214483,Suceava,Deal,7270,7269,Dealul sub Vărărie,PDT,Limba română
+Dealul Vărăria,vărărie,3,47.8009974545225,26.2372741624483,Suceava,Deal,7268,7269,Dealul Vărăria,PDT,Limba română
+Dealul Vărăriei,vărărie,3,47.9068429530013,25.5772922742679,Suceava,Deal,641,,Dealul Vărăriei,Geomil 25000,Limba română
+Dealul Vărăriei,vărărie,3,47.7468346312548,26.3328054760597,Suceava,Deal,4918,,Dealul Vărăriei,Geomil 25000,Limba română,Dealul Vărăriei,PDT,Limba română
+La Vărărie,vărărie,3,47.479197446998,26.5276748715991,Suceava,Altele,7789,,La Vărărie,PDT,Limba română
+Pădurea Vărăriei,vărărie,3,47.793020190644,26.224622110271,Suceava,Pădure,2304,7269,Pădurea Vărăriei,Geomil 25000,Limba română
+Poiana Vărăria,vărărie,3,47.7988417336195,26.2442183890027,Suceava,Poiană,7269,,Poiana Vărăria,PDT,Limba română
+Vărăria,vărărie,3,47.3602980537323,26.6155258112888,Suceava,Vale,12920,,Vărăria,Geomil 25000,Limba română
+Vărăria Regelui,vărărie,3,47.1870524603114,25.6291172227901,Suceava,Altele,9942,,Vărăria Regelui,Moldova (1892-1898),Limba română
+Vărărie,vărărie,3,47.4775323820179,26.3535731286206,Suceava,Altele,1768,,Vărărie,Geomil 25000,Limba română
+Dealul Vărăria,vărărie,3,44.9661089071021,28.3087262422506,Tulcea,Deal,11083,,Dealul Vărăria,Geomil 25000,Limba română
+Dealul Vărăriei,vărărie,3,45.1785517401382,28.6550001319644,Tulcea,Deal,2899,,Dealul Vărăriei,Geomil 25000,Limba română
+Valea Vărăriei,vărărie,3,45.1777609019027,28.6592196512044,Tulcea,Vale,2900,2899,Valea Vărăriei,Geomil 25000,Limba română
+Dealul Vărăriei,vărărie,3,46.5751441792523,27.6504032509475,Vaslui,Deal,4614,,Dealul Vărăriei,PDT,Limba română
+La Vărărie,vărărie,3,46.5379300315771,27.6945872229935,Vaslui,Altele,1675,,La Vărărie,Geomil 25000,Limba română,La Vărărie,PDT,Limba română
+Pârâul Vărăriei,vărărie,3,46.5905885797755,27.6340756283152,Vaslui,Vale,4615,,Pârâul Vărăriei,PDT,Limba română
+Valea Vărăriei,vărărie,3,46.7920970998637,27.3423663256512,Vaslui,Vale,11297,,Valea Vărăriei,Geomil 25000,Limba română
+Vărăria,vărărie,3,46.7885648827377,28.0896347154329,Vaslui,Localitate,6570,,Vărăria,PDT,Limba română
+Pârâul Vărăriei,vărărie,3,45.9305182136649,26.7281653168851,Vrancea,Vale,13793,,Pârâul Vărăriei,Geomil 25000,Limba română

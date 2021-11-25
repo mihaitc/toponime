@@ -1,0 +1,163 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Labu Grecilor,greci,2,46.1402838324351,23.8227156659159,Alba,Înălțime,2558,,Labu Grecilor,Geomil 25000,Limba română
+Dealu Grecului,grec,3,46.2824776068965,22.6208663946028,Arad,Deal,6257,,Dealu Grecului,Geomil 25000,Limba română
+Valea Greaca,greaca,3,44.6807967936169,25.1861330129835,Arges,Vale,1398,,Valea Greaca,Geomil 25000,Limba română
+Valea Greacă,greaca,3,45.0474121144185,24.7955318905559,Arges,Vale,9693,,Valea Greacă,Geomil 25000,Limba română
+Valea Grecii,greaca,3,45.2202497044266,25.1962166807236,Arges,Vale,5048,,Valea Grecii,Geomil 25000,Limba română
+Eleșteul Grecului,grec,3,44.5847036772762,25.1628630775071,Arges,Apă-deal-câmpie,3719,,Eleșteul Grecului,PDT,Limba română
+Heleșteul Grecului,grec,3,44.9524319694622,24.7827109656607,Arges,Apă-deal-câmpie,9697,,Heleșteul Grecului,PDT,Limba română
+Movila Grecului,grec,3,44.608226133239,24.7566545463122,Arges,Înălțime,14237,,Movila Grecului,PDT,Limba română
+Poiana Grecului,grec,3,44.98876094962,25.0557259241975,Arges,Poiană,10160,,Poiana Grecului,PDT,Limba română
+Coasta Grecului,greci,2,45.1814538602617,24.9302781573363,Arges,Înălțime,564,,Coasta Grecului,Geomil 25000,Limba română
+Dealul Grecilor,greci,2,44.6516236414338,24.7781339389192,Arges,Deal,4777,,Dealul Grecilor,PDT,Limba română
+Moșteni-Greci,greci,2,45.005008814365,25.1559301095798,Arges,Localitate,1506,,Moșteni-Greci,Geomil 25000,Limba română
+Pârâu Grecilor,greci,2,44.9851726374682,25.1432536432752,Arges,Vale,1514,1506,Pârâu Grecilor,Geomil 25000,Limba română
+Poiana Greci,greci,2,45.1068624993539,25.0748836985983,Arges,Poiană,8450,,Poiana Greci,PDT,Limba română
+Valea Grecilor,greci,2,45.1845811188319,25.1321388315319,Arges,Vale,557,,Valea Grecilor,Geomil 25000,Limba română
+Dealul Grecului,grec,3,46.4957255445718,27.3671796716208,Bacau,Deal,9514,,Dealul Grecului,PDT,Limba română
+Dealul Grecului,grec,3,46.5503977742602,26.6263413307516,Bacau,Deal,11641,,Dealul Grecului,Geomil 25000,Limba română
+Poiana Grecului,grec,3,46.2196605532326,26.9218678265902,Bacau,Poiană,7835,,Poiana Grecului,Geomil 25000,Limba română
+Valea Grecului,grec,3,46.5021619822607,27.3692965979172,Bacau,Vale,9513,9514,Valea Grecului,PDT,Limba română
+Valea Grecului,grec,3,46.4887445244896,27.0921533100008,Bacau,Vale,9515,,Valea Grecului,PDT,Limba română
+Dealul Grecului,grec,3,46.9767978991109,22.5185748823302,Bihor,Deal,10273,,Dealul Grecului,PDT,Limba română,Jrtașu Grekului,Ungară 1869,Limba română
+Lanu Grecului,grec,3,46.8486967370593,22.1836275335643,Bihor,Altele,10822,4139,Lanu Grecului,Geomil 25000,Limba română
+Râtul Grecului,grec,3,46.8497879956305,22.1720711854565,Bihor,Altele,4139,,Râtul Grecului,PDT,Limba română
+La Greaca,greaca,3,47.6190600061301,27.3314488790036,Botosani,Altele,2432,,La Greaca,Geomil 25000,Limba română
+Valea Greaca,greaca,3,47.6234540443275,27.3182523291918,Botosani,Vale,2433,2432,Valea Greaca,Geomil 25000,Limba română
+Dealul Grecilor,greci,2,47.8703055994603,26.6501765482319,Botosani,Deal,2340,,Dealul Grecilor,Geomil 25000,Limba română
+Dealul Podul Grecilor,greci,2,48.0526557852698,26.6408456002201,Botosani,Deal,6676,,Dealul Podul Grecilor,PDT,Limba română
+Mori Grecilor,greci,2,47.542466744575,26.7543086931814,Botosani,Altele,9588,,Mori Grecilor,Moldova (1892-1898),Limba română
+Valea Grecilor,greci,2,47.5331731489888,27.1672418263641,Botosani,Vale,12384,,Valea Grecilor,Geomil 25000,Limba română
+La Grecu,grec,3,45.3832158605687,27.6418056585985,Braila,Altele,11441,,La Grecu,Geomil 25000,Limba română
+Dealul Grecului,grec,3,45.8755414582038,24.8262171748127,Brasov,Deal,2678,,Dealul Grecului,Geomil 25000,Limba română
+Piscul Grecului,grec,3,45.6762020917803,25.051220053222,Brasov,Înălțime,4953,,Piscul Grecului,Geomil 25000,Limba română,Piscul Grecului,PDT,Limba română
+Mârâcine Grekului,grec,3,45.3501274388899,27.1141252905988,Buzau,Pădure,5261,,Mârâcine Grekului,Austriacă,Limba română
+Pârâul Grecu,grec,3,45.1949071079607,26.4807502721646,Buzau,Vale,13564,,Pârâul Grecu,Geomil 25000,Limba română
+Valea Grecului,grec,3,45.1848879181344,26.6228393661579,Buzau,Vale,8735,,Valea Grecului,PDT,Limba română
+Greci de Buzău,greci,2,45.1977803806493,26.7725595822225,Buzau,Localitate,8733,,Greci de Buzău,PDT,Limba română
+Movila Grecilor,greci,2,45.0705560214467,26.7380876681174,Buzau,Înălțime,67,,Movila Grecilor,PDT,Limba română
+Movila Grecilor,greci,2,44.9573587590961,27.1123019259798,Buzau,Înălțime,3593,,Movila Grecilor,Geomil 25000,Limba română,Movila Grecilor,PDT,Limba română
+Muntele Podul Grecilor,greci,2,45.5132178571834,26.3997575195492,Buzau,Înălțime,6115,,Muntele Podul Grecilor,Geomil 25000,Limba română
+Podul Grecilor,greci,2,45.6252959687087,26.6313231872025,Buzau,Altele,2803,,Podul Grecilor,Geomil 25000,Limba română
+Podul Grecilor,greci,2,45.4724541346066,26.5108411104383,Buzau,Altele,8762,,Podul Grecilor,Geomil 25000,Limba română,Podu Grecilor,PDT,Limba română
+Coasta Grecului,grec,3,44.1435386696281,26.4368228913562,Calarasi,Înălțime,3275,3273,Coasta Grecului,PDT,Limba română
+Pădurea Tufele Grecului,grec,3,44.1320215905503,26.4902525729008,Calarasi,Pădure,3273,,Pădurea Tufele Grecului,Geomil 25000,Limba română
+La Valea Greci,greci,2,44.392192089311,26.402439859018,Calarasi,Localitate,10099,3761,La Valea Greci,Austriacă,Limba română
+Puțul Grecilor,greci,2,44.3038650930405,27.348619561565,Calarasi,Altele,3302,,Puțul Grecilor,PDT,Limba română
+Valea Grecilor,greci,2,44.3838063641904,26.3930563411654,Calarasi,Vale,3761,,Valea Grecilor,Geomil 25000,Limba română,Valea Grecilor,PDT,Limba română,Valea Greci,Austriacă,Limba română
+Cracul Grecului,grec,3,44.8931295003581,21.8207196714649,Caras Severin,Înălțime,8516,,Cracul Grecului,PDT,Limba română,Cracu Grecului,Geomil 25000,Limba română
+Lazul Grecului,grec,3,45.0933231763,22.4249314753775,Caras Severin,Altele,8676,,Lazul Grecului,PDT,Limba română
+Ogașu Grecului,grec,3,45.0982162949394,21.5455083761196,Caras Severin,Vale,5709,,Ogașu Grecului,Geomil 25000,Limba română
+Pârâu Valea Grecului,grec,3,44.7581770481035,21.6962751004771,Caras Severin,Vale,5738,,Pârâu Valea Grecului,Geomil 25000,Limba română
+Valea Grecilor,greci,2,44.1364827735727,27.5243365651303,Constanta,Vale,9280,,Valea Grecilor,PDT,Limba română
+Valea Grecii,greaca,3,45.0038416494326,25.5257264038377,Dambovita,Vale,7461,,Valea Grecii,Geomil 25000,Limba română
+La Bordeiu Grecului,grec,3,44.7763668451689,25.360016604271,Dambovita,Altele,7454,,La Bordeiu Grecului,Geomil 25000,Limba română
+Dealul Grecilor,greci,2,45.0110123620557,25.1502105790973,Dambovita,Deal,1513,1506,Dealul Grecilor,Geomil 25000,Limba română
+Greci,greci,2,44.6679191093677,25.3345885436416,Dambovita,Localitate,3377,,Greci,PDT,Limba română
+Lacul Greaca,greaca,3,44.1334235797329,23.7201411844917,Dolj,Lac,7707,,Lacul Greaca,PDT,Limba română
+Lacul Greaca,greaca,3,44.2251937135426,23.6852819795797,Dolj,Lac,7727,,Lacul Greaca,PDT,Limba română
+Braniștea Grekului,grec,3,43.9773068782324,23.6468707189358,Dolj,Altele,8113,,Braniștea Grekului,Austriacă,Limba română
+Dealul Grecului,grec,3,44.4309004339297,23.7528157619413,Dolj,Deal,4688,,Dealul Grecului,Geomil 25000,Limba română,Dealul Grecului,PDT,Limba română
+Lacul Grecului,grec,3,44.1682715448736,23.7423112565813,Dolj,Lac,7711,,Lacul Grecului,PDT,Limba română
+Grecești,grecești,3,43.9457699443967,23.8660723797832,Dolj,Localitate,7689,,Grecești,PDT,Limba română
+Măgura Grecești,grecești,3,43.9541121957013,23.8699250253155,Dolj,Înălțime,7690,7689,Măgura Grecești,PDT,Limba română
+Culmea Grecilor,greci,2,44.5721374923951,23.119990323771,Dolj,Înălțime,177,439,Culmea Grecilor,Geomil 25000,Limba română
+Dealul Grecului,greci,2,44.428645739916,23.7443147741533,Dolj,Deal,404,,Dealul Grecului,Geomil 25000,Limba română
+Grindu Grecilor,greci,2,43.8962911144165,22.8840426042858,Dolj,Altele,160,,Grindu Grecilor,Geomil 25000,Limba română,Grindu Grecilor,PDT,Limba română
+Măgura Grecilor,greci,2,44.0681624463879,23.1173508722179,Dolj,Înălțime,8490,,Măgura Grecilor,PDT,Limba română,Măgura Grecilor,Geomil 25000,Limba română
+Dealul Greaca,greaca,3,45.474108122306,27.8652455285888,Galati,Deal,3531,,Dealul Greaca,PDT,Limba română,Dealul Greaca,Geomil 25000,Limba română
+Dealul Greaca,greaca,3,45.5211572227461,27.8900630425225,Galati,Deal,8710,,Dealul Greaca,PDT,Limba română
+Valea Greaca,greaca,3,45.4647257766585,27.8405176017906,Galati,Vale,3532,3531,Valea Greaca,PDT,Limba română,Valea Greaca,Geomil 25000,Limba română
+Valea Greaca,greaca,3,45.502686549071,27.8777146948759,Galati,Vale,8712,8710,Valea Greaca,PDT,Limba română,Valea Greaca,Geomil 25000,Limba română
+Valea Grecului,grec,3,45.8171551942954,27.5468725243417,Galati,Vale,742,,Valea Grecului,Geomil 25000,Limba română
+Valea Grecului,grec,3,46.0642752892,27.7606996068,Galati,Vale,7369,,Valea Grecului,Geomil 25000,Limba română
+Pădurea Grecilor,greci,2,45.9843146075596,27.4200374655269,Galati,Pădure,3939,,Pădurea Grecilor,PDT,Limba română
+Via Greci,greci,2,45.9889315751448,27.4240184599735,Galati,Altele,3938,3939,Via Greci,PDT,Limba română
+Greaka,greaca,3,44.1082519291057,26.3413283254585,Giurgiu,Localitate,5746,5745,Greaka,Austriacă,Limba română,Greaca,Geomil 25000,Limba română
+Crucea Grecului,grec,3,44.2350350013803,26.0488318984153,Giurgiu,Altele,9993,,Crucea Grecului,PDT,Limba română
+Greku,grec,3,43.756322475573,25.8039667067199,Giurgiu,Apă-deal-câmpie,5742,,Greku,Austriacă,Limba română
+Iezerul Grecilor,greci,2,44.0871577835787,26.3680308888089,Giurgiu,Lac,5745,,Iezerul Grecilor,Austriacă,Limba română
+Pădurea Greaca,greaca,3,44.6916181567317,23.3516288187677,Gorj,Pădure,7435,,Pădurea Greaca,PDT,Limba română
+Calu Grecului,grec,3,44.7530622952636,23.3460788898656,Gorj,Altele,11010,,Calu Grecului,Geomil 25000,Limba română
+Dealu Grecilor,greci,2,44.8719254198304,23.2734837683802,Gorj,Deal,5138,,Dealu Grecilor,Geomil 25000,Limba română
+Dealu Grecilor,greci,2,44.7254481433952,23.4092758171023,Gorj,Deal,11011,,Dealu Grecilor,Geomil 25000,Limba română
+Dealul Grecilor,greci,2,45.0487253234548,23.1703067541951,Gorj,Deal,232,,Dealul Grecilor,Geomil 25000,Limba română
+Valea Grecilor,greci,2,44.7257962930617,23.4052090463737,Gorj,Vale,11012,11011,Valea Grecilor,Geomil 25000,Limba română
+Groapa Grecului,grec,3,45.6059469600147,22.7793986955909,Hunedoara,Altele,6109,,Groapa Grecului,Geomil 25000,Limba română
+Pisku Grekului,grec,3,45.6161313698847,23.4002038387313,Hunedoara,Înălțime,11928,,Pisku Grekului,Transilvania (1769-1773),Limba română
+Poru Grekului,grec,3,45.6112345206267,23.3898331243794,Hunedoara,Vale,11929,11928,Poru Grekului,Transilvania (1769-1773),Limba română
+Diallo Grecijlor,greci,2,45.961291151596,23.1360735315102,Hunedoara,Deal,12760,,Diallo Grecijlor,Transilvania (1769-1773),Limba română
+Pârâu Greci,greci,2,45.5886481620248,22.7641046039149,Hunedoara,Vale,10800,,Pârâu Greci,Geomil 25000,Limba română
+Cotul Grecului,grec,3,44.7606968423393,26.3943770071644,Ialomita,Apă-deal-câmpie,11061,,Cotul Grecului,PDT,Limba română
+Valea Grecului,grec,3,44.5553017075457,27.4927899010865,Ialomita,Vale,14127,,Valea Grecului,Geomil 25000,Limba română
+Fântâna Grecilor,greci,2,44.5097799301892,27.0694957682721,Ialomita,Altele,3433,,Fântâna Grecilor,PDT,Limba română
+Dealul Grecei,greaca,3,47.3127507064319,27.3800392799176,Iasi,Deal,4856,,Dealul Grecei,PDT,Limba română,Dealul Greaca,Geomil 25000,Limba română
+Dealul Grecului,grec,3,47.2795984714699,26.7853941599979,Iasi,Deal,8901,,Dealul Grecului,Geomil 25000,Limba română
+Grecul,grec,3,47.2788292194269,26.7919687636314,Iasi,Vale,8902,8901,Grecul,Geomil 25000,Limba română
+Valea Grecilor,greci,2,47.0804317074789,27.4924213149514,Iasi,Vale,8895,,Valea Grecilor,Geomil 25000,Limba română
+Poiana Grecului,grec,3,44.4353363322632,26.3163420126314,Ilfov,Poiană,4265,,Poiana Grecului,PDT,Limba română,la puana Greku,Austriacă,Limba română
+Puțu Grecului,grec,3,44.4040531845643,25.8689020348209,Ilfov,Altele,3752,,Puțu Grecului,PDT,Limba română
+Greci de mijilok,greci,2,44.6681936329046,26.340711636236,Ilfov,Localitate,10927,,Greci de mijilok,Austriacă,Limba română
+Greci de sus,greci,2,44.6612971166001,26.3017069564717,Ilfov,Localitate,10929,10927,Greci de sus,Austriacă,Limba română
+Grecii de Jos,greci,2,44.6730163280868,26.3536745962712,Ilfov,Localitate,10928,10927,Grecii de Jos,Geomil 25000,Limba română,Greci de jos,Austriacă,Limba română
+Wald von Greci (Pădurea Greci),greci,2,44.6294429363367,26.3639978591029,Ilfov,Pădure,10926,10927,Wald von Greci (Pădurea Greci),Austriacă,Limba germană
+De. Grekului,grec,3,44.3151119580744,23.016358158687,Mehedinti,Deal,6162,,De. Grekului,Austriacă,Limba română
+Fântâna Grecului,grec,3,44.2833853331716,22.8425874509723,Mehedinti,Altele,3655,,Fântâna Grecului,PDT,Limba română
+Fântâna Grecului,grec,3,44.5416173855698,22.8596741322302,Mehedinti,Altele,8076,,Fântâna Grecului,PDT,Limba română
+Dealu Grecului,greci,2,44.7005944533168,22.5845764204657,Mehedinti,Deal,189,,Dealu Grecului,Geomil 25000,Limba română
+Greci,greci,2,44.5589885352547,23.1025184383843,Mehedinti,Localitate,439,,Greci,Geomil 25000,Limba română
+Valea Grecilor,greci,2,44.5640457596527,23.1066065869347,Mehedinti,Vale,178,439,Valea Grecilor,Geomil 25000,Limba română
+Valea Grecilor,greci,2,44.5784328641072,23.0797159531859,Mehedinti,Vale,440,439,Valea Grecilor,Geomil 25000,Limba română
+Valea Grecului,greci,2,44.7040028816664,22.5892907853271,Mehedinti,Vale,190,189,Valea Grecului,Geomil 25000,Limba română
+Valea Grecului,grec,3,46.6776864873261,24.3930619743664,Mures,Vale,5373,,Valea Grecului,Geomil 25000,Limba română
+Dealul Grecului,grec,3,46.9603976048548,26.1911761158575,Neamt,Deal,675,,Dealul Grecului,Geomil 25000,Limba română
+La Lacul Grecului,grec,3,44.2378329241077,24.6571698551421,Olt,Lac,2988,,La Lacul Grecului,PDT,Limba română
+Tufa Grecului,grec,3,44.5470203220823,24.507880624907,Olt,Altele,9486,,Tufa Grecului,Geomil 25000,Limba română,Tufa Grecului,PDT,Limba română
+Valea Grecului,grec,3,44.5634240918653,24.7084309869197,Olt,Vale,5816,,Valea Grecului,Geomil 25000,Limba română
+Valea Grecului,grec,3,44.4153810819956,24.5553323818381,Olt,Vale,11693,,Valea Grecului,Geomil 25000,Limba română
+Balta Grecilor,greci,2,44.2830116943803,24.3613214021682,Olt,Apă-deal-câmpie,12531,3011,Balta Grecilor,PDT,Limba română
+Greci,greci,2,44.3310100032988,24.556128281863,Olt,Localitate,3000,,Greci,Geomil 25000,Limba română
+Greci,greci,2,44.3258728764661,24.5811946926524,Olt,Înălțime,3002,3000,Greci,Geomil 25000,Limba română
+Greci,greci,2,44.2798699558636,24.3511300155452,Olt,Localitate,3011,,Greci,Geomil 25000,Limba română
+Pădurea Greci,greci,2,44.3245095020675,24.5408291566898,Olt,Pădure,3001,3000,Pădurea Greci,Geomil 25000,Limba română
+Skittu Greci,greci,2,44.3522512686587,24.5805152293954,Olt,Localitate,5796,3000,Skittu Greci,Austriacă,Limba română
+Valea Grecului,grec,3,45.1561559636391,26.1085847931424,Prahova,Vale,7477,,Valea Grecului,Geomil 25000,Limba română
+Valea Grecilor,greci,2,45.2343434605667,25.7549827144635,Prahova,Vale,807,,Valea Grecilor,Geomil 25000,Limba română,Valea Grecilor,PDT,Limba română
+Valea Grecului,greci,2,45.4536899231521,25.5424774319859,Prahova,Vale,583,582,Valea Grecului,Geomil 25000,Limba română
+Vârful Grecului,greci,2,45.4584283155031,25.5326587980037,Prahova,Înălțime,582,,Vârful Grecului,Geomil 25000,Limba română
+Vf. Greku,grec,3,47.8492671217861,23.5677480268596,Satu Mare,Înălțime,10320,,Vf. Greku,Ungară 1869,Limba română
+Pârâul Fundul Grecului,grec,3,46.0836323098667,24.5063199277985,Sibiu,Vale,5529,,Pârâul Fundul Grecului,PDT,Limba română
+Valea Grecilor,greci,2,46.1101789029654,24.4666261317721,Sibiu,Vale,2629,,Valea Grecilor,Geomil 25000,Limba română
+Vârful Grecilor,greci,2,45.6052668143923,24.1361773087476,Sibiu,Înălțime,11206,,Vârful Grecilor,ANCPI,Limba română
+Găvanul Grecului,grec,3,43.8942240335485,24.7812679952342,Teleorman,Altele,9475,,Găvanul Grecului,PDT,Limba română
+La Lacu Grecu,grec,3,44.2409641028408,25.1616085485479,Teleorman,Lac,9449,,La Lacu Grecu,Geomil 25000,Limba română
+La Lacu Grecului,grec,3,44.3807053559332,25.4434915816592,Teleorman,Lac,1394,,La Lacu Grecului,Geomil 25000,Limba română
+Lacul Grecului,grec,3,44.2649599873655,25.1019543013921,Teleorman,Lac,3727,,Lacul Grecului,PDT,Limba română
+Puțul Grecului,grec,3,44.39451859107,25.341473039467,Teleorman,Altele,3747,,Puțul Grecului,PDT,Limba română
+Găvanu Grecilor,greci,2,43.8694998023591,25.0557423143355,Teleorman,Înălțime,1378,,Găvanu Grecilor,Geomil 25000,Limba română
+La Greci,greci,2,43.848556116791,25.5105023696713,Teleorman,Altele,3785,,La Greci,PDT,Limba română
+Pădurea Greci,greci,2,44.3815683905104,25.4605508140891,Teleorman,Pădure,3744,1394,Pădurea Greci,Austriacă,Limba română
+Pârâul Grecilor,greci,2,43.9040091555843,24.9731777066869,Teleorman,Vale,12426,,Pârâul Grecilor,PDT,Limba română
+Puțul Grecilor,greci,2,43.8282265366292,25.3734208213553,Teleorman,Altele,3420,,Puțul Grecilor,PDT,Limba română
+Puțul Grecilor,greci,2,44.523857350258,25.393079589292,Teleorman,Altele,10109,,Puțul Grecilor,PDT,Limba română
+Valea Grecilor,greci,2,43.9779426557776,25.1404084574405,Teleorman,Vale,1376,,Valea Grecilor,Geomil 25000,Limba română
+Viile Grecești,grecești,3,45.9613105382902,21.1538281921801,Timis,Altele,7637,,Viile Grecești,PDT,Limba română
+Câmpul Grecilor,greci,2,45.1465711131528,28.2858998310966,Tulcea,Câmp,7682,7683,Câmpul Grecilor,Geomil 25000,Limba română
+Greci,greci,2,45.1911282338557,28.2338549153325,Tulcea,Localitate,7683,,Greci,Geomil 25000,Limba română
+Culmea Grecu,grec,3,44.9808986824751,24.0726306562193,Valcea,Înălțime,8443,,Culmea Grecu,PDT,Limba română
+Coasta Grecilor,greci,2,45.1030908905201,24.2618547365832,Valcea,Înălțime,363,,Coasta Grecilor,Geomil 25000,Limba română
+Crucea Greci,greci,2,45.0587997600569,23.9020403650564,Valcea,Altele,3099,,Crucea Greci,Geomil 25000,Limba română
+Dealu Grecului,greci,2,44.9465005725115,24.4037069856606,Valcea,Deal,340,,Dealu Grecului,Geomil 25000,Limba română
+Dealul Grecilor,greci,2,44.8003844430161,23.8136371823504,Valcea,Deal,4750,255,Dealul Grecilor,PDT,Limba română
+Dealul Grecilor,greci,2,44.939873327371,24.2265561318006,Valcea,Deal,8434,,Dealul Grecilor,PDT,Limba română
+Greci,greci,2,45.0953497656092,23.8518118006133,Valcea,Localitate,244,,Greci,Geomil 25000,Limba română
+Valea Grecilor,greci,2,44.7969667441411,23.8162702224396,Valcea,Vale,255,,Valea Grecilor,Geomil 25000,Limba română,Valea Grecilor,PDT,Limba română
+Dealul Grecului,grec,3,46.6648973728015,28.1407923779406,Vaslui,Deal,1693,1695,Dealul Grecului,Geomil 25000,Limba română,Dealul Grecului,PDT,Limba română
+Dealul Grecului,grec,3,46.7360437328237,28.0697883813884,Vaslui,Deal,1695,,Dealul Grecului,Geomil 25000,Limba română
+Lacul Grecului,grec,3,46.7069560409476,28.1150273949895,Vaslui,Lac,6567,1695,Lacul Grecului,PDT,Limba română
+Valea Grecului,grec,3,46.7198411798869,28.1023517834036,Vaslui,Vale,1696,1695,Valea Grecului,Geomil 25000,Limba română
+În Greci,greci,2,46.6809490406469,27.773495108863,Vaslui,Altele,2450,2202,În Greci,Geomil 25000,Limba română
+Moara Grecilor,greci,2,46.6714487578507,27.7447347237442,Vaslui,Localitate,2202,,Moara Grecilor,Geomil 25000,Limba română
+La Crama Grecului,grec,3,45.8845479317827,27.1058921952925,Vrancea,Altele,3560,,La Crama Grecului,PDT,Limba română
+Pârâul Grecului,grec,3,45.8942977069906,26.7790824646211,Vrancea,Vale,5355,,Pârâul Grecului,PDT,Limba română
+Pădurea Lunca Grecilor,greci,2,45.8958141483835,27.249324655123,Vrancea,Pădure,3561,,Pădurea Lunca Grecilor,PDT,Limba română

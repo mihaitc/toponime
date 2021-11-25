@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Cărbunărea,cărbunară,3,45.5871078998172,25.6843818021661,Brasov,Altele,12883,,Cărbunărea,PDT,Limba română
+Pârâul Cărbunărei,cărbunară,3,45.9326278899855,25.31354947086,Brasov,Vale,6800,,Pârâul Cărbunărei,PDT,Limba română
+Vârful Cărbunărei,cărbunară,3,45.9336726002605,25.3092446078191,Brasov,Înălțime,6801,6800,Vârful Cărbunărei,PDT,Limba română

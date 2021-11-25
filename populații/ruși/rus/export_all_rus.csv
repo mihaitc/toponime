@@ -1,0 +1,98 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Râtu Rusului,rus,3,46.5626724445239,21.8142138703184,Arad,Altele,11672,,Râtu Rusului,Geomil 25000,Limba română
+Colțul Rusului,rus,3,45.3427544688491,24.8111521825319,Arges,Înălțime,5076,4992,Colțul Rusului,PDT,Limba română
+Pășunea Bahna Șețul Rusului,rus,3,45.3681659859723,24.8148485748449,Arges,Altele,4994,4992,Pășunea Bahna Șețul Rusului,Geomil 25000,Limba română
+Piscul Rusului,rus,3,45.3833215948551,24.8639908870138,Arges,Înălțime,4995,4992,Piscul Rusului,Geomil 25000,Limba română
+Poiana Rusului,rus,3,45.377142456478,24.8146150071797,Arges,Poiană,4992,,Poiana Rusului,Geomil 25000,Limba română
+Poiana Rusului,rus,3,45.3661123110936,24.8131666785248,Arges,Poiană,4993,4992,Poiana Rusului,Geomil 25000,Limba română
+Dealul Rusului,rus,3,46.375219356183,26.448501304962,Bacau,Deal,4558,,Dealul Rusului,Geomil 25000,Limba română,Dealul Rusului,PDT,Limba română
+Dealul Rusului,rus,3,46.3919628380724,26.9294748622396,Bacau,Deal,7820,,Dealul Rusului,Geomil 25000,Limba română
+Poiana Rusului,rus,3,46.1406118130038,26.7311515929905,Bacau,Poiană,12941,5301,Poiana Rusului,Geomil 25000,Limba română
+Valea Rusului,rus,3,46.1351850545307,26.7248852687386,Bacau,Vale,5301,,Valea Rusului,PDT,Limba română
+Dâmbu Rusului,rus,3,46.5376218102268,22.5361635220906,Bihor,Înălțime,7004,,Dâmbu Rusului,Geomil 25000,Limba română
+Culmea Rusului,rus,3,47.3075683495334,24.9812063940461,Bistrita Nasaud,Înălțime,9880,,Culmea Rusului,Geomil 25000,Limba română
+Dealul Rusului,rus,3,47.2216267604291,24.8530009725093,Bistrita Nasaud,Deal,9888,,Dealul Rusului,Geomil 25000,Limba română
+Rusu de Sus,rus,3,47.1217806655047,24.179892203201,Bistrita Nasaud,Localitate,10468,,Rusu de Sus,Geomil 25000,Limba română
+Rusul Bârgăului,rus,3,47.1967690173014,24.6378996393263,Bistrita Nasaud,Localitate,9908,,Rusul Bârgăului,PDT,Limba română
+Valea Rusului,rus,3,47.1749742504847,24.5008023995112,Bistrita Nasaud,Vale,4513,,Valea Rusului,Geomil 25000,Limba română
+Valea Rusului,rus,3,47.3234365446867,24.5449430054026,Bistrita Nasaud,Vale,9869,,Valea Rusului,PDT,Limba română
+Dealul Rusului,rus,3,48.0289582901127,26.2112678629064,Botosani,Deal,2317,2318,Dealul Rusului,Geomil 25000,Limba română
+Movila Rusului,rus,3,47.7981109142389,27.1578690654596,Botosani,Înălțime,2427,,Movila Rusului,Geomil 25000,Limba română,Movila Rusului,PDT,Limba română
+Obcina la Rus,rus,3,48.0249572687094,26.2384215748923,Botosani,Înălțime,2318,,Obcina la Rus,Geomil 25000,Limba română
+Poiana Rusului,rus,3,47.516799316128,26.6848651184773,Botosani,Poiană,9589,,Poiana Rusului,Moldova (1892-1898),Limba română
+Valea Rusului,rus,3,47.9661607545208,26.2497407049484,Botosani,Vale,4905,,Valea Rusului,PDT,Limba română
+Grindul Rusului,rus,3,44.2595874855861,27.657391267182,Calarasi,Apă-deal-câmpie,3210,,Grindul Rusului,PDT,Limba română
+Valea Rusului,rus,3,44.3845175079383,27.0093610640232,Calarasi,Vale,3435,,Valea Rusului,Geomil 25000,Limba română
+Valea Rusului,rus,3,44.3742048035401,27.0074418186731,Calarasi,Localitate,3436,3435,Valea Rusului,Geomil 25000,Limba română
+Cracu Rusului,rus,3,45.1174838641223,21.9319324888611,Caras Severin,Înălțime,10251,12749,Cracu Rusului,Geomil 25000,Limba română
+Poiana Rusului,rus,3,45.1104573061636,21.96267423359,Caras Severin,Poiană,12750,12749,Poiana Rusului,Geomil 25000,Limba română
+Tâlva Rusului,rus,3,44.9679093915023,22.0554747015597,Caras Severin,Înălțime,5718,,Tâlva Rusului,Geomil 25000,Limba română
+Vârful Rusului,rus,3,45.1070921276564,21.9557210617251,Caras Severin,Înălțime,12749,,Vârful Rusului,PDT,Limba română
+Dealu Rusului,rus,3,46.8195319362249,22.8535081843944,Cluj,Deal,5899,,Dealu Rusului,Geomil 25000,Limba română
+Piatra Rusului,rus,3,46.7498538284566,22.8391098298452,Cluj,Înălțime,12769,,Piatra Rusului,Imperiul Habsburgic (1887),Limba română
+Valea Rusului,rus,3,44.971085640864,25.461635230765,Dambovita,Vale,12406,,Valea Rusului,ANCPI,Limba română
+Cotul Rusului,rus,3,46.1051647247049,28.1122906929877,Galati,Apă-deal-câmpie,3510,,Cotul Rusului,Geomil 25000,Limba română
+Dealul Rusu,rus,3,45.6309729113719,27.9456601372093,Galati,Deal,11439,,Dealul Rusu,Geomil 25000,Limba română
+Rusu,rus,3,46.0274002977424,27.7073847855352,Galati,Localitate,9613,,Rusu,Moldova (1892-1898),Limba română
+Vârful Fagul Rusului,rus,3,46.9667125748963,25.4397299978927,Harghita,Înălțime,1884,,Vârful Fagul Rusului,Geomil 25000,Limba română
+Măgura Rusului,rus,3,46.0670004681816,22.897305277961,Hunedoara,Înălțime,6237,,Măgura Rusului,Geomil 25000,Limba română
+Pârâul Rusului,rus,3,45.6832009492899,22.9751274580717,Hunedoara,Vale,5559,,Pârâul Rusului,PDT,Limba română
+Dealul Rusului,rus,3,46.8621983120617,27.893964795634,Iasi,Deal,2206,2207,Dealul Rusului,Geomil 25000,Limba română
+Dealul Rusului,rus,3,47.2889342812149,27.5506892058512,Iasi,Deal,4846,,Dealul Rusului,Geomil 25000,Limba română,Dealul Rusului,PDT,Limba română
+La Rusu,rus,3,46.8661765500105,27.9020317946115,Iasi,Altele,2207,,La Rusu,Geomil 25000,Limba română
+Piscul Rusului,rus,3,46.9582355412488,27.1425353122106,Iasi,Localitate,7295,7297,Piscul Rusului,Geomil 25000,Limba română
+Valea Piscul Rusului,rus,3,46.9593634465937,27.129029638885,Iasi,Vale,7296,7297,Valea Piscul Rusului,Geomil 25000,Limba română
+Valea Rusului,rus,3,47.4104976309039,26.9822352419617,Iasi,Vale,2442,,Valea Rusului,Geomil 25000,Limba română
+Valea Rusului,rus,3,47.5309062833324,27.1023793171157,Iasi,Vale,12931,,Valea Rusului,Geomil 25000,Limba română
+Gruiul Rusului,rus,3,47.6694935616506,24.3522374030523,Maramures,Înălțime,4526,,Gruiul Rusului,Geomil 25000,Limba română
+Lunca Rusului,rus,3,47.6905288754408,24.435362246287,Maramures,Apă-deal-câmpie,7158,,Lunca Rusului,Geomil 25000,Limba română
+Rus,rus,3,47.6141925688345,23.6688054988577,Maramures,Localitate,7208,,Rus,Geomil 25000,Limba română
+Dealul Rusului,rus,3,46.9344671921416,24.9782385623396,Mures,Deal,7320,,Dealul Rusului,Geomil 25000,Limba română,Dealul Rusului,PDT,Limba română
+Dealul Rusului,rus,3,46.2463938253136,24.8116564811943,Mures,Deal,10067,,Dealul Rusului,PDT,Limba română
+Pădurea Rusului,rus,3,46.2584003156134,24.8010566394003,Mures,Pădure,10065,10067,Pădurea Rusului,PDT,Limba română
+Pârâul Rusul Mic,rus,3,46.258922773651,24.8157377635689,Mures,Vale,10066,10067,Pârâul Rusul Mic,PDT,Limba română
+Poeana Rusului,rus,3,46.913436547404,24.9756888081154,Mures,Poiană,11755,7320,Poeana Rusului,Transilvania (1869-1870),Limba română
+Vadul Rusului,rus,3,46.9932176317629,24.7787016433826,Mures,Apă-deal-câmpie,5450,,Vadul Rusului,PDT,Limba română
+Zapoda Rusului,rus,3,46.7613683373409,25.0831735928131,Mures,Altele,12806,,Zapoda Rusului,PDT,Limba română
+Culmea Rusului,rus,3,46.9879624369577,25.8846595565662,Neamt,Înălțime,7135,,Culmea Rusului,Geomil 25000,Limba română
+Curmătura Rusului,rus,3,46.7827340047765,26.0677326659387,Neamt,Înălțime,6516,,Curmătura Rusului,PDT,Limba română
+Jgheabul Rusului,rus,3,47.0010949129251,26.0411381692817,Neamt,Altele,9113,,Jgheabul Rusului,PDT,Limba română
+La Fântâna Rusului,rus,3,46.7783181120914,26.0621050169783,Neamt,Altele,6517,6516,La Fântâna Rusului,PDT,Limba română,Piciorul Fântâna Rusului,Geomil 25000,Limba română
+La Scaunul Rusului,rus,3,47.1818378821057,25.7658637019115,Neamt,Altele,6445,,La Scaunul Rusului,PDT,Limba română
+Pârâul Rusului,rus,3,47.1688386961523,25.848498904772,Neamt,Vale,6427,6428,Pârâul Rusului,PDT,Limba română
+Pârâul Rusului,rus,3,46.9561137862953,26.2767578385753,Neamt,Vale,6487,,Pârâul Rusului,PDT,Limba română
+Pârâul Rusului,rus,3,47.0343399210065,25.792843521695,Neamt,Vale,11718,,Pârâul Rusului,PDT,Limba română
+Piciorul Rusului,rus,3,46.8766853429347,26.2173663080651,Neamt,Altele,11649,,Piciorul Rusului,Geomil 25000,Limba română
+Piciorul Surducul Rusului,rus,3,47.1731726379769,25.8469894775427,Neamt,Înălțime,6428,,Piciorul Surducul Rusului,PDT,Limba română
+Piscul Rusului,rus,3,46.9712762275633,27.1033157177341,Neamt,Înălțime,7297,,Piscul Rusului,Geomil 25000,Limba română
+Poeana Rusului,rus,3,46.8095636258087,26.529040470088,Neamt,Poiană,3853,,Poeana Rusului,PDT,Limba română
+Poiana Rusului,rus,3,47.0798959374917,26.5097435172684,Neamt,Poiană,3873,,Poiana Rusului,PDT,Limba română
+Poiana Rusului,rus,3,46.9034449417932,26.340304821321,Neamt,Poiană,6483,,Poiana Rusului,PDT,Limba română
+Rusul,rus,3,47.3081541506583,25.7875133784878,Neamt,Vale,13517,,Rusul,Geomil 25000,Limba română
+Rusul Mic,rus,3,47.2874142166814,26.1731593225594,Neamt,Vale,7404,7403,Rusul Mic,Geomil 25000,Limba română
+Valea Rusului,rus,3,46.9367834859895,26.5452612443186,Neamt,Vale,3863,,Valea Rusului,Geomil 25000,Limba română
+Vârful Rusului,rus,3,47.2932325433441,26.1510831239369,Neamt,Înălțime,7403,,Vârful Rusului,Geomil 25000,Limba română
+Dealu Rusului,rus,3,44.0792179743767,24.7169942308555,Olt,Deal,5793,,Dealu Rusului,Geomil 25000,Limba română
+Muntele Rusului,rus,3,45.4354047735128,25.7181898240859,Prahova,Înălțime,1560,,Muntele Rusului,Geomil 25000,Limba română
+Plaiul Rusului,rus,3,45.3196953245972,25.7017365916238,Prahova,Înălțime,1565,1563,Plaiul Rusului,Geomil 25000,Limba română
+Poiana Rusului,rus,3,45.4213701268298,25.7292477371214,Prahova,Poiană,1561,1560,Poiana Rusului,Geomil 25000,Limba română
+Rusu cu Lacuri,rus,3,45.3134188926161,25.7050787477085,Prahova,Înălțime,1563,,Rusu cu Lacuri,Geomil 25000,Limba română
+Valea Rusului,rus,3,45.3099029694207,25.6884134240659,Prahova,Vale,1564,1563,Valea Rusului,Geomil 25000,Limba română
+Vârful Rusului,rus,3,45.4424371668118,25.6836483981246,Prahova,Înălțime,1562,1560,Vârful Rusului,Geomil 25000,Limba română
+Dealu Rusului,rus,3,47.2855501189101,23.5668437076267,Salaj,Deal,13171,6941,Dealu Rusului,Geomil 25000,Limba română
+Rus,rus,3,47.2753825587971,23.5900407900802,Salaj,Localitate,6941,,Rus,Geomil 25000,Limba română
+Valea Rusului,rus,3,47.271376584223,23.3598150607264,Salaj,Vale,6937,,Valea Rusului,Geomil 25000,Limba română
+Ferma Rusului,rus,3,47.7674935191502,23.1025419225984,Satu Mare,Altele,10314,,Ferma Rusului,PDT,Limba română
+Dealul Rusului,rus,3,45.7050850250434,24.6315210184516,Sibiu,Deal,7520,,Dealul Rusului,PDT,Limba română
+Arșița Rusului,rus,3,47.3799296175599,25.9760797066686,Suceava,Altele,9077,,Arșița Rusului,PDT,Limba română
+Dealul Rusului,rus,3,47.2793594517308,25.0584313761133,Suceava,Deal,1875,,Dealul Rusului,Geomil 25000,Limba română
+Dealul Rusului,rus,3,47.2425172330837,25.0778735267927,Suceava,Deal,1876,,Dealul Rusului,Geomil 25000,Limba română
+Muntele Rusului,rus,3,47.2716248620459,25.4212431261445,Suceava,Înălțime,9096,,Muntele Rusului,PDT,Limba română,Muntele Rusului,Geomil 25000,Limba română
+Plaiul Rusului,rus,3,47.3393435980413,25.5585484259553,Suceava,Înălțime,6392,,Plaiul Rusului,PDT,Limba română
+Plaiul Rusului,rus,3,47.2664413008225,25.4106355930501,Suceava,Înălțime,9097,9096,Plaiul Rusului,PDT,Limba română,Plaiul Rusului,Geomil 25000,Limba română
+Poiana Rusului,rus,3,47.2720375494838,25.0624374989697,Suceava,Poiană,6372,1875,Poiana Rusului,Geomil 25000,Limba română
+Rusul,rus,3,47.1871759720567,25.6024907316707,Suceava,Vale,13280,,Rusul,Geomil 25000,Limba română
+Valea Rusului,rus,3,47.37652775875,26.1821261517475,Suceava,Vale,2257,,Valea Rusului,Geomil 25000,Limba română
+Lacu Rusului,rus,3,44.0656314664204,24.8493141727965,Teleorman,Lac,12428,,Lacu Rusului,Geomil 25000,Limba română
+Dealul Rusului,rus,3,45.1706336303068,28.543857427029,Tulcea,Deal,2902,,Dealul Rusului,Geomil 25000,Limba română
+Vârful Piatra Rusului,rus,3,45.6406019754066,26.809127799264,Vrancea,Înălțime,2104,,Vârful Piatra Rusului,Geomil 25000,Limba română

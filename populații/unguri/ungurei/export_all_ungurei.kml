@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Ungurei</name><description>Nume: Ungurei, Tip: ungurei, Nivel: 3, Județ: Alba, Formă: Localitate, ID: 10576, ID Părinte: 2549 <br /><b>Variante</b><br />Nume: Ungurei, Hartă: Imperiul Habsburgic (1887), Limbă: Limba română</description><Point><coordinates>23.826102,46.015423,0</coordinates></Point></Placemark>
+<Placemark><LineString id="10576_2549"><tessellate>1</tessellate><coordinates>23.826102,46.015423,0.
+23.869654,46.041616,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Dealul Ungureilor</name><description>Nume: Dealul Ungureilor, Tip: ungurei, Nivel: 3, Județ: Olt, Formă: Deal, ID: 10990, ID Părinte: 5795 <br /><b>Variante</b><br />Nume: Dealul Ungureilor, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.745055,44.284744,0</coordinates></Point></Placemark>
+<Placemark><LineString id="10990_5795"><tessellate>1</tessellate><coordinates>24.745055,44.284744,0.
+24.755047,44.279280,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

@@ -1,0 +1,34 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+La Lacul Berzei,barză,3,44.477033362524,24.9498223673746,Arges,Lac,8329,,La Lacul Berzei,PDT,Limba română,La Lacu Berzei,Geomil 25000,Limba română
+La Poiana Berzei,barză,3,44.48522398606,24.9419988977951,Arges,Poiană,8330,8329,La Poiana Berzei,PDT,Limba română,La Poiana Berzei,Geomil 25000,Limba română
+Pădurea Stuful Berzei,barză,3,44.5734960823024,25.1362388036903,Arges,Pădure,3718,,Pădurea Stuful Berzei,PDT,Limba română
+Valea Barza,barză,3,44.4658987939588,24.9301054291581,Arges,Vale,8331,8329,Valea Barza,Geomil 25000,Limba română
+Valea Berzei,barză,3,45.0195069278553,25.078998251604,Arges,Vale,14172,,Valea Berzei,PDT,Limba română
+Vârful Berzei,barză,3,45.5538305148006,26.2526689247093,Buzau,Înălțime,9654,,Vârful Berzei,Geomil 25000,Limba română
+Balta Barza,barză,3,44.2618736946024,27.0921371418583,Calarasi,Apă-deal-câmpie,9824,,Balta Barza,PDT,Limba română
+Balta Barza,barză,3,44.340372891251,27.0784072665145,Calarasi,Apă-deal-câmpie,12420,,Balta Barza,PDT,Limba română
+Movila Berzei,barză,3,44.2780450320964,27.0861523443809,Calarasi,Înălțime,3242,9824,Movila Berzei,PDT,Limba română
+Movila Berzei,barză,3,44.3274468619717,27.0856832155965,Calarasi,Înălțime,3438,12420,Movila Berzei,Geomil 25000,Limba română,Movila Berzei,PDT,Limba română
+Dealul Berzei,barză,3,44.453156195938,23.4304045111491,Dolj,Deal,8049,,Dealul Berzei,Geomil 25000,Limba română
+La Balta Berzei,barză,3,44.3612040939953,23.7640387187552,Dolj,Apă-deal-câmpie,11183,,La Balta Berzei,ANCPI,Limba română
+Barza,barză,3,44.9786313551681,23.3452766604078,Gorj,Localitate,3125,3124,Barza,Geomil 25000,Limba română
+Dealu Berzei,barză,3,44.9644202510068,23.3499634030609,Gorj,Deal,3124,,Dealu Berzei,Geomil 25000,Limba română
+Piscu Berzei,barză,3,44.7583513755641,23.5627566578571,Gorj,Înălțime,5090,,Piscu Berzei,Geomil 25000,Limba română,Piscul Berzei,PDT,Limba română
+Valea Berzei,barză,3,44.9573576878836,23.3432438192137,Gorj,Vale,3123,3124,Valea Berzei,Geomil 25000,Limba română
+Valea Berzei,barză,3,44.9710224921537,23.5804491104011,Gorj,Vale,11037,,Valea Berzei,PDT,Limba română
+Pădurea Groapa Berzei,barză,3,46.3739892210925,24.5048891539271,Mures,Pădure,1912,,Pădurea Groapa Berzei,Geomil 25000,Limba română
+Tăul Berzei,barză,3,46.4728300299294,24.5346454978705,Mures,Altele,7339,,Tăul Berzei,Geomil 25000,Limba română
+Barza,barză,3,44.3267007564194,24.785499925806,Olt,Localitate,10976,,Barza,Geomil 25000,Limba română
+Lacul Berzei,barză,3,44.2343452600273,24.6004489468936,Olt,Lac,2989,,Lacul Berzei,PDT,Limba română
+Pădurea Barza,barză,3,44.3266181030119,24.7704693424152,Olt,Pădure,10977,10976,Pădurea Barza,Geomil 25000,Limba română
+Valea Berzei,barză,3,44.2415988695969,24.2322329861622,Olt,Vale,1296,,Valea Berzei,Geomil 25000,Limba română
+Valea Berzei,barză,3,44.7479103518617,24.57431801323,Olt,Vale,9354,,Valea Berzei,PDT,Limba română
+Valea Berzelor,barză,3,45.1436613443547,25.8968151731487,Prahova,Vale,8839,,Valea Berzelor,PDT,Limba română
+Valea Berzei,barză,3,45.8465965557658,22.4258302745294,Timis,Vale,6211,,Valea Berzei,Geomil 25000,Limba română
+Barza,barză,3,45.0477700441004,24.3676538203625,Valcea,Localitate,329,,Barza,Geomil 25000,Limba română
+Valea Berzei,barză,3,45.0319257972865,24.3888894717606,Valcea,Vale,331,,Valea Berzei,Geomil 25000,Limba română
+Valea cu Barza,barză,3,44.9031110279668,23.8756828637109,Valcea,Vale,8441,,Valea cu Barza,PDT,Limba română
+Valea Fața Berzei,barză,3,45.0478700106367,24.377270849737,Valcea,Vale,330,329,Valea Fața Berzei,Geomil 25000,Limba română
+Piscul Berzei,barză,3,46.4857977863017,27.6331901802358,Vaslui,Înălțime,7282,,Piscul Berzei,Geomil 25000,Limba română
+Dealul Piatra Berzei,barză,3,45.7123622122623,26.7496125060797,Vrancea,Deal,9227,,Dealul Piatra Berzei,PDT,Limba română
+Piatra Berzei,barză,3,45.9107499781599,26.6560043079645,Vrancea,Înălțime,5263,,Piatra Berzei,Geomil 25000,Limba română

@@ -1,0 +1,11 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Pădurea Berindei,berindei,3,46.2056581905428,24.0835437077728,Alba,Pădure,8636,,Pădurea Berindei,PDT,Limba română
+Berindei,berindei,3,44.9655681945823,24.7765499497086,Arges,Localitate,12638,,Berindei,British Maps (1944),Limba română
+Cotul Berindei,berindei,3,44.9341939558824,23.1596063590688,Gorj,Apă-deal-câmpie,8059,,Cotul Berindei,PDT,Limba română
+Berindei,berindei,3,44.1081521869874,24.5627400269845,Olt,Localitate,7748,,Berindei,Geomil 25000,Limba română
+Berindei,berindei,3,45.1600799796754,26.113517902608,Prahova,Localitate,7476,,Berindei,PDT,Limba română
+Ferma Berindei,berindei,3,47.8946838811679,23.1150454823905,Satu Mare,Altele,10319,,Ferma Berindei,PDT,Limba română
+Dealul Berindei,berindei,3,47.3150889335608,26.2062478232307,Suceava,Deal,1776,,Dealul Berindei,Geomil 25000,Limba română
+Pârâul Berindei,berindei,3,47.3158489965171,26.2287529947663,Suceava,Vale,13269,1776,Pârâul Berindei,Geomil 25000,Limba română
+Pădurea Berindei,berindei,3,44.2707558008692,24.9497706986799,Teleorman,Pădure,10111,,Pădurea Berindei,Geomil 25000,Limba română
+Berindei,berindei,3,44.7013833892729,23.9060601447199,Valcea,Altele,3090,,Berindei,Geomil 25000,Limba română

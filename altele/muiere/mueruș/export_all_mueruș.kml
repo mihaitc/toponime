@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Cracul Mueruș</name><description>Nume: Cracul Mueruș, Tip: mueruș, Nivel: 3, Județ: Bacau, Formă: Înălțime, ID: 4559, ID Părinte: 4561 <br /><b>Variante</b><br />Nume: Cracul Mueruș, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.278055,46.391919,0</coordinates></Point></Placemark>
+<Placemark><LineString id="4559_4561"><tessellate>1</tessellate><coordinates>26.278055,46.391919,0.
+26.264159,46.377972,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Mueruș</name><description>Nume: Mueruș, Tip: mueruș, Nivel: 3, Județ: Bacau, Formă: Vale, ID: 4560, ID Părinte: 4561 <br /><b>Variante</b><br />Nume: Mueruș, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.276382,46.386292,0</coordinates></Point></Placemark>
+<Placemark><LineString id="4560_4561"><tessellate>1</tessellate><coordinates>26.276382,46.386292,0.
+26.264159,46.377972,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Muntele Mueruș</name><description>Nume: Muntele Mueruș, Tip: mueruș, Nivel: 3, Județ: Bacau, Formă: Înălțime, ID: 4561 <br /><b>Variante</b><br />Nume: Muntele Mueruș, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.264159,46.377972,0</coordinates></Point></Placemark></Document></kml>

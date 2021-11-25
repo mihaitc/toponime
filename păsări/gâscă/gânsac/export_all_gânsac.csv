@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Gânsacului,gânsac,3,43.9450306383115,23.9420229192748,Dolj,Deal,11605,,Dealul Gânsacului,Geomil 25000,Limba română
+Valea Gânsacului,gânsac,3,43.9269297434023,24.08157008296,Dolj,Vale,1276,,Valea Gânsacului,Geomil 25000,Limba română
+Dealu Gânsacului,gânsac,3,44.2160565402967,24.3418740049163,Olt,Deal,3009,3008,Dealu Gânsacului,Geomil 25000,Limba română
+Valea Gânsacului,gânsac,3,44.2153211689768,24.3271181735416,Olt,Vale,3008,,Valea Gânsacului,Geomil 25000,Limba română

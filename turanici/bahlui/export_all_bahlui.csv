@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Bahlui,bahlui,2,47.1429755252606,27.6833682172847,Iasi,Vale,6601,,Bahluiul,PDT,Limba română,Bahlui,Geomil 25000,Limba română
+Șesul Bahluiului,bahlui,2,47.1466886070319,27.6488803091666,Iasi,Câmp,6602,6601,Șesul Bahluiului,PDT,Limba română
+Râpa Bahlui,bahlui,2,45.2917744535632,26.2059631932098,Prahova,Înălțime,7490,,Râpa Bahlui,Geomil 25000,Limba română
+La Bahlui,bahlui,2,45.5834461742719,26.967894503816,Vrancea,Altele,8752,,La Bahlui,PDT,Limba română
+Pojana Bahlui,bahlui,2,46.0012239278434,27.1448024867808,Vrancea,Poiană,11966,,Pojana Bahlui,Moldova (1788-1790),Limba română

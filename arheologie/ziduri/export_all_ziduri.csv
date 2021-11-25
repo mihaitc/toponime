@@ -1,0 +1,18 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Movila Zid,ziduri,2,46.7059409077899,26.7048656608984,Bacau,Înălțime,9151,,Movila Zid,PDT,Limba română
+La Ziduri,ziduri,2,45.7224870356871,24.9472601226151,Brasov,Altele,4026,,La Ziduri,PDT,Limba română
+Plaiul Zidului,ziduri,2,45.20397650988,26.3704613910591,Buzau,Înălțime,8741,7497,Plaiul Zidului,PDT,Limba română
+Poiana Zidului,ziduri,2,45.1958484688368,26.369388078784,Buzau,Poiană,7497,,Poiana Zidului,PDT,Limba română
+Ziduri,ziduri,2,45.28094824192,27.0735853882408,Buzau,Localitate,8723,,Ziduri,PDT,Limba română,Ziduri,Geomil 25000,Limba română
+La Ziduri,ziduri,2,45.4614558658891,22.1858433395961,Caras Severin,Altele,6189,,La Ziduri,PDT,Limba română
+Ogașul Zidului,ziduri,2,45.5434336907512,22.0873411012857,Caras Severin,Vale,6185,,Ogașul Zidului,PDT,Limba română
+Zidurile,ziduri,2,44.5818373820321,25.5524289613629,Dambovita,Altele,9442,,Zidurile,PDT,Limba română
+Piscul Zidului,ziduri,2,44.592437091826,23.5862988444241,Dolj,Înălțime,8276,,Piscul Zidului,PDT,Limba română
+Plaiul Zidului,ziduri,2,46.6965892128148,26.1475964297374,Neamt,Înălțime,6529,,Plaiul Zidului,PDT,Limba română,Plaiul Zidului,Geomil 25000,Limba română
+Dealu Zidurilor,ziduri,2,44.9711753287021,26.1434696102493,Prahova,Deal,11277,,Dealu Zidurilor,Geomil 25000,Limba română
+Valea Zidurilor,ziduri,2,44.9808497968613,26.1462089097238,Prahova,Vale,827,11277,Valea Zidurilor,Geomil 25000,Limba română
+Pădurea Zidul,ziduri,2,45.7622758142063,23.9447837924384,Sibiu,Pădure,8006,,Pădurea Zidul,PDT,Limba română
+Vârfu Zidurilor,ziduri,2,45.7517303070002,23.9080118999767,Sibiu,Înălțime,1159,,Vârfu Zidurilor,Geomil 25000,Limba română
+Valea Zidului,ziduri,2,44.4081288984044,25.1596887694344,Teleorman,Vale,8323,,Valea Zidului,PDT,Limba română,Valea Zidului,Geomil 25000,Limba română
+Balta Zidurile,ziduri,2,45.5766465107847,27.3324091475861,Vrancea,Altele,761,3547,Balta Zidurile,Geomil 25000,Limba română,Balta Zidurile,PDT,Limba română
+La Ziduri,ziduri,2,45.5844387697638,27.3628179075812,Vrancea,Altele,3547,,La Ziduri,PDT,Limba română

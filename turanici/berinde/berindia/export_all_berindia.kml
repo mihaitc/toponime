@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Berindia</name><description>Nume: Berindia, Tip: berindia, Nivel: 3, Județ: Arad, Formă: Localitate, ID: 6280 <br /><b>Variante</b><br />Nume: Berindia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>22.160248,46.320424,0</coordinates></Point></Placemark>
+<Placemark><name>Dealu Berindia</name><description>Nume: Dealu Berindia, Tip: berindia, Nivel: 3, Județ: Arad, Formă: Deal, ID: 6281, ID Părinte: 6280 <br /><b>Variante</b><br />Nume: Dealu Berindia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>22.169905,46.325328,0</coordinates></Point></Placemark>
+<Placemark><LineString id="6281_6280"><tessellate>1</tessellate><coordinates>22.169905,46.325328,0.
+22.160248,46.320424,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Șoldana,șoldana,3,47.4904600695032,27.2772345587598,Iasi,Deal,6649,6650,Dealul Șoldana,Geomil 25000,Limba română
+Șoldana,șoldana,3,47.4955867404192,27.2930679304057,Iasi,Localitate,6650,,Șoldana,PDT,Limba română
+Șoldana Mică,șoldana,3,47.5023177157846,27.2897573600376,Iasi,Localitate,6657,6650,Șoldana Mică,PDT,Limba română

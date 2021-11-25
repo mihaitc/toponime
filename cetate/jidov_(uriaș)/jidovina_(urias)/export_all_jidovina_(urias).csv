@@ -1,0 +1,21 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dosu Jidovinei,jidovina (urias),3,46.0247747981956,23.4676065735101,Alba,Înălțime,10456,10454,Dosu Jidovinei,Geomil 25000,Limba română
+Jidovina,jidovina (urias),3,46.4582501891198,23.4477117467079,Alba,Înălțime,12736,,Jidovina,Imperiul Habsburgic (1887),Limba română
+Dealu Jidovina,jidovina (urias),3,46.5205701443036,22.1537594763804,Arad,Deal,11331,,Dealu Jidovina,Geomil 25000,Limba română
+Vârfu Jidovina,jidovina (urias),3,46.5155323336146,22.1420294821375,Arad,Înălțime,11332,11331,Vârfu Jidovina,Geomil 25000,Limba română
+Jidovina lui Potoroacă,jidovina (urias),3,46.4632938781691,26.3878391748665,Bacau,Înălțime,12774,,Jidovina lui Potoroacă,PDT,Limba română
+Jidovina,jidovina (urias),3,46.822582055187,22.1249603957948,Bihor,Altele,10374,,Jidovina,PDT,Limba română
+Jidovina,jidovina (urias),3,46.8717345359259,22.2733853898901,Bihor,Înălțime,14215,,Jidovina,PDT,Limba română
+Valea Jidovinei,jidovina (urias),3,46.8291482415341,22.1261396404593,Bihor,Vale,10823,10374,Valea Jidovinei,Geomil 25000,Limba română
+Ciriteiu la Jidovina,jidovina (urias),3,48.072993764271,26.4247676613649,Botosani,Altele,9578,9577,Ciriteiu la Jidovina,Moldova (1892-1898),Limba română
+Dealul Jidovina,jidovina (urias),3,48.0774325408501,26.4203205707057,Botosani,Deal,9577,,Dealul Jidovina,Moldova (1892-1898),Limba română
+Dealul Jidovina,jidovina (urias),3,48.1801566133211,26.4791016896211,Botosani,Deal,13590,,Dealul Jidovina,PDT,Limba română
+Poiana de sub Jidovina,jidovina (urias),3,48.1929861864869,26.4779025044449,Botosani,Poiană,13591,13590,Poiana de sub Jidovina,PDT,Limba română
+Valea Jidovinei,jidovina (urias),3,47.7597207880097,27.2064663349357,Botosani,Vale,11555,,Valea Jidovinei,Geomil 25000,Limba română
+Poiana Jidovina,jidovina (urias),3,44.9103804854637,22.3040076543227,Caras Severin,Poiană,9437,,Poiana Jidovina,PDT,Limba română
+Poiana Jidovina,jidovina (urias),3,45.0467848908098,21.9737362883015,Caras Severin,Poiană,13486,,Poiana Jidovina,PDT,Limba română
+Zsidovin,jidovina (urias),3,45.4275664204423,21.6284522868045,Caras Severin,Localitate,10248,,Zsidovin,Ungară 1869,Limba română
+Culmea Jidovina,jidovina (urias),3,44.8582926068153,23.4837427283523,Gorj,Înălțime,8406,,Culmea Jidovina,Geomil 25000,Limba română
+Valea Jidovina,jidovina (urias),3,44.8578217184277,23.4772646707479,Gorj,Vale,8407,8406,Valea Jidovina,Geomil 25000,Limba română
+La Jidovina,jidovina (urias),3,45.4749677864333,22.8217206486279,Hunedoara,Altele,12470,,La Jidovina,ANCPI,Limba română
+Jidovina,jidovina (urias),3,46.7698866360975,26.5556134713399,Neamt,Altele,13115,,Jidovina,Geomil 25000,Limba română

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealul Vlașinului</name><description>Nume: Dealul Vlașinului, Tip: vlașin, Nivel: 2, Județ: Giurgiu, Formă: Deal, ID: 3169, ID Părinte: 3170 <br /><b>Variante</b><br />Nume: Dealul Vlașinului, Hartă: PDT, Limbă: Limba română<br />Nume: Dealul Vlașinul, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.868104,44.110296,0</coordinates></Point></Placemark>
+<Placemark><LineString id="3169_3170"><tessellate>1</tessellate><coordinates>25.868104,44.110296,0.
+25.864960,44.100445,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Eleșteul Vlașinului</name><description>Nume: Eleșteul Vlașinului, Tip: vlașin, Nivel: 2, Județ: Giurgiu, Formă: Altele, ID: 3171, ID Părinte: 3170 <br /><b>Variante</b><br />Nume: Eleșteul Vlașinului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.872731,44.099897,0</coordinates></Point></Placemark>
+<Placemark><LineString id="3171_3170"><tessellate>1</tessellate><coordinates>25.872731,44.099897,0.
+25.864960,44.100445,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Valea Vlașinului</name><description>Nume: Valea Vlașinului, Tip: vlașin, Nivel: 2, Județ: Giurgiu, Formă: Vale, ID: 3170 <br /><b>Variante</b><br />Nume: Valea Vlașinului, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>25.864960,44.100445,0</coordinates></Point></Placemark>
+<Placemark><name>Vlașin</name><description>Nume: Vlașin, Tip: vlașin, Nivel: 2, Județ: Giurgiu, Formă: Localitate, ID: 3172, ID Părinte: 3170 <br /><b>Variante</b><br />Nume: Vlașin, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.858988,44.102265,0</coordinates></Point></Placemark>
+<Placemark><LineString id="3172_3170"><tessellate>1</tessellate><coordinates>25.858988,44.102265,0.
+25.864960,44.100445,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

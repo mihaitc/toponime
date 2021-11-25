@@ -1,0 +1,8 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Jidovului,jidov,3,46.1241936924025,26.9701884641678,Bacau,Vale,5305,,Valea Jidovului,PDT,Limba română,Valea Jidovului,Geomil 25000,Limba română
+Jidovul,jidov,3,47.4568134647668,25.0180667703827,Bistrita Nasaud,Vale,12893,,Jidovul,Geomil 25000,Limba română
+Plaiul Jidovu,jidov,3,45.1278001500078,25.2561463491165,Dambovita,Înălțime,8825,,Plaiul Jidovu,PDT,Limba română
+Valea Jidovoaie,jidovoaie,4,47.7010333282902,23.6523640429366,Maramures,Vale,7216,,Valea Jidovoaie,PDT,Limba română
+Jidești,jidești,5,46.9031352863592,26.5780831396091,Neamt,Localitate,9624,,Jidești,Moldova (1892-1898),Limba română
+Vârful Jidului,jid,4,45.5221296164043,23.9165501721112,Valcea,Înălțime,7414,,Vârful Jidului,Geomil 25000,Limba română
+Valea Jidoaia,jidoaie,4,45.5149450917362,23.9699935125706,Valcea,Vale,7415,7414,Valea Jidoaia,Geomil 25000,Limba română

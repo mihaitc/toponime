@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Turcească,turcească,3,44.8438295051184,24.8660653835562,Arges,Vale,9357,9358,Valea Turcească,Geomil 25000,Limba română,Valea Turcescilor,PDT,Limba română
+Râpa Turcească,turcească,3,46.7760583663619,23.5677112878709,Cluj,Înălțime,10286,,Râpa Turcească,PDT,Limba română
+Gârla Turcească,turcească,3,44.863429136911,29.5908594405874,Tulcea,Apă-deal-câmpie,14150,,Gârla Turcească,Geomil 25000,Limba română
+Valea Turcească,turcească,3,44.8817870617072,28.3992917841737,Tulcea,Vale,11587,,Valea Turcească,Geomil 25000,Limba română

@@ -1,0 +1,12 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Bărcănești,bărcănești,3,44.6387358064137,26.6506827481802,Ialomita,Localitate,3179,,Bărcănești,Geomil 25000,Limba română
+Bărcănești,bărcănești,3,44.8175780199224,22.774172481033,Mehedinti,Localitate,8412,,Bărcănești,PDT,Limba română
+Cracul Bărcănești,bărcănești,3,44.8147274931991,22.7842375516831,Mehedinti,Vale,8413,8412,Cracul Bărcănești,PDT,Limba română
+Bărcănești,bărcănești,3,46.7158304667601,26.5911898348785,Neamt,Localitate,9948,,Bărcănești,Moldova (1892-1898),Limba română,Bărcănești,Geomil 25000,Limba română
+Dealul Bârcănești,bărcănești,3,46.6737791847063,26.5650183209075,Neamt,Deal,9949,9948,Dealul Bârcănești,Geomil 25000,Limba română
+Bărcănești,bărcănești,3,44.3054824435728,24.5456549224998,Olt,Localitate,2998,,Bărcănești,Geomil 25000,Limba română
+Bărcănești,bărcănești,3,44.2937752147478,24.5169346589527,Olt,Înălțime,2999,2998,Bărcănești,Geomil 25000,Limba română
+Bărcănești,bărcănești,3,44.8813496572617,26.0502972424822,Prahova,Localitate,8795,,Bărcănești,Geomil 25000,Limba română,Bărcănești,PDT,Limba română
+Pădurea Bărcănescii,bărcănești,3,44.8729337761553,26.0840034323294,Prahova,Pădure,8799,8795,Pădurea Bărcănescii,PDT,Limba română
+Bărcănești,bărcănești,3,44.805876357069,24.0304243719221,Valcea,Localitate,5833,,Bărcănești,Geomil 25000,Limba română,Bârcânești,Austriacă,Limba română,Bărcănești,PDT,Limba română
+Dealu Bărcănești,bărcănești,3,44.8044984442515,24.0493851592522,Valcea,Deal,5835,5833,Dealu Bărcănești,Geomil 25000,Limba română

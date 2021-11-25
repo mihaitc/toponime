@@ -1,0 +1,59 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Cânepiști,cânepiște,3,46.1543407988598,23.5911439253832,Alba,Altele,6751,,Cânepiști,Geomil 25000,Limba română
+Cânepiști,cânepiște,3,46.2412597146634,24.1308355110235,Alba,Altele,11907,,Cânepiști,PDT,Limba română
+Cânepiștile,cânepiște,3,46.3913224962852,23.6844793654588,Alba,Altele,8144,,Cânepiștile,PDT,Limba română
+Dealu Cânepiștilor,cânepiște,3,46.4910854380173,23.2794274851426,Alba,Deal,2583,,Dealu Cânepiștilor,Geomil 25000,Limba română
+Valea Cânepiștilor,cânepiște,3,46.4252008470161,23.6694021725596,Alba,Vale,7067,,Valea Cânepiștilor,Geomil 25000,Limba română
+Cânepiște,cânepiște,3,46.2882988863777,22.4391862872824,Arad,Altele,5600,,Cânepiște,Geomil 25000,Limba română
+Cânepiște,cânepiște,3,46.5459118397246,21.5777918830132,Arad,Altele,8027,,Cânepiște,Geomil 25000,Limba română
+Cânepiște,cânepiște,3,46.2137521635823,21.6078279212763,Arad,Altele,9420,,Cânepiște,PDT,Limba română
+Cânepiște,cânepiște,3,46.5217612300404,21.5318434919936,Arad,Altele,10367,,Cânepiște,PDT,Limba română
+Cânepiște,cânepiște,3,46.3445106421289,21.5271364322626,Arad,Altele,11359,,Cânepiște,ANCPI,Limba română
+Cânepiște,cânepiște,3,46.3897002123668,21.3418333366117,Arad,Altele,11679,,Cânepiște,ANCPI,Limba română
+Cânepiște,cânepiște,3,46.0924073627438,20.898403400459,Arad,Altele,12653,,Cânepiște,PDT,Limba română
+Cânepăria,cânepărie,4,46.2441082705997,26.9181395791581,Bacau,Altele,7834,,Cânepăria,Geomil 25000,Limba română
+La Cânipiște,cânepiște,3,46.2557945531179,26.6518060248345,Bacau,Altele,4574,,La Cânipiște,PDT,Limba română
+Cânepiște,cânepiște,3,46.8261827130628,21.8498199583861,Bihor,Altele,2000,,Cânepiște,Geomil 25000,Limba română
+Cânepiște,cânepiște,3,46.8972513526364,21.7909975101701,Bihor,Altele,6982,,Cânepiște,Geomil 25000,Limba română
+Cânepiște,cânepiște,3,46.710410985828,21.8125342618175,Bihor,Altele,7586,,Cânepiște,Geomil 25000,Limba română
+Cănăpiștea,cânepiște,3,47.9282332004504,26.3478687461787,Botosani,Vale,2310,,Cănăpiștea,Geomil 25000,Limba română
+Cânipește,cânepiște,3,47.5830651827165,27.1577502423293,Botosani,Altele,6662,,Cânipește,PDT,Limba română
+Dealul Cânepiștei,cânepiște,3,47.8364877503411,26.8132634442343,Botosani,Deal,14075,,Dealul Cânepiștei,Geomil 25000,Limba română
+Valea Cânepiștii,cânepiște,3,47.7973491347531,27.1183868352972,Botosani,Vale,2428,,Valea Cânepiștii,Geomil 25000,Limba română
+Cânepiște,cânepiște,3,47.1695266681261,24.0016114090332,Cluj,Altele,4395,,Cânepiște,Geomil 25000,Limba română
+Halta Cânepiști,cânepiște,3,46.6079167246091,23.8469923216207,Cluj,Altele,5884,,Halta Cânepiști,Geomil 25000,Limba română
+Lacul Cânepiștei,cânepiște,3,44.5806739661828,25.4357447363385,Dambovita,Lac,9443,,Lacul Cânepiștei,PDT,Limba română
+Poiana Cânepiștele,cânepiște,3,44.7820284858952,25.6414339348707,Dambovita,Poiană,3703,,Poiana Cânepiștele,PDT,Limba română
+Poiana Cănipiștea,cânepiște,3,44.8762886525691,25.3313677715865,Dambovita,Poiană,10131,,Poiana Cănipiștea,PDT,Limba română
+Puțul de la Cânepiștea,cânepiște,3,44.6303132024805,25.6991814469726,Dambovita,Altele,11055,,Puțul de la Cânepiștea,PDT,Limba română
+Valea Cânepescii,cânepiște,3,44.9427283352831,25.5964749907725,Dambovita,Vale,10076,,Valea Cânepescii,PDT,Limba română
+La Cânepiște,cânepiște,3,43.8823500911458,23.4470500258876,Dolj,Altele,10514,,La Cânepiște,PDT,Limba română
+Măgura Cânepiștea,cânepiște,3,43.8826560040381,23.4581271147231,Dolj,Înălțime,10515,10514,Măgura Cânepiștea,PDT,Limba română
+Valea Cânepiștilor,cânepiște,3,44.2066302196442,23.8854214599112,Dolj,Vale,7729,,Valea Cânepiștilor,Geomil 25000,Limba română
+Valea Cânepăriei,cânepărie,4,46.0225269355,27.7865552821,Galati,Vale,7362,,Valea Cânepăriei,Geomil 25000,Limba română
+La Cânepărie,cânepiște,3,45.9396236607301,27.4364335009964,Galati,Altele,3941,,La Cânepărie,PDT,Limba română
+Valea Cânepiștilor,cânepiște,3,44.2427610323029,25.7827852608814,Giurgiu,Vale,4224,,Valea Cânepiștilor,PDT,Limba română
+Valea Cânepiștilor,cânepiște,3,44.0408643757551,25.6969068935906,Giurgiu,Vale,12018,,Valea Cânepiștilor,PDT,Limba română
+La Kenepistye,cânepiște,3,45.8729739505317,22.9493405060948,Hunedoara,Altele,10480,,La Kenepistye,Transilvania (1869-1870),Limba română
+Dealul Cânepăriei,cânepărie,4,46.8657777144805,27.9827770249223,Iasi,Deal,13614,,Dealul Cânepăriei,PDT,Limba română
+La Cânepiști,cânepiște,3,44.44476587212,23.0410260360192,Mehedinti,Altele,12189,,La Cânepiști,Geomil 25000,Limba română
+Cânepiște,cânepiște,3,46.3447592996114,24.388004631842,Mures,Altele,4352,,Cânepiște,PDT,Limba română
+Cânepiște,cânepiște,3,46.2313601478731,24.6818792340011,Mures,Altele,8629,,Cânepiște,PDT,Limba română
+Cânepistea,cânepiște,3,46.6935906763242,24.2681348196668,Mures,Altele,13739,,Cânepistea,Transilvania (1869-1870),Limba română
+Dealul Cânepiștea,cânepiște,3,46.2892136645018,24.6109511158936,Mures,Deal,8651,,Dealul Cânepiștea,PDT,Limba română
+La Cânepiște,cânepiște,3,46.0718556247028,25.3556612676998,Mures,Altele,2726,,La Cânepiște,Geomil 25000,Limba română,Cânepă,PDT,Limba română
+La Cânepiște,cânepiște,3,46.5309144083008,24.5244277750629,Mures,Altele,7331,,La Cânepiște,Geomil 25000,Limba română
+Poiana Cânipiștii,cânepiște,3,45.099174185823,25.8834020589637,Prahova,Poiană,3983,,Poiana Cânipiștii,PDT,Limba română,Poiana Cânepiștii,Geomil 25000,Limba română
+Cânepiștii,cânepiște,3,47.6682653917536,22.8832575728324,Satu Mare,Altele,6963,,Cânepiștii,Geomil 25000,Limba română,Câmpul Cânepei,PDT,Limba română
+Dealu Cânepiștea,cânepiște,3,47.4486837764638,22.5427604359258,Satu Mare,Deal,6968,,Dealu Cânepiștea,Geomil 25000,Limba română
+Cânepiște,cânepiște,3,46.2272362940563,24.6042041475626,Sibiu,Altele,1903,,Cânepiște,Geomil 25000,Limba română
+Cânepiște,cânepiște,3,47.7567977871279,26.3875239806172,Suceava,Altele,1801,,Cânepiște,Geomil 25000,Limba română
+Cânepiștea,cânepiște,3,47.586389257215,26.4163133190963,Suceava,Vale,14266,,Cânepiștea,ANCPI,Limba română
+La Cânepiște,cânepiște,3,47.6895597479652,26.4534417821686,Suceava,Altele,7783,,La Cânepiște,Geomil 25000,Limba română
+Dealul Cânepiștile,cânepiște,3,44.0999494793932,24.976468864237,Teleorman,Deal,9044,,Dealul Cânepiștile,PDT,Limba română
+Găvanul Cânepiște,cânepiște,3,43.7849734838398,25.2207338896383,Teleorman,Apă-deal-câmpie,3791,,Găvanul Cânepiște,PDT,Limba română
+Cânepiște,cânepiște,3,45.8570874411381,21.8023707779351,Timis,Altele,7643,,Cânepiște,PDT,Limba română
+Cânepiști,cânepiște,3,46.0080998557393,20.3725834342088,Timis,Altele,7630,,Cânepiști,PDT,Limba română
+În Cânepării,cânepărie,4,46.5983778131638,27.7829341814064,Vaslui,Altele,8856,,În Cânepării,PDT,Limba română
+Valea Cânepăriei,cânepărie,4,46.3715854981067,28.023690609726,Vaslui,Vale,6559,,Valea Cânepăriei,PDT,Limba română
+Valea Cânipăriei,cânepărie,4,46.4193759733804,28.0512043593682,Vaslui,Vale,8864,,Valea Cânipăriei,PDT,Limba română

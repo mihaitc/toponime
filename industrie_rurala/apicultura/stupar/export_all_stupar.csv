@@ -1,0 +1,23 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Grindul Stuparu,stupar,3,44.9235009888483,27.8540705197238,Braila,Apă-deal-câmpie,3477,3476,Grindul Stuparu,PDT,Limba română
+Grindul Stuparu,stupar,3,44.9164051716138,27.9112957784496,Braila,Apă-deal-câmpie,3478,,Grindul Stuparu,PDT,Limba română
+Lacul Stuparu,stupar,3,44.9145623376913,27.9093646456271,Braila,Lac,3479,3478,Lacul Stuparu,PDT,Limba română
+Dealul Stuparului,stupar,3,45.3145967163208,21.7962938410885,Caras Severin,Deal,4321,,Dealul Stuparului,PDT,Limba română,Dealul Stuoarului,Geomil 25000,Limba română
+Obârșia Stuparului,stupar,3,45.4539433806899,21.7537150555132,Caras Severin,Altele,5691,,Obârșia Stuparului,Geomil 25000,Limba română
+Valea Stuparului,stupar,3,45.3998925135084,21.5547379226408,Caras Severin,Vale,893,,Valea Stuparului,Geomil 25000,Limba română
+Dealul Stuparului,stupar,3,43.7550753594147,24.0652991694528,Dolj,Deal,1273,,Dealul Stuparului,Geomil 25000,Limba română
+La Stupar,stupar,3,44.2668012975077,23.5944756744933,Dolj,Altele,3361,3363,La Stupar,PDT,Limba română
+Valea Stuparului,stupar,3,44.2680681278107,23.597557111926,Dolj,Vale,3363,,Valea Stuparului,Geomil 25000,Limba română
+Valea Stuparului,stupar,3,44.4468734929126,23.1971205768471,Dolj,Vale,14191,,Valea Stuparului,PDT,Limba română
+Dealu Stuparului,stupar,3,44.7228987346027,22.584140878589,Mehedinti,Deal,6147,,Dealu Stuparului,Geomil 25000,Limba română
+Dealul Stuparului,stupar,3,44.5593134566011,23.0625610296376,Mehedinti,Deal,3666,,Dealul Stuparului,PDT,Limba română
+Fața Stuparului,stupar,3,44.5603157558973,23.0644657407519,Mehedinti,Altele,441,3666,Fața Stuparului,Geomil 25000,Limba română
+Valea Stuparului,stupar,3,44.4023006851225,23.1742421507356,Mehedinti,Vale,133,,Valea Stuparului,Geomil 25000,Limba română
+Dealu Stuparului,stupar,3,44.65444127972,24.5397742375687,Olt,Deal,1370,,Dealu Stuparului,Geomil 25000,Limba română,Dealu Stuparului,PDT,Limba română
+Valea Stuparilor,stupar,3,44.4758171197065,24.1283177333376,Olt,Vale,12236,,Valea Stuparilor,PDT,Limba română
+Valea Stuparului,stupar,3,44.6518656244664,24.5493766723536,Olt,Vale,1371,1370,Valea Stuparului,Geomil 25000,Limba română
+Valea Stuparului,stupar,3,44.6340045464538,24.5637580609624,Olt,Vale,13532,,Valea Stuparului,PDT,Limba română
+Valea Stuparului,stupar,3,43.9874294062751,25.4937932028104,Teleorman,Poiană,1391,,Valea Stuparului,Geomil 25000,Limba română
+Dealul Stuparilor,stupar,3,44.6251215972396,23.9939298440623,Valcea,Deal,264,,Dealul Stuparilor,Geomil 25000,Limba română
+Valea Stuparilor,stupar,3,44.6246439744021,24.0135965627848,Valcea,Vale,265,264,Valea Stuparilor,Geomil 25000,Limba română
+Valea Stuparului,stupar,3,45.1806735225223,24.032672208789,Valcea,Vale,9811,,Valea Stuparului,Geomil 25000,Limba română

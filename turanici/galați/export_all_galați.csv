@@ -1,0 +1,20 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Galați,galați,2,46.0905566222449,23.2929136153191,Alba,Localitate,11778,,Galați,Geomil 25000,Limba română,Galatz,Transilvania (1869-1870),Limba română
+Valea Galați,galați,2,46.0635225064233,23.3054046956088,Alba,Vale,12823,11778,Valea Galați,Imperiul Habsburgic (1887),Limba română
+Galacza,galaț,3,46.9877411640061,22.4298188392918,Bihor,Localitate,12140,,Galacza,Ungaria (1782–1785),Limba maghiară
+Izvorul Gălațului,galaț,3,47.5464431042688,24.7700577398924,Bistrita Nasaud,Vale,6353,6352,Izvorul Gălațului,PDT,Limba română
+Vârful Galațului,galaț,3,47.5634024336749,24.8123925731446,Bistrita Nasaud,Înălțime,6352,,Vârful Galațului,PDT,Limba română
+Dealul Galațiului,galați,2,47.0026540959303,24.4109881658477,Bistrita Nasaud,Deal,5490,5482,Dealul Galațiului,PDT,Limba română
+Galații Bistriței,galați,2,46.9929296157415,24.4203283053893,Bistrita Nasaud,Localitate,5482,,Galații Bistriței,Geomil 25000,Limba română
+Pădurea Galați,galați,2,46.9965553662686,24.4332519728545,Bistrita Nasaud,Pădure,5483,5482,Pădurea Galați,Geomil 25000,Limba română
+Șesul Galați,galați,2,47.004417482858,24.3834158425625,Bistrita Nasaud,Câmp,5485,5482,Șesul Galați,Geomil 25000,Limba română
+Valea Galaților,galați,2,47.297895679203,24.6621787942408,Bistrita Nasaud,Vale,9874,,Valea Galaților,PDT,Limba română
+Vârful Galați,galați,2,47.0034925066257,24.4326364207363,Bistrita Nasaud,Înălțime,5484,5482,Vârful Galați,Geomil 25000,Limba română
+Galați,galați,2,48.0109369770006,26.3088389454337,Botosani,Localitate,9579,,Galați,Moldova (1892-1898),Limba română
+Dealul Galați,galați,2,45.8646869968413,24.9705679095005,Brasov,Deal,2683,2681,Dealul Galați,Geomil 25000,Limba română
+Galați,galați,2,45.855816819473,24.9795799122981,Brasov,Localitate,2681,,Galați,Geomil 25000,Limba română
+Valea Galați,galați,2,45.8628296469369,24.9863263009952,Brasov,Vale,2682,2681,Valea Galați,Geomil 25000,Limba română
+Gălățui,galați,2,44.2616964054557,27.1116136964607,Calarasi,Localitate,3240,3239,Gălățui,Geomil 25000,Limba română
+Lacul Gălățui,galați,2,44.228503694242,27.1215503540946,Calarasi,Lac,3239,,Lacul Gălățui,Geomil 25000,Limba română
+Galați,galați,2,45.4355003315658,28.0551916892781,Galati,Localitate,10903,,Galați,Geomil 25000,Limba română,Galații,Moldova (1892-1898),Limba română
+Galați,galați,2,45.5271800828543,23.0635019598265,Hunedoara,Localitate,12732,,Galați,Geomil 25000,Limba română

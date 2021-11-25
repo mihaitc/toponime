@@ -1,0 +1,14 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Tătarca,tătarcă,4,47.1584956808968,24.8042409440114,Bistrita Nasaud,Înălțime,10642,,Tătarca,Geomil 25000,Limba română
+Dealul Tătarcei,tătarcă,4,47.9309187527539,26.4545691297512,Botosani,Deal,2312,,Dealul Tătarcei,Geomil 25000,Limba română
+Tătarca,tătarcă,4,45.5985450207461,28.050333183277,Galati,Localitate,10905,,Tătarca,Geomil 25000,Limba română,Tătarca,Moldova (1892-1898),Limba română
+Munții Tătarca,tătarcă,4,46.6996572455886,25.2862694269401,Mures,Înălțime,5399,,Munții Tătarca,Geomil 25000,Limba română
+Tătarca,tătarcă,4,46.6910558411865,25.2679836368119,Mures,Vale,5398,5399,Tătarca,Geomil 25000,Limba română
+Dealu Tătărcii,tătarcă,4,46.0138974818399,23.9457506912177,Sibiu,Deal,11703,,Dealu Tătărcii,Geomil 25000,Limba română
+Bâtca Tătărcii,tătarcă,4,47.6142270069179,25.1527923596341,Suceava,Înălțime,4539,7242,Bâtca Tătărcii,Geomil 25000,Limba română
+Pârâul Tătarca,tătarcă,4,47.6120144133701,25.1825515944784,Suceava,Vale,7240,7242,Pârâul Tătarca,PDT,Limba română
+Pârâul Tătarca Mare,tătarcă,4,47.6238977374815,25.1958657485999,Suceava,Vale,7242,,Pârâul Tătarca Mare,PDT,Limba română,Tătarca Mare,Geomil 25000,Limba română
+Pârâul Tătarca Mică,tătarcă,4,47.6264260607117,25.2391705332095,Suceava,Vale,7243,7242,Pârâul Tătarca Mică,PDT,Limba română
+Vârful Tătărcii,tătarcă,4,47.6044482917573,25.1308378133677,Suceava,Înălțime,4540,7242,Vârful Tătărcii,Geomil 25000,Limba română
+Dealul Tătarcei,tătarcă,4,46.7623265720239,27.2261654561019,Vaslui,Deal,7805,,Dealul Tătarcei,Geomil 25000,Limba română
+Valea Tătarcei,tătarcă,4,46.7609088297624,27.2295564765026,Vaslui,Vale,7806,7805,Valea Tătarcei,Geomil 25000,Limba română

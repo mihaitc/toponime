@@ -1,0 +1,51 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Cazacu,cazac,4,45.2560585035132,25.1167835769791,Arges,Altele,5056,,Cazacu,PDT,Limba română
+Valea Cazacului,cazac,4,45.2584290820041,25.1168386484103,Arges,Vale,4961,5056,Valea Cazacului,Geomil 25000,Limba română,Valea Cazacului,PDT,Limba română
+Groapa Cazacului,cazac,4,46.404318629851,26.90041452316,Bacau,Înălțime,7818,,Groapa Cazacului,Geomil 25000,Limba română
+Pârâul Cazacului,cazac,4,46.1544344038134,26.8470216440938,Bacau,Vale,5333,,Pârâul Cazacului,PDT,Limba română
+Cazacu,cazac,4,47.9509955282556,26.2025771484362,Botosani,Vale,14088,,Cazacu,Geomil 25000,Limba română
+Movila Cazacului,cazac,4,47.8828488010355,26.4900989273049,Botosani,Înălțime,9583,,Movila Cazacului,Moldova (1892-1898),Limba română
+Valea Fântâna Cazacului,cazac,4,47.7690527850219,26.6988795391132,Botosani,Vale,3562,,Valea Fântâna Cazacului,PDT,Limba română
+Valea Căzăciței,căzăciță,4,48.1433135548387,26.4063847811119,Botosani,Vale,13588,,Valea Căzăciței,PDT,Limba română
+Movila Cazacului,cazac,4,44.2718399769809,27.1260241364601,Calarasi,Înălțime,3241,,Movila Cazacului,PDT,Limba română
+Privalul Cazacilor,cazaci,3,44.0923203657508,26.5915594213375,Calarasi,Apă-deal-câmpie,10619,,Privalul Cazacilor,PDT,Limba română
+Valea Cazacilor,cazaci,3,44.1260361521287,27.5204589198117,Constanta,Vale,9282,,Valea Cazacilor,PDT,Limba română
+La Plopu Cazacului,cazac,4,44.7966240804833,25.7205672510562,Dambovita,Altele,3705,,La Plopu Cazacului,PDT,Limba română
+Cazaci,cazaci,3,44.7998605170151,25.5507616622918,Dambovita,Localitate,3706,,Cazaci,PDT,Limba română,Cazaci,Geomil 25000,Limba română
+Pădurea Cazacii,cazaci,3,44.818312082337,25.5479933968214,Dambovita,Pădure,3708,3706,Pădurea Cazacii,PDT,Limba română
+Balta Cazacului,cazac,4,43.8678481038239,23.0387970562005,Dolj,Apă-deal-câmpie,3816,,Balta Cazacului,PDT,Limba română
+Măgura Cazacului,cazac,4,44.0932190705375,23.2188160425301,Dolj,Înălțime,11025,,Măgura Cazacului,PDT,Limba română
+Măgura Cazacului,cazac,4,44.0291373770133,23.4779630394962,Dolj,Înălțime,11805,,Măgura Cazacului,PDT,Limba română
+Dealul Cazacilor,cazaci,3,44.4195118566607,23.1823610924562,Dolj,Deal,131,,Dealul Cazacilor,Geomil 25000,Limba română
+Grindul Cazacilor,cazaci,3,43.8584551802211,23.1728436792927,Dolj,Înălțime,3811,,Grindul Cazacilor,PDT,Limba română
+Măgura Cazacului,cazaci,3,44.1312977270989,23.2922844428035,Dolj,Înălțime,145,,Măgura Cazacului,Geomil 25000,Limba română
+Valea Cazacu,cazac,4,45.7480774073157,28.0251847723867,Galati,Vale,11287,,Valea Cazacu,Geomil 25000,Limba română
+Dealul Cazac,cazac,4,43.9036531867403,25.8216300104011,Giurgiu,Deal,9994,,Dealul Cazac,PDT,Limba română
+Movila Cazacilor,cazaci,3,43.7494506233649,25.7020974728188,Giurgiu,Înălțime,446,,Movila Cazacilor,Geomil 25000,Limba română
+La Iezerul Cazacului,cazaci,3,44.5428817427281,27.9328739824451,Ialomita,Apă-deal-câmpie,483,,La Iezerul Cazacului,Geomil 25000,Limba română
+Culmea Cazacului,cazac,4,47.0504716620383,27.1856204956067,Iasi,Înălțime,1641,1639,Culmea Cazacului,Geomil 25000,Limba română
+Dealul Cazacului,cazac,4,46.9979063779832,27.6715552505063,Iasi,Deal,2218,,Dealul Cazacului,Geomil 25000,Limba română
+Dealul Cazacului,cazac,4,47.0261500139344,27.6524277117258,Iasi,Deal,2453,,Dealul Cazacului,Geomil 25000,Limba română
+Dealul Cazacului,cazac,4,47.2993353304296,27.4548298765071,Iasi,Deal,9722,,Dealul Cazacului,Moldova (1892-1898),Limba română
+La Mândăul Cazacului,cazac,4,47.0576008249377,27.1578281297416,Neamt,Altele,1642,1639,La Mândăul Cazacului,Geomil 25000,Limba română
+Piscul Cazacului,cazac,4,47.0565842428689,27.1669803541973,Neamt,Înălțime,1639,,Piscul Cazacului,Geomil 25000,Limba română
+Valea Cazacului,cazac,4,47.0567273110525,27.1776232592509,Neamt,Vale,1640,1639,Valea Cazacului,Geomil 25000,Limba română
+Cazaci,cazaci,3,46.8987068307835,26.1845581224297,Neamt,Localitate,6494,,Cazaci,PDT,Limba română
+Cazaci,cazaci,3,46.8466585621386,26.1451791583612,Neamt,Localitate,6498,,Cazaci,PDT,Limba română
+D. Kasacilor,cazaci,3,44.3654456274287,24.3845136882709,Olt,Deal,5799,,D. Kasacilor,Austriacă,Limba română
+Măgura Cazacilor,cazaci,3,43.7507867081905,24.2392444774217,Olt,Înălțime,3028,,Măgura Cazacilor,Geomil 25000,Limba română,Măgura Cazacilor,PDT,Limba română
+Pădurea Cazacu,cazac,4,45.1616564028681,26.0030762913543,Prahova,Pădure,3992,,Pădurea Cazacu,Geomil 25000,Limba română
+Vârful Cazacu,cazac,4,45.4182074194847,25.6189946291659,Prahova,Înălțime,805,579,Vârful Cazacu,Geomil 25000,Limba română
+Muntele Cazacu,cazaci,3,45.4404216863295,25.6248599554245,Prahova,Înălțime,579,,Muntele Cazacu,Geomil 25000,Limba română
+Valea Cazacu,cazaci,3,45.4434146638813,25.6182676111924,Prahova,Vale,580,579,Valea Cazacu,Geomil 25000,Limba română
+Dealul Căzacului,cazac,4,45.7744544167931,24.3694056036862,Sibiu,Deal,1474,,Dealul Căzacului,Geomil 25000,Limba română
+Piciorul Cazacului,cazac,4,47.3721285340725,26.2019932026772,Suceava,Înălțime,14049,,Piciorul Cazacului,PDT,Limba română
+Valea Cazacului,cazac,4,47.373673325088,26.1943810706273,Suceava,Vale,14050,14049,Valea Cazacului,PDT,Limba română
+Izlazu Gaiu Cazacului,cazac,4,45.2860609225858,21.3280759632601,Timis,Altele,900,,Izlazu Gaiu Cazacului,Geomil 25000,Limba română
+Pusta Gaiu Cazacului,cazac,4,45.3000718153983,21.3460709200404,Timis,Câmp,1980,,Pusta Gaiu Cazacului,Geomil 25000,Limba română
+Movila Cazacului,cazac,4,44.9948227700709,28.1565938081889,Tulcea,Înălțime,6698,,Movila Cazacului,Geomil 25000,Limba română,Movila Cazacului,PDT,Limba română
+Drumul Cazacilor,cazaci,3,44.7551056473712,28.7690783517236,Tulcea,Drum,12909,,Drumul Cazacilor,Geomil 25000,Limba română
+Valea Cazacului,cazac,4,44.7236256938738,24.217314944801,Valcea,Vale,4790,,Valea Cazacului,PDT,Limba română,Valea Cazacului,Geomil 25000,Limba română
+La Păru Cazacului,cazaci,3,44.9991402083582,23.8950786617312,Valcea,Altele,247,,La Păru Cazacului,Geomil 25000,Limba română
+La Cotul Cazacului,cazac,4,46.5569858780138,28.2299142325823,Vaslui,Apă-deal-câmpie,6565,,La Cotul Cazacului,Geomil 25000,Limba română,Cotul Cazacul,PDT,Limba română
+La Fântâna Cazacului,cazac,4,46.4244039079514,28.1340937291888,Vaslui,Altele,8865,,La Fântâna Cazacului,PDT,Limba română

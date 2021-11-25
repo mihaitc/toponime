@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Valea Basarabița,basarabița,3,46.2032332738298,22.5088314736589,Hunedoara,Vale,6260,,Valea Basarabița,Geomil 25000,Limba română
+Vârful Basarabița,basarabița,3,46.2317981314421,22.4921839034022,Hunedoara,Înălțime,11525,6260,Vârful Basarabița,ANCPI,Limba română

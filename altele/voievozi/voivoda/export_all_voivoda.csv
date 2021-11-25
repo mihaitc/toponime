@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Mov. Voiwoda,voivoda,3,44.2656614287245,26.9564887081509,Calarasi,Înălțime,8462,8461,Mov. Voiwoda,Austriacă,Limba română
+Padurea Voiwoda,voivoda,3,44.2536431779224,26.9888741891528,Calarasi,Pădure,8461,,Padurea Voiwoda,Austriacă,Limba română
+Valea Voivoda,voivoda,3,44.8285714950701,23.7417282281081,Gorj,Vale,12683,12682,Valea Voivoda,PDT,Limba română
+Voivoda,voivoda,3,44.827251133182,23.7352190848319,Gorj,Localitate,12682,,Voivoda,PDT,Limba română
+Dealu Voivoda,voivoda,3,46.0892853677683,23.0580701408154,Hunedoara,Deal,6244,,Dealu Voivoda,Geomil 25000,Limba română,Dealul Voivoda,PDT,Limba română

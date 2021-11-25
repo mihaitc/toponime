@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Zepodi,zepodia,3,46.873975713774,24.3238472061989,Bistrita Nasaud,Deal,13737,,Dealul Zepodi,PDT,Limba română
+Dealul Zepodie,zepodia,3,46.9467305431215,24.313315675809,Bistrita Nasaud,Deal,10579,,Dealul Zepodie,Imperiul Habsburgic (1887),Limba română
+Dealu Zepodia,zepodia,3,47.0448592204266,23.8806862779483,Cluj,Deal,5849,,Dealu Zepodia,Geomil 25000,Limba română
+Valea Zepodia,zepodia,3,47.0467409441728,23.8894716045078,Cluj,Vale,5850,5849,Valea Zepodia,Geomil 25000,Limba română
+Valle Sepodj,zepodia,3,47.4896223266509,23.2021434582834,Salaj,Vale,12148,,Valle Sepodj,Transilvania (1769-1773),Limba română

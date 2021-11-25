@@ -1,0 +1,39 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Lipoveanului,lipovean,3,48.0166034264094,26.8913348136681,Botosani,Deal,1818,,Dealul Lipoveanului,Geomil 25000,Limba română
+Iazul Lipoveanului,lipovean,3,47.7976119389707,26.7338345633087,Botosani,Apă-deal-câmpie,2414,,Iazul Lipoveanului,Geomil 25000,Limba română
+La Iazul Lipoveanului,lipovean,3,48.0545319514128,26.9782800740071,Botosani,Apă-deal-câmpie,2404,,La Iazul Lipoveanului,Geomil 25000,Limba română
+Râpa Lipoveanului,lipovean,3,47.9315059495782,27.1094182069606,Botosani,Înălțime,2394,2393,Râpa Lipoveanului,Geomil 25000,Limba română
+Valea La Iazul Lipoveanului,lipovean,3,48.0113595339738,26.8972878404708,Botosani,Vale,1817,,lipovean,Geomil 25000,Limba română
+Valea Lipoveanului,lipovean,3,47.9266293070724,27.0945523094829,Botosani,Vale,2393,,Valea Lipoveanului,Geomil 25000,Limba română
+Dealul Lipoveni,lipoveni,2,47.6545442965534,26.5626478807781,Botosani,Deal,7781,7780,Dealul Lipoveni,PDT,Limba română
+La Lipoveni,lipoveni,2,47.6852249107048,26.8495680720338,Botosani,Altele,2356,,La Lipoveni,Geomil 25000,Limba română
+Lacul Lipovenii,lipoveni,2,47.6362931027384,26.7264290710894,Botosani,Lac,9732,,Lacul Lipovenii,Moldova (1892-1898),Limba română
+Lipoveni,lipoveni,2,47.6503928277415,26.5676551382689,Botosani,Localitate,7780,,Lipoveni,PDT,Limba română
+Valea Iazul Lipovenilor,lipoveni,2,47.9451403827621,26.6152842046937,Botosani,Vale,2337,,Valea Iazul Lipovenilor,Geomil 25000,Limba română
+Crucea Lipoveanului,lipovean,3,44.8877658934903,27.7569002218257,Braila,Altele,3597,,Crucea Lipoveanului,Geomil 25000,Limba română
+Movila Lipovanului,lipovean,3,44.8955123346265,27.8557299800985,Braila,Înălțime,3473,,Movila Lipovanului,PDT,Limba română
+Satul Lipovenesc,lipoveni,2,45.3056514984474,27.9742218157031,Braila,Localitate,3493,,Satul Lipovenesc,PDT,Limba română,Satu lipovenesk,Austriacă,Limba română
+Ruinen von Lipoveni (Ruinele Lipovenilor),lipoveni,2,44.5002275788344,28.0862775859179,Constanta,Localitate,9978,,Ruinen von Lipoveni (Ruinele Lipovenilor),Austriacă,Limba germană
+Fântâna Lipoveanului,lipovean,3,43.8797025690814,23.7608334800291,Dolj,Altele,11795,,Fântâna Lipoveanului,Geomil 25000,Limba română
+Foișoru Lipoviencii,lipoveancă,3,44.4082556552396,25.6941409320806,Giurgiu,Altele,5776,,Foișoru Lipoviencii,Austriacă,Limba română
+Dealul Lipoveanului,lipovean,3,47.2937702605107,27.0111945507404,Iasi,Deal,6614,,Dealul Lipoveanului,PDT,Limba română
+Hârtopul Lipovanului,lipovean,3,47.2015318864269,27.4895521002798,Iasi,Înălțime,4832,,Hârtopul Lipovanului,PDT,Limba română
+Lacul Lipoveanului,lipovean,3,47.270884692044,26.9982186316127,Iasi,Lac,12929,6614,Lacul Lipoveanului,Geomil 25000,Limba română
+La Lipovanca,lipoveancă,3,47.0690177318684,27.8911469729564,Iasi,Altele,9571,,La Lipovanca,Moldova (1892-1898),Limba română
+Curătura La Lipoveni,lipoveni,2,47.180191305521,26.6893712298304,Iasi,Altele,2240,,Curătura La Lipoveni,Geomil 25000,Limba română
+La Lipoveni,lipoveni,2,47.3105818940984,27.1839861212473,Iasi,Altele,6639,,La Lipoveni,PDT,Limba română
+Valea Lipovenilor,lipoveni,2,47.3220472731329,27.0477569575816,Iasi,Vale,11775,,Valea Lipovenilor,PDT,Limba română
+Bârjoveni Lipoveni,lipoveni,2,46.801599867933,26.7262439078609,Neamt,Localitate,12633,,Bârjoveni Lipoveni,Moldova (1892-1898),Limba română
+Cartierul Lipoveni,lipoveni,2,46.93262794673,26.3545179285984,Neamt,Localitate,6485,,Cartierul Lipoveni,PDT,Limba română
+La Scutul Lipovenillor,lipoveni,2,46.888925834309,26.3305212325381,Neamt,Altele,2022,,La Scutul Lipovenillor,Geomil 25000,Limba română,Schitul Lipovenilor,PDT,Limba română
+Lipoweny,lipoveni,2,46.9005922036333,26.8552321033715,Neamt,Localitate,12759,,Lipoweny,Moldova (1788-1790),Limba română
+Valea Lipovenilor,lipoveni,2,46.7925721262977,26.7152325167714,Neamt,Vale,2037,12633,Valea Lipovenilor,Geomil 25000,Limba română
+Lipoven,lipoveni,2,44.833930804169,25.8594060971042,Prahova,Localitate,12117,,Lipoven,Oltenia-Muntenia (1790),Limba română
+Pădurea Cabana Lipoveanului,lipovean,3,47.6563950221202,25.8148956019943,Suceava,Pădure,2275,,Pădurea Cabana Lipoveanului,Geomil 25000,Limba română
+Pârâul Lipovanului,lipovean,3,47.8267817906978,26.2658005285097,Suceava,Vale,7267,,Pârâul Lipovanului,PDT,Limba română
+Lipoveni,lipoveni,2,47.7233676201977,26.2240937397073,Suceava,Localitate,2299,,Lipoveni,Geomil 25000,Limba română,Lipoveni,PDT,Limba română
+Canalu Lipovenilor,lipoveni,2,43.7159165591314,25.1806240455454,Teleorman,Altele,1344,,Canalu Lipovenilor,Geomil 25000,Limba română
+Valea Lipoveanului,lipovean,3,45.1438693794981,28.5477215318335,Tulcea,Vale,2896,,Valea Lipoveanului,Geomil 25000,Limba română
+Canalul Lipovenesc,lipovenesc,3,45.034196246161,29.217466121663,Tulcea,Apă-deal-câmpie,12907,,Canalul Lipovenesc,Geomil 25000,Limba română
+Canalul Lipovenilor,lipoveni,2,44.9932271918882,29.0813358425548,Tulcea,Apă-deal-câmpie,9290,,Canalul Lipovenilor,Geomil 25000,Limba română
+Mahalaua Lipovenilor,lipoveni,2,46.6452627941487,27.7356586223196,Vaslui,Localitate,9542,,Mahalaua Lipovenilor,Moldova (1892-1898),Limba română

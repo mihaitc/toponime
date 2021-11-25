@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Muntenești,muntenesc,3,46.7593510005203,27.5178685933031,Vaslui,Deal,1668,,Dealul Muntenești,Geomil 25000,Limba română
+Muntenești,muntenesc,3,46.7797267592361,27.4278905665092,Vaslui,Altele,1667,,Muntenești,Geomil 25000,Limba română
+Muntenești,muntenesc,3,46.7586278033206,27.5309950713971,Vaslui,Localitate,1669,1668,Muntenești,Geomil 25000,Limba română

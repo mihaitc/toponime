@@ -1,0 +1,8 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Comanei,comana,3,46.6494763216436,26.4417993861218,Bacau,Deal,4605,,Dealul Comanei,Geomil 25000,Limba română
+Comana,comana,3,45.9132439734575,25.2298742844086,Brasov,Localitate,4939,,Comana,Geomil 25000,Limba română
+Comana de Sus,comana,3,45.896351737512,25.2662938543039,Brasov,Localitate,4940,4939,Comana de Sus,Geomil 25000,Limba română
+Valea Comana,comana,3,45.901256656972,25.2524836517154,Brasov,Vale,4941,4939,Valea Comana,Geomil 25000,Limba română
+Comana,comana,3,44.1738708603887,26.1477508106165,Giurgiu,Localitate,3148,,Comana,Geomil 25000,Limba română
+Lacu Comana,comana,3,44.6727741765606,26.515011435961,Ialomita,Lac,11275,,Lacu Comana,Geomil 25000,Limba română
+Comana,comana,3,45.98333031512,24.6534665868623,Sibiu,Altele,10577,,Comana,Imperiul Habsburgic (1887),Limba română

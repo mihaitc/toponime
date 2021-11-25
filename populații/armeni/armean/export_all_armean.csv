@@ -1,0 +1,29 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealu Armeanului,armean,3,46.2991371069234,23.5751282545994,Alba,Deal,7070,,Dealu Armeanului,Geomil 25000,Limba română
+Bâtca Armeanului,armean,3,46.6251897949285,26.2266851588422,Bacau,Înălțime,7876,,Bâtca Armeanului,Geomil 25000,Limba română
+Piscu Armeanului,armean,3,46.442747089626,27.0219787108107,Bacau,Înălțime,13553,,Piscu Armeanului,Moldova (1892-1898),Limba română
+Armenischer Brunnen (Fântâna Armeanului),armean,3,47.0127944184762,24.4033407888694,Bistrita Nasaud,Altele,10580,,Armenischer Brunnen (Fântâna Armeanului),Imperiul Habsburgic (1887),Limba germană
+Fântâna Armeanului,armean,3,47.0329861824239,24.6076483900995,Bistrita Nasaud,Altele,2083,,Fântâna Armeanului,Geomil 25000,Limba română
+Dealul Armeanului,armean,3,47.7792663284894,26.6163427003626,Botosani,Deal,3563,,Dealul Armeanului,PDT,Limba română
+La Podul Armeanului,armean,3,48.0029801548796,26.2299033648799,Botosani,Altele,7263,,La Podul Armeanului,PDT,Limba română
+Movila Armeanului,armean,3,47.5568739945826,27.1538186153525,Botosani,Înălțime,2367,,Movila Armeanului,Geomil 25000,Limba română
+Podu Armeanului,armean,3,47.9757530785119,26.2661612106691,Botosani,Altele,7264,,Podu Armeanului,PDT,Limba română
+Valea Armeanului,armean,3,48.0661565137961,26.6482956146386,Botosani,Vale,1813,,Valea Armeanului,Geomil 25000,Limba română
+Valea Armeanului,armean,3,47.789390079227,26.5967511660959,Botosani,Vale,2352,3563,Valea Armeanului,Geomil 25000,Limba română
+Valea Armeanului,armean,3,47.7808604103302,26.7379736141107,Botosani,Vale,2353,,Valea Armeanului,Geomil 25000,Limba română,Valea Armeanului,PDT,Limba română
+Dealul Armeanului,armean,3,46.8879466415855,25.3900529235875,Harghita,Deal,7970,,Dealul Armeanului,PDT,Limba română
+Prârul Armeanului,armean,3,46.9420678610364,25.4094506765194,Harghita,Vale,4283,,Prârul Armeanului,PDT,Limba română
+Fântâna Armeanului,armean,3,47.3246581112798,27.1974756965647,Iasi,Altele,9725,6638,Fântâna Armeanului,Moldova (1892-1898),Limba română
+Valea Armeanului,armean,3,47.3164591319184,27.1944668293063,Iasi,Vale,6638,,Valea Armeanului,PDT,Limba română
+Dealul Armeanului,armean,3,46.9640313549504,24.985732443297,Mures,Deal,7957,,Dealul Armeanului,PDT,Limba română
+Pârâul Armeanului,armean,3,46.9648735215999,24.9911686183525,Mures,Vale,7958,7957,Pârâul Armeanului,PDT,Limba română
+Fântânele Armeanului,armean,3,45.9532775708245,24.0256880771327,Sibiu,Altele,8170,8169,Fântânele Armeanului,PDT,Limba română
+Bâtca Armeanului,armean,3,47.4789754541978,25.1661599031289,Suceava,Înălțime,10773,,Bâtca Armeanului,Imperiul Habsburgic (1887),Limba română
+Pârâul Armeanului,armean,3,47.3664826314305,25.5563250363057,Suceava,Vale,9084,,Pârâul Armeanului,PDT,Limba română
+Pârâul Armeanului,armean,3,47.1436358941328,25.6442137477633,Suceava,Vale,9102,,Pârâul Armeanului,PDT,Limba română
+Poeana Armeanului,armean,3,47.6703495401208,25.9105514714986,Suceava,Poiană,10750,,Poeana Armeanului,Imperiul Habsburgic (1887),Limba română
+Valea Armeanului,armean,3,47.1473932996801,25.5679926183754,Suceava,Vale,9101,,Valea Armeanului,PDT,Limba română
+Armeanul,armean,3,45.3806128284678,24.1171263213929,Valcea,Înălțime,1173,,Armeanul,Geomil 25000,Limba română
+Dealul Armeanului,armean,3,45.4069884505641,24.0804935460769,Valcea,Deal,12562,,Dealul Armeanului,Geomil 25000,Limba română
+Plaiul Armeanului,armean,3,45.3673090535329,24.1325582955657,Valcea,Înălțime,1171,1173,Plaiul Armeanului,Geomil 25000,Limba română
+Poiana la Bordeiu Armeanului,armean,3,46.6141112265221,27.6782183358583,Vaslui,Poiană,4617,,Poiana la Bordeiu Armeanului,PDT,Limba română

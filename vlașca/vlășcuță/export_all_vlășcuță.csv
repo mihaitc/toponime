@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Valea Vlășcuța,vlășcuță,2,44.611312860195,24.8193712045687,Arges,Vale,11696,,Valea Vlășcuța,Geomil 25000,Limba română
+Vlăscuța,vlășcuță,2,44.540757569274,24.8181673097379,Arges,Înălțime,8334,8335,Vlăscuța,PDT,Limba română
+Vlășcuța din Vale,vlășcuță,2,44.5330489758899,24.7756071782476,Arges,Localitate,8335,,Vlășcuța din Vale,PDT,Limba română

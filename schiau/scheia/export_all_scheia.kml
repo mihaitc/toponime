@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Pădurea Scheia</name><description>Nume: Pădurea Scheia, Tip: scheia, Nivel: 2, Județ: Arges, Formă: Pădure, ID: 8344, ID Părinte: 8342 <br /><b>Variante</b><br />Nume: Pădurea Scheia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.775603,44.905042,0</coordinates></Point></Placemark>
+<Placemark><LineString id="8344_8342"><tessellate>1</tessellate><coordinates>24.775603,44.905042,0.
+24.803111,44.913233,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Valea Scheii</name><description>Nume: Valea Scheii, Tip: scheia, Nivel: 2, Județ: Arges, Formă: Vale, ID: 11259 <br /><b>Variante</b><br />Nume: Valea Scheii, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.172726,45.435289,0</coordinates></Point></Placemark>
+<Placemark><name>Dealul Scheia</name><description>Nume: Dealul Scheia, Tip: scheia, Nivel: 2, Județ: Iasi, Formă: Deal, ID: 7794, ID Părinte: 7793 <br /><b>Variante</b><br />Nume: Dealul Scheia, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.879646,47.125968,0</coordinates></Point></Placemark>
+<Placemark><LineString id="7794_7793"><tessellate>1</tessellate><coordinates>26.879646,47.125968,0.
+26.881954,47.116207,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Scheia</name><description>Nume: Scheia, Tip: scheia, Nivel: 2, Județ: Iasi, Formă: Localitate, ID: 7793 <br /><b>Variante</b><br />Nume: Scheia, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.881954,47.116207,0</coordinates></Point></Placemark>
+<Placemark><name>Pârâul Scheia</name><description>Nume: Pârâul Scheia, Tip: scheia, Nivel: 2, Județ: Suceava, Formă: Vale, ID: 9057, ID Părinte: 2262 <br /><b>Variante</b><br />Nume: Pârâul Scheia, Hartă: PDT, Limbă: Limba română<br />Nume: Șcheia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.214778,47.641495,0</coordinates></Point></Placemark>
+<Placemark><LineString id="9057_2262"><tessellate>1</tessellate><coordinates>26.214778,47.641495,0.
+26.223507,47.660445,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Pădurea Schea</name><description>Nume: Pădurea Schea, Tip: scheia, Nivel: 2, Județ: Vaslui, Formă: Pădure, ID: 10925, ID Părinte: 1690 <br /><b>Variante</b><br />Nume: Pădurea Schea, Hartă: Moldova (1892-1898), Limbă: Limba română</description><Point><coordinates>28.211058,46.527983,0</coordinates></Point></Placemark>
+<Placemark><LineString id="10925_1690"><tessellate>1</tessellate><coordinates>28.211058,46.527983,0.
+28.161955,46.514869,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

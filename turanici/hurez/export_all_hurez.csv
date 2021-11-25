@@ -1,0 +1,15 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Hurezului,hurez,2,46.2646287469269,22.0995074809301,Arad,Vale,12949,12522,Valea Hurezului,Geomil 25000,Limba română
+Vârfu Hurezului,hurez,2,46.2284767700552,22.1212927513049,Arad,Înălțime,12522,,Vârfu Hurezului,Geomil 25000,Limba română
+Piscul Horezului,horezu,3,45.8544083348377,25.4092972923306,Brasov,Înălțime,12667,12668,Piscul Horezului,Geomil 25000,Limba română
+Vârful Horezu,horezu,3,45.8667755942688,25.4143993181247,Brasov,Înălțime,12668,,Vârful Horezu,Geomil 25000,Limba română
+Hurez,hurez,2,45.8010466748323,24.951752340065,Brasov,Localitate,11935,,Hurez,Geomil 25000,Limba română
+Hurez,hurez,2,45.1526199169708,23.2923528686887,Gorj,Localitate,12107,,Hurez,Valahia-Moldova (1773-1774),Limba română
+Hurezani,hurezani,3,44.8014865680969,23.64580244078,Gorj,Localitate,12678,,Hurezani,Geomil 25000,Limba română
+Orezu,orezu,3,44.5872626860322,26.9927471191391,Ialomita,Localitate,12409,,Orezu,Geomil 25000,Limba română,Orezu,Austriacă,Limba română
+Horezu,horezu,3,44.4704819626867,23.9555449518022,Olt,Localitate,12234,,Horezu,Geomil 25000,Limba română
+Pârâu Horezu,horezu,3,44.4792374727159,23.9602995802168,Olt,Vale,12235,12234,Pârâu Horezu,Geomil 25000,Limba română
+Hurez,hurez,2,47.0707473098227,22.911885384158,Salaj,Localitate,12786,,Hurez,PDT,Limba română,Hurez,Geomil 25000,Limba română
+La Hurezi,hurezi,3,47.1192805238461,22.6181944414907,Salaj,Altele,11914,,La Hurezi,Geomil 25000,Limba română
+Hurezu Mare,hurez,2,47.4650255065195,22.837073327236,Satu Mare,Localitate,12143,,Hurezu Mare,Geomil 25000,Limba română
+Horezu,horezu,3,45.145759071621,23.9903312898037,Valcea,Localitate,12848,,Horezu,Geomil 25000,Limba română

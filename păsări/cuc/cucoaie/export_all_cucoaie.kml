@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Cucoaia</name><description>Nume: Cucoaia, Tip: cucoaie, Nivel: 3, Județ: Bihor, Formă: Înălțime, ID: 6951 <br /><b>Variante</b><br />Nume: Cucoaia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>22.511380,47.394929,0</coordinates></Point></Placemark>
+<Placemark><name>Pădurea Cucoaia</name><description>Nume: Pădurea Cucoaia, Tip: cucoaie, Nivel: 3, Județ: Bihor, Formă: Pădure, ID: 6952, ID Părinte: 6951 <br /><b>Variante</b><br />Nume: Pădurea Cucoaia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>22.526209,47.394953,0</coordinates></Point></Placemark>
+<Placemark><LineString id="6952_6951"><tessellate>1</tessellate><coordinates>22.526209,47.394953,0.
+22.511380,47.394929,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

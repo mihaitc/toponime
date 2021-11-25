@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Bălăbănești,bălăbănești,3,46.098006129176,27.7205203994186,Galati,Localitate,7372,,Bălăbănești,Geomil 25000,Limba română
+Valea Bălăbănești,bălăbănești,3,46.109456499228,27.704732835814,Galati,Vale,7376,7372,Valea Bălăbănești,Geomil 25000,Limba română

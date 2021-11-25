@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>La Pădurea Tătărești</name><description>Nume: La Pădurea Tătărești, Tip: tătărești, Nivel: 3, Județ: Satu Mare, Formă: Pădure, ID: 5959, ID Părinte: 4472 <br /><b>Variante</b><br />Nume: La Pădurea Tătărești, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.035122,47.661736,0</coordinates></Point></Placemark>
+<Placemark><LineString id="5959_4472"><tessellate>1</tessellate><coordinates>23.035122,47.661736,0.
+22.998231,47.673430,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Tătărești</name><description>Nume: Tătărești, Tip: tătărești, Nivel: 3, Județ: Satu Mare, Formă: Localitate, ID: 5960, ID Părinte: 4472 <br /><b>Variante</b><br />Nume: Tătărești, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.008706,47.682948,0</coordinates></Point></Placemark>
+<Placemark><LineString id="5960_4472"><tessellate>1</tessellate><coordinates>23.008706,47.682948,0.
+22.998231,47.673430,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

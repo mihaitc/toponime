@@ -1,0 +1,8 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Valea Turtureaua,turturică,2,44.8428769307595,21.4441822064724,Caras Severin,Vale,8532,,Valea Turtureaua,Geomil 25000,Limba română
+La Turturica,turturică,2,44.5791508194,27.9127354691682,Ialomita,Altele,3204,,La Turturica,Geomil 25000,Limba română
+Câmpul Turturicii,turturică,2,44.4386435490315,23.17989203105,Mehedinti,Câmp,8389,,Câmpul Turturicii,Geomil 25000,Limba română
+Vârful Turturica,turturică,2,45.2103814058189,25.9872386005754,Prahova,Înălțime,810,,Vârful Turturica,Geomil 25000,Limba română
+Poiana Turturelelor,turturică,2,43.9483927339478,24.6487112582834,Teleorman,Poiană,9480,,Poiana Turturelelor,PDT,Limba română
+Dealul Turturelei,turturică,2,44.7174719414608,23.7581198101499,Valcea,Deal,11031,,Dealul Turturelei,PDT,Limba română
+Valea Turturelei,turturică,2,44.7162440280923,23.7572406848462,Valcea,Vale,11032,11031,Valea Turturelei,PDT,Limba română

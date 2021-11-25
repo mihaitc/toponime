@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Pârâul Chinilor</name><description>Nume: Pârâul Chinilor, Tip: chini, Nivel: 3, Județ: Vrancea, Formă: Vale, ID: 9196, ID Părinte: 9195 <br /><b>Variante</b><br />Nume: Pârâul Chinilor, Hartă: PDT, Limbă: Limba română<br />Nume: Pârâul Chinilor, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.742447,45.935364,0</coordinates></Point></Placemark>
+<Placemark><LineString id="9196_9195"><tessellate>1</tessellate><coordinates>26.742447,45.935364,0.
+26.747672,45.952435,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Pârâul Pecineaga,pecineaga,3,45.504136514912,26.7509538813844,Buzau,Vale,12269,,Pârâul Pecineaga,Geomil 25000,Limba română
+Pârâu Peceneaga,pecineaga,3,45.4049515808841,22.5959568352944,Caras Severin,Vale,8666,,Pârâu Peceneaga,Geomil 25000,Limba română
+Pârâul Pecineaga,pecineaga,3,45.0033175710578,28.1676420631065,Tulcea,Vale,6700,6699,Pârâul Pecineaga,PDT,Limba română
+Pecineaga,pecineaga,3,45.0058471571915,28.1471138948218,Tulcea,Localitate,6699,,Pecineaga,PDT,Limba română,Peceneaga,Geomil 25000,Limba română

@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Podișul Șoldănești,șoldănești,3,47.7532472804569,26.9186246363726,Botosani,Altele,6669,6670,Podișul Șoldănești,Geomil 25000,Limba română
+Șoldănești,șoldănești,3,47.7349711675104,26.9239922260523,Botosani,Localitate,6670,,Șoldănești,Geomil 25000,Limba română
+Dealul Șoldăneștilor,șoldănești,3,47.450241351065,26.3301797741267,Suceava,Deal,4929,4928,Dealul Șoldăneștilor,PDT,Limba română
+Pârâul Șoldăneștilor,șoldănești,3,47.4445664581879,26.3167906791362,Suceava,Vale,4930,4928,Pârâul Șoldăneștilor,PDT,Limba română
+Șoldănești,șoldănești,3,47.4524339813623,26.3266943991942,Suceava,Localitate,4928,,Șoldănești,PDT,Limba română

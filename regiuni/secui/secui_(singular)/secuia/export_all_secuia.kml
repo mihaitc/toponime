@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealul Secuia</name><description>Nume: Dealul Secuia, Tip: secuia, Nivel: 4, Județ: Vaslui, Formă: Deal, ID: 2197 <br /><b>Variante</b><br />Nume: Dealul Secuia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>27.798573,46.602660,0</coordinates></Point></Placemark>
+<Placemark><name>Valea Secuia</name><description>Nume: Valea Secuia, Tip: secuia, Nivel: 4, Județ: Vaslui, Formă: Vale, ID: 2198, ID Părinte: 2197 <br /><b>Variante</b><br />Nume: Valea Secuia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>27.805327,46.590730,0</coordinates></Point></Placemark>
+<Placemark><LineString id="2198_2197"><tessellate>1</tessellate><coordinates>27.805327,46.590730,0.
+27.798573,46.602660,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

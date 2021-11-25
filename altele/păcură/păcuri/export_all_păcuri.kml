@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>La Păcuri</name><description>Nume: La Păcuri, Tip: păcuri, Nivel: 3, Județ: Neamt, Formă: Altele, ID: 14098 <br /><b>Variante</b><br />Nume: La Păcuri, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.342468,46.683962,0</coordinates></Point></Placemark>
+<Placemark><name>Plaiul Păcurilor</name><description>Nume: Plaiul Păcurilor, Tip: păcuri, Nivel: 3, Județ: Neamt, Formă: Înălțime, ID: 14099, ID Părinte: 14098 <br /><b>Variante</b><br />Nume: Plaiul Păcurilor, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.347187,46.679028,0</coordinates></Point></Placemark>
+<Placemark><LineString id="14099_14098"><tessellate>1</tessellate><coordinates>26.347187,46.679028,0.
+26.342468,46.683962,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

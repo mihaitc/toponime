@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Cracul Mueruș,mueruș,3,46.391918769699,26.2780553965389,Bacau,Înălțime,4559,4561,Cracul Mueruș,Geomil 25000,Limba română
+Mueruș,mueruș,3,46.3862919607053,26.2763819010703,Bacau,Vale,4560,4561,Mueruș,Geomil 25000,Limba română
+Muntele Mueruș,mueruș,3,46.3779719530985,26.2641594172817,Bacau,Înălțime,4561,,Muntele Mueruș,Geomil 25000,Limba română

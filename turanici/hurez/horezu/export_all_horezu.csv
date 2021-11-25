@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Piscul Horezului,horezu,3,45.8544083348377,25.4092972923306,Brasov,Înălțime,12667,12668,Piscul Horezului,Geomil 25000,Limba română
+Vârful Horezu,horezu,3,45.8667755942688,25.4143993181247,Brasov,Înălțime,12668,,Vârful Horezu,Geomil 25000,Limba română
+Horezu,horezu,3,44.4704819626867,23.9555449518022,Olt,Localitate,12234,,Horezu,Geomil 25000,Limba română
+Pârâu Horezu,horezu,3,44.4792374727159,23.9602995802168,Olt,Vale,12235,12234,Pârâu Horezu,Geomil 25000,Limba română
+Horezu,horezu,3,45.145759071621,23.9903312898037,Valcea,Localitate,12848,,Horezu,Geomil 25000,Limba română

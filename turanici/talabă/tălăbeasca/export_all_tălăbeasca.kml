@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Balta Tălăbasca</name><description>Nume: Balta Tălăbasca, Tip: tălăbeasca, Nivel: 3, Județ: Galati, Formă: Apă-deal-câmpie, ID: 3527, ID Părinte: 3528 <br /><b>Variante</b><br />Nume: Balta Tălăbasca, Hartă: PDT, Limbă: Limba română<br />Nume: Lacul Tălăbasca, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>27.617836,45.565420,0</coordinates></Point></Placemark>
+<Placemark><LineString id="3527_3528"><tessellate>1</tessellate><coordinates>27.617836,45.565420,0.
+27.609320,45.556673,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Movila Tălăbasca</name><description>Nume: Movila Tălăbasca, Tip: tălăbeasca, Nivel: 3, Județ: Galati, Formă: Înălțime, ID: 3529, ID Părinte: 3528 <br /><b>Variante</b><br />Nume: Movila Tălăbasca, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>27.622984,45.562426,0</coordinates></Point></Placemark>
+<Placemark><LineString id="3529_3528"><tessellate>1</tessellate><coordinates>27.622984,45.562426,0.
+27.609320,45.556673,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Tălăbasca</name><description>Nume: Tălăbasca, Tip: tălăbeasca, Nivel: 3, Județ: Galati, Formă: Altele, ID: 3528 <br /><b>Variante</b><br />Nume: Tălăbasca, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>27.609320,45.556673,0</coordinates></Point></Placemark></Document></kml>

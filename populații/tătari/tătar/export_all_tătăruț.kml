@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Muntele Tătăruțu</name><description>Nume: Muntele Tătăruțu, Tip: tătăruț, Nivel: 3, Județ: Buzau, Formă: Înălțime, ID: 6044, ID Părinte: 6045 <br /><b>Variante</b><br />Nume: Muntele Tătăruțu, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.079028,45.511111,0</coordinates></Point></Placemark>
+<Placemark><LineString id="6044_6045"><tessellate>1</tessellate><coordinates>26.079028,45.511111,0.
+26.065119,45.485617,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Lacul Tătăruțul</name><description>Nume: Lacul Tătăruțul, Tip: tătăruț, Nivel: 3, Județ: Calarasi, Formă: Lac, ID: 3255 <br /><b>Variante</b><br />Nume: Lacul Tătăruțul, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>27.008977,44.168410,0</coordinates></Point></Placemark></Document></kml>

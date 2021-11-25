@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Bărăceni</name><description>Nume: Bărăceni, Tip: bărăceni, Nivel: 3, Județ: Dambovita, Formă: Localitate, ID: 8474, ID Părinte: 8472 <br /><b>Variante</b><br />Nume: Bărăceni, Hartă: PDT, Limbă: Limba română<br />Nume: Bărăceni, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.458614,44.545486,0</coordinates></Point></Placemark>
+<Placemark><LineString id="8474_8472"><tessellate>1</tessellate><coordinates>25.458614,44.545486,0.
+25.433058,44.530342,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

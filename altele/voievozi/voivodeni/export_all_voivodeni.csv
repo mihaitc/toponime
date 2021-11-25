@@ -1,0 +1,7 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Voivodeni,voivodeni,3,46.3990615859306,22.0300858920268,Arad,Localitate,6283,,Voivodeni,Geomil 25000,Limba română,Voivodeni,PDT,Limba română
+Dealul Voivodeni,voivodeni,3,45.7738303845401,24.8419777279727,Brasov,Deal,11249,11248,Dealul Voivodeni,Geomil 25000,Limba română
+Voivodeni,voivodeni,3,45.7782387385937,24.8610173153738,Brasov,Localitate,11248,,Voivodeni,Geomil 25000,Limba română
+Valea Voivodeni,voivodeni,3,45.1961801872121,25.4266707107333,Dambovita,Vale,11127,,Valea Voivodeni,Geomil 25000,Limba română
+Pârâu Voivodeni,voivodeni,3,47.0484703403748,23.4073089516093,Salaj,Vale,6923,6922,Pârâu Voivodeni,Geomil 25000,Limba română
+Voivodeni,voivodeni,3,47.0553024423811,23.4250294644366,Salaj,Localitate,6922,,Voivodeni,Geomil 25000,Limba română

@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Golul de Munte Voevoda,voevoda,3,45.4052419427365,24.9634782526566,Arges,Înălțime,5003,5001,Golul de Munte Voevoda,Geomil 25000,Limba română
+Piscul Voevoda,voevoda,3,45.3874504453043,24.9558759468945,Arges,Înălțime,5001,,Piscul Voevoda,Geomil 25000,Limba română
+Piscul Voevoada,voevoda,3,45.5894594595145,25.2722211579853,Brasov,Înălțime,8556,,Piscul Voevoada,PDT,Limba română
+Valea Voievoada,voevoda,3,44.7441262084358,23.6649548931351,Gorj,Vale,5145,,Valea Voievoada,Geomil 25000,Limba română

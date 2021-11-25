@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Cracul Osoinii,osoina,3,45.0139628307797,22.1885340228365,Caras Severin,Înălțime,9432,,Cracul Osoinii,PDT,Limba română,Cracu Osoina,Geomil 25000,Limba română
+Ogașu Osoina,osoina,3,45.0180220519109,22.19061501242,Caras Severin,Vale,9433,9432,Ogașu Osoina,Geomil 25000,Limba română
+Ossoina,osoina,3,44.8582985234981,21.9542587964308,Caras Severin,Înălțime,12055,,Ossoina,Ungară 1869,Limba română
+Vârfu Osoina,osoina,3,44.9741277091631,22.2301567110659,Caras Severin,Înălțime,5722,,Vârfu Osoina,Geomil 25000,Limba română

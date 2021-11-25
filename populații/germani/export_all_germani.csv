@@ -1,0 +1,283 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3,Nume 4,Hartă 4,Limbă 4
+Dâmbu Neamțului,neamț,4,46.2231639904775,23.2880047461297,Alba,Înălțime,5579,,Dâmbu Neamțului,Geomil 25000,Limba română
+Piatra Neamțului,neamț,4,46.4661201305344,23.15213011445,Alba,Înălțime,11528,,Piatra Neamțului,Geomil 25000,Limba română
+Podu Neamțului,neamț,4,46.249026742483,23.9765097571379,Alba,Altele,7354,,Podu Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,46.2153136955385,23.3001607829882,Alba,Vale,2580,5579,Valea Neamțului,Geomil 25000,Limba română
+Dealul Sasului,sas,4,45.7687200968509,23.4349396094447,Alba,Deal,10550,,Dealul Sasului,Imperiul Habsburgic (1887),Limba română
+Pădurea Sasului,sas,4,46.0395415041667,23.7400353084059,Alba,Pădure,11239,,Pădurea Sasului,Geomil 25000,Limba română
+Pârâul Sasului,sas,4,46.1970825449286,23.9033024101573,Alba,Vale,8153,,Pârâul Sasului,PDT,Limba română
+Pârâul Valea Sasului,sas,4,46.2812583462646,24.0343625971248,Alba,Vale,7353,,Pârâul Valea Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,45.7958538324851,23.4098817649919,Alba,Vale,1136,,Valea Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,46.2846557825583,24.0278056345852,Alba,Localitate,6754,7353,Valea Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,46.2264618609721,23.66757337281,Alba,Vale,11829,,Valea Sasului,Geomil 25000,Limba română,Valea Sasului,PDT,Limba română
+Valea Sasului,sas,4,46.4257633681072,23.6865840837568,Alba,Vale,14010,,Valea Sasului,PDT,Limba română
+Vârfu Gruiu Sasului,sas,4,46.0987263883423,23.6637702164181,Alba,Înălțime,6747,,Vârfu Gruiu Sasului,Geomil 25000,Limba română,Gruiul Sasului,PDT,Limba română
+Szaszcsor (Săsciori),săsciori,4,45.87915057659,23.5790315215061,Alba,Localitate,13242,,Szaszcsor (Săsciori),Transilvania (1769-1773),Limba română,Săsciori,Geomil 25000,Limba română
+Gruețiu Săsăscu,săsesc,4,46.2513875154387,23.9429086455919,Alba,Altele,11836,,Gruețiu Săsăscu,Geomil 25000,Limba română
+Râtul Săsesc,săsesc,4,46.1491412569673,23.9713363412561,Alba,Altele,8157,,Râtul Săsesc,PDT,Limba română
+Szaz Pian,săsesc,4,45.9377894147004,23.487641174528,Alba,Localitate,10458,,Szaz Pian,Transilvania (1869-1870),Limba maghiară
+Săsești,săsești,4,46.3721850828061,23.9704161800722,Alba,Altele,14014,,Săsești,PDT,Limba română
+Szász-Ujfalu,szász,4,46.2744638487775,23.7210198243592,Alba,Localitate,10501,,Szász-Ujfalu,Transilvania (1869-1870),Limba maghiară
+Sâmpetrul-German,germani,2,46.1121963131872,21.0460873484168,Arad,Localitate,5645,,Sâmpetrul-German,PDT,Limba română,Sânpetru German,PDT,Limba română
+Cioaca Neamțului,neamț,4,46.1812063001125,21.7327760644669,Arad,Înălțime,10292,,Cioaca Neamțului,Geomil 25000,Limba română,Cioka Niamtzului,Ungară 1869,Limba română
+Dâmbul Neamțului,neamț,4,46.5967876421485,22.1564492006839,Arad,Înălțime,4092,,Dâmbul Neamțului,PDT,Limba română
+Dealul Neamțului,neamț,4,45.9371524390492,22.4097959391573,Arad,Deal,874,,Dealul Neamțului,Geomil 25000,Limba română
+Fântâna neamțiului,neamț,4,46.3918782751692,21.9612231824803,Arad,Altele,6286,,Fântâna neamțiului,PDT,Limba română
+Pârâul Neamțului,neamț,4,46.1170594189194,21.8058268842783,Arad,Vale,5630,,Pârâul Neamțului,PDT,Limba română,Pârâul Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,46.1077752659222,21.7500993954286,Arad,Vale,1948,,Valea Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,46.2401957684099,22.5665373665456,Arad,Vale,6258,,Valea Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,46.2111675656595,21.7360508435098,Arad,Vale,9415,,Valea Neamțului,Geomil 25000,Limba română
+Dealul Nemțesc,nemțesc,4,46.0768942209029,21.6976737288836,Arad,Deal,9423,,Dealul Nemțesc,PDT,Limba română
+Băile Nemților,nemți,3,46.456701817283,22.3068511652296,Arad,Altele,13936,,Băile Nemților,PDT,Limba română
+Dealu Nemților,nemți,3,46.0464566349226,21.7229724372493,Arad,Deal,6306,,Dealu Nemților,Geomil 25000,Limba română,Dealul Nemților,PDT,Limba română
+Izlazul Nemților,nemți,3,46.4331840038855,22.0224939377142,Arad,Altele,12520,,Izlazul Nemților,ANCPI,Limba română
+La Nemți,nemți,3,46.3812505842037,21.8989924457259,Arad,Altele,7600,,La Nemți,PDT,Limba română
+Dealu Sasu,sas,4,46.0732144823886,22.1296749340035,Arad,Deal,13501,,Dealu Sasu,Geomil 25000,Limba română
+Pădurea Sasului,sas,4,46.5023552069806,21.7653905359974,Arad,Pădure,8035,,Pădurea Sasului,PDT,Limba română
+Valea Sasului,sas,4,46.5451410534375,22.15727785308,Arad,Vale,978,979,Valea Sasului,Geomil 25000,Limba română,Valea Sasului,PDT,Limba română
+Valea Sasului,sas,4,46.3223359708145,22.4528868182071,Arad,Vale,5599,,Valea Sasului,Geomil 25000,Limba română
+Ciuha Neamțului,neamț,4,45.2189286239976,24.536020849158,Arges,Înălțime,6909,,Ciuha Neamțului,PDT,Limba română
+Culmea Neamțului,neamț,4,45.3737009558346,24.945763976059,Arges,Înălțime,5000,,Culmea Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,45.2199726880191,24.9235190184947,Arges,Vale,5065,,Valea Neamțului,PDT,Limba română
+Neamțoaica Mare,nemțoaică,4,45.5655579850147,25.1151406576482,Arges,Vale,5078,,Neamțoaica Mare,Geomil 25000,Limba română
+Neamțoaica Mică,nemțoaică,4,45.5607270343194,25.1146294325524,Arges,Vale,5079,5078,Neamțoaica Mică,Geomil 25000,Limba română
+Dealul Sasu,sas,4,45.5088849010291,25.2337793980464,Arges,Deal,599,,Dealul Sasu,Geomil 25000,Limba română
+Dealul Sasului,sas,4,45.4109233671897,25.2386331841099,Arges,Deal,5032,,Dealul Sasului,Geomil 25000,Limba română,Dealul Sasului,PDT,Limba română
+Dealul Sasului,sas,4,45.2563655543231,24.511145280615,Arges,Deal,12580,,Dealul Sasului,British Maps (1944),Limba română
+La Podurile Sasului,sas,4,45.2368669396438,25.0052340278233,Arges,Altele,5058,11120,La Podurile Sasului,PDT,Limba română,La Podurile Sasului,Geomil 25000,Limba română
+Piscu Sasului,sas,4,44.9213618005572,24.5256019877024,Arges,Înălțime,11045,,Piscu Sasului,Geomil 25000,Limba română
+Valea Sassului,sas,4,45.1126414437703,24.6667247548207,Arges,Localitate,5822,1424,Valea Sassului,Austriacă,Limba română
+Valea Sasului,sas,4,45.1074958256432,24.6774721883829,Arges,Vale,1424,,Valea Sasului,Geomil 25000,Limba română,Valea Sassului,Austriacă,Limba română
+Valea Sasului,sas,4,45.2422787298872,24.6950469668261,Arges,Vale,4050,,Valea Sasului,PDT,Limba română
+Valea Sasului,sas,4,45.2412475351282,24.9998311682365,Arges,Vale,11120,,Valea Sasului,PDT,Limba română
+Groapa Neamțului,neamț,4,46.3097965967291,26.4871880841147,Bacau,Altele,4568,,Groapa Neamțului,PDT,Limba română
+Poiana Neamțului,neamț,4,46.379212127788,27.1571033929937,Bacau,Poiană,7887,,Poiana Neamțului,PDT,Limba română
+Valea Jgheabul Neamțului,neamț,4,46.4850398694398,26.3476036200075,Bacau,Vale,7879,,Valea Jgheabul Neamțului,Geomil 25000,Limba română
+Sasu,sas,4,46.6858656367109,27.0405910507658,Bacau,Localitate,13642,,Sasu,Moldova (1892-1898),Limba română
+Sasul,sas,4,46.2160404958811,26.4341561768016,Bacau,Vale,13851,,Sasul,Geomil 25000,Limba română
+Coliba Neamțului,neamț,4,47.1735955853819,22.360295062366,Bihor,Altele,4180,,Coliba Neamțului,PDT,Limba română
+Izvorul Neamțului,neamț,4,46.4060187273536,22.5037063224454,Bihor,Vale,5626,5627,Izvorul Neamțului,PDT,Limba română
+Pârâul Neamțului,neamț,4,46.6601980720561,22.0350638899163,Bihor,Vale,4112,,Pârâul Neamțului,PDT,Limba română
+Pârâul Neamțului,neamț,4,46.4115356137138,22.5133210368546,Bihor,Vale,5627,,Pârâul Neamțului,Geomil 25000,Limba română
+Poiana Sasului,sas,4,46.547875874812,22.1815730486625,Bihor,Poiană,979,,Poiana Sasului,Geomil 25000,Limba română,Poiana Sasului,PDT,Limba română
+Szászfalva (Satul Sasului),sas,4,47.0102625382554,22.4485334898431,Bihor,Localitate,10272,,Szászfalva (Satul Sasului),Ungară 1869,Limba maghiară
+Valea Sasului,sas,4,46.9896741043336,22.5489730249209,Bihor,Vale,1075,,Valea Sasului,Geomil 25000,Limba română,Valea Sasului,PDT,Limba română
+Sváb-Olaszi,șvab,3,47.3525100712254,22.1725465950963,Bihor,Localitate,12142,,Sváb-Olaszi,Ungaria (1782–1785),Limba maghiară
+Dâmbul Șvabilor,șvabi,4,47.2984622650483,22.0814112023188,Bihor,Înălțime,7585,,Dâmbul Șvabilor,PDT,Limba română
+Dealul Neamțului,neamț,4,46.8693802426354,24.3987771119404,Bistrita Nasaud,Deal,5471,,Dealul Neamțului,PDT,Limba română,Dealul Neamțului,Geomil 25000,Limba română
+Dealul Neamțului,neamț,4,47.3938557083363,24.8007230550124,Bistrita Nasaud,Deal,9916,,Dealul Neamțului,Geomil 25000,Limba română
+Poiana Neamțului,neamț,4,47.4064797653777,24.4318538572054,Bistrita Nasaud,Poiană,1022,,Poiana Neamțului,Geomil 25000,Limba română
+Dealul Sasului,sas,4,47.2338728924511,24.3692220163044,Bistrita Nasaud,Deal,7118,,Dealul Sasului,Geomil 25000,Limba română
+Dealul Sasului,sas,4,47.2810636776578,24.5650073926603,Bistrita Nasaud,Deal,10583,,Dealul Sasului,Imperiul Habsburgic (1887),Limba română
+Dealul Sasului,sas,4,47.1683129850571,24.0601996843752,Bistrita Nasaud,Deal,14160,,Dealul Sasului,Geomil 25000,Limba română
+Dialu sasului,sas,4,47.2190000845513,24.209679559269,Bistrita Nasaud,Deal,10496,,Dialu sasului,Transilvania (1869-1870),Limba română
+Moara Sasului,sas,4,47.3009056290404,24.2683768002958,Bistrita Nasaud,Altele,7112,,Moara Sasului,PDT,Limba română,La Moara Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,47.2603171219254,24.2553971229583,Bistrita Nasaud,Vale,4500,,Valea Sasului,Geomil 25000,Limba română
+Szász Cegő,săsesc,4,47.0692463889004,24.3322630639926,Bistrita Nasaud,Localitate,10465,,Szász Cegő,Transilvania (1869-1870),Limba maghiară
+Szász-Bréte,szász,4,47.1239702679596,24.2427083463103,Bistrita Nasaud,Localitate,10467,,Szász-Bréte,Transilvania (1869-1870),Limba maghiară
+Dealul Neamțului,neamț,4,47.8055959153472,26.7710190379218,Botosani,Deal,3571,,Dealul Neamțului,PDT,Limba română,Dealul Neamțului,Geomil 25000,Limba română
+Lacul Neamțu,neamț,4,47.9643847188604,26.7231249001972,Botosani,Lac,3576,,Lacul Neamțu,PDT,Limba română
+Lutăria la Neamțu,neamț,4,47.7811897825132,27.0194001824587,Botosani,Altele,2375,,Lutăria la Neamțu,Geomil 25000,Limba română
+Grindul Neamțului,neamț,4,45.1489802493149,28.0094067111292,Braila,Înălțime,9262,,Grindul Neamțului,PDT,Limba română
+Satu nemtzesk,nemțesc,4,45.3187938377331,27.9394276973619,Braila,Localitate,3613,,Satu nemtzesk,Austriacă,Limba română
+Lacul Nemților,nemți,3,45.3448742384156,27.9233712015352,Braila,Lac,12620,3613,Lacul Nemților,British Maps (1944),Limba română
+Târla Sasul,sas,4,45.230706026156,27.5561497560106,Braila,Localitate,12617,,Târla Sasul,PDT,Limba română
+Movila Sașilor,sași,3,44.8160753962395,27.7593008819936,Braila,Înălțime,3470,,Movila Sașilor,PDT,Limba română
+Neamțul,neamț,4,45.6089554133106,25.0358124550357,Brasov,Vale,2713,,Neamțul,Geomil 25000,Limba română
+Pârâul Sasului,sas,4,45.7218483597057,25.2835119092151,Brasov,Vale,6822,,Pârâul Sasului,PDT,Limba română
+Szás verőfény (Luminișul Sasului),sas,4,45.6030808722675,25.8755032004416,Brasov,Poiană,10569,2770,Szás verőfény (Luminișul Sasului),Imperiul Habsburgic (1887),Limba maghiară
+Valea Sasul Mare,sas,4,45.7926691960014,25.4118604973727,Brasov,Vale,2701,2700,Valea Sasul Mare,Geomil 25000,Limba română
+Valea Sasul Mic,sas,4,45.7902429408589,25.4202518109891,Brasov,Vale,2702,2700,Valea Sasul Mic,Geomil 25000,Limba română
+Valea Sasului,sas,4,45.7838224198451,25.4190745686307,Brasov,Vale,2700,,Valea Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,45.5906498011465,25.8830852004893,Brasov,Vale,2770,,Valea Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,45.4636053568657,25.3596099438264,Brasov,Vale,14161,,Valea Sasului,Geomil 25000,Limba română
+Ticușul săsesc,săsesc,4,45.9286955649274,25.0997048235925,Brasov,Localitate,10574,,Ticușul săsesc,Imperiul Habsburgic (1887),Limba română
+Calea Sașilor,sași,3,45.7287413957071,25.3437854536926,Brasov,Drum,10532,,Calea Sașilor,Imperiul Habsburgic (1887),Limba română
+Lunca Sașilor,sași,3,45.7435957759597,25.8208820041102,Brasov,Apă-deal-câmpie,13847,,Lunca Sașilor,Geomil 25000,Limba română
+Terenurile Sașilor,sași,3,46.0436794478499,25.2234470670499,Brasov,Altele,2486,,Terenurile Sașilor,Geomil 25000,Limba română
+Unghiul Sașillor,sași,3,45.9731491883741,25.263507612809,Brasov,Apă-deal-câmpie,6795,,Unghiul Sașillor,PDT,Limba română
+Ciuha Neamțului,neamț,4,45.2682289288507,26.3334134228144,Buzau,Înălțime,9817,,Ciuha Neamțului,PDT,Limba română
+Valea Neamțului,neamț,4,45.2698415792605,26.3494920761102,Buzau,Vale,9818,9817,Valea Neamțului,PDT,Limba română
+Pârâul Sasului,sas,4,45.5542040323225,26.2050049830532,Buzau,Vale,6043,,Pârâul Sasului,Geomil 25000,Limba română
+Sasu,sas,4,45.5513819634476,26.1945886934233,Buzau,Altele,6042,6043,Sasu,Geomil 25000,Limba română
+Săsenii Noi,sași,3,45.2015148749708,26.7000054737541,Buzau,Localitate,71,70,Săsenii Noi,Geomil 25000,Limba română,Săseni Noi,PDT,Limba română,Сэсени-Ной (Săseni Noi),Sovietică,Limba română,Sâseni noi,Austriacă,Limba română
+Săsenii pe Vale,sași,3,45.1938123780729,26.6739120988751,Buzau,Localitate,72,70,Săsenii pe Vale,Geomil 25000,Limba română,Сэсени-пе-Вале (Săseni pe Vale),Sovietică,Limba română
+Săsenii Vechi,sași,3,45.2166277691784,26.677870331127,Buzau,Localitate,70,,Săsenii Vechi,Geomil 25000,Limba română,Săsenii Vechi,PDT,Limba română,Săseni veki,Austriacă,Limba română,Сэсени-Веки (Săseni Vechi),Sovietică,Limba română
+Cracu Neamțului,neamț,4,45.4682869384986,22.3541557061084,Caras Severin,Înălțime,856,,Cracu Neamțului,Geomil 25000,Limba română
+Cracul Neamțului,neamț,4,45.1486249756852,22.4552947973371,Caras Severin,Înălțime,8672,,Cracul Neamțului,PDT,Limba română
+Curmătura Neamțului,neamț,4,45.1141157199452,22.0715953413829,Caras Severin,Înălțime,9430,1226,Curmătura Neamțului,PDT,Limba română
+Dealu Masa Neamțului,neamț,4,45.424254932591,22.3256553984627,Caras Severin,Deal,10301,,Dealu Masa Neamțului,Geomil 25000,Limba română
+Dealu Neamțului,neamț,4,45.3907166225647,21.7531986872482,Caras Severin,Deal,4316,,Dealu Neamțului,Geomil 25000,Limba română
+Ogașu Crucea Neamțului,neamț,4,45.2652464570927,22.0602471319755,Caras Severin,Vale,6125,,Ogașu Crucea Neamțului,Geomil 25000,Limba română
+Pârâu Neamțului,neamț,4,45.4709322796439,22.3530872530077,Caras Severin,Vale,857,856,Pârâu Neamțului,Geomil 25000,Limba română
+Poiana Neamțului,neamț,4,45.1045760249623,22.0745887963519,Caras Severin,Poiană,1226,,Poiana Neamțului,Geomil 25000,Limba română,Poiana Neamțului,PDT,Limba română
+Poiana Neamțului,neamț,4,45.3875193012894,21.7480145962317,Caras Severin,Poiană,4319,4316,Poiana Neamțului,PDT,Limba română
+Custura Nemțească,nemțească,4,45.2194704262213,21.7406975638892,Caras Severin,Altele,11499,,Custura Nemțească,Geomil 25000,Limba română
+Țarina Nemțească,nemțească,4,45.39535568122,22.2601650988346,Caras Severin,Altele,8667,,Țarina Nemțească,Geomil 25000,Limba română
+Cracu Nemțesc,nemțesc,4,44.8217084460384,21.6174243014064,Caras Severin,Înălțime,10867,,Cracu Nemțesc,Geomil 25000,Limba română
+Buza Sasului,sas,4,45.2282970557704,22.1480815296701,Caras Severin,Înălțime,4332,,Buza Sasului,PDT,Limba română,Pusta Sasului,Geomil 25000,Limba română
+Dealu Neamțului,neamț,4,46.6599169909685,23.0871615640349,Cluj,Deal,5895,,Dealu Neamțului,Geomil 25000,Limba română
+Dealu Țapa Neamțului,neamț,4,46.8794647934336,23.4942731796005,Cluj,Deal,4387,,Dealu Țapa Neamțului,Geomil 25000,Limba română
+Dealul Sasului,sas,4,47.368781218938,23.8628969345349,Cluj,Deal,4399,,Dealul Sasului,Geomil 25000,Limba română
+Dealul Sasului,sas,4,46.689402083285,23.334608293382,Cluj,Deal,8963,,Dealul Sasului,PDT,Limba română
+Sas,sas,4,46.5161099902372,23.6126368954287,Cluj,Înălțime,13712,,Sas,Imperiul Habsburgic (1887),Limba română,Muntie Sas,Transilvania (1869-1870),Limba română
+Movila Nemților,nemți,3,44.3244144927591,28.1365734471258,Constanta,,2841,,Movila Nemților,Geomil 25000,Limba română
+Valea Nemților,nemți,3,44.3286507181709,28.1419895867087,Constanta,Vale,2842,2841,Valea Nemților,Geomil 25000,Limba română
+Moara Neamțului,neamț,4,46.0083404589535,25.727190394277,Covasna,Altele,6056,,Moara Neamțului,Geomil 25000,Limba română
+Culmea Sasului,sas,4,46.0571854648413,25.7730992172595,Covasna,Înălțime,2750,,Culmea Sasului,Geomil 25000,Limba română
+Dealul Sașilor,sași,3,45.637580290082,26.1253439314296,Covasna,Deal,12881,,Dealul Sașilor,Imperiul Habsburgic (1887),Limba română
+Dealul Neamțului,neamț,4,44.7860204581348,25.2213050747202,Dambovita,Deal,14177,,Dealul Neamțului,PDT,Limba română
+Poiana de la Coada Neamțului,neamț,4,44.8426920988038,25.340392476436,Dambovita,Poiană,11072,11073,Poiana de la Coada Neamțului,PDT,Limba română
+Valea Neamțului,neamț,4,45.0506820629358,25.3877998925868,Dambovita,Vale,8378,,Valea Neamțului,PDT,Limba română
+Valea Neamțului,neamț,4,44.8414284014888,25.3435157642573,Dambovita,Vale,11073,,Valea Neamțului,PDT,Limba română
+Pădurea Sasu,sas,4,44.7080475819311,25.6648911731605,Dambovita,Pădure,11154,,Pădurea Sasu,PDT,Limba română
+Valea Sasului,sas,4,44.9616168520686,25.479239977035,Dambovita,Vale,1533,,Valea Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,45.0743087937209,25.5029891239255,Dambovita,Vale,11195,,Valea Sasului,ANCPI,Limba română
+Fântâna de la Podul Neamțului,neamț,4,44.1440228387111,23.5158887579134,Dolj,Altele,8099,,Fântâna de la Podul Neamțului,PDT,Limba română
+Grindul Neamțului,neamț,4,43.7779666406861,23.9174117232732,Dolj,Apă-deal-câmpie,3027,,Grindul Neamțului,Geomil 25000,Limba română
+Măgura Neamțului,neamț,4,44.1851851065331,24.19024162056,Dolj,Înălțime,7734,,Măgura Neamțului,PDT,Limba română
+Piscul Neamțului,neamț,4,44.3133129684958,23.6367297770869,Dolj,Înălțime,3364,,Piscul Neamțului,PDT,Limba română
+Podul Neamțului,neamț,4,44.1734950961671,23.3281573062063,Dolj,Altele,4656,,Podul Neamțului,PDT,Limba română
+Valea Neamțu,neamț,4,44.5122412961452,23.6427188281487,Dolj,Vale,4694,,Valea Neamțu,PDT,Limba română
+Valea Neamțului,neamț,4,44.3654626679497,23.9958241903325,Dolj,Vale,9338,,Valea Neamțului,PDT,Limba română
+Dealul Sasului,sas,4,44.3493332458311,23.8462803689256,Dolj,Deal,12179,,Dealul Sasului,PDT,Limba română,B. Sasz,Oltenia-Muntenia (1790),Limba română
+Valea Sasului,sas,4,44.1784494234616,23.7879517134286,Dolj,Vale,5108,,Valea Sasului,Austriacă,Limba română,Valea Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,44.1867343475389,23.7358402517056,Dolj,Vale,7710,,Valea Sasului,PDT,Limba română
+Valea Sasului,sas,4,44.3521948268706,23.8310885403075,Dolj,Vale,12180,12179,Valea Sasului,PDT,Limba română
+Săseni,săseni,4,46.1259273616705,27.9345675037667,Galati,Localitate,13946,,Săseni,Geomil 25000,Limba română
+Lacul Sasului,sas,4,44.1672476130606,25.8136356656247,Giurgiu,Lac,4222,,Lacul Sasului,PDT,Limba română
+Valea Sasului,sas,4,44.3236080948857,25.6634162486463,Giurgiu,Vale,10106,,Valea Sasului,Geomil 25000,Limba română
+Via Neamțului,neamț,4,44.8662936737152,23.2867365172754,Gorj,Altele,11007,,Via Neamțului,PDT,Limba română
+Săseni,săseni,4,44.7892038953376,23.4937382483234,Gorj,Localitate,11817,,Săseni,PDT,Limba română
+Tăetura Sasului,sas,4,46.7871820952009,25.4040026257582,Harghita,Înălțime,10037,,Tăetura Sasului,PDT,Limba română
+Satul Săsesc,săsesc,4,46.6726139032041,25.4996608956396,Harghita,Localitate,10044,,Satul Săsesc,PDT,Limba română
+Grădina Sașilor,sași,3,46.2798872893972,25.3463729021447,Harghita,Altele,7953,,Grădina Sașilor,Geomil 25000,Limba română
+Tabăra Sașilor,sași,3,46.3054147310591,25.316556117554,Harghita,Altele,4268,,Tabăra Sașilor,Geomil 25000,Limba română
+Muchia Neamțului,neamț,4,45.7589287088515,23.3031976875819,Hunedoara,Înălțime,9841,,Muchia Neamțului,Geomil 25000,Limba română
+Poiana Neamțu,neamț,4,45.6992439413036,22.5449318775372,Hunedoara,Poiană,11581,,Poiana Neamțu,Geomil 25000,Limba română
+Culmea Sasului,sas,4,45.5622596235822,23.355667038896,Hunedoara,Înălțime,9834,,Culmea Sasului,Geomil 25000,Limba română
+Dealu Sasului,sas,4,46.1200978144906,22.9402555491325,Hunedoara,Deal,6236,,Dealu Sasului,Geomil 25000,Limba română
+Pârâul Sasu,sas,4,45.382068542607,23.4236049393924,Hunedoara,Vale,12690,,Pârâul Sasu,Geomil 25000,Limba română
+Valea Sasului,sas,4,45.5570231015948,23.3574737350228,Hunedoara,Vale,9835,9834,Valea Sasului,Geomil 25000,Limba română
+Vârfu Sașilor,sași,3,45.3547955849584,22.8256597356506,Hunedoara,Înălțime,13430,,Vârfu Sașilor,Geomil 25000,Limba română
+Szászváros,szász,4,45.838223018328,23.1979553942511,Hunedoara,Localitate,10522,,Szászváros,Transilvania (1869-1870),Limba maghiară
+Movila Nemților,nemți,3,44.5598899168978,27.5224111542923,Ialomita,Înălțime,6745,,Movila Nemților,Geomil 25000,Limba română
+Dealul Neamțul,neamț,4,47.3163115729108,27.3457236658675,Iasi,Deal,4855,,Dealul Neamțul,PDT,Limba română
+La Cornul Sasului,sas,4,47.3970593930031,27.5315882698221,Iasi,Apă-deal-câmpie,6647,,La Cornul Sasului,Geomil 25000,Limba română,La Cornul Sasului,PDT,Limba română
+La moara Neamțului,neamț,4,44.3934512323976,25.8636699008823,Ilfov,Altele,3750,,La moara Neamțului,PDT,Limba română
+Piciorul Neamțului,neamț,4,47.6876852359618,23.4314228974117,Maramures,Înălțime,8226,,Piciorul Neamțului,PDT,Limba română
+Crucea Nemților,nemți,3,47.7069176678237,24.4609461804364,Maramures,Altele,7159,,Crucea Nemților,Geomil 25000,Limba română
+Steampul Nemților,nemți,3,47.6634286782371,23.6919928922333,Maramures,Altele,7217,,Steampul Nemților,PDT,Limba română
+Arșița Sasului,sas,4,47.7307785371534,24.4496462139337,Maramures,Altele,10267,,Arșița Sasului,Geomil 25000,Limba română,V. Szazului,Ungară 1869,Limba română
+Dealul Sasul Mic,sas,4,47.781590892426,24.4486727969653,Maramures,Deal,7161,,Dealul Sasul Mic,Geomil 25000,Limba română
+Dealul Sasului,sas,4,47.4720209239212,23.7790953911347,Maramures,Deal,10559,,Dealul Sasului,Imperiul Habsburgic (1887),Limba română
+Gruiul Sasului,sas,4,47.6466969764701,24.3831428617214,Maramures,Altele,4523,7150,Gruiul Sasului,Geomil 25000,Limba română,Gruiul Sasului,PDT,Limba română
+Stâna Sasului,sas,4,47.6479235391323,24.807126214494,Maramures,Vale,7148,,Stâna Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,47.6350677941171,24.381911415457,Maramures,Vale,7150,,Valea Sasului,Geomil 25000,Limba română
+Deutsche Mühle (Moara Germană),deutsche,3,44.6945095925661,22.3693808798905,Mehedinti,Altele,10256,,Deutsche Mühle (Moara Germană),Ungară 1869,Limba germană
+Cracu Neamțului,neamț,4,44.7534900759036,22.3293428546976,Mehedinti,Înălțime,5731,830,Cracu Neamțului,Geomil 25000,Limba română
+Neamțul,neamț,4,44.6945354539178,22.2615341932932,Mehedinti,Înălțime,8494,,Neamțul,PDT,Limba română,Vârfu Neamțului,Geomil 25000,Limba română
+Ogașu Neamțului,neamț,4,44.7537845395717,22.319043699097,Mehedinti,Vale,830,,Ogașu Neamțului,Geomil 25000,Limba română
+Pârâu Neamțului,neamț,4,44.6944322493567,22.2510019398374,Mehedinti,Vale,8495,8494,Pârâu Neamțului,PDT,Limba română
+La Crucea Nemțească,nemțesc,4,44.6287565103622,22.6974314395547,Mehedinti,Altele,4019,,La Crucea Nemțească,Geomil 25000,Limba română
+Dealul Groapa Neamțului,neamț,4,46.5360512621273,24.6511566636152,Mures,Deal,4345,,Dealul Groapa Neamțului,Geomil 25000,Limba română
+Dealul Neamțului,neamț,4,46.9616198444363,24.9571251904316,Mures,Deal,5403,,Dealul Neamțului,Geomil 25000,Limba română
+Dealul Neamțului,neamț,4,46.9127117026004,25.0510142243967,Mures,Deal,10007,,Dealul Neamțului,PDT,Limba română
+Piatra Neamțului,neamț,4,47.0176189696775,25.032045369068,Mures,Înălțime,11747,,Piatra Neamțului,PDT,Limba română
+Dealul Sasului,sas,4,46.6577323737999,24.3540710693386,Mures,Deal,5374,,Dealul Sasului,Geomil 25000,Limba română
+Dealul Sasului,sas,4,46.8137692555444,24.4837557441363,Mures,Deal,5465,5464,Dealul Sasului,Geomil 25000,Limba română
+Pârâul Sasului,sas,4,46.1915995214616,24.7376968563873,Mures,Vale,5522,,Pârâul Sasului,PDT,Limba română,Sasul,Geomil 25000,Limba română
+Valea Sasului,sas,4,46.8227419468871,24.4833382391031,Mures,Localitate,5463,5464,Valea Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,46.8194746457869,24.4853470590295,Mures,Vale,5464,,Valea Sasului,Geomil 25000,Limba română
+Laslăul săsesc,săsesc,4,46.3677690683546,24.5538100494993,Mures,Localitate,10812,,Laslăul săsesc,Imperiul Habsburgic (1887),Limba română
+Pădurea Bisericii Săsești,săsesc,4,46.72377786796,24.7169461123822,Mures,Pădure,4336,,Pădurea Bisericii Săsești,Geomil 25000,Limba română
+Pârâul Săsesc,săsesc,4,46.3002795634296,24.3989102172032,Mures,Vale,8647,,Pârâul Săsesc,PDT,Limba română
+Pășunea Sașilor,sași,3,46.369087593976,24.5204322474221,Mures,Altele,1910,,Pășunea Sașilor,Geomil 25000,Limba română
+Szász Patak (Valea Sasului),szász,4,46.6308529862567,24.6629837662679,Mures,Vale,12814,,Szász Patak (Valea Sasului),PDT,Limba română
+Szász-Régen,szász,4,46.7801736283242,24.7003841749707,Mures,Localitate,10469,,Szász-Régen,Transilvania (1869-1870),Limba maghiară
+Dealul Neamțului,neamț,4,47.2256313087471,26.3329689825224,Neamt,Deal,7394,7393,Dealul Neamțului,Geomil 25000,Limba română
+Neamțul,neamț,4,47.2204848654689,26.3223987648432,Neamt,Vale,7395,7393,Neamțul,Geomil 25000,Limba română
+Târgu-Neamț,neamț,4,47.2063500394575,26.3638787803618,Neamt,Localitate,7393,,Târgu-Neamț,Geomil 25000,Limba română
+Dealul Nemților,nemți,3,46.8568157258961,26.6447528133529,Neamt,Deal,2040,,Dealul Nemților,Geomil 25000,Limba română,Dealul Nemților,Moldova (1892-1898),Limba română
+Dealul Sasu,sas,4,47.1085222579638,26.1508474232708,Neamt,Deal,9125,9124,Dealul Sasu,PDT,Limba română
+Muntele Arșița Sasului,sas,4,47.223962893734,25.8888845551726,Neamt,Înălțime,2068,,Muntele Arșița Sasului,Geomil 25000,Limba română
+Pârâul Sasului,sas,4,47.1029563276405,26.1356725601381,Neamt,Vale,9123,9124,Pârâul Sasului,PDT,Limba română,Sasul,Geomil 25000,Limba română
+Plaiul Sasului,sas,4,47.1022075436531,26.1495031105972,Neamt,Înălțime,9124,,Plaiul Sasului,PDT,Limba română
+Conacul Neamțului,neamț,4,44.1113735533809,24.2155559228172,Olt,Altele,7738,,Conacul Neamțului,PDT,Limba română
+Dealul Neamțului,neamț,4,43.8945963751444,24.4086366306693,Olt,Deal,3033,,Dealul Neamțului,Geomil 25000,Limba română
+Valea Sassului,sas,4,44.4737751392775,24.5091625099659,Olt,Vale,5812,,Valea Sassului,Austriacă,Limba română
+Valea Sasului,sas,4,44.7706938187048,24.501445054283,Olt,Vale,1995,,Valea Sasului,Geomil 25000,Limba română
+Muntele Neamțului,neamț,4,45.476560458304,25.6637230534067,Prahova,Înălțime,1554,,Muntele Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,45.482553951375,25.6833242029368,Prahova,Vale,1555,1554,Valea Neamțului,Geomil 25000,Limba română
+Vârful Neamțului,neamț,4,45.4688364469528,25.6937297532153,Prahova,Înălțime,1559,1554,Vârful Neamțului,Geomil 25000,Limba română
+Vârful Neamțului,neamț,4,45.1535695577562,25.9268372183878,Prahova,Înălțime,2828,,Vârful Neamțului,Geomil 25000,Limba română
+Fra(?)ul Nemților,nemți,3,44.9916748410606,26.1683009308887,Prahova,Altele,9,,Fra(?)ul Nemților,PDT,Limba română
+Vârful Fața Nemților,nemți,3,45.0948602148594,26.3740631177113,Prahova,Înălțime,3999,,Vârful Fața Nemților,PDT,Limba română
+Valea Sasului,sas,4,46.9622717566165,23.3268460793859,Salaj,Vale,14024,,Valea Sasului,Geomil 25000,Limba română
+Dosu Neamțului,neamț,4,47.6066782826359,23.1781568106933,Satu Mare,Înălțime,4422,,Dosu Neamțului,Geomil 25000,Limba română
+Valea Nemților,nemți,3,48.0449291838004,23.108813372364,Satu Mare,Vale,5975,,Valea Nemților,Geomil 25000,Limba română
+Râtu Șvabilor,șvabi,4,47.927203564984,23.1411451665539,Satu Mare,Altele,11849,,Râtu Șvabilor,Geomil 25000,Limba română
+Lazul Neamțului,neamț,4,46.1408819221198,24.5009626343648,Sibiu,Altele,1898,,Lazul Neamțului,Geomil 25000,Limba română,Lazul Neamțului,PDT,Limba română
+Neamțul,neamț,4,46.1206899690978,24.5563766686951,Sibiu,Altele,11244,,Neamțul,Geomil 25000,Limba română
+Poaina Neamțului,neamț,4,45.6381691651558,24.4729129827712,Sibiu,Poiană,1468,,Poaina Neamțului,Geomil 25000,Limba română
+Calea Nemților,nemți,3,45.992249758509,24.7710351251092,Sibiu,Drum,2661,,Calea Nemților,Geomil 25000,Limba română
+Culmea Sasului,sas,4,45.5816253121372,24.1583875965978,Sibiu,Înălțime,1165,,Culmea Sasului,Geomil 25000,Limba română
+Izvorul Sasului,sas,4,45.6318446056467,24.4249331948645,Sibiu,Vale,13810,,Izvorul Sasului,Geomil 25000,Limba română
+Pârâul Sasului,sas,4,45.782547015394,24.3971969720528,Sibiu,Vale,7999,,Pârâul Sasului,PDT,Limba română
+Pârâul Sasului,sas,4,45.6444803179157,24.3708568290672,Sibiu,Vale,12500,,Pârâul Sasului,PDT,Limba română
+Valea Sasululi,sas,4,45.5876544819211,24.1577191343797,Sibiu,Vale,11926,1165,Valea Sasululi,Imperiul Habsburgic (1887),Limba română
+Alma săsasca,săsească,4,46.212821886699,24.4780559840789,Sibiu,Localitate,10536,,Alma săsasca,Imperiul Habsburgic (1887),Limba română
+Casa bisericii Săsești,săsesc,4,46.051591591577,24.6121991388381,Sibiu,Altele,8618,,Casa bisericii Săsești,PDT,Limba română
+Noul Săsesc,săsesc,4,46.1105856023303,24.6036279711803,Sibiu,Localitate,8619,,Noul Săsesc,PDT,Limba română
+Coasta Sașilor,sași,3,46.0580128185371,24.1310358467644,Sibiu,Înălțime,11846,,Coasta Sașilor,Geomil 25000,Limba română
+Dosul Sașilor,sași,3,45.8130252741988,24.6338110196574,Sibiu,Înălțime,7979,,Dosul Sașilor,Geomil 25000,Limba română
+Lunca Sașilor,sași,3,46.1807347664653,24.4156217586602,Sibiu,Apă-deal-câmpie,11242,,Lunca Sașilor,ANCPI,Limba română
+Pitsora Sassilor,sași,3,45.6894988493076,24.2989036746156,Sibiu,Înălțime,10446,,Pitsora Sassilor,Transilvania (1869-1870),Limba română
+Sachsenhausen,sași,3,45.8485849801747,24.6031677980949,Sibiu,Localitate,10450,,Sachsenhausen,Transilvania (1869-1870),Limba germană
+Dealul Neamțului,neamț,4,47.7116481472633,26.4214898841677,Suceava,Deal,1796,,Dealul Neamțului,Geomil 25000,Limba română
+Gorapa Neamțului,neamț,4,47.7989383408716,25.7680443441722,Suceava,Altele,6316,,Gorapa Neamțului,Geomil 25000,Limba română
+La Neamț,neamț,4,47.7085671493649,26.4169645124626,Suceava,Altele,1797,1796,La Neamț,Geomil 25000,Limba română
+Neamțul,neamț,4,47.8012960842198,25.7580410337608,Suceava,Vale,6317,6316,Neamțul,Geomil 25000,Limba română
+Neamțul,neamț,4,47.6968719515571,25.7856415237602,Suceava,Vale,12917,,Neamțul,Geomil 25000,Limba română
+Picioarul Neamțului,neamț,4,47.3287136011564,25.7625799780087,Suceava,Înălțime,10735,,Picioarul Neamțului,Imperiul Habsburgic (1887),Limba română
+Alt-Fratautz Deutsch,nemțesc,4,47.9179715159251,25.8607029674539,Suceava,Localitate,10759,,Alt-Fratautz Deutsch,Imperiul Habsburgic (1887),Limba germană
+Satul-Mare-Nemțesc,nemțesc,4,47.834471614452,25.9892399210686,Suceava,Localitate,7256,,Satul-Mare-Nemțesc,PDT,Limba română
+Dealul Nemților,nemți,3,47.5085581814212,25.4539921880193,Suceava,Deal,1882,,Dealul Nemților,Geomil 25000,Limba română
+Pârâul Nemților,nemți,3,47.8297737100117,25.6644004866545,Suceava,Vale,2284,,Pârâul Nemților,Geomil 25000,Limba română
+Culmea Sasului,sas,4,47.5359578264841,25.7372012905259,Suceava,Înălțime,6327,,Culmea Sasului,Geomil 25000,Limba română
+Valea Sasului,sas,4,47.5393458286447,25.7586170139647,Suceava,Vale,6328,6327,Valea Sasului,Geomil 25000,Limba română
+Poiana Șvabului,șvab,3,47.7544492100728,26.2611554810598,Suceava,Poiană,4919,,Poiana Șvabului,PDT,Limba română
+Valea Șvabului,șvab,3,47.7473081015255,26.2743964066556,Suceava,Vale,4920,4919,Valea Șvabului,PDT,Limba română,Valea Soabului,Geomil 25000,Limba română
+Niamț,neamț,4,44.2891080236994,25.4803917604848,Teleorman,Localitate,5777,,Niamț,Austriacă,Limba română
+Măgura Nemților,nemți,3,44.1551377065055,25.3982054836859,Teleorman,Înălțime,1251,,Măgura Nemților,Geomil 25000,Limba română
+Movila Nemților,nemți,3,43.7844232714519,25.5059259755183,Teleorman,Înălțime,3414,,Movila Nemților,Geomil 25000,Limba română
+Nemțoaica,nemți,3,44.3153286161979,25.4836891185465,Teleorman,Altele,516,,Nemțoaica,Geomil 25000,Limba română
+Pădurea Neamțului,nemți,3,44.2821139946143,25.4742630231015,Teleorman,Pădure,515,5777,Pădurea Neamțului,Geomil 25000,Limba română
+Pădurea Nemțoaica,nemțoaică,4,43.7714036019907,24.7948733893619,Teleorman,Pădure,8007,,Pădurea Nemțoaica,PDT,Limba română
+Valea Nemțoaica,nemțoaică,4,44.2351168737535,25.4362349698577,Teleorman,Vale,3721,,Valea Nemțoaica,PDT,Limba română
+Valea Sasului,sas,4,43.9106289420838,24.8350971518602,Teleorman,Vale,1356,,Valea Sasului,Geomil 25000,Limba română,Valea Sasului,PDT,Limba română
+Deutsche Mühle (Moara Germană),deutsche,3,45.5742595087908,21.4887452158267,Timis,Altele,7610,,Deutsche Mühle (Moara Germană),PDT,Limba germană
+Sânmihaiu German,germani,2,45.7117563188034,21.0300633113738,Timis,Localitate,11356,,Sânmihaiu German,Geomil 25000,Limba română
+Dealu Neamț,neamț,4,45.7901452994032,21.6620616347624,Timis,Deal,12834,,Dealu Neamț,Geomil 25000,Limba română
+Dialu Niamtzului,neamț,4,45.9119171940297,21.7986668761812,Timis,Deal,12329,,Dialu Niamtzului,Ungară 1869,Limba română
+Groapa Neamțului,neamț,4,45.7883020037602,20.9533451494983,Timis,Altele,11353,,Groapa Neamțului,Geomil 25000,Limba română
+Ogașul Neamțului,neamț,4,45.9657659200775,21.4014796143934,Timis,Vale,6314,,Ogașul Neamțului,PDT,Limba română
+V. Niamtzului,neamț,4,45.9258109454775,21.794729284756,Timis,Vale,12330,12329,V. Niamtzului,Ungară 1869,Limba română
+Valea Neamțului,neamț,4,45.9068663473473,21.0214354655172,Timis,Vale,10003,,Valea Neamțului,PDT,Limba română
+Pârâu Padina Nemței,nemței,4,45.7151589692731,22.4223867899258,Timis,Vale,10306,,Pârâu Padina Nemței,Geomil 25000,Limba română
+Nemți,nemți,3,45.7118947333333,21.4165774760122,Timis,Altele,5676,,Nemți,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,44.9395321595715,28.307785161165,Tulcea,Vale,11589,,Valea Neamțului,Geomil 25000,Limba română
+Piscul Neamțului,neamț,4,45.1442258049466,24.4260821218992,Valcea,Înălțime,1446,,Piscul Neamțului,Geomil 25000,Limba română
+Muchia Sasului,sas,4,45.4864432983574,24.3624591045669,Valcea,Înălțime,11380,,Muchia Sasului,ANCPI,Limba română
+Valea Sasu Mare,sas,4,44.6813793655599,24.0786470285315,Valcea,Vale,2951,,Valea Sasu Mare,Geomil 25000,Limba română
+Valea Sasu Mic,sas,4,44.6781474670825,24.0767951039839,Valcea,Vale,2952,2951,Valea Sasu Mic,Geomil 25000,Limba română
+Valea Sasului,sas,4,44.7842884764853,23.8709149048909,Valcea,Vale,8423,9386,Valea Sasului,PDT,Limba română
+Sășcioara,săscioara,4,44.7978783856526,23.8686539689358,Valcea,Localitate,9386,,Sășcioara,Geomil 25000,Limba română,Sascioara,PDT,Limba română,Sâșcioara,Austriacă,Limba română
+Valea Săscioarei,săscioara,4,44.8097476477894,23.8674937146152,Valcea,Vale,9387,9386,Valea Săscioarei,PDT,Limba română,Pârâu Săscioara,Geomil 25000,Limba română
+Valea Sașilor,sași,3,45.3632253212971,24.380093267166,Valcea,Vale,1450,,Valea Sașilor,Geomil 25000,Limba română
+Coasta Neamțului,neamț,4,46.2392523681393,27.8307936433902,Vaslui,Înălțime,11435,,Coasta Neamțului,Geomil 25000,Limba română
+Valea Podul Neamțului,neamț,4,46.5770780304167,27.6390604820194,Vaslui,Vale,1673,,Valea Podul Neamțului,Geomil 25000,Limba română,Valea Podul Neamțului,PDT,Limba română
+La Momâia Neamțului,neamț,4,45.7583019184067,27.0148769366401,Vrancea,Înălțime,9236,,La Momâia Neamțului,PDT,Limba română
+Momâia Neamțului,neamț,4,45.572852342734,26.9211324676414,Vrancea,Înălțime,12996,,Momâia Neamțului,Geomil 25000,Limba română
+Pădurea Nemțeanca,nemțeanca,4,45.8074932219215,27.3596854955024,Vrancea,Pădure,9528,,Pădurea Nemțeanca,PDT,Limba română,Pădurea Nemțeanca,Geomil 25000,Limba română
+Sasu,sas,4,45.7096198723531,27.3302824564198,Vrancea,Localitate,9529,,Sasu,Moldova (1892-1898),Limba română

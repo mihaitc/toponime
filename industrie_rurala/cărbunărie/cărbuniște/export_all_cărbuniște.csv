@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Cărbuniște,cărbuniște,3,46.9773739844516,23.4867686343182,Cluj,Altele,8946,,Cărbuniște,PDT,Limba română
+Dealu Cărbuniștea,cărbuniște,3,47.0342899693373,23.5847562261248,Cluj,Deal,7042,,Dealu Cărbuniștea,Geomil 25000,Limba română
+Valea Cărbuniștea,cărbuniște,3,47.0347295212039,23.5905636057058,Cluj,Vale,7043,7042,Valea Cărbuniștea,Geomil 25000,Limba română
+Dealu carbuniste,cărbuniște,3,47.6116342597227,23.0741137733353,Satu Mare,Deal,10547,,Dealu carbuniste,Imperiul Habsburgic (1887),Limba română

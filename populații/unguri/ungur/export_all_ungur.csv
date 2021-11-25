@@ -1,0 +1,64 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Colțu Ungurului,ungur,3,46.488820663077,23.2900158970647,Alba,Înălțime,2584,,Colțu Ungurului,Geomil 25000,Limba română
+Pârâul Ungurului,ungur,3,46.3415985167911,23.3334379073093,Alba,Vale,13694,,Pârâul Ungurului,Imperiul Habsburgic (1887),Limba română
+Peatra Ungurului,ungur,3,46.508942212659,23.2919248429251,Alba,Înălțime,13714,2584,Peatra Ungurului,Imperiul Habsburgic (1887),Limba română
+Dâmbu Ungurului,ungur,3,46.3430069251652,22.5228033388039,Arad,Înălțime,5595,,Dâmbu Ungurului,Geomil 25000,Limba română,Dâmbul Ungurului,PDT,Limba română
+Valea Ungurului,ungur,3,46.1647876799899,22.1811691430505,Arad,Vale,969,,Valea Ungurului,Geomil 25000,Limba română
+Perii Ungurului,ungur,3,45.2145146636332,25.0742444884912,Arges,Altele,11124,,Perii Ungurului,PDT,Limba română
+Dealul Ungurului,ungur,3,46.7376333988434,27.1482718553867,Bacau,Deal,1607,,Dealul Ungurului,Geomil 25000,Limba română
+Dealul Ungurului,ungur,3,46.7121165855861,26.7359411020411,Bacau,Deal,2045,,Dealul Ungurului,Geomil 25000,Limba română,Dealul Ungurului,PDT,Limba română
+Dealul Ungurului,ungur,3,46.3366419133609,26.6858544778699,Bacau,Deal,4578,,Dealul Ungurului,Geomil 25000,Limba română
+Poiana Ungurului,ungur,3,46.6331616652181,26.6589088197135,Bacau,Poiană,3829,,Poiana Ungurului,Geomil 25000,Limba română
+Valea Ungurului,ungur,3,46.8948318367996,22.0615953415676,Bihor,Vale,1084,,Valea Ungurului,Geomil 25000,Limba română
+Ungurul,ungur,3,47.2476503727512,24.929539783475,Bistrita Nasaud,Vale,11103,,Ungurul,Geomil 25000,Limba română
+Ungurul,ungur,3,47.4695702618568,25.005545774309,Bistrita Nasaud,Vale,12892,,Ungurul,Geomil 25000,Limba română
+Valea Ungurului,ungur,3,47.8198019803606,26.7198502163857,Botosani,Vale,3568,,Valea Ungurului,PDT,Limba română
+Puțu Ungurului,ungur,3,45.1016677290108,27.5418916521123,Braila,Altele,12460,,Puțu Ungurului,PDT,Limba română
+Plaiul Ungurului,ungur,3,45.1868087196577,26.3899518406896,Buzau,Înălțime,6033,6032,Plaiul Ungurului,Geomil 25000,Limba română
+Valea Ungurului,ungur,3,45.1839092876902,26.3993251495611,Buzau,Vale,6032,,Valea Ungurului,Geomil 25000,Limba română
+Unguriu,unguriu,4,45.2791122845414,26.6176550262086,Buzau,Localitate,6021,,Unguriu,Geomil 25000,Limba română
+Ungurul Mare,ungur,3,44.2963858301205,27.7023702465297,Calarasi,Altele,3207,,Ungurul Mare,PDT,Limba română
+Ungurul Mare,ungur,3,44.2886178304604,27.6944860749816,Calarasi,Altele,3208,3207,Ungurul Mare,PDT,Limba română
+Dealu Ungurului,ungur,3,45.3300403615717,22.3188092863871,Caras Severin,Deal,1210,,Dealu Ungurului,Geomil 25000,Limba română
+Fața Ungurului,ungur,3,45.2567276369764,22.5036177440701,Caras Severin,Altele,851,,Fața Ungurului,Geomil 25000,Limba română
+Valea Ungurului,ungur,3,45.4473067981529,22.0902603670995,Caras Severin,Vale,9425,,Valea Ungurului,Geomil 25000,Limba română
+Dealu Ungurului,ungur,3,47.0739246575194,23.456623506178,Cluj,Deal,1104,,Dealu Ungurului,Geomil 25000,Limba română
+Pojana Ungurului,ungur,3,47.0780163423557,23.6736006499195,Cluj,Poiană,13313,,Pojana Ungurului,Transilvania (1869-1870),Limba română
+Valea Ungurului,ungur,3,47.0785865554272,23.4483735158378,Cluj,Vale,1103,1104,Valea Ungurului,Geomil 25000,Limba română
+Valle Ungur,ungur,3,46.6654697259422,23.4634077613301,Cluj,Vale,11936,,Valle Ungur,Transilvania (1769-1773),Limba română
+Vadul Ungurului,ungur,3,45.4677071549672,28.0473902092746,Galati,Altele,9602,,Vadul Ungurului,Moldova (1892-1898),Limba română
+Dealu Ungurului,ungur,3,45.7087991715616,23.0824220906951,Hunedoara,Deal,1124,,Dealu Ungurului,Geomil 25000,Limba română
+Moara Ungurului,ungur,3,45.6876180191687,22.8442153433368,Hunedoara,Altele,12316,,Moara Ungurului,Imperiul Habsburgic (1887),Limba română
+Valea Ungurului,ungur,3,45.630613208626,22.930430550845,Hunedoara,Vale,5547,,Valea Ungurului,Geomil 25000,Limba română
+Valea Ungurului,ungur,3,45.3570691865848,23.3156024223895,Hunedoara,Vale,12469,,Valea Ungurului,Geomil 25000,Limba română
+Vârfu Ungurului,ungur,3,46.1389910012814,23.0611694595673,Hunedoara,Înălțime,6246,,Vârfu Ungurului,Geomil 25000,Limba română
+Privalul Unguru,ungur,3,44.5426867513472,27.9680788032768,Ialomita,Apă-deal-câmpie,2836,,Privalul Unguru,Geomil 25000,Limba română
+Dealul Ungurului,ungur,3,46.884620175735,28.0174078862721,Iasi,Deal,1699,,Dealul Ungurului,Geomil 25000,Limba română,Dealu Unguru,PDT,Limba română
+Groapa Ungurului,ungur,3,47.3869685129326,26.8306073039373,Iasi,Altele,8923,,Groapa Ungurului,PDT,Limba română
+Iazul Ungurului,ungur,3,47.3289654820496,27.1609220810617,Iasi,Apă-deal-câmpie,9726,,Iazul Ungurului,Moldova (1892-1898),Limba română
+Valea Ungurului,ungur,3,47.7684745379,23.333915772,Maramures,Vale,5968,,Valea Ungurului,Geomil 25000,Limba română
+D. Unkurului,ungur,3,44.7179466885593,22.8064023452194,Mehedinti,Deal,8066,,D. Unkurului,Austriacă,Limba română
+Ungurul,ungur,3,46.9394086057624,25.147447743618,Mures,Vale,5400,,Ungurul,Geomil 25000,Limba română
+Valea Ungurului,ungur,3,46.8084772193489,24.4840056299332,Mures,Localitate,5467,,Valea Ungurului,Geomil 25000,Limba română
+Arșița Ungurului,ungur,3,47.2374955063283,25.8903801749547,Neamt,Altele,2064,2065,Arșița Ungurului,Geomil 25000,Limba română
+Dealul Fântâna Ungurului,ungur,3,46.9265560079572,27.1519707221369,Neamt,Deal,9820,,Dealul Fântâna Ungurului,Geomil 25000,Limba română
+Pârâul Ungurul de Jos,ungur,3,47.2320396629718,25.8840828919009,Neamt,Vale,2066,2065,Pârâul Ungurul de Jos,Geomil 25000,Limba română
+Pârâul Ungurul de Sus,ungur,3,47.2395977575008,25.8895033704527,Neamt,Vale,2067,2065,Pârâul Ungurul de Sus,Geomil 25000,Limba română
+Plaiul Ungurului,ungur,3,47.234207898865,25.8794333312269,Neamt,Înălțime,2065,,Plaiul Ungurului,Geomil 25000,Limba română
+Valea Ungurului,ungur,3,47.0893842535311,22.5641213303872,Salaj,Vale,1070,,Valea Ungurului,Geomil 25000,Limba română
+Valea Ungurului,ungur,3,47.0144717674816,23.0304047106691,Salaj,Vale,7530,,Valea Ungurului,PDT,Limba română
+Valea Ungurului,ungur,3,47.1406289304828,23.3926767661644,Salaj,Vale,9000,,Valea Ungurului,PDT,Limba română
+Valea Ungurului,ungur,3,47.2259133280251,23.0803163064711,Salaj,Vale,10383,,Valea Ungurului,Geomil 25000,Limba română
+Dealu Drumu Ungurului,ungur,3,47.6059033946607,23.0666609376664,Satu Mare,Deal,4416,8704,Dealu Drumu Ungurului,Geomil 25000,Limba română
+Dealul Ungurului,ungur,3,47.5937188932966,23.0822870524969,Satu Mare,Deal,8704,,Dealul Ungurului,PDT,Limba română
+Drumul Ungurului,ungur,3,47.6398844701201,23.1064756657683,Satu Mare,Drum,8223,,Drumul Ungurului,PDT,Limba română
+Fântâna Ungurului,ungur,3,47.5889482049067,23.0923349803836,Satu Mare,Altele,8703,8704,Fântâna Ungurului,PDT,Limba română
+Valea Ungurului,ungur,3,47.5300235943749,22.9659084253606,Satu Mare,Vale,4412,,Valea Ungurului,Geomil 25000,Limba română
+Pârâul Ungurului,ungur,3,45.6343409427939,23.6509868434462,Sibiu,Vale,12854,,Pârâul Ungurului,Geomil 25000,Limba română
+Căpățâna Ungurului,ungur,3,45.8729796314677,22.3618712849876,Timis,Înălțime,6213,,Căpățâna Ungurului,PDT,Limba română
+Dealu Ungurului,ungur,3,45.9132833408191,22.3548223687533,Timis,Deal,879,,Dealu Ungurului,Geomil 25000,Limba română
+Dealul Lacul Ungurului,ungur,3,46.2332584991188,27.5190622872849,Vaslui,Deal,1708,,Dealul Lacul Ungurului,Geomil 25000,Limba română
+Dealul Ungurului,ungur,3,46.2384394211331,27.5170402106937,Vaslui,Deal,1707,1708,Dealul Ungurului,Geomil 25000,Limba română
+Fântâna Ungurului,ungur,3,46.8085206424516,27.3134468501842,Vaslui,Altele,11100,,Fântâna Ungurului,Moldova (1892-1898),Limba română
+Cotul Ungurului,ungur,3,46.0908507864054,27.228490775237,Vrancea,Apă-deal-câmpie,1729,,Cotul Ungurului,Geomil 25000,Limba română,Cotul Ungurului,PDT,Limba română
+Valea Ungurului,ungur,3,46.0321946678911,26.773055383173,Vrancea,Vale,9200,,Valea Ungurului,PDT,Limba română,Ungurul,Geomil 25000,Limba română

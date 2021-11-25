@@ -1,0 +1,35 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealu Moldoveni,moldoveni,2,46.2877515063536,21.7173864364561,Arad,Deal,960,,Dealu Moldoveni,Geomil 25000,Limba română
+Moldoveanu,moldovean,3,45.6004961993206,24.7353287854847,Arges,Înălțime,5013,,Moldoveanu,Geomil 25000,Limba română
+Valea Moldoveanu,moldovean,3,45.0045104262212,24.6072243629283,Arges,Vale,3077,,Valea Moldoveanu,Geomil 25000,Limba română
+Valea Moldoveanului,moldovean,3,45.2571322078084,25.009714328637,Arges,Vale,5062,,Valea Moldoveanului,Geomil 25000,Limba română
+Moldoveni,moldoveni,2,46.6459736864417,26.9837534227012,Bacau,Localitate,3901,,Moldoveni,PDT,Limba română
+Valea Moldovanului,moldovan,4,46.7342976027319,22.6866147878029,Bihor,Vale,5913,,Valea Moldovanului,Geomil 25000,Limba română
+Pădurea Moldovana,moldovana,4,47.1540128127771,24.4222836945019,Bistrita Nasaud,Pădure,7074,,Pădurea Moldovana,Geomil 25000,Limba română
+Prislopul Moldoveanului,moldovean,3,47.2361855471635,24.9069327364789,Bistrita Nasaud,Înălțime,11104,,Prislopul Moldoveanului,Geomil 25000,Limba română
+Valea Moldovenilor,moldoveni,2,46.8036357357551,24.2088829279323,Bistrita Nasaud,Vale,5494,,Valea Moldovenilor,Geomil 25000,Limba română
+Pădurea Ruptura Moldoveanului,moldovean,3,44.9170419265787,27.9474078339301,Braila,Pădure,3481,3197,Pădurea Ruptura Moldoveanului,PDT,Limba română
+Privalul Moldoveanca,moldoveancă,3,44.9184941634625,27.9571119559297,Braila,Apă-deal-câmpie,3197,,Privalul Moldoveanca,Geomil 25000,Limba română
+Lacul Moldoveanu,moldovean,3,45.5582639416848,26.6774296640923,Buzau,Lac,13297,,Lacul Moldoveanu,Geomil 25000,Limba română
+Pârâul Moldoveanu,moldovean,3,45.5643554805499,26.6966771192366,Buzau,Vale,13296,13297,Pârâul Moldoveanu,Geomil 25000,Limba română
+Dealul Moldovencei,moldoveancă,3,43.8162481109511,23.9359451890103,Dolj,Deal,11606,,Dealul Moldovencei,Geomil 25000,Limba română
+Moldoveanul,moldovean,3,46.9283774042943,25.292022442151,Harghita,Vale,5411,,Moldoveanul,Geomil 25000,Limba română
+Movila Moldoveanu,moldovean,3,44.5309135424014,27.8585293336747,Ialomita,Înălțime,3445,,Movila Moldoveanu,PDT,Limba română
+Moldoveni,moldoveni,2,44.7151410522081,26.517481373562,Ialomita,Localitate,3428,,Moldoveni,Geomil 25000,Limba română
+Dobrovățul-moldoveni,moldoveni,2,46.9772298069907,27.720196261826,Iasi,Localitate,8872,,Dobrovățul-moldoveni,PDT,Limba română
+Dealul Moldovencei,moldoveancă,3,47.104681646388,24.9399205831718,Mures,Înălțime,10019,,Dealul Moldovencei,Geomil 25000,Limba română,Dealul Moldovanca,PDT,Limba română
+Poiana Moldovanca,moldoveancă,3,47.1063951144865,24.9433769911135,Mures,Poiană,10020,10019,Poiana Moldovanca,PDT,Limba română
+Puțul Moldoveanului,moldovean,3,44.2508873130658,24.5077055150627,Olt,Altele,8117,,Puțul Moldoveanului,PDT,Limba română
+Moldoveanul,moldovean,3,45.127751175429,26.3070635143449,Prahova,Localitate,12453,,Moldoveanul,PDT,Limba română
+Valea Moldovencei,moldoveancă,3,45.2640540661037,25.6123092655946,Prahova,Vale,7472,,Valea Moldovencei,PDT,Limba română
+Poiana Moldoveanului,moldovean,3,47.3049938938546,26.2647692638178,Suceava,Poiană,2254,,Poiana Moldoveanului,Geomil 25000,Limba română,Poiana Moldoveanu,PDT,Limba română
+Pădurea Moldovenească,moldovenesc,3,47.8110325792736,26.2225816070072,Suceava,Pădure,2305,,Pădurea Moldovenească,Geomil 25000,Limba română
+Moldoveni,moldoveni,2,44.121234650856,24.922182266948,Teleorman,Localitate,3637,,Moldoveni,Austriacă,Limba română
+Moldoveni,moldoveni,2,43.7778784098284,24.7273742615116,Teleorman,Localitate,5786,,Moldoveni,Geomil 25000,Limba română,Moldoveni,Austriacă,Limba română
+Valea Moldoveanca,moldoveni,2,43.8932874915512,24.9285196571387,Teleorman,Vale,316,,Valea Moldoveanca,Geomil 25000,Limba română
+Valea Moldoveanului,moldovean,3,44.9436782666085,28.5453387957681,Tulcea,Vale,9297,,Valea Moldoveanului,Geomil 25000,Limba română
+Chircești-Moldoveni,moldoveni,2,46.8533409614513,27.8518899519703,Vaslui,Localitate,6577,,Chircești-Moldoveni,PDT,Limba română
+Moldoveni,moldoveni,2,46.5479199058237,27.5650218053189,Vaslui,Localitate,8859,,Moldoveni,PDT,Limba română
+Morile-Moldoveni,moldoveni,2,46.5054490598206,27.5886978065774,Vaslui,Localitate,8861,,Morile-Moldoveni,PDT,Limba română
+Valea Moldovenilor,moldoveni,2,46.1699191596707,27.5071556785461,Vaslui,Vale,725,,Valea Moldovenilor,Geomil 25000,Limba română
+Cotu moldovenesc,moldovenesc,3,45.6013061459029,27.4260636370309,Vrancea,Apă-deal-câmpie,9607,,Cotu moldovenesc,Moldova (1892-1898),Limba română

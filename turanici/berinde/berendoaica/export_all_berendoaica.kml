@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Pădurea Berendoaica</name><description>Nume: Pădurea Berendoaica, Tip: berendoaica, Nivel: 3, Județ: Olt, Formă: Pădure, ID: 9482, ID Părinte: 7748 <br /><b>Variante</b><br />Nume: Pădurea Berendoaica, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.538486,44.108887,0</coordinates></Point></Placemark>
+<Placemark><LineString id="9482_7748"><tessellate>1</tessellate><coordinates>24.538486,44.108887,0.
+24.562740,44.108152,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Scheea</name><description>Nume: Scheea, Tip: scheea, Nivel: 2, Județ: Iasi, Formă: Altele, ID: 8879, ID Părinte: 7793 <br /><b>Variante</b><br />Nume: Scheea, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.887386,47.156619,0</coordinates></Point></Placemark>
+<Placemark><LineString id="8879_7793"><tessellate>1</tessellate><coordinates>26.887386,47.156619,0.
+26.881954,47.116207,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

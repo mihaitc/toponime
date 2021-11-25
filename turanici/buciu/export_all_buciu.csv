@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealu Buciului,buciu,2,44.3199893418299,24.8973751455919,Teleorman,Deal,10981,,Dealu Buciului,Geomil 25000,Limba română
+Fântâna Buciului,buciu,2,44.3282068305378,24.9016077810366,Teleorman,Altele,10984,10981,Fântâna Buciului,PDT,Limba română

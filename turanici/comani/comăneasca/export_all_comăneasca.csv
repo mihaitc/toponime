@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Comăneasca,comăneasca,3,45.2253361945689,27.6998829843031,Braila,Localitate,3607,,Comăneasca,PDT,Limba română,Comăneasca,Geomil 25000,Limba română,Komoneaska,Austriacă,Limba română
+Tîrle Komoneaska,comăneasca,3,45.2196954619071,27.6965007795914,Braila,Localitate,3608,3607,Tîrle Komoneaska,Austriacă,Limba română

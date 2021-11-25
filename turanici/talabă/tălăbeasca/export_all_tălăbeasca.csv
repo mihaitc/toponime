@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Balta Tălăbasca,tălăbeasca,3,45.5654200631461,27.6178361247768,Galati,Apă-deal-câmpie,3527,3528,Balta Tălăbasca,PDT,Limba română,Lacul Tălăbasca,Geomil 25000,Limba română
+Movila Tălăbasca,tălăbeasca,3,45.562425868939,27.6229838807693,Galati,Înălțime,3529,3528,Movila Tălăbasca,PDT,Limba română
+Tălăbasca,tălăbeasca,3,45.5566731793136,27.609320302532,Galati,Altele,3528,,Tălăbasca,PDT,Limba română

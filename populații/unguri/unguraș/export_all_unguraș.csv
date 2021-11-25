@@ -1,0 +1,20 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Ungurașului,unguraș,3,46.2701151641726,26.8854308599668,Bacau,Deal,7836,,Dealul Ungurașului,Geomil 25000,Limba română
+Poiana Ungurașului,unguraș,3,46.2670583250091,26.8856225844877,Bacau,Poiană,9524,7836,Poiana Ungurașului,Moldova (1892-1898),Limba română
+Unguraș,unguraș,3,47.1124958994019,24.0496988204956,Cluj,Localitate,5854,5855,Unguraș,Geomil 25000,Limba română
+Ungurașul,unguraș,3,47.103729177116,24.0914934429944,Cluj,Înălțime,5855,,Ungurașul,Geomil 25000,Limba română
+Valea Ungurașului,unguraș,3,47.0771718305213,24.1138589799329,Cluj,Vale,5857,5854,Valea Ungurașului,Geomil 25000,Limba română
+Valea Ungurașului,unguraș,3,47.0876099848698,24.0864274861608,Cluj,Vale,5858,5854,Valea Ungurașului,Geomil 25000,Limba română
+Unguraș,unguraș,3,47.6288158865429,23.6756897035616,Maramures,Localitate,7207,,Unguraș,Geomil 25000,Limba română
+Valea Ungurașului,unguraș,3,47.4338508806965,23.9186487922012,Maramures,Vale,4442,,Valea Ungurașului,Geomil 25000,Limba română
+Ungurașul,unguraș,3,46.9815711338239,25.1207914689981,Mures,Vale,7325,,Ungurașul,Geomil 25000,Limba română
+Ungurașul Mare,unguraș,3,46.9888924388014,25.1299046509613,Mures,Vale,7326,7325,Ungurașul Mare,Geomil 25000,Limba română
+Ungurașul Mic,unguraș,3,46.9859635180067,25.1341706743287,Mures,Vale,7327,7325,Ungurașul Mic,Geomil 25000,Limba română
+Dealul Ungurașului,unguraș,3,46.9548319240096,26.598999633288,Neamt,Deal,11963,,Dealul Ungurașului,Moldova (1892-1898),Limba română
+La Unguraș,unguraș,3,46.9653358578824,26.7418896142508,Neamt,Altele,3897,,La Unguraș,PDT,Limba română
+Pădurea Unguraș,unguraș,3,46.9636066809874,26.7445740470848,Neamt,Pădure,3898,3897,Pădurea Unguraș,PDT,Limba română
+Unguraș,unguraș,3,47.1125038148649,23.1894205793084,Salaj,Localitate,10423,,Unguraș,PDT,Limba română,Magyar-Egregy,Transilvania (1869-1870),Limba maghiară
+Dealul Ungurașului,unguraș,3,47.4869323334096,22.8863570044507,Satu Mare,Deal,8210,,Dealul Ungurașului,PDT,Limba română
+Valea Ungurașului,unguraș,3,47.4911539448735,22.9012486352677,Satu Mare,Vale,8211,8210,Valea Ungurașului,PDT,Limba română
+Dealul Ungurașului,unguraș,3,46.0381757087098,26.6568401784383,Vrancea,Deal,9211,,Dealul Ungurașului,Geomil 25000,Limba română
+Plaiul Ungurașului,unguraș,3,46.0347291607343,26.6121664825218,Vrancea,Altele,694,9211,Plaiul Ungurașului,Geomil 25000,Limba română

@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Țigănii,țigana,3,45.220560823291,21.6448009894408,Caras Severin,Vale,7605,,Valea Țigănii,PDT,Limba română,Valea Țigănii,Geomil 25000,Limba română
+Dealu Țigana,țigana,3,47.4646023254802,23.1399449303971,Maramures,Deal,4406,,Dealu Țigana,Geomil 25000,Limba română
+Pădurea Țigana,țigana,3,47.4780234496876,23.1258761827387,Maramures,Pădure,4407,4406,Pădurea Țigana,Geomil 25000,Limba română
+Valea Țigana,țigana,3,45.5175863693666,23.9841728851479,Valcea,Vale,12856,,Valea Țigana,Geomil 25000,Limba română

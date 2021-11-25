@@ -1,0 +1,11 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Scheiul,schei,2,45.1063700481511,24.5309159735697,Arges,Localitate,12579,,Scheiul,British Maps (1944),Limba română
+Piua din Schei,schei,2,45.5988382007004,25.6520636648428,Brasov,Altele,6843,,Piua din Schei,PDT,Limba română
+Piua din Schei,schei,2,45.6091196420484,25.6530020856905,Brasov,Altele,6844,6843,Piua din Schei,PDT,Limba română
+Dealul Schei,schei,2,44.9469340416448,25.1782988180467,Dambovita,Deal,10167,528,Dealul Schei,PDT,Limba română
+Valea Schei,schei,2,45.0682771072189,25.2811665234578,Dambovita,Vale,8371,,Valea Schei,PDT,Limba română
+Valea Scheiul,schei,2,44.8295238216568,23.6390789024313,Gorj,Vale,13949,,Valea Scheiul,PDT,Limba română
+Șaua Scheiului,schei,2,45.3049031091479,22.5989653205462,Hunedoara,Înălțime,10330,,Șaua Scheiului,Geomil 25000,Limba română
+Schei,schei,2,45.5790276608726,22.7396676901132,Hunedoara,Localitate,10801,,Schei,Imperiul Habsburgic (1887),Limba română,Skei,Transilvania (1869-1870),Limba română
+La Șesul Schei,schei,2,46.772211493616,27.0147805199112,Neamt,Câmp,9630,9631,La Șesul Schei,Moldova (1892-1898),Limba română
+Cotul Schei,schei,2,46.5264912873684,28.2265038936867,Vaslui,Apă-deal-câmpie,6563,1690,Cotul Schei,Geomil 25000,Limba română,Cotul Schea,PDT,Limba română

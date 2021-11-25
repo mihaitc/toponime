@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Căținul Repejoara,repejoara,3,44.9921033317641,28.0155720874128,Braila,Apă-deal-câmpie,6712,6713,Căținul Repejoara,PDT,Limba română
+Grindul Repejoarei,repejoara,3,44.9961742105883,28.0304395742322,Braila,Înălțime,6713,,Grindul Repejoarei,PDT,Limba română
+Privalul Repejoarei,repejoara,3,44.9979237188622,28.0401641089033,Braila,Apă-deal-câmpie,6714,6713,Privalul Repejoarei,PDT,Limba română
+Pârâul Repejoara,repejoara,3,45.9942049176538,26.9375089352206,Vrancea,Vale,5278,,Pârâul Repejoara,Geomil 25000,Limba română

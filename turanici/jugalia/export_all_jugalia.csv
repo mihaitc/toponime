@@ -1,0 +1,9 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Jegălia,jegălia,3,44.2944577018258,27.6371757641645,Calarasi,Localitate,12488,12487,Jegălia,Geomil 25000,Limba română
+Valea Jegălia,jegălia,3,44.3143625530615,27.619115691996,Calarasi,Vale,12487,,Valea Jegălia,Geomil 25000,Limba română
+Dealu Jugălia,jugalia,2,44.329178729182,24.2969172209382,Olt,Deal,1291,,Dealu Jugălia,Geomil 25000,Limba română
+Valea Jugalia,jugalia,2,44.3781897657989,24.2320062007253,Olt,Vale,297,,Valea Jugalia,Geomil 25000,Limba română
+Valea Jugălia Mare,jugalia,2,44.2114659326703,24.5126569355704,Olt,Vale,5805,,Valea Jugălia Mare,Geomil 25000,Limba română,Jugalia mare,Austriacă,Limba română
+Valea Jugălia Mică,jugalia,2,44.2276412840403,24.5053112557865,Olt,Vale,5806,5805,Valea Jugălia Mică,Geomil 25000,Limba română,Jugalia mik,Austriacă,Limba română
+Jigălia,jugalia,2,46.3107763494973,27.9218139572562,Vaslui,Localitate,717,2178,Jigălia,Geomil 25000,Limba română,Jâgălia,Moldova (1892-1898),Limba română
+Valea Jigălia,jugalia,2,46.3016755083526,27.9538427964171,Vaslui,Vale,2178,,Valea Jigălia,Geomil 25000,Limba română,Valea Jegăliei,PDT,Limba română

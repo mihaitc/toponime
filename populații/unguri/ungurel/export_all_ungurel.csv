@@ -1,0 +1,8 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Ungiurelului,ungurel,3,47.3061418580953,24.3697562399013,Bistrita Nasaud,Deal,10588,,Dealul Ungiurelului,Imperiul Habsburgic (1887),Limba română
+Pârâul Ungurelașu,ungurel,3,45.3093891544888,23.773516464018,Gorj,Vale,2922,2923,Pârâul Ungurelașu,Geomil 25000,Limba română
+Pârâul Ungurelu,ungurel,3,45.3059275600282,23.7588754486219,Gorj,Vale,2923,,Pârâul Ungurelu,Geomil 25000,Limba română
+Ungurelu,ungurel,3,44.9580633405117,23.5497844753922,Gorj,Localitate,5095,,Ungurelu,Austriacă,Limba română,Ungurelul,PDT,Limba română
+Ungurelu-de-Jos,ungurel,3,44.9800104861443,23.5680543983619,Gorj,Localitate,5841,,Ungurelu-de-Jos,Austriacă,Limba română
+Ungurelu-de-Sus,ungurel,3,44.9974374822509,23.6217916373635,Gorj,Localitate,5839,5841,Ungurelu-de-Sus,Austriacă,Limba română
+Valea Ungurelul,ungurel,3,44.973121111737,23.5551518405373,Gorj,Vale,8398,5095,Valea Ungurelul,PDT,Limba română

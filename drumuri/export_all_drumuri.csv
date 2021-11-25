@@ -1,0 +1,732 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Drumul la Cluju,drumuri,1,46.4819675410671,23.1045735136091,Alba,Drum,13701,,Drumul la Cluju,Imperiul Habsburgic (1887),Limba română
+Drumul Lupului,drumuri,1,46.1882192375577,23.8848554274708,Alba,Drum,8643,,Drumul Lupului,PDT,Limba română
+Drumul Sibiului,drumuri,1,46.2896880409166,23.9647210240111,Alba,Drum,8146,,Drumul Sibiului,PDT,Limba română
+Între Drumuri,drumuri,1,45.925211440213,23.3123673043969,Alba,Altele,1145,,Între Drumuri,Geomil 25000,Limba română
+La Drumulu Șardului,drumuri,1,46.1062725361349,23.5628766192249,Alba,Drum,6750,,La Drumulu Șardului,PDT,Limba română
+La Podul Drumului,drumuri,1,46.3287637905685,24.0557674095843,Alba,Drum,6756,,La Podul Drumului,Geomil 25000,Limba română
+Sub Drum,drumuri,1,46.4422470264192,23.546170158497,Alba,Drum,7065,,Sub Drum,Geomil 25000,Limba română
+Calea lui Traian,Drumul lui Traian,2,46.3864297610776,21.9879979821945,Arad,Drum,6285,,Calea lui Traian,PDT,Limba română
+Drumu lui Traian,Drumul lui Traian,2,46.408289519035,22.0036977023035,Arad,Drum,6284,,Drumu lui Traian,Geomil 25000,Limba română
+Drumul lui Traian,Drumul lui Traian,2,46.4511471700995,21.8376002863116,Arad,Drum,7597,,Drumul lui Traian,PDT,Limba română
+Fântâna La Drumu Mare,drumul Mare,2,46.2903010565978,21.7678444728453,Arad,Altele,6296,,Fântâna La Drumu Mare,Geomil 25000,Limba română
+Dealu Drumu Romei,drumuri,1,46.3704776705341,22.2180890491847,Arad,Deal,1944,,Dealu Drumu Romei,Geomil 25000,Limba română
+Dealul drumu Romei (la Romești),drumuri,1,46.3684187832962,22.2170778930757,Arad,Deal,4204,,Dealul drumu Romei (la Romești),PDT,Limba română
+Drumu Alb,drumuri,1,46.2865220164417,21.6631116956062,Arad,,3311,,Drumu Alb,Geomil 25000,Limba română,Drumul Alb,PDT,Limba română
+Drumu Aradului,drumuri,1,46.0442917313325,20.9810466172107,Arad,Drum,1954,,Drumu Aradului,Geomil 25000,Limba română
+Drumu Aradului,drumuri,1,46.0290315098674,21.2368889721866,Arad,Drum,7634,,Drumu Aradului,Geomil 25000,Limba română
+Drumu Aradului,drumuri,1,46.0807934145434,21.4236210582837,Arad,Drum,14250,,Drumu Aradului,Geomil 25000,Limba română
+Drumu Bochid,drumuri,1,46.5633399064396,21.9858531705684,Arad,Drum,6991,,Drumu Bochid,Geomil 25000,Limba română
+Drumu Coroiului,drumuri,1,46.5845454004786,21.9165423146095,Arad,Drum,11974,,Drumu Coroiului,Geomil 25000,Limba română
+Drumu Dorobanțului,drumuri,1,46.3666266026954,21.2582528398002,Arad,Drum,11680,,Drumu Dorobanțului,Geomil 25000,Limba română
+Drumu Lung,drumuri,1,46.3597391380556,21.2141376357879,Arad,Drum,11681,,Drumu Lung,Geomil 25000,Limba română
+Drumu Morii,drumuri,1,46.1147770158302,20.9796554968395,Arad,Drum,1955,,Drumu Morii,Geomil 25000,Limba română
+Drumu Morii,drumuri,1,46.0792456317172,20.9515878627969,Arad,Drum,1956,,Drumu Morii,Geomil 25000,Limba română
+Drumu Morii,drumuri,1,46.086245981271,20.9528017491065,Arad,Drum,1957,,Drumu Morii,Geomil 25000,Limba română
+Drumu Pietrar,drumuri,1,46.0275003314286,21.9900177165435,Arad,Drum,10234,,Drumu Pietrar,Geomil 25000,Limba română
+Drumu Sâniteu,drumuri,1,46.4857963773999,21.8358924139108,Arad,Drum,7594,,Drumu Sâniteu,Geomil 25000,Limba română
+Drumu Teodorului,drumuri,1,46.5665747463497,21.89006736328,Arad,,4107,,Drumu Teodorului,Geomil 25000,Limba română
+Drumu Topilei,drumuri,1,46.3852781182636,21.3293995238507,Arad,Drum,11678,,Drumu Topilei,Geomil 25000,Limba română
+Drumu Vidicanilor,drumuri,1,46.6293036999266,22.0046599775357,Arad,Drum,6990,,Drumu Vidicanilor,Geomil 25000,Limba română
+Drumu Vingii,drumuri,1,46.0283325544369,21.350744291225,Arad,Înălțime,14251,,Drumu Vingii,Geomil 25000,Limba română
+Drumu Vingii,drumuri,1,46.0346588066491,21.4351036467992,Arad,Drum,14252,,Drumu Vingii,Geomil 25000,Limba română
+Drumul Cioloșului,drumuri,1,46.4519944438841,21.8502788803403,Arad,Drum,7595,,Drumul Cioloșului,PDT,Limba română
+Drumul Feldioarei,drumuri,1,46.279126654457,21.5675862205802,Arad,Drum,5635,,Drumul Feldioarei,PDT,Limba română
+Drumul Glimeiului,drumuri,1,46.4585116328586,22.1408167944192,Arad,Drum,7660,,Drumul Glimeiului,PDT,Limba română,Drumu Glimeiului,Geomil 25000,Limba română
+Drumul Morilor,drumuri,1,46.1046170538741,21.1837152616736,Arad,Drum,5642,,Drumul Morilor,PDT,Limba română,Drumu Morii,Geomil 25000,Limba română
+Drumul Nucilor,drumuri,1,46.4508142435688,21.8426125616403,Arad,Drum,7596,,Drumul Nucilor,PDT,Limba română
+Drumul Țăranului,drumuri,1,46.5861819306954,21.8508892601652,Arad,Drum,8043,,Drumul Țăranului,PDT,Limba română
+Dealu Drumu Mare,drumul Mare,2,44.8437557346159,24.795208876832,Arges,Deal,3065,,Dealu Drumu Mare,Geomil 25000,Limba română
+Dealul Drumul mare,drumul Mare,2,44.5233806622412,24.804245734811,Arges,Deal,8333,,Dealul Drumul mare,PDT,Limba română
+Drumu Mare,drumul Mare,2,44.9049214466863,24.9825511038362,Arges,Drum,549,,Drumu Mare,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,44.9335555431546,24.9936404972,Arges,Drum,551,,Drumu Mare,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,44.5666914615677,24.8317218134658,Arges,Drum,3392,,Drumu Mare,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,44.4506215200024,24.9200797429116,Arges,Drum,3396,,Drumu Mare,Geomil 25000,Limba română
+Drumu mare,drumul Mare,2,44.5947873418703,25.0841759738083,Arges,Drum,8308,,Drumu mare,Austriacă,Limba română
+Drumul Mare,drumul Mare,2,44.912442719482,25.0123175197172,Arges,Drum,8359,,Drumul Mare,PDT,Limba română
+Drumul Oiei,Drumul Oii,2,44.8222252565916,24.8552982973032,Arges,Drum,9356,,Drumul Oiei,PDT,Limba română,Drumu Oii,Geomil 25000,Limba română
+Drumul Sărei,drumul Sării,2,44.5901102379127,25.222878695399,Arges,Drum,11063,,Drumul Sărei,PDT,Limba română
+Dealul cu Drumul Bogaților,drumuri,1,45.0147097124087,25.1774780854496,Arges,Deal,1512,11175,Dealul cu Drumul Bogaților,Geomil 25000,Limba română
+Dealul Drumul Olarului,drumuri,1,45.0268543262052,24.6108460215264,Arges,Deal,1419,,Dealul Drumul Olarului,Geomil 25000,Limba română
+Drumu Bucureștiului,drumuri,1,44.5567751820247,24.7513976471015,Arges,Drum,8336,,Drumu Bucureștiului,PDT,Limba română
+Drumu Giurgiu,drumuri,1,44.6489727962343,25.142399816864,Arges,Drum,10118,,Drumu Giurgiu,Austriacă,Limba română
+Drumu Morii,drumuri,1,44.9788038979643,24.7279712837399,Arges,Drum,12557,,Drumu Morii,Geomil 25000,Limba română
+Drumu Udrescu,drumuri,1,44.8225563671604,24.4455703811931,Arges,Drum,12912,,Drumu Udrescu,Geomil 25000,Limba română
+Drumu Vacilor,drumuri,1,44.4634365417108,24.9549545091596,Arges,Drum,11062,,Drumu Vacilor,Geomil 25000,Limba română
+Drumul Bărbăteștilor,drumuri,1,45.1909327587541,24.7088122156437,Arges,Drum,1426,,Drumul Bărbăteștilor,Geomil 25000,Limba română
+Drumul Bogaților,drumuri,1,45.0204017527476,25.175422790123,Arges,Drum,11175,,Drumul Bogaților,ANCPI,Limba română
+Drumul Bucureștilor,drumuri,1,44.5999198318495,24.9699434236539,Arges,Drum,8305,,Drumul Bucureștilor,PDT,Limba română
+Drumul Greci,drumuri,1,45.1064053515517,25.0669504014992,Arges,Drum,8449,,Drumul Greci,PDT,Limba română
+Drumul Isvan,drumuri,1,45.3057382863771,24.6300449702349,Arges,Drum,1433,,Drumul Isvan,Geomil 25000,Limba română
+Drumul Morii,drumuri,1,45.0278751037899,24.8890122928129,Arges,Drum,12277,,Drumul Morii,Geomil 25000,Limba română
+Drumul Nebunului,drumuri,1,44.5523076202753,25.2617958155436,Arges,Drum,3715,,Drumul Nebunului,PDT,Limba română
+Drumul Piteștilor,drumuri,1,44.6309491870493,24.9404860108303,Arges,Drum,14182,,Drumul Piteștilor,PDT,Limba română
+Drumul Rachiului,drumuri,1,44.6138064002748,24.9881767546596,Arges,Drum,10117,,Drumul Rachiului,PDT,Limba română
+Drumul Roghinei,drumuri,1,45.1810350634569,24.9131240230014,Arges,Drum,9804,,Drumul Roghinei,Geomil 25000,Limba română
+Drumul Sârbilor,drumuri,1,44.5993199582532,24.7213628630151,Arges,Drum,10994,,Drumul Sârbilor,PDT,Limba română
+Drumul Stei,drumuri,1,44.5722749265756,25.18742182144,Arges,Drum,11064,,Drumul Stei,PDT,Limba română
+Drumul Șurei de Jos,drumuri,1,45.3308883256575,24.534559805396,Arges,Drum,10201,,Drumul Șurei de Jos,Geomil 25000,Limba română
+Drumul Șurei de Sus,drumuri,1,45.3296649894557,24.5489079328744,Arges,Drum,10200,,Drumul Șurei de Sus,Geomil 25000,Limba română
+Drumul Târgului,drumuri,1,45.2096698867353,24.9841290824028,Arges,Drum,11569,,Drumul Târgului,Geomil 25000,Limba română
+Valea cu Drum,drumuri,1,45.1090870792722,24.8297992515971,Arges,Vale,6882,,Valea cu Drum,Geomil 25000,Limba română
+Valea Drumu Roșu,drumuri,1,44.6536494026215,24.7708051277532,Arges,Vale,3052,,Valea Drumu Roșu,Geomil 25000,Limba română
+Dealul Drumul Dealului,drumuri,1,46.2417914960969,27.0146408814123,Bacau,Deal,13598,,Dealul Drumul Dealului,Geomil 25000,Limba română
+Dealul Drumul moarei,drumuri,1,46.7131251090556,27.0749461666825,Bacau,Deal,9507,,Dealul Drumul moarei,PDT,Limba română
+Dealul Drumul Taslăului,drumuri,1,46.6076582389746,26.7141963206029,Bacau,Deal,3822,,Dealul Drumul Taslăului,PDT,Limba română
+Drumu Teptoiu,drumuri,1,46.5193432849465,27.0262964673577,Bacau,Drum,12247,,Drumu Teptoiu,PDT,Limba română
+Drumul Bolovanului,drumuri,1,46.5800212441139,26.6520740145292,Bacau,Drum,13864,,Drumul Bolovanului,Geomil 25000,Limba română
+Drumul Chiorului,drumuri,1,46.2179242241134,26.9870434692839,Bacau,Drum,10893,,Drumul Chiorului,Moldova (1892-1898),Limba română
+Drumul Colonești,drumuri,1,46.5563413236213,27.2655849862171,Bacau,Drum,12902,,Drumul Colonești,Geomil 25000,Limba română
+Drumul Lupăriei,drumuri,1,46.6363144769048,26.806267230636,Bacau,Drum,7871,7873,Drumul Lupăriei,Geomil 25000,Limba română
+Drumul Petricica,drumuri,1,46.397055942938,26.6004855773765,Bacau,Drum,7932,,Drumul Petricica,PDT,Limba română
+Drumul Pionierilor,drumuri,1,46.2751609194689,26.9340514920734,Bacau,Drum,13599,,Drumul Pionierilor,Geomil 25000,Limba română
+Drumul Poștei,drumuri,1,46.4728028075381,26.7813845426554,Bacau,Drum,3841,,Drumul Poștei,Geomil 25000,Limba română
+Drumul Schitului,drumuri,1,46.6111685689335,26.8235088295712,Bacau,Drum,7873,,Drumul Schitului,Geomil 25000,Limba română
+Drumul Tăeturii,drumuri,1,46.2320185666531,26.6252341362813,Bacau,Drum,12396,,Drumul Tăeturii,Moldova (1892-1898),Limba română
+Drumul Tozii,drumuri,1,46.4348561844101,27.1923236228664,Bacau,Drum,7850,,Drumul Tozii,Geomil 25000,Limba română
+Gura Drumului,drumuri,1,46.6630712714291,27.0895128471635,Bacau,Localitate,13643,,Gura Drumului,Moldova (1892-1898),Limba română
+La Drumul Vechi,drumuri,1,46.3682536118624,26.9946881199316,Bacau,Drum,7882,,La Drumul Vechi,PDT,Limba română
+Drumu Mare,drumul Mare,2,47.1943769605377,21.9808334068143,Bihor,Drum,7673,,Drumu Mare,PDT,Limba română
+Drumul cel Mare,drumul Mare,2,46.6575139492327,22.0474962669865,Bihor,Drum,4111,,Drumul cel Mare,PDT,Limba română
+Câmpu Drumu Țării,drumuri,1,47.1703216014089,21.9615424964345,Bihor,Drum,5950,,Câmpu Drumu Țării,Geomil 25000,Limba română,Câmpul Drumul-Țării,PDT,Limba română
+Dealul Drumul Cântărețului,drumuri,1,47.1062256944773,21.9123904887643,Bihor,Deal,7580,,Dealul Drumul Cântărețului,PDT,Limba română
+Drumu Bicaciului,drumuri,1,46.8516247040503,21.8005052171253,Bihor,Drum,5984,,Drumu Bicaciului,Geomil 25000,Limba română
+Drumu Cerătului,drumuri,1,46.6576845536832,22.0221437001896,Bihor,Drum,13926,,Drumu Cerătului,Geomil 25000,Limba română
+Drumu Ferenții,drumuri,1,47.3474203615983,21.9406854617552,Bihor,Drum,11870,,Drumu Ferenții,Geomil 25000,Limba română
+Drumu Inandului,drumuri,1,46.8473136109668,21.7885840632146,Bihor,Drum,5985,,Drumu Inandului,Geomil 25000,Limba română
+Drumu Maria,drumuri,1,47.1920667336378,21.8777940397157,Bihor,Drum,7584,,Drumu Maria,Geomil 25000,Limba română
+Drumul Arsurilor,drumuri,1,46.8537679655839,22.2201896483882,Bihor,Drum,4137,,Drumul Arsurilor,PDT,Limba română
+Drumul Coteațelor,drumuri,1,46.8020445093368,22.1520183970991,Bihor,Drum,10372,,Drumul Coteațelor,PDT,Limba română
+Drumul Culmii,drumuri,1,46.8075128030612,22.1580681267891,Bihor,Drum,10373,,Drumul Culmii,PDT,Limba română
+Drumul Morii,drumuri,1,47.0303265432163,22.2417003572859,Bihor,Drum,13722,,Drumul Morii,PDT,Limba română
+Drumul Poenii,drumuri,1,46.9712731317667,22.3991291974195,Bihor,Drum,10275,,Drumul Poenii,PDT,Limba română
+Drumul Poienii,drumuri,1,47.1322982895876,22.3055893689451,Bihor,Drum,4188,,Drumul Poienii,PDT,Limba română
+Drumul Șarcadului,drumuri,1,46.683345983278,21.440891515414,Bihor,Drum,11668,,Drumul Șarcadului,Geomil 25000,Limba română
+Drumul Tarniței,drumuri,1,46.8395866755207,22.0967851591193,Bihor,Drum,10375,,Drumul Tarniței,PDT,Limba română
+La Drumu Crucii,drumuri,1,46.8718958556447,21.7542481162648,Bihor,Drum,6979,,La Drumu Crucii,Geomil 25000,Limba română
+Pe Drumul Oilor,Drumul Oii,2,46.7841014435022,24.2682258057972,Bistrita Nasaud,Drum,11615,,Pe Drumul Oilor,Geomil 25000,Limba română
+Drumal la fânațe,drumuri,1,47.0675690715869,24.5294945358869,Bistrita Nasaud,Drum,10638,,Drumal la fânațe,Imperiul Habsburgic (1887),Limba română
+Drumul Romanilor,drumuri,1,47.2469690255196,24.9793452879422,Bistrita Nasaud,Drum,9909,,Drumul Romanilor,Geomil 25000,Limba română
+Drumul Romanilor,drumuri,1,47.2597211953158,25.0116436073149,Bistrita Nasaud,Drum,11101,,Drumul Romanilor,Geomil 25000,Limba română
+Drumul Romanilor,drumuri,1,47.2373216268771,24.940204297165,Bistrita Nasaud,Drum,11102,,Drumul Romanilor,Geomil 25000,Limba română,Drumul cel vechiu,Imperiul Habsburgic (1887),Limba română
+Drumul vireagului,drumuri,1,47.2444180065139,24.2860989572521,Bistrita Nasaud,Drum,10497,,Drumul vireagului,Transilvania (1869-1870),Limba română
+Drumu Corni,drumuri,1,47.6547832862741,26.631574530188,Botosani,Drum,14267,,Drumu Corni,Moldova (1892-1898),Limba română
+Drumu Furilor,drumuri,1,47.6413160970702,27.2051140643011,Botosani,Drum,4872,,Drumu Furilor,PDT,Limba română
+Drumu Vaciniței,drumuri,1,48.1856072013277,26.4407689095426,Botosani,Drum,9574,,Drumu Vaciniței,Moldova (1892-1898),Limba română
+Drumul Furilor,drumuri,1,47.6615184597434,27.1841612669724,Botosani,Drum,2430,,Drumul Furilor,Geomil 25000,Limba română
+Drumul Furului,drumuri,1,48.0651452245796,26.7050897301329,Botosani,Drum,2332,,Drumul Furului,Geomil 25000,Limba română
+Drumul lui Ștefan cel Mare,drumuri,1,47.6617188106222,26.5385596921472,Botosani,Drum,1835,,Drumul lui Ștefan cel Mare,Geomil 25000,Limba română
+Drumul lui Ștefan cel Mare,drumuri,1,47.5147158416831,26.609767742402,Botosani,Deal,14064,,Drumul lui Ștefan cel Mare,Geomil 25000,Limba română
+Drumul Rediului,drumuri,1,47.6817183843688,26.8564014650204,Botosani,Drum,2357,,Drumul Rediului,Geomil 25000,Limba română
+Drumul Rușilor,drumuri,1,47.524270736592,26.7563213246028,Botosani,Drum,1744,,Drumul Rușilor,Geomil 25000,Limba română
+Drumul Stupăriei,drumuri,1,47.9819275928489,26.1377353145839,Botosani,Drum,2306,,Drumul Stupăriei,Geomil 25000,Limba română
+Drumul Vechi,drumuri,1,47.7946160673874,27.2308804923733,Botosani,Drum,2392,,Drumul Vechi,Geomil 25000,Limba română
+Lanul la Drumul Furilor,drumuri,1,47.6915469606412,27.1292943678085,Botosani,Altele,2382,,Lanul la Drumul Furilor,Geomil 25000,Limba română
+Drumul Brăilei,Drumul Brăilei,2,44.8444073586501,27.7345935136599,Braila,Drum,12614,,Drumul Brăilei,PDT,Limba română
+Drumul Mare,drumul Mare,2,45.3349513348406,27.7609973840561,Braila,Drum,8716,,Drumul Mare,PDT,Limba română
+Drumul Mare,drumul Mare,2,45.2597257334643,27.8423644518893,Braila,Drum,12616,,Drumul Mare,PDT,Limba română
+Movila Drumul Oilor,Drumul Oii,2,44.9452336633703,27.3152511746461,Braila,Înălțime,6738,,Movila Drumul Oilor,PDT,Limba română
+Drumu Racoți,drumuri,1,45.0155159392056,27.8372782378134,Braila,Drum,9267,,Drumu Racoți,PDT,Limba română
+Drumul Gării,drumuri,1,44.8248900928111,27.259442028785,Braila,Drum,3185,,Drumul Gării,Geomil 25000,Limba română
+Drumul Jirlăului (Brăilei),drumuri,1,45.3510751262538,27.9416940124703,Braila,Drum,3497,,Drumul Jirlăului (Brăilei),PDT,Limba română,Drumul Jirlăului,Geomil 25000,Limba română
+Drumul Ochiul Boului,drumuri,1,45.3553261255435,27.9173456713264,Braila,Drum,3496,,Drumul Ochiul Boului,PDT,Limba română
+Drumul Șuțului,drumuri,1,45.2605727236582,27.7491435737897,Braila,Drum,489,,Drumul Șuțului,Geomil 25000,Limba română
+Drumul Țiganului,drumuri,1,44.8744851507838,27.5883269503527,Braila,Drum,12612,,Drumul Țiganului,Geomil 25000,Limba română
+Drumul Vacilor,drumuri,1,44.8296075239845,28.0470771365874,Braila,Drum,12664,,Drumul Vacilor,Geomil 25000,Limba română
+Șoseaua Veche,drumuri,1,44.8056566259933,27.3304144372037,Braila,Drum,3183,,Șoseaua Veche,Geomil 25000,Limba română
+Calea Brașov,drumuri,1,45.8007627917258,25.4873757870673,Brasov,Înălțime,2704,,Calea Brașov,Geomil 25000,Limba română
+Calea Șercaia,drumuri,1,45.8468339162713,25.1658806546231,Brasov,Drum,2689,,Calea Șercaia,Geomil 25000,Limba română
+Calea Vadului,drumuri,1,45.8394532533602,25.1745567588517,Brasov,Drum,2688,,Calea Vadului,Geomil 25000,Limba română
+Dealul Drumurile Ascuțite,drumuri,1,45.7233604293473,25.3848947067708,Brasov,Deal,6830,,Dealul Drumurile Ascuțite,PDT,Limba română
+Din Sus de Drumul Brașov,drumuri,1,45.691680489852,25.6325528530098,Brasov,Altele,8547,,Din Sus de Drumul Brașov,Geomil 25000,Limba română
+Drumul Carierei,drumuri,1,45.7288112215019,25.3902764195923,Brasov,Drum,13292,,Drumul Carierei,Geomil 25000,Limba română
+Drumul Carului,drumuri,1,45.4746778467009,25.2989515395669,Brasov,Localitate,5035,,Drumul Carului,Geomil 25000,Limba română
+Drumul Făgetului,drumuri,1,45.9076173082723,25.285828188042,Brasov,Drum,6803,,Drumul Făgetului,PDT,Limba română
+Drumul Galben,drumuri,1,45.6094187234864,25.6281868877915,Brasov,Drum,6846,,Drumul Galben,PDT,Limba română
+Drumul Muchia Șanțului,drumuri,1,45.5643385229154,25.7484544956957,Brasov,Drum,6852,6850,Drumul Muchia Șanțului,PDT,Limba română
+Drumul Muntelui,drumuri,1,45.5724342647933,25.6468909586837,Brasov,Drum,2778,,Drumul Muntelui,Geomil 25000,Limba română
+Drumul Sibiu,drumuri,1,45.965733563523,24.8791640207352,Brasov,Drum,2665,,Drumul Sibiu,Geomil 25000,Limba română
+Drumul Sibiu,drumuri,1,45.9633253452517,24.8552125863441,Brasov,Drum,2666,,Drumul Sibiu,Geomil 25000,Limba română
+Drumul Sibiu,drumuri,1,45.9747148199769,24.7850171106661,Brasov,Drum,11245,,Drumul Sibiu,Geomil 25000,Limba română
+Drumul Șirnei,drumuri,1,45.4580581652944,25.2763170373443,Brasov,Drum,12831,,Drumul Șirnei,Geomil 25000,Limba română
+Drumul Țării,drumuri,1,45.6247849638445,24.9061051310028,Brasov,Drum,622,,Drumul Țării,Geomil 25000,Limba română
+Drumul Țării,drumuri,1,45.9535997794784,25.4804039615267,Brasov,Drum,2740,,Drumul Țării,Geomil 25000,Limba română
+Drumul Țarinei,drumuri,1,45.7492487099123,24.8815652082193,Brasov,Drum,11250,,Drumul Țarinei,Geomil 25000,Limba română
+Padina cu Drum,drumuri,1,45.4325070845492,25.2772173852525,Brasov,Drum,6864,,Padina cu Drum,PDT,Limba română
+Drumul Bragadirului,drumuri,1,44.3553367257952,26.1468891092299,Bucuresti,Drum,3758,,Drumul Bragadirului,PDT,Limba română
+Movila Drumu Oilor,Drumul Oii,2,45.1243278193795,26.7446812175139,Buzau,Înălțime,8731,,Movila Drumu Oilor,PDT,Limba română
+Drumu Sării,drumul Sării,2,44.9048928033921,26.8212750845836,Buzau,Drum,10931,,Drumu Sării,Geomil 25000,Limba română
+Dealul Drumul Morii,drumuri,1,45.4715652974279,26.8902533553359,Buzau,Deal,5239,,Dealul Drumul Morii,Geomil 25000,Limba română
+Drumu Bogdanului,drumuri,1,45.2331085564144,26.9564793032933,Buzau,Drum,10934,,Drumu Bogdanului,Austriacă,Limba română
+Drumu Grecilor,drumuri,1,45.3979797525357,27.0781898366178,Buzau,Drum,5260,,Drumu Grecilor,Austriacă,Limba română
+Drumul Buzăului,drumuri,1,44.8981509933212,27.0986039787241,Buzau,Drum,3595,,Drumul Buzăului,Geomil 25000,Limba română
+Drumul Dealului,drumuri,1,45.1592272725226,26.5380601002873,Buzau,Înălțime,13149,,Drumul Dealului,Geomil 25000,Limba română
+Drumul lui Manole,drumuri,1,45.1295374214087,26.5288011341553,Buzau,Drum,6028,,Drumul lui Manole,Geomil 25000,Limba română
+Drumul Mesteceni,drumuri,1,45.1817154340774,26.4751423411937,Buzau,Drum,6031,,Drumul Mesteceni,Geomil 25000,Limba română
+Drumul Nuelelor,drumuri,1,45.1338825953794,26.5324724772225,Buzau,Drum,7504,,Drumul Nuelelor,PDT,Limba română
+Drumul Tisăului,drumuri,1,45.1735003620297,26.4875277308409,Buzau,Drum,6030,,Drumul Tisăului,Geomil 25000,Limba română
+Pârâul cu drumu,drumuri,1,45.3253459068265,26.743551359332,Buzau,Vale,8774,,Pârâul cu drumu,PDT,Limba română
+La Drumu Mare,drumul Mare,2,44.1865726130865,26.8366492599109,Calarasi,Drum,3262,,La Drumu Mare,Geomil 25000,Limba română
+drum Olakului,drumul Olacului,2,44.2810251380699,27.3539176542684,Calarasi,Drum,6744,,drum Olakului,Austriacă,Limba română
+Drumu Sâri,drumul Sării,2,44.4962336668593,26.5642131626671,Calarasi,Drum,3623,,Drumu Sâri,Austriacă,Limba română
+de la Obilesci,drumuri,1,44.333950545859,26.8334514569852,Calarasi,Drum,3248,,de la Obilesci,PDT,Limba română
+Drumu Cimitirului,drumuri,1,44.2939426019066,27.3824699268691,Calarasi,Drum,11272,,Drumu Cimitirului,Geomil 25000,Limba română
+Drumu Peștitui,drumuri,1,44.2540747535787,26.6714217547122,Calarasi,,3629,,Drumu Peștitui,Austriacă,Limba română
+Drumu Teminei,drumuri,1,44.053065413728,26.467209104791,Calarasi,Drum,1332,,Drumu Teminei,Geomil 25000,Limba română,Drumu Temnici,PDT,Limba română
+Drumu Vechiu de la Bucuresci la Călărași,drumuri,1,44.2933837063636,27.0020943264354,Calarasi,Drum,3243,,Drumu Vechiu de la Bucuresci la Călărași,PDT,Limba română
+Drumul Călărașilor,drumuri,1,44.3683800932068,26.6229074851708,Calarasi,Drum,3282,,Drumul Călărașilor,PDT,Limba română
+Drumul Călărașilor,drumuri,1,44.3651431720528,26.6459579451364,Calarasi,Drum,3283,,Drumul Călărașilor,Geomil 25000,Limba română
+Drumul lui Bălan,drumuri,1,44.4705102979777,27.3274267722016,Calarasi,Drum,11273,,Drumul lui Bălan,Geomil 25000,Limba română
+Drumul Părului,drumuri,1,44.2098195970487,26.8168486456035,Calarasi,Drum,8459,,Drumul Părului,PDT,Limba română
+Drumul Subțire,drumuri,1,44.3612126240298,27.356471586162,Calarasi,Drum,3304,,Drumul Subțire,Geomil 25000,Limba română
+Drumul Subțire,drumuri,1,44.3437318313573,27.3684853311781,Calarasi,Drum,3305,,Drumul Subțire,Geomil 25000,Limba română
+Drumul Subțire,drumuri,1,44.3572826526038,27.4267143520513,Calarasi,Drum,3306,,Drumul Subțire,Geomil 25000,Limba română,Drumul Subțire,PDT,Limba română
+Drumul Subțire,drumuri,1,44.3725895188799,27.5929119084016,Calarasi,Drum,3468,,Drumul Subțire,PDT,Limba română
+Drumul Subțire,drumuri,1,44.3713814152437,27.2546825051366,Calarasi,Drum,11702,,Drumul Subțire,Geomil 25000,Limba română
+Drumul Telegrafului,drumuri,1,44.2880051290195,27.0338551853707,Calarasi,Drum,3244,,Drumul Telegrafului,PDT,Limba română
+Drumul Telegrafului,drumuri,1,44.3180334589548,26.8778416993261,Calarasi,Drum,3247,,Drumul Telegrafului,PDT,Limba română
+la Bărăganu de la Chirnogi,drumuri,1,44.2810646362899,26.9560162097708,Calarasi,Drum,3246,,la Bărăganu de la Chirnogi,PDT,Limba română
+la Călărași de la Obilesci,drumuri,1,44.2994577274907,26.9542350281624,Calarasi,Drum,3245,,la Călărași de la Obilesci,PDT,Limba română
+La Drumu Părului,drumuri,1,44.1892921564754,26.802597566024,Calarasi,Drum,12004,,La Drumu Părului,Geomil 25000,Limba română
+la Mihai Viteazu de la Vărăsci,drumuri,1,44.2466088410496,27.0033989169516,Calarasi,Drum,3253,,la Mihai Viteazu de la Vărăsci,PDT,Limba română
+la Vărăsci de la Giurgiu,drumuri,1,44.227424799643,26.9557547444532,Calarasi,Drum,3252,,la Vărăsci de la Giurgiu,PDT,Limba română
+Movila la drumul Cornățelului,drumuri,1,44.2940803190261,26.7971687886615,Calarasi,Înălțime,3279,,Movila la drumul Cornățelului,PDT,Limba română
+Drumu Mare,drumul Mare,2,45.0091200189295,21.4210917766725,Caras Severin,Drum,5704,,Drumu Mare,Geomil 25000,Limba română
+Drumul Mare,drumul Mare,2,45.5414016339562,21.6756012355787,Caras Severin,Drum,11502,,Drumul Mare,ANCPI,Limba română
+Cracul cu Drumul,drumuri,1,45.0699691253542,21.9661368751256,Caras Severin,Înălțime,13488,,Cracul cu Drumul,PDT,Limba română
+Dealu Drumu lui Milenco,drumuri,1,44.849576112054,21.4183025520548,Caras Severin,Deal,8531,,Dealu Drumu lui Milenco,Geomil 25000,Limba română
+Drumu Buziașului,drumuri,1,45.5679032176273,21.5994971215304,Caras Severin,Drum,891,,Drumu Buziașului,Geomil 25000,Limba română
+Drumu Cântarului,drumuri,1,45.0356524157276,21.8030055551383,Caras Severin,Drum,10705,,Drumu Cântarului,Geomil 25000,Limba română
+Drumu Gătăii,drumuri,1,45.4286050055117,21.5114956435082,Caras Severin,Drum,9999,,Drumu Gătăii,Geomil 25000,Limba română
+Drumu Infractorului,drumuri,1,45.1216902797956,21.51223254628,Caras Severin,Drum,901,,Drumu Infractorului,Geomil 25000,Limba română
+Drumu Lugojului,drumuri,1,45.5615675238612,21.6170384545689,Caras Severin,Drum,888,,Drumu Lugojului,Geomil 25000,Limba română
+Drumu Morii,drumuri,1,45.1073096251791,21.5639279447863,Caras Severin,Drum,5713,,Drumu Morii,Geomil 25000,Limba română
+Drumu Oraviței,drumuri,1,45.0472543237256,21.586171774609,Caras Severin,Drum,5706,,Drumu Oraviței,Geomil 25000,Limba română
+Drumu Ramnei,drumuri,1,45.4525472101223,21.5483208979517,Caras Severin,Drum,10297,,Drumu Ramnei,Geomil 25000,Limba română
+Drumu Ramnei,drumuri,1,45.4542635196363,21.6034108822954,Caras Severin,Drum,10298,,Drumu Ramnei,Geomil 25000,Limba română
+Drumu Timișoarei,drumuri,1,45.4647078442698,21.5873087334611,Caras Severin,Drum,10299,,Drumu Timișoarei,Geomil 25000,Limba română
+Drumu Vacilor,drumuri,1,45.1123892500655,21.5698022568843,Caras Severin,Drum,5712,,Drumu Vacilor,Geomil 25000,Limba română
+Drumul Chicerei,drumuri,1,45.2523545720508,22.2394837971263,Caras Severin,Drum,11786,,Drumul Chicerei,PDT,Limba română
+Drumul lui Traian,Drumul lui Traian,2,46.5170070113667,23.8094133104284,Cluj,Drum,14012,,Drumul lui Traian,PDT,Limba română
+Drumul Mare,drumul Mare,2,46.7822804001815,23.3927357511018,Cluj,Drum,8957,,Drumul Mare,PDT,Limba română
+Drumu Birțului,drumuri,1,46.7844182877231,23.3824221530795,Cluj,Drum,8958,,Drumu Birțului,Geomil 25000,Limba română
+Drumu Domnilor,drumuri,1,46.561286739911,23.718196637995,Cluj,Drum,7060,,Drumu Domnilor,Geomil 25000,Limba română
+Drumu Domnilor,drumuri,1,46.5281850966055,23.0391672041103,Cluj,Drum,12547,,Drumu Domnilor,Geomil 25000,Limba română,Drumul Domnilor,PDT,Limba română
+Drumu Tascăului,drumuri,1,46.5565791733507,23.6320176234927,Cluj,Drum,10443,,Drumu Tascăului,Geomil 25000,Limba română
+Drumu Topii,drumuri,1,46.9617025915442,23.3921577260422,Cluj,Drum,14026,,Drumu Topii,Geomil 25000,Limba română
+drumul desfundat,drumuri,1,46.7889763787343,23.4639031208085,Cluj,Drum,8956,,drumul desfundat,PDT,Limba română
+Drumul lui Secheli,drumuri,1,46.7345203433152,23.8817219469354,Cluj,Drum,8134,,Drumul lui Secheli,PDT,Limba română
+Drumul Minierului,drumuri,1,46.8910522691859,23.4903658598633,Cluj,Drum,8955,,Drumul Minierului,PDT,Limba română
+Drumul Țării,drumuri,1,46.6969350452372,24.0305620777234,Cluj,Drum,5495,,Drumul Țării,Geomil 25000,Limba română
+Drumul Ursului,drumuri,1,46.6468783726151,24.0180280832664,Cluj,Drum,5496,,Drumul Ursului,Geomil 25000,Limba română
+Drumul Viei,drumuri,1,46.7236463065109,23.9749538369821,Cluj,Drum,10663,,Drumul Viei,Imperiul Habsburgic (1887),Limba română
+Între Drumuri,drumuri,1,46.8602676200929,24.0983571049688,Cluj,Altele,13099,,Între Drumuri,Geomil 25000,Limba română
+Valea Drumului,drumuri,1,47.1680977299927,23.8989809379491,Cluj,Vale,10491,,Valea Drumului,Transilvania (1869-1870),Limba română
+Dealu Drumu Constanței,drumuri,1,44.0296370091878,27.989763972198,Constanta,Deal,2852,,Dealu Drumu Constanței,Geomil 25000,Limba română
+Drumul Casian,drumuri,1,44.4989929324954,28.4710929358072,Constanta,Drum,2873,,Drumul Casian,Geomil 25000,Limba română
+Drumul Cernavodă,drumuri,1,44.2415011590377,28.0637604113835,Constanta,Drum,12740,,Drumul Cernavodă,Geomil 25000,Limba română
+Drumul Crucii,drumuri,1,45.7751153534467,25.9335157795458,Covasna,Drum,13849,,Drumul Crucii,Geomil 25000,Limba română
+Drumul drept,drumuri,1,45.889221400176,26.2749372311675,Covasna,Drum,9252,,Drumul drept,PDT,Limba română
+Drumul Frumos,drumuri,1,45.8363953750813,26.1957643707652,Covasna,Drum,10477,,Drumul Frumos,Geomil 25000,Limba română
+Drumul lui Ștefan Balaș,drumuri,1,46.0431397733597,25.9342753221852,Covasna,Drum,4379,,Drumul lui Ștefan Balaș,PDT,Limba română
+Drumul Secuiesc,drumuri,1,45.8591533519833,25.6524259906972,Covasna,Drum,2762,,Drumul Secuiesc,Geomil 25000,Limba română
+Drumul Vechi,drumuri,1,45.8826129013582,25.7373605870204,Covasna,Drum,11455,,Drumul Vechi,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,44.6629040261107,25.7941793626342,Dambovita,Drum,521,,Drumu Mare,Geomil 25000,Limba română
+Drumul cel mare sau cel vechi al Slatinei,drumul Mare,2,44.5462810341872,25.4003328880409,Dambovita,Drum,3712,,Drumul cel mare sau cel vechi al Slatinei,PDT,Limba română
+Puțul din Drumul Mare,drumul Mare,2,44.8495593223524,25.6129726032233,Dambovita,Altele,11146,,Puțul din Drumul Mare,PDT,Limba română
+Drumu Seri,drumul Sării,2,44.4786224574048,25.4662078004477,Dambovita,Drum,10093,,Drumu Seri,Austriacă,Limba română
+Drumul Sărei,drumul Sării,2,44.6798175076405,25.3573644017609,Dambovita,Drum,3376,,Drumul Sărei,PDT,Limba română
+Drumul Sărei,drumul Sării,2,44.9615063651203,25.6215315981646,Dambovita,Drum,3692,,Drumul Sărei,PDT,Limba română
+Drumul Sărei,drumul Sării,2,44.9057823649821,25.6448843223165,Dambovita,Drum,3696,,Drumul Sărei,PDT,Limba română
+Drumul Sărei,drumul Sării,2,44.9185051048201,25.6518899381388,Dambovita,Drum,3697,,Drumul Sărei,PDT,Limba română
+Drumul Sărei,drumul Sării,2,44.9439679436115,25.5836889650059,Dambovita,Drum,10077,,Drumul Sărei,PDT,Limba română
+Drumu Muscalilor,drumuri,1,44.9761901782772,25.5708169606006,Dambovita,Drum,8806,,Drumu Muscalilor,PDT,Limba română
+Drumu Sletini,drumuri,1,44.5588918874596,25.2989349998684,Dambovita,Drum,8475,,Drumu Sletini,Austriacă,Limba română
+Drumu Teilor,drumuri,1,44.6098307838626,26.1686647820932,Dambovita,Drum,4259,,Drumu Teilor,PDT,Limba română
+Drumul Baia,drumuri,1,45.1019518261568,25.4005997971532,Dambovita,Drum,5991,,Drumul Baia,Geomil 25000,Limba română
+Drumul la Schelă,drumuri,1,44.9593839871479,25.5990380462478,Dambovita,Drum,12401,,Drumul la Schelă,PDT,Limba română
+Drumul Mijei,drumuri,1,44.9521216938494,25.6356339147557,Dambovita,Drum,3694,,Drumul Mijei,PDT,Limba română
+Drumul Mocanilor,drumuri,1,44.6984433199541,25.7751316808232,Dambovita,Drum,4242,,Drumul Mocanilor,PDT,Limba română
+Drumul Plimbatului,drumuri,1,44.7017722304087,25.7389302438677,Dambovita,Drum,4241,,Drumul Plimbatului,PDT,Limba română
+Drumul Vechiu,drumuri,1,44.9104571106182,25.6766024240293,Dambovita,Drum,3698,,Drumul Vechiu,PDT,Limba română
+Drumul Viei,drumuri,1,44.8213548152189,25.6825623924743,Dambovita,Drum,11149,,Drumul Viei,PDT,Limba română
+La Drumu Ritzi,drumuri,1,44.6722725567263,25.4507680265204,Dambovita,Drum,3375,,La Drumu Ritzi,PDT,Limba română
+Lacul de pe Drumul Călugăreni,drumuri,1,44.7210216929123,25.7052032692853,Dambovita,Lac,11153,,Lacul de pe Drumul Călugăreni,PDT,Limba română
+Poiana de lângă Drum,drumuri,1,44.7537257084921,25.380149511949,Dambovita,Poiană,10128,,Poiana de lângă Drum,PDT,Limba română
+Dealul Drumul Mare,drumul Mare,2,44.2512263230273,23.75591735042,Dolj,Deal,5172,,Dealul Drumul Mare,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,44.1422988510828,24.1809719215663,Dolj,Drum,2977,,Drumu Mare,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,44.1069889952341,24.0504862878979,Dolj,Drum,3019,,Drumu Mare,Geomil 25000,Limba română
+Drumul Mare,drumul Mare,2,44.3374771167827,23.5044629468995,Dolj,,5178,,Drumul Mare,Geomil 25000,Limba română
+Drumul Mare,drumul Mare,2,44.5973932294827,23.6934821185056,Dolj,Localitate,12292,,Drumul Mare,PDT,Limba română
+Drumu Ocnei,Drumul Ocnelor,3,44.0394127507104,24.0389100827314,Dolj,Drum,3021,,Drumu Ocnei,Geomil 25000,Limba română,Drumul Ocnei,PDT,Limba română
+Drumu Ocnelor,Drumul Ocnelor,3,44.0965000117579,24.0833844722751,Dolj,Drum,3018,,Drumu Ocnelor,Geomil 25000,Limba română,Drumul Ocnei,PDT,Limba română
+Vechiul drum de olac al Craiovei,drumul Olacului,2,44.0787483372835,23.4727299399124,Dolj,Drum,4659,,Vechiul drum de olac al Craiovei,PDT,Limba română
+Drumul Sării,drumul Sării,2,44.2358720682383,23.1151307153908,Dolj,Drum,142,,Drumul Sării,Geomil 25000,Limba română
+Valea Drumul Sării,drumul Sării,2,44.2161002925363,23.1615759127205,Dolj,Vale,143,,Valea Drumul Sării,Geomil 25000,Limba română,Valea Drumul Sării,PDT,Limba română
+Druml Apeleviilor,drumuri,1,44.1313191934476,24.095788467332,Dolj,Drum,11166,,Druml Apeleviilor,PDT,Limba română
+Drumu Cotului,drumuri,1,44.0741283571885,24.0288427490384,Dolj,Drum,12376,,Drumu Cotului,Geomil 25000,Limba română
+Drumu Hotarului,drumuri,1,44.1029260960665,24.1626531751896,Dolj,Drum,12379,,Drumu Hotarului,Geomil 25000,Limba română
+Drumu Mârșani Castranova,drumuri,1,44.0443358265413,24.0118969286964,Dolj,Drum,3022,,Drumu Mârșani Castranova,Geomil 25000,Limba română,Drumul Mârșani - Cacaleț,PDT,Limba română
+Drumu Muierii,drumuri,1,44.2349202197374,24.1961259231643,Dolj,Drum,1295,,Drumu Muierii,Geomil 25000,Limba română
+Drumu Olakului,drumuri,1,44.4174643687652,23.2919151464501,Dolj,Drum,129,,Drumu Olakului,Austriacă,Limba română
+Drumu Panițarilor,drumuri,1,44.0448459152454,24.0661282335699,Dolj,Drum,3023,,Drumu Panițarilor,Geomil 25000,Limba română
+Drumul Babei Rada,drumuri,1,43.8560023152546,23.8448367799529,Dolj,Drum,4677,,Drumul Babei Rada,PDT,Limba română
+Drumul Bechetului,drumuri,1,44.0587556535418,24.02814858163,Dolj,Drum,4671,,Drumul Bechetului,PDT,Limba română
+Drumul Belcinului,drumuri,1,44.097539270848,23.7662080811349,Dolj,Drum,7702,,Drumul Belcinului,PDT,Limba română
+Drumul Bencei,drumuri,1,44.0812302124719,23.4875023312885,Dolj,Drum,4660,,Drumul Bencei,PDT,Limba română
+Drumul Bisericii,drumuri,1,44.5359014910634,23.571134673727,Dolj,Drum,12294,,Drumul Bisericii,PDT,Limba română
+Drumul Boierului,drumuri,1,44.1613250852149,24.0696330386693,Dolj,Drum,11164,,Drumul Boierului,PDT,Limba română
+Drumul Bucinișului,drumuri,1,43.9953669188406,24.2598498823686,Dolj,Drum,7742,,Drumul Bucinișului,PDT,Limba română
+Drumul Central,drumuri,1,44.0434859380939,23.0672463181944,Dolj,Drum,8485,,Drumul Central,Geomil 25000,Limba română
+Drumul Chitrei,drumuri,1,43.9040276550108,23.8384457432869,Dolj,Drum,10511,,Drumul Chitrei,PDT,Limba română
+Drumul Ciorănești,drumuri,1,44.1591833130031,24.1174246665303,Dolj,Drum,11163,,Drumul Ciorănești,PDT,Limba română
+Drumul Ciutei,drumuri,1,43.9466210234515,23.6418343254549,Dolj,Drum,8106,,Drumul Ciutei,PDT,Limba română
+Drumul Congresului,drumuri,1,43.875441289973,23.0863162923284,Dolj,Drum,1308,,Drumul Congresului,Geomil 25000,Limba română
+Drumul Congresului,drumuri,1,43.8991827204813,23.1033977062076,Dolj,Drum,1309,,Drumul Congresului,Geomil 25000,Limba română
+Drumul Craiova,drumuri,1,44.6443624196241,23.7984210022008,Dolj,Drum,390,,Drumul Craiova,Geomil 25000,Limba română
+Drumul Craiova,drumuri,1,44.3696793485124,23.8026459764156,Dolj,Drum,402,,Drumul Craiova,Geomil 25000,Limba română
+Drumul Craiovei,drumuri,1,44.1678547959567,24.1485233566813,Dolj,Drum,7735,,Drumul Craiovei,PDT,Limba română
+Drumul Craiovei,drumuri,1,44.1513946938653,24.1978347360238,Dolj,Drum,7736,,Drumul Craiovei,PDT,Limba română
+Drumul Criveanului,drumuri,1,43.9261695661581,23.7593740709101,Dolj,Drum,8110,,Drumul Criveanului,PDT,Limba română
+Drumul Cuculeanului,drumuri,1,44.0539641738913,24.0284777700396,Dolj,,4670,,Drumul Cuculeanului,PDT,Limba română
+Drumul Dealului,drumuri,1,44.5313669799078,23.7726367493455,Dolj,Drum,395,,Drumul Dealului,Geomil 25000,Limba română
+Drumul Dealului,drumuri,1,44.4484487009958,23.7971939309574,Dolj,Drum,4687,,Drumul Dealului,Geomil 25000,Limba română
+Drumul Dealului,drumuri,1,44.2170006886236,23.6774740410365,Dolj,Drum,7725,,Drumul Dealului,PDT,Limba română
+Drumul Dealului,drumuri,1,44.3350536814044,23.5864778823782,Dolj,Drum,11182,,Drumul Dealului,ANCPI,Limba română
+Drumul Dealului,drumuri,1,44.5243270401948,23.8564035125174,Dolj,Drum,11343,,Drumul Dealului,ANCPI,Limba română
+Drumul Frasinului,drumuri,1,44.3572252832315,23.4543554566455,Dolj,Drum,3371,,Drumul Frasinului,Geomil 25000,Limba română
+Drumul Frasinului,drumuri,1,44.1793926505847,23.9765360895023,Dolj,Drum,12380,,Drumul Frasinului,PDT,Limba română
+Drumul Găvanului,drumuri,1,43.9098160664419,23.8014012329269,Dolj,Drum,8112,,Drumul Găvanului,PDT,Limba română
+Drumul Grănicerilor,drumuri,1,43.8449438563416,23.2199985531497,Dolj,Drum,3810,,Drumul Grănicerilor,PDT,Limba română
+Drumul Împușcatului,drumuri,1,44.0554242086358,23.9874453028939,Dolj,Drum,4673,,Drumul Împușcatului,PDT,Limba română
+Drumul Inginerului,drumuri,1,44.0995368294526,23.5428133073598,Dolj,Drum,4666,,Drumul Inginerului,PDT,Limba română
+Drumul Ițelor,drumuri,1,44.3749154242374,23.2654017485518,Dolj,Drum,126,,Drumul Ițelor,Geomil 25000,Limba română
+Drumul Ițelor,drumuri,1,44.3464505188317,23.2622423431784,Dolj,,5187,,Drumul Ițelor,Geomil 25000,Limba română
+Drumul Jigerei,drumuri,1,43.8703264927525,23.8087412194752,Dolj,Drum,4678,,Drumul Jigerei,PDT,Limba română
+Drumul Jiului,drumuri,1,43.9653978749274,23.6504430366005,Dolj,Altele,8102,,Drumul Jiului,PDT,Limba română
+Drumul Lânii,drumuri,1,44.1225711597086,23.2794811646646,Dolj,Drum,4651,,Drumul Lânii,Geomil 25000,Limba română,Drumul Lânii,PDT,Limba română
+Drumul Măceșului,drumuri,1,43.9692488581964,23.6996069155054,Dolj,Drum,8101,,Drumul Măceșului,PDT,Limba română
+Drumul Morei,drumuri,1,44.124402999407,23.3851549899755,Dolj,Drum,4647,,Drumul Morei,PDT,Limba română
+Drumul Morilor,drumuri,1,44.0999874108041,23.9847327263372,Dolj,Drum,7692,,Drumul Morilor,PDT,Limba română
+Drumul Mueri,drumuri,1,44.3623779021638,23.9958946419189,Dolj,Drum,9339,,Drumul Mueri,PDT,Limba română
+Drumul Muntenilor,drumuri,1,44.3227970093632,23.8455977931864,Dolj,Drum,12181,,Drumul Muntenilor,PDT,Limba română
+Drumul Năuiului,drumuri,1,44.1312282939838,24.0861285366161,Dolj,Drum,11165,,Drumul Năuiului,PDT,Limba română
+Drumul Nedeeii,drumuri,1,43.928717421914,23.7401731498043,Dolj,Drum,8109,,Drumul Nedeeii,PDT,Limba română
+Drumul Nedeeii,drumuri,1,43.9101688674449,23.7768826176079,Dolj,Drum,8111,,Drumul Nedeeii,PDT,Limba română
+Drumul Pădurei,drumuri,1,44.1709883132684,23.375208619833,Dolj,Drum,4643,,Drumul Pădurei,PDT,Limba română
+Drumul Pădurei,drumuri,1,44.1245355612237,23.3321905954398,Dolj,Drum,4648,,Drumul Pădurei,PDT,Limba română
+Drumul Pădurii,drumuri,1,44.107520303732,23.3196957242438,Dolj,Drum,4650,,Drumul Pădurii,PDT,Limba română
+Drumul Poienilor,drumuri,1,44.4314142739033,23.5830917476076,Dolj,Drum,12723,,Drumul Poienilor,Geomil 25000,Limba română
+Drumul Rojiștea Apele Vii,drumuri,1,44.065617426709,23.9949742340241,Dolj,Drum,4672,,Drumul Rojiștea Apele Vii,PDT,Limba română
+Drumul Roșu,drumuri,1,44.1570728577867,23.8263389134523,Dolj,Drum,7713,,Drumul Roșu,PDT,Limba română
+Drumul Schelei,drumuri,1,43.869543824214,23.2083242127625,Dolj,Drum,3808,,Drumul Schelei,PDT,Limba română
+Drumul Schelei,drumuri,1,43.8531752842448,23.2276038130473,Dolj,Drum,3809,,Drumul Schelei,PDT,Limba română
+Drumul Schelei,drumuri,1,43.8722257135486,23.4234293494425,Dolj,Drum,10517,,Drumul Schelei,PDT,Limba română
+Drumul Serii,drumuri,1,44.2246533509234,23.7321423351152,Dolj,Drum,7720,,Drumul Serii,PDT,Limba română
+Drumul Siliștei,drumuri,1,44.0701854314685,23.4961630478714,Dolj,,4661,,Drumul Siliștei,PDT,Limba română
+Drumul Țiganului,drumuri,1,44.1642975581334,23.7972651914547,Dolj,Drum,7714,,Drumul Țiganului,PDT,Limba română
+Drumul Tursanului,drumuri,1,44.0103339100009,23.9868520105643,Dolj,Drum,4674,,Drumul Tursanului,PDT,Limba română
+Drumul Vacilor,drumuri,1,43.8650343340475,23.1617830167188,Dolj,Drum,3812,,Drumul Vacilor,PDT,Limba română
+Drumul Vacilor,drumuri,1,43.8632034904498,23.1917917957823,Dolj,Drum,3813,,Drumul Vacilor,PDT,Limba română
+Drumul Vulpii,drumuri,1,43.8747058380795,23.0701029983343,Dolj,Drum,1307,,Drumul Vulpii,Geomil 25000,Limba română
+Fântâna Drum Gemene,drumuri,1,44.1319416659612,23.0196084037075,Dolj,Drum,8491,,Fântâna Drum Gemene,PDT,Limba română
+Drumul Brăilei,Drumul Brăilei,2,45.9404432835332,28.0625726116794,Galati,Drum,709,,Drumul Brăilei,Geomil 25000,Limba română
+Pădurea Drumu Mare,drumul Mare,2,45.9489518097496,27.693154971276,Galati,Pădure,9640,,Pădurea Drumu Mare,Moldova (1892-1898),Limba română
+Dealul Drumului de la Chiștele,drumuri,1,45.701250782607,28.0259430564779,Galati,Deal,3504,,Dealul Drumului de la Chiștele,PDT,Limba română
+Drumu Popi,drumuri,1,45.850680535836,27.6198320825715,Galati,Drum,12778,,Drumu Popi,Moldova (1892-1898),Limba română
+Drumul Merilor,drumuri,1,45.9931084588004,27.3632134595764,Galati,Drum,2164,,Drumul Merilor,Geomil 25000,Limba română
+Drumul Morilor,drumuri,1,46.0378707269746,28.0628694522059,Galati,Drum,12905,,Drumul Morilor,PDT,Limba română
+La Drumul Morii,drumuri,1,45.8621425527785,27.6413700297678,Galati,Drum,2191,,La Drumul Morii,Geomil 25000,Limba română,La Drumul Morii,PDT,Limba română
+La Gura Drumului,drumuri,1,45.7274566981631,28.0970574043667,Galati,Drum,8867,,La Gura Drumului,PDT,Limba română
+Podul la Drumul lui Bogdan,drumuri,1,45.7792199127839,27.8220682395949,Galati,Altele,3950,,Podul la Drumul lui Bogdan,PDT,Limba română
+Răscruci de Drumuri,drumuri,1,45.8064388879015,28.039073929823,Galati,Drum,10911,,Răscruci de Drumuri,Geomil 25000,Limba română
+Șoseaua Rusă,drumuri,1,45.785828030919,28.1067763987431,Galati,Drum,7391,,Șoseaua Rusă,Geomil 25000,Limba română
+Drumu Olacului,drumul Olacului,2,44.1045804546237,26.1667439421139,Giurgiu,Drum,1334,,Drumu Olacului,Geomil 25000,Limba română
+Drumul Olacului,drumul Olacului,2,44.0914955160157,26.1477514570241,Giurgiu,Drum,3772,,Drumul Olacului,PDT,Limba română
+Drumu Sării,drumul Sării,2,44.4997671385865,25.9087846981196,Giurgiu,,3755,,Drumu Sării,PDT,Limba română
+Drum Untului (Giurgiului),Drumul Untului,2,43.8295338169203,25.7214890481704,Giurgiu,Drum,3633,,Drum Untului (Giurgiului),Austriacă,Limba română
+Drumul Untului,Drumul Untului,2,43.8607840844613,25.8704062928673,Giurgiu,Drum,10615,,Drumul Untului,PDT,Limba română
+Drum Ciokoilor,drumuri,1,44.0325519924363,25.617623628553,Giurgiu,Drum,12014,,Drum Ciokoilor,Austriacă,Limba română
+Drum Ciokoilor,drumuri,1,43.9771055827483,25.7562296234699,Giurgiu,Drum,12207,,Drum Ciokoilor,Austriacă,Limba română
+Drum Vlascinului,drumuri,1,44.016769166599,25.9001974953634,Giurgiu,Drum,8302,,Drum Vlascinului,Austriacă,Limba română
+Drumu Bălții,drumuri,1,44.0746911343739,26.0076712045269,Giurgiu,Drum,1335,,Drumu Bălții,Geomil 25000,Limba română
+Drumu Bălții,drumuri,1,44.0622219173937,25.9190292776694,Giurgiu,Drum,3154,,Drumu Bălții,Geomil 25000,Limba română
+Drumu Banului,drumuri,1,43.9051988348668,25.8583625388214,Giurgiu,Drum,3779,,Drumu Banului,PDT,Limba română
+Drumu Bratovanului,drumuri,1,44.2265993335249,26.3419915227169,Giurgiu,Drum,12059,,Drumu Bratovanului,PDT,Limba română
+Drumu Floricii,drumuri,1,43.8748732097257,25.9091850863409,Giurgiu,Drum,443,,Drumu Floricii,Geomil 25000,Limba română
+Drumu Gabrului,drumuri,1,43.9042569320889,25.615222393049,Giurgiu,Drum,3632,,Drumu Gabrului,Austriacă,Limba română
+Drumu Uzunului,drumuri,1,44.1422798891938,26.0237145640563,Giurgiu,Drum,461,,Drumu Uzunului,Geomil 25000,Limba română
+Drumul Bivolului,drumuri,1,44.4872089344696,25.6156798098534,Giurgiu,Drum,10096,,Drumul Bivolului,PDT,Limba română
+Drumul Linia Largă,drumuri,1,43.8165171468298,25.5095307246572,Giurgiu,Drum,12208,,Drumul Linia Largă,PDT,Limba română
+Drumul lui Ispas,drumuri,1,44.1278664172927,26.0708486782985,Giurgiu,Drum,3773,,Drumul lui Ispas,PDT,Limba română
+Drumul Părului,drumuri,1,44.2251746788116,26.3274024485564,Giurgiu,Drum,12060,,Drumul Părului,PDT,Limba română
+Drumul Secăriei,drumuri,1,44.4795838046092,25.6210027220654,Giurgiu,Drum,10097,,Drumul Secăriei,PDT,Limba română
+Drumul Tătarului,drumuri,1,44.4198143571516,25.6598916034895,Giurgiu,Drum,3740,,Drumul Tătarului,PDT,Limba română
+Drumurile Fistiogului,drumuri,1,44.1547813458356,25.9940518345301,Giurgiu,Drum,8298,,Drumurile Fistiogului,PDT,Limba română
+Șoseaua Averescu,drumuri,1,44.0776506077377,26.2412241622087,Giurgiu,Drum,3162,,Șoseaua Averescu,Geomil 25000,Limba română
+Dealul Drumul Frasinului,drumuri,1,45.0755415705515,23.4442778528167,Gorj,Deal,237,,Dealul Drumul Frasinului,Geomil 25000,Limba română,Dealul Drumul Frasinului,PDT,Limba română
+Dealul Drumul Murei,drumuri,1,44.8620617242173,22.9318673353842,Gorj,Deal,9769,3684,Dealul Drumul Murei,PDT,Limba română
+Drumu lui Gogoloșu,drumuri,1,44.8719274410744,23.2200338281896,Gorj,Drum,11006,,Drumu lui Gogoloșu,Geomil 25000,Limba română
+Drumu Murei,drumuri,1,44.8701888043205,22.9323656444047,Gorj,Altele,3684,,Drumu Murei,Geomil 25000,Limba română
+Drumul Boții,drumuri,1,44.8361493350071,23.7114769785995,Gorj,Drum,12687,,Drumul Boții,PDT,Limba română
+Drumul fierului,drumuri,1,44.6610557170594,23.3116146509397,Gorj,Drum,7450,,Drumul fierului,PDT,Limba română
+Drumul la Poarta,drumuri,1,44.8443889550917,23.7083769721905,Gorj,Drum,12686,,Drumul la Poarta,PDT,Limba română
+Drumul Picu,drumuri,1,44.5847809465247,23.4677543319545,Gorj,Drum,12382,,Drumul Picu,Geomil 25000,Limba română
+Piscu cu drum,drumuri,1,44.8392329070063,23.2005049726692,Gorj,Înălțime,3136,,Piscu cu drum,Geomil 25000,Limba română
+Valea Drumului,drumuri,1,44.6901410268292,23.1623662651712,Gorj,Vale,416,,Valea Drumului,Geomil 25000,Limba română
+Dealul Drumul lui Pavel,drumuri,1,46.2807782706569,25.5750842011748,Harghita,Deal,6784,,Dealul Drumul lui Pavel,Geomil 25000,Limba română
+Drumul Fundăturii,drumuri,1,46.7256238784478,25.4742848924961,Harghita,Drum,10043,,Drumul Fundăturii,PDT,Limba română
+Drumul Pietros,drumuri,1,46.2551822753609,25.0108690747471,Harghita,Drum,14083,,Drumul Pietros,Geomil 25000,Limba română
+Vârful Drumul Popii,drumuri,1,46.3404601155796,24.8594151862454,Harghita,Înălțime,12816,,Vârful Drumul Popii,Geomil 25000,Limba română
+Drum Trajan,Drumul lui Traian,2,45.9064383275807,23.246990287286,Hunedoara,Drum,11918,,Drum Trajan,Transilvania (1769-1773),Limba română
+Drumu lui Traian,Drumul lui Traian,2,45.5781330604638,22.9587174632712,Hunedoara,Drum,5565,,Drumu lui Traian,Geomil 25000,Limba română
+Drumu lui Traian,Drumul lui Traian,2,45.585554717895,22.9751723070617,Hunedoara,Drum,5566,,Drumu lui Traian,Geomil 25000,Limba română
+Trajaner Weeg (Calea lui Traian),Drumul lui Traian,2,45.5486997630266,22.8954492763385,Hunedoara,Drum,13237,,Trajaner Weeg (Calea lui Traian),Transilvania (1769-1773),Limba română
+Trajaner Weg (Calea lui Traian),Drumul lui Traian,2,45.5629211644956,22.9236287600504,Hunedoara,Drum,13238,,Trajaner Weg (Calea lui Traian),Transilvania (1769-1773),Limba română
+Trajans Weg (Drumul lui Traian),Drumul lui Traian,2,45.5243778921845,22.8246269820477,Hunedoara,Drum,5561,,Trajans Weg (Drumul lui Traian),PDT,Limba germană
+Drumu Mare,drumul Mare,2,45.8816139422331,23.2867360145843,Hunedoara,Drum,1141,,Drumu Mare,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,45.8579222435792,23.2529673781723,Hunedoara,Drum,1143,,Drumu Mare,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,45.8972569062917,23.3059899169488,Hunedoara,Drum,1144,,Drumu Mare,Geomil 25000,Limba română
+La Drumu Mare,drumul Mare,2,45.8896839697333,23.3039529451793,Hunedoara,Drum,1142,,La Drumu Mare,Geomil 25000,Limba română
+De la Drum în Sus,drumuri,1,45.7621647584102,23.172342866017,Hunedoara,Altele,9847,,De la Drum în Sus,Geomil 25000,Limba română
+Drumu Luncii,drumuri,1,45.6733170737936,22.5666822572837,Hunedoara,Drum,12843,,Drumu Luncii,Geomil 25000,Limba română
+Drumu Struinilor,drumuri,1,46.0877275853834,22.476418771913,Hunedoara,Drum,10230,,Drumu Struinilor,Geomil 25000,Limba română
+Drumul după Deal,drumuri,1,45.7730564938453,22.6736763774246,Hunedoara,Drum,12842,,Drumul după Deal,Geomil 25000,Limba română
+Drum Sâri,drumul Sării,2,44.560600260345,26.4268073498713,Ialomita,Drum,5755,,Drum Sâri,Austriacă,Limba română
+Drumu serri,drumul Sării,2,44.6411826280699,26.554898506352,Ialomita,Drum,5751,,Drumu serri,Austriacă,Limba română
+Drumu Crunților,drumuri,1,44.6974247929981,26.9618060939523,Ialomita,Drum,12795,,Drumu Crunților,Geomil 25000,Limba română
+Drumu mokanilor,drumuri,1,44.6051293151728,26.5584112112225,Ialomita,Drum,5752,,Drumu mokanilor,Austriacă,Limba română
+Drumul Bănățenilor,drumuri,1,44.4596733857116,27.8319556046394,Ialomita,Drum,2834,,Drumul Bănățenilor,Geomil 25000,Limba română
+Drumul Ciorii,drumuri,1,44.7564626067733,27.6849540139649,Ialomita,Drum,12610,,Drumul Ciorii,Geomil 25000,Limba română
+Drumul Dealului,drumuri,1,44.6802410181424,27.1724180293307,Ialomita,Drum,3175,,Drumul Dealului,Geomil 25000,Limba română
+Drumul Dealului,drumuri,1,44.6632056939193,27.232727653314,Ialomita,Drum,11619,,Drumul Dealului,Geomil 25000,Limba română
+Drumul Drept,drumuri,1,44.5198647379351,27.1264743905107,Ialomita,Drum,11618,,Drumul Drept,Geomil 25000,Limba română
+Drumul Foamei,drumuri,1,44.4566584732867,27.8541306474431,Ialomita,Drum,3448,,Drumul Foamei,PDT,Limba română
+Drumul Gării,drumuri,1,44.6975403575291,27.031647316883,Ialomita,Drum,11617,,Drumul Gării,Geomil 25000,Limba română
+Drumul Nasului,drumuri,1,44.707465620525,27.6892624846988,Ialomita,Drum,12415,,Drumul Nasului,Geomil 25000,Limba română
+Drumul Sloboziei,drumuri,1,44.6768931918197,27.3541673143055,Ialomita,Drum,12412,,Drumul Sloboziei,Geomil 25000,Limba română
+Dealul Drumul Poștei,drumuri,1,47.3171285096962,27.1642026878285,Iasi,Deal,9727,,Dealul Drumul Poștei,Geomil 25000,Limba română
+Drumu Florilor,drumuri,1,47.1225763846417,27.6472636747433,Iasi,Drum,11098,,Drumu Florilor,Moldova (1892-1898),Limba română
+Drumu Furilor,drumuri,1,47.5304232499717,27.1064424383934,Iasi,Drum,8930,,Drumu Furilor,PDT,Limba română
+Drumul Cărbunăriei,drumuri,1,47.0591181606403,27.6759726940257,Iasi,Drum,9548,,Drumul Cărbunăriei,Moldova (1892-1898),Limba română
+Drumul Furilor,drumuri,1,47.5302992736937,27.3584892156317,Iasi,Drum,6660,,Drumul Furilor,PDT,Limba română
+Drumul Furilor,drumuri,1,47.354812986633,27.4766348386666,Iasi,Drum,9566,,Drumul Furilor,Moldova (1892-1898),Limba română
+Drumul lui Scarlat,drumuri,1,47.0836869419776,27.6821274103432,Iasi,Drum,9724,,Drumul lui Scarlat,Moldova (1892-1898),Limba română
+Drumul Stânei,drumuri,1,47.1055611835674,27.294865601274,Iasi,Drum,1650,,Drumul Stânei,Geomil 25000,Limba română
+Drumul Todirelului,drumuri,1,47.0546092555618,27.6118042739186,Iasi,Drum,6595,,Drumul Todirelului,PDT,Limba română
+La Drumul Doroșcani,drumuri,1,47.0779320052722,27.2737059275224,Iasi,Drum,1645,,La Drumul Doroșcani,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,44.4938571624427,25.929363005237,Ilfov,Drum,3754,,Drumu Mare,PDT,Limba română
+Drumu Mare,drumul Mare,2,44.5370230754661,26.1596162768648,Ilfov,Drum,14204,,Drumu Mare,Geomil 25000,Limba română
+Drumul Oilor,Drumul Oii,2,44.6256050333248,26.2037897424946,Ilfov,Drum,8779,,Drumul Oilor,PDT,Limba română
+Drumul Vlăsiei (Olacului),drumul Olacului,2,44.6527176390348,26.2102522569447,Ilfov,Drum,8780,,Drumul Vlăsiei (Olacului),PDT,Limba română
+Drumu Sării,drumul Sării,2,44.4238039340848,25.9340925799787,Ilfov,Drum,3734,,Drumu Sării,PDT,Limba română
+Drumul Sărei,drumul Sării,2,44.409240006572,25.9370455987628,Ilfov,Drum,11052,,Drumul Sărei,PDT,Limba română
+Drumul Serii,drumul Sării,2,44.7099052340599,26.356840500409,Ilfov,Drum,11276,,Drumul Serii,Geomil 25000,Limba română
+Drumul Maicelor,drumuri,1,44.727550223252,26.0771561908305,Ilfov,Drum,4252,,Drumul Maicelor,PDT,Limba română
+Drumul Rudarilor,drumuri,1,44.5389910656907,26.2975142092147,Ilfov,Drum,8776,,Drumul Rudarilor,PDT,Limba română
+Dealu Drumu Mare,drumul Mare,2,47.5585656468032,23.0891402163359,Maramures,Deal,6956,,Dealu Drumu Mare,Geomil 25000,Limba română
+Drumul Mare,drumul Mare,2,47.452365162325,23.405843063796,Maramures,Drum,13917,,Drumul Mare,PDT,Limba română
+Pădurea Fața Drumu Mare,drumul Mare,2,47.5583842125159,23.0714167108302,Maramures,Pădure,6957,6956,Pădurea Fața Drumu Mare,Geomil 25000,Limba română
+Calea Gardului,drumuri,1,47.5941231830104,23.1382729979741,Maramures,Drum,8707,,Calea Gardului,Geomil 25000,Limba română
+Calea Homorodului,drumuri,1,47.5859707315469,23.1216759036241,Maramures,Drum,8706,,Calea Homorodului,PDT,Limba română,Calea Homorodului,Geomil 25000,Limba română
+Calea Milei,drumuri,1,47.6022235189996,23.1379174567152,Maramures,Drum,8708,,Calea Milei,PDT,Limba română
+Drumul lui Moț,drumuri,1,47.6630086312413,24.8203625091254,Maramures,Drum,12899,,Drumul lui Moț,Geomil 25000,Limba română
+Drumul Măriuței,drumuri,1,47.6876575080536,23.7837261122048,Maramures,Drum,8229,,Drumul Măriuței,Geomil 25000,Limba română,Drumul Măriuței,PDT,Limba română
+Drumul Măriuței,drumuri,1,47.70333291975,23.8259790956415,Maramures,Drum,8230,,Drumul Măriuței,PDT,Limba română
+Drumul Mic,drumuri,1,47.4562830405965,23.3979295783633,Maramures,Drum,13918,,Drumul Mic,PDT,Limba română
+Drumul Șesurilor,drumuri,1,47.7084177465033,23.8035860158848,Maramures,Drum,8231,,Drumul Șesurilor,PDT,Limba română
+Drumul Oilor,Drumul Oii,2,44.5828556862894,23.0646609746204,Mehedinti,Drum,3667,,Drumul Oilor,PDT,Limba română
+Drumul Sării,drumul Sării,2,44.2589393239345,23.0347671626084,Mehedinti,Drum,6161,,Drumul Sării,Geomil 25000,Limba română
+Dealu Cracu cu Drum,drumuri,1,44.757101324926,22.6029025929223,Mehedinti,Deal,8416,,Dealu Cracu cu Drum,Geomil 25000,Limba română
+Dealu Drumu Cerneților,drumuri,1,44.6459288977248,22.9228465327043,Mehedinti,Deal,210,,Dealu Drumu Cerneților,Geomil 25000,Limba română
+Dealul Drumul Băii,drumuri,1,44.6377490788685,23.0700678485558,Mehedinti,Deal,12299,12298,Dealul Drumul Băii,PDT,Limba română
+Drumu Balta,drumuri,1,44.8481438400883,22.6324458489631,Mehedinti,Înălțime,6150,,Drumu Balta,Geomil 25000,Limba română
+Drumu Muntelui,drumuri,1,44.6909605922173,22.5356729054653,Mehedinti,Drum,187,,Drumu Muntelui,Geomil 25000,Limba română
+Drumu Olakului,drumuri,1,44.4355970989372,23.1464741713157,Mehedinti,Drum,130,,Drumu Olakului,Austriacă,Limba română
+Drumu Recii,drumuri,1,44.3473759532763,22.8467168230456,Mehedinti,Drum,14193,,Drumu Recii,Geomil 25000,Limba română
+Drumu Teiului,drumuri,1,44.246546765505,23.2668822200271,Mehedinti,Înălțime,12192,,Drumu Teiului,PDT,Limba română
+Drumul Băii,drumuri,1,44.5569827318597,23.0609696036624,Mehedinti,Drum,3665,,Drumul Băii,PDT,Limba română
+Drumul Ioanei,drumuri,1,44.5259110733931,23.117561235798,Mehedinti,Drum,5843,,Drumul Ioanei,Geomil 25000,Limba română
+Drumul Mare,drumuri,1,44.4035909801599,23.1815480174338,Mehedinti,Drum,132,,Drumul Mare,Geomil 25000,Limba română
+Drumul Meilor,drumuri,1,44.5988602461958,23.3860321865876,Mehedinti,Drum,14244,,Drumul Meilor,Geomil 25000,Limba română
+Drumul Racoviței,drumuri,1,44.5490897449806,23.3645498233693,Mehedinti,Drum,12303,,Drumul Racoviței,Geomil 25000,Limba română
+La Drumul Destinat,drumuri,1,44.5356097398252,22.6238765352812,Mehedinti,Drum,11180,,La Drumul Destinat,ANCPI,Limba română
+Pădurea Drumul Băii,drumuri,1,44.6408124325634,23.0707350617052,Mehedinti,Pădure,12298,,Pădurea Drumul Băii,PDT,Limba română
+Șoseaua Dumbrava,drumuri,1,44.5706219177104,22.8626808950966,Mehedinti,Drum,173,,Șoseaua Dumbrava,Geomil 25000,Limba română
+Șoseaua Dumbrava,drumuri,1,44.5919793887725,22.81848243536,Mehedinti,Drum,179,,Șoseaua Dumbrava,Geomil 25000,Limba română
+Șoseaua Dumbrava,drumuri,1,44.5806001430554,22.841079488434,Mehedinti,Drum,8074,,Șoseaua Dumbrava,PDT,Limba română
+Valea cu Drum,drumuri,1,44.3932654176,22.9495399872,Mehedinti,Vale,5189,,Valea cu Drum,Geomil 25000,Limba română
+Valea cu Drum,drumuri,1,44.7612242377647,22.5939174971349,Mehedinti,Vale,13440,,Valea cu Drum,Geomil 25000,Limba română
+Drumul lui Traian,Drumul lui Traian,2,46.4441376281343,24.1626117306686,Mures,Drum,4341,,Drumul lui Traian,Geomil 25000,Limba română
+Drumul lui Traian,Drumul lui Traian,2,46.4394062323086,24.1953491632052,Mures,Drum,4342,,Drumul lui Traian,Geomil 25000,Limba română
+Drumul lui Traian,Drumul lui Traian,2,46.5887424848819,24.819166617647,Mures,Drum,10630,,Drumul lui Traian,PDT,Limba română
+Crucea Drumului,drumuri,1,46.8560211614901,24.7772209984506,Mures,Drum,5454,,Crucea Drumului,Geomil 25000,Limba română
+Dealul Drumul Morților,drumuri,1,46.5432195756598,24.876364965681,Mures,Deal,12798,,Dealul Drumul Morților,PDT,Limba română
+Dealul Drumul Saroș,drumuri,1,46.3228055422023,24.3488953050492,Mures,Deal,4353,,Dealul Drumul Saroș,Geomil 25000,Limba română
+Dealul Drumul Tăiat,drumuri,1,46.5459149091584,24.9139969527118,Mures,Deal,12797,,Dealul Drumul Tăiat,PDT,Limba română
+Drumul Fanunu,drumuri,1,46.6806286069908,25.1802678140431,Mures,Drum,13794,,Drumul Fanunu,Geomil 25000,Limba română
+Drumul Logig,drumuri,1,46.8710098172609,24.5755758909424,Mures,Drum,7308,,Drumul Logig,Geomil 25000,Limba română
+Drumul Mediaș,drumuri,1,46.2861626618631,24.2312432806501,Mures,Drum,1918,,Drumul Mediaș,Geomil 25000,Limba română
+Pădurea Trei Drumuri,drumuri,1,46.5620115033162,24.4143208596943,Mures,Pădure,5379,,Pădurea Trei Drumuri,Geomil 25000,Limba română
+Pe Drumul Băgaciu,drumuri,1,46.2741125738786,24.4279352106453,Mures,Drum,7350,,Pe Drumul Băgaciu,Geomil 25000,Limba română
+Drumul Chinezilor,drumuri,1,46.821227274988,26.3438798451561,Neamt,Drum,2030,,Drumul Chinezilor,Geomil 25000,Limba română
+Drumul Episcopiei,drumuri,1,46.9320826255284,27.0435452832887,Neamt,Drum,1634,,Drumul Episcopiei,Geomil 25000,Limba română
+Drumul lui Creangă,drumuri,1,47.2490168341504,25.930853908293,Neamt,Drum,13513,,Drumul lui Creangă,Geomil 25000,Limba română
+Drumul Morii,drumuri,1,47.1074024521154,26.2740298841946,Neamt,Drum,9128,,Drumul Morii,Geomil 25000,Limba română
+Drumul Obscioara,drumuri,1,47.0252789922747,25.7935747161147,Neamt,Drum,11716,,Drumul Obscioara,Geomil 25000,Limba română
+Drumul Pietrelor,drumuri,1,46.9808347677041,27.1462018930037,Neamt,Drum,1638,,Drumul Pietrelor,Geomil 25000,Limba română
+Piciorul cu Drum,drumuri,1,47.0840121843762,26.0118675742104,Neamt,Drum,6466,,Piciorul cu Drum,PDT,Limba română
+Drumul lui Traian,Drumul lui Traian,2,43.7802311630781,24.4511293630466,Olt,Drum,3326,,Drumul lui Traian,PDT,Limba română
+Drumul lui Traian,Drumul lui Traian,2,44.2044574576561,24.355882448495,Olt,Drum,12596,,Drumul lui Traian,British Maps (1944),Limba română
+Drumu Mare,drumul Mare,2,44.1563878107112,24.6835294728671,Olt,Drum,1366,,Drumu Mare,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,44.104233773572,24.6583154703855,Olt,Drum,7749,,Drumu Mare,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,44.1616116298103,24.7745352082494,Olt,Drum,13535,,Drumu Mare,Geomil 25000,Limba română
+Drumu Mare Alba,drumul Mare,2,43.802251167177,24.5215153687716,Olt,Drum,1267,,Drumu Mare Alba,Geomil 25000,Limba română
+Drumul Mare,drumul Mare,2,44.440400088576,24.1228561672701,Olt,Drum,4803,,Drumul Mare,PDT,Limba română
+Copacul de la Drumul Oilor,Drumul Oii,2,44.1189638380524,24.7457023641602,Olt,Altele,7752,,Copacul de la Drumul Oilor,PDT,Limba română
+Drumu Oii,Drumul Oii,2,44.6538838280592,24.4884967208032,Olt,Drum,3050,,Drumu Oii,Geomil 25000,Limba română
+Drumul Oilor,Drumul Oii,2,44.1926769982131,24.6853807028783,Olt,Drum,2986,,Drumul Oilor,PDT,Limba română
+Drumul Oilor,Drumul Oii,2,44.2336068552414,24.6589736731437,Olt,Drum,2987,,Drumul Oilor,PDT,Limba română
+Drumul Oilor,Drumul Oii,2,44.3888667288143,24.4024935271097,Olt,Drum,3007,,Drumul Oilor,PDT,Limba română
+Drumul Oilor,Drumul Oii,2,44.4803756479589,24.2651565984036,Olt,Drum,8295,,Drumul Oilor,PDT,Limba română
+Drumul Oilor,Drumul Oii,2,44.5823342742231,24.4468795966779,Olt,Drum,9349,,Drumul Oilor,PDT,Limba română
+Drumul Olacului,drumul Olacului,2,44.4741273725567,24.4173324355609,Olt,Drum,11002,,Drumul Olacului,PDT,Limba română
+Drum Poștilov,drumuri,1,44.077016317206,24.4688942372506,Olt,Drum,3646,,Drum Poștilov,Austriacă,Limba română
+Drum Puzzilor,drumuri,1,43.9067809290076,24.4669564227745,Olt,Drum,10690,,Drum Puzzilor,Austriacă,Limba română
+Drumu Băjeniei,drumuri,1,44.6264426785487,24.5386122406315,Olt,Drum,12696,,Drumu Băjeniei,Geomil 25000,Limba română,Drumu Băjeniei,PDT,Limba română
+Drumu Buczilor,drumuri,1,43.8443838788525,24.5783046561109,Olt,Drum,11959,,Drumu Buczilor,Oltenia-Muntenia (1790),Limba română
+Drumu Cărbunarului,drumuri,1,44.4826493094541,24.4903639190827,Olt,Drum,1367,,Drumu Cărbunarului,Geomil 25000,Limba română
+Drumu Craiovei,drumuri,1,44.4560478755326,24.2415399897489,Olt,Drum,280,,Drumu Craiovei,Geomil 25000,Limba română,Drumul Craiovei,PDT,Limba română
+Drumu Jenoaicăi,drumuri,1,44.0866840136129,24.6425635753572,Olt,Drum,1260,,Drumu Jenoaicăi,Geomil 25000,Limba română
+Drumu Linia Generală,drumuri,1,44.077619312509,24.6561854402411,Olt,Drum,1259,,Drumu Linia Generală,Geomil 25000,Limba română
+Drumu Nebunei,drumuri,1,44.6332520204702,24.6343176176383,Olt,Drum,1369,,Drumu Nebunei,Geomil 25000,Limba română
+Drumu Roșiorilor,drumuri,1,44.0970414345725,24.7795854340555,Olt,Drum,1364,,Drumu Roșiorilor,Geomil 25000,Limba română
+Drumu Rusăneștilor,drumuri,1,43.929648958005,24.5518117024119,Olt,Drum,1263,,Drumu Rusăneștilor,Geomil 25000,Limba română
+Drumu Turcului,drumuri,1,44.2093199213994,24.6101488941548,Olt,Drum,1287,,Drumu Turcului,Geomil 25000,Limba română
+Drumul Bucinișului,drumuri,1,43.8778081729135,24.3956586281096,Olt,Drum,3032,,Drumul Bucinișului,Geomil 25000,Limba română
+Drumul Buților,drumuri,1,43.8678395331744,24.5060278767005,Olt,Drum,11960,,Drumul Buților,PDT,Limba română
+Drumul Buților,drumuri,1,43.923481275161,24.5155177217049,Olt,Drum,12221,,Drumul Buților,PDT,Limba română
+Drumul Căluiului,drumuri,1,44.4450582303569,24.0336659733338,Olt,Drum,9334,,Drumul Căluiului,PDT,Limba română
+Drumul Corbului,drumuri,1,44.483163446127,23.9361148677685,Olt,Drum,11341,,Drumul Corbului,ANCPI,Limba română
+Drumul Corbului,drumuri,1,44.6114796437786,24.5621293786765,Olt,Drum,12695,,Drumul Corbului,PDT,Limba română
+Drumul Craiovei,drumuri,1,44.3854736706,24.2237888671507,Olt,Drum,4806,,Drumul Craiovei,PDT,Limba română
+Drumul Dealului,drumuri,1,44.4456318701206,24.1256273837312,Olt,Altele,4802,,Drumul Dealului,PDT,Limba română
+Drumul Dealului,drumuri,1,44.3875433041226,24.0113885623326,Olt,Drum,9337,,Drumul Dealului,PDT,Limba română
+Drumul Fundăturei,drumuri,1,44.6190065157429,24.5362074320234,Olt,Drum,8123,,Drumul Fundăturei,PDT,Limba română
+Drumul Gărei,drumuri,1,43.8853531898597,24.5576747004689,Olt,Drum,11961,,Drumul Gărei,PDT,Limba română
+Drumul lui Crai,drumuri,1,44.5931749207307,24.5319741291061,Olt,Drum,8122,,Drumul lui Crai,PDT,Limba română
+Drumul Mori,drumuri,1,44.6189329602943,24.6955638557787,Olt,Drum,10995,,Drumul Mori,PDT,Limba română
+Drumul Morii,drumuri,1,44.6327016762643,24.696109476478,Olt,Drum,11000,,Drumul Morii,PDT,Limba română
+Drumul Roșu,drumuri,1,44.4332221511233,24.037219440398,Olt,Drum,9336,,Drumul Roșu,PDT,Limba română
+Drumul Stancului,drumuri,1,44.031350919302,24.2303612451266,Olt,Drum,7741,,Drumul Stancului,PDT,Limba română
+Drumul Verde,drumuri,1,44.4579141558008,24.0003139851347,Olt,Drum,9342,,Drumul Verde,PDT,Limba română
+Fost Drumul Bechetului,drumuri,1,44.041751019806,24.2511273494921,Olt,Drum,7740,,Fost Drumul Bechetului,PDT,Limba română
+Fost drumul Bichetului,drumuri,1,44.0300463400025,24.2463542824263,Olt,Drum,7739,,Fost drumul Bichetului,PDT,Limba română
+Între Drumuri,drumuri,1,44.3374717641908,24.273374725465,Olt,Altele,1290,,Între Drumuri,Geomil 25000,Limba română
+Măgura cu Drum,drumuri,1,43.7579272835958,24.4098857088569,Olt,Înălțime,1268,,Măgura cu Drum,Geomil 25000,Limba română
+Măgura Drumu Buților,drumuri,1,43.8228160327856,24.5445743605493,Olt,Înălțime,1266,11959,Măgura Drumu Buților,Geomil 25000,Limba română
+Poiana Piscul Drumului,drumuri,1,44.5944039682908,24.3522864835085,Olt,Poiană,9348,,Poiana Piscul Drumului,Geomil 25000,Limba română,Poiana Piscu Drumului,PDT,Limba română
+Valea Drumu Roșu,drumuri,1,44.6170423355359,24.380851219809,Olt,Vale,11041,,Valea Drumu Roșu,Geomil 25000,Limba română
+Drumul Mare,drumul Mare,2,45.0459566486513,25.9552583181102,Prahova,Drum,8834,,Drumul Mare,PDT,Limba română
+Drumul Morei,drumul Mare,2,44.992208971225,25.9841070713631,Prahova,Drum,10082,,Drumul Morei,PDT,Limba română
+Drumul Sărei,drumul Sării,2,45.044924529277,25.9419139799652,Prahova,Drum,8833,,Drumul Sărei,PDT,Limba română
+Dealul Drumul Roșu,drumuri,1,45.1560705833082,26.0627740027899,Prahova,Deal,13010,,Dealul Drumul Roșu,Geomil 25000,Limba română
+Drumu Curcubeului,drumuri,1,44.7798662301628,26.1176706919047,Prahova,Drum,8802,,Drumu Curcubeului,PDT,Limba română
+Drumul de sub tei,drumuri,1,45.0424015608607,25.9593975096278,Prahova,Drum,3981,,Drumul de sub tei,PDT,Limba română
+Drumul Ghirdovenilor,drumuri,1,45.0293470696696,25.9472080751508,Prahova,Drum,13957,,Drumul Ghirdovenilor,PDT,Limba română
+Drumul Lacu Turcului,drumuri,1,44.776388286,26.2476727218252,Prahova,Drum,8791,,Drumul Lacu Turcului,PDT,Limba română
+Drumul Mehedința,drumuri,1,45.0696291161644,26.187201369713,Prahova,Drum,3978,,Drumul Mehedința,Geomil 25000,Limba română
+Plaiul Drumul Carelor,drumuri,1,45.1182776485208,25.6183816196906,Prahova,Înălțime,8813,,Plaiul Drumul Carelor,PDT,Limba română
+Calea Românească,drumuri,1,47.1635996350571,23.0628945418846,Salaj,Drum,7557,,Calea Românească,PDT,Limba română
+Drumuri,drumuri,1,47.0535255268117,23.467662654613,Salaj,Drum,6926,,Drumuri,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,47.4627189169032,22.7784172234895,Satu Mare,Drum,6954,,Drumu Mare,Geomil 25000,Limba română,Drumu mare,Imperiul Habsburgic (1887),Limba română
+Dealu Drumu Bârsăului,drumuri,1,47.6471043700784,23.1394716465584,Satu Mare,Deal,10828,,Dealu Drumu Bârsăului,Geomil 25000,Limba română,Drumu Bârsăului,Imperiul Habsburgic (1887),Limba română
+Dealu Drumu Medișei,drumuri,1,47.6080165502623,22.9661240745788,Satu Mare,Deal,5957,,Dealu Drumu Medișei,Geomil 25000,Limba română
+Dealu Drumu Ungurului,drumuri,1,47.6436674621574,23.0993727310265,Satu Mare,Deal,4419,,Dealu Drumu Ungurului,Geomil 25000,Limba română
+Drumu Ardudului,drumuri,1,47.6527375935717,22.754582219482,Satu Mare,Drum,6966,,Drumu Ardudului,Geomil 25000,Limba română
+Drumu Asuajului,drumuri,1,47.6036721891601,23.0951486760906,Satu Mare,Drum,13377,,Drumu Asuajului,Geomil 25000,Limba română
+Drumu Bătrânesc,drumuri,1,47.6003098107138,22.8914960859597,Satu Mare,Înălțime,8709,,Drumu Bătrânesc,Geomil 25000,Limba română
+Drumu Cigului,drumuri,1,47.5913745732701,22.5605368104001,Satu Mare,Drum,2610,,Drumu Cigului,Geomil 25000,Limba română
+Drumu Cigului,drumuri,1,47.5669565398982,22.5874940003256,Satu Mare,Drum,2611,,Drumu Cigului,Geomil 25000,Limba română
+Drumu Debreținului,drumuri,1,47.7020472352294,22.2838204010584,Satu Mare,Drum,2608,,Drumu Debreținului,Geomil 25000,Limba română
+Drumu Dorolțului,drumuri,1,47.6407842105452,22.720010917427,Satu Mare,Drum,5953,,Drumu Dorolțului,Geomil 25000,Limba română
+Drumu Drăgăii,drumuri,1,47.4015013886739,22.6004923751556,Satu Mare,Drum,13106,,Drumu Drăgăii,Geomil 25000,Limba română
+Drumu Drept,drumuri,1,47.8470974643485,23.1777167069283,Satu Mare,Drum,2600,,Drumu Drept,Geomil 25000,Limba română
+Drumu Foienilor,drumuri,1,47.6758180806283,22.355602382457,Satu Mare,Drum,5978,,Drumu Foienilor,Geomil 25000,Limba română
+Drumu Ghenciului,drumuri,1,47.6325796890097,22.5503215323116,Satu Mare,Drum,11981,,Drumu Ghenciului,Geomil 25000,Limba română
+Drumu Ghirișei,drumuri,1,47.570552399982,22.7970744653836,Satu Mare,Drum,11985,,Drumu Ghirișei,Geomil 25000,Limba română
+Drumu Hergheliei,drumuri,1,47.5538411770644,22.6543128942102,Satu Mare,Drum,11983,,Drumu Hergheliei,Geomil 25000,Limba română
+Drumu Moftinului,drumuri,1,47.644345746371,22.5441689520381,Satu Mare,Drum,11978,,Drumu Moftinului,Geomil 25000,Limba română
+Drumu mori,drumuri,1,47.4339742197735,22.7202949645157,Satu Mare,Drum,10784,,Drumu mori,Imperiul Habsburgic (1887),Limba română
+Drumu Petreștilor,drumuri,1,47.6416804723454,22.3926807062772,Satu Mare,Drum,5977,,Drumu Petreștilor,Geomil 25000,Limba română
+Drumu Rușilor,drumuri,1,47.7191043548837,22.9603157123918,Satu Mare,Drum,11514,,Drumu Rușilor,Geomil 25000,Limba română
+Drumu Tășnadului,drumuri,1,47.5626970026658,22.654889006422,Satu Mare,Înălțime,11984,,Drumu Tășnadului,Geomil 25000,Limba română
+Drumu Viilor,drumuri,1,47.6814016108806,22.880868825088,Satu Mare,Drum,5962,,Drumu Viilor,Geomil 25000,Limba română
+Drumul Curții,drumuri,1,47.6322793570178,23.2265964275695,Satu Mare,Drum,8220,,Drumul Curții,PDT,Limba română
+Drumul Sfoarei,drumuri,1,47.8356953146077,23.1293328440558,Satu Mare,Drum,11991,,Drumul Sfoarei,PDT,Limba română
+La Drumu Giungiului,drumuri,1,47.5644854352985,22.7959905971344,Satu Mare,Drum,6967,,La Drumu Giungiului,Geomil 25000,Limba română
+Valea Drumului,drumuri,1,47.474184660597,22.8839584585396,Satu Mare,Vale,12144,,Valea Drumului,Geomil 25000,Limba română
+Calea Crinței,drumuri,1,45.9374719032094,24.1436395182041,Sibiu,Drum,8598,,Calea Crinței,PDT,Limba română
+Dealul Fața Drumului,drumuri,1,45.7825010833685,23.9628297132924,Sibiu,Deal,8589,8590,Dealul Fața Drumului,Geomil 25000,Limba română
+Drumul Androchel,drumuri,1,45.9029257875702,24.5774912625847,Sibiu,Drum,13801,,Drumul Androchel,Geomil 25000,Limba română
+Drumul Cincu,drumuri,1,45.8980577141486,24.610288152866,Sibiu,Drum,10632,,Drumul Cincu,Geomil 25000,Limba română
+Fața Drumului,drumuri,1,45.784473622075,23.9558819211944,Sibiu,Altele,8588,8590,Fața Drumului,PDT,Limba română
+La Drumuri,drumuri,1,46.0101963043433,24.502571543008,Sibiu,Drum,7984,,La Drumuri,Geomil 25000,Limba română
+Pădurea Fața Drumului,drumuri,1,45.7867413298829,23.9657543065552,Sibiu,Pădure,8590,,Pădurea Fața Drumului,PDT,Limba română
+Bojana an Drum,drumuri,1,47.6144454244815,25.9396543096069,Suceava,Poiană,12772,,Bojana an Drum,Bucovina (1773-1775),Limba română
+Culmea Drumul Tătarilor,drumuri,1,47.4956227193849,25.3076190542228,Suceava,Înălțime,1859,,Culmea Drumul Tătarilor,Geomil 25000,Limba română
+Dealul Drumul Săpat,drumuri,1,47.287041920251,26.2435657266073,Suceava,Deal,8911,,Dealul Drumul Săpat,PDT,Limba română
+Drumul Laura,drumuri,1,47.9311276303826,25.6047515638412,Suceava,Drum,2292,,Drumul Laura,Geomil 25000,Limba română
+Drumul lui Creangă,drumuri,1,47.2660433867513,25.8972598576817,Suceava,Altele,7407,,Drumul lui Creangă,Geomil 25000,Limba română
+Drumul Militar,drumuri,1,47.7749817726212,25.4082237016365,Suceava,Drum,9081,,Drumul Militar,Geomil 25000,Limba română
+Drumul Nemțișorului,drumuri,1,47.3985157841777,26.0775881145179,Suceava,Drum,1770,,Drumul Nemțișorului,Geomil 25000,Limba română
+Între Drumuri,drumuri,1,47.3171994529461,25.8112010257574,Suceava,Drum,10730,,Între Drumuri,Geomil 25000,Limba română
+Pârâul cu Drumu,drumuri,1,47.3741563299754,25.498371100094,Suceava,Vale,9083,,Pârâul cu Drumu,PDT,Limba română
+Pârâul Drumul Săpat,drumuri,1,47.286649536142,26.246350200208,Suceava,Vale,8912,8911,Pârâul Drumul Săpat,PDT,Limba română
+Valea Drumul Săpat,drumuri,1,47.2987792455175,26.2335522108254,Suceava,Vale,2255,,Valea Drumul Săpat,Geomil 25000,Limba română
+Drumu Mare,drumul Mare,2,43.9894190327964,24.6794209496788,Teleorman,Drum,5790,,Drumu Mare,Austriacă,Limba română
+Drum Oii,Drumul Oii,2,43.848297330601,24.8394880372322,Teleorman,Drum,3643,,Drum Oii,Austriacă,Limba română
+Drum Oii,Drumul Oii,2,43.9964654761951,24.7693836920864,Teleorman,Drum,12421,,Drum Oii,Austriacă,Limba română
+Drumu Oii,Drumul Oii,2,43.9111999196474,24.825665571571,Teleorman,Drum,1357,,Drumu Oii,Geomil 25000,Limba română
+Drumu Oii,Drumul Oii,2,44.1459784243306,24.72629634953,Teleorman,Drum,1365,,Drumu Oii,Geomil 25000,Limba română,Drumul Oilor,PDT,Limba română
+Drumu Oii,Drumul Oii,2,44.064844433901,24.7635219071787,Teleorman,Drum,5792,,Drumu Oii,Geomil 25000,Limba română
+Drumu Oii,Drumul Oii,2,44.0866321468722,24.7625291154376,Teleorman,Drum,12429,,Drumu Oii,PDT,Limba română
+Drumul Oei,Drumul Oii,2,43.7865943313726,25.2020996881562,Teleorman,Drum,9998,,Drumul Oei,PDT,Limba română
+Găvanul din Drumul Oii,Drumul Oii,2,43.8682612655055,24.8299647892681,Teleorman,Apă-deal-câmpie,12216,,Găvanul din Drumul Oii,PDT,Limba română,Găvanu din Drumu Oii,Geomil 25000,Limba română
+Drum Olakului,drumul Olacului,2,43.721993798321,25.5742626956512,Teleorman,Drum,3634,,Drum Olakului,Austriacă,Limba română
+Drumul Olacului,drumul Olacului,2,44.3103753914697,25.1814511358619,Teleorman,Drum,9031,,Drumul Olacului,PDT,Limba română
+Drumul Olacului,drumul Olacului,2,43.7915320070855,25.0710037219189,Teleorman,Drum,12224,,Drumul Olacului,PDT,Limba română
+Drumu Seri,drumul Sării,2,44.3570781177308,25.4446031423201,Teleorman,Drum,12131,,Drumu Seri,Austriacă,Limba română
+Drumu Untului,Drumul Untului,2,43.8226617329718,25.6491772361659,Teleorman,Drum,1341,,Drumu Untului,Geomil 25000,Limba română
+Drumul Untului,Drumul Untului,2,43.8580879182271,25.0572766146521,Teleorman,Drum,12430,,Drumul Untului,PDT,Limba română
+Măgura din Drumu Untului,Drumul Untului,2,44.1978518367499,25.2059996035267,Teleorman,Drum,1252,,Măgura din Drumu Untului,Geomil 25000,Limba română
+Drum Gongolui,drumuri,1,44.0407970048899,24.8843289113567,Teleorman,Drum,3641,,Drum Gongolui,Austriacă,Limba română
+Drum Positlor,drumuri,1,43.8294868280624,24.8909587963153,Teleorman,Drum,5785,,Drum Positlor,Austriacă,Limba română
+Drumu Câmpu Plosca,drumuri,1,43.9609260825023,25.1481689622248,Teleorman,Drum,1377,,Drumu Câmpu Plosca,Geomil 25000,Limba română
+Drumu Lakului,drumuri,1,44.295284760704,25.0426283751022,Teleorman,Drum,13983,,Drumu Lakului,Austriacă,Limba română
+Drumu Rății,drumuri,1,44.0802403062355,24.8297497512039,Teleorman,Drum,1256,,Drumu Rății,Geomil 25000,Limba română
+Drumu Rății,drumuri,1,44.0903024157099,24.8511757432515,Teleorman,Drum,1257,,Drumu Rății,Geomil 25000,Limba română
+Drumu Roșu,drumuri,1,43.8715320373714,25.3808150529045,Teleorman,Drum,3410,,Drumu Roșu,Geomil 25000,Limba română
+Drumu Țintei,drumuri,1,43.8011588040225,25.2077200961857,Teleorman,Drum,1387,,Drumu Țintei,Geomil 25000,Limba română
+Drumu Turnului,drumuri,1,44.0128204574582,24.6735717843331,Teleorman,Drum,11601,,Drumu Turnului,Geomil 25000,Limba română
+Drumul Alecsandrii,drumuri,1,43.8005290921136,25.3011312404451,Teleorman,Drum,3419,,Drumul Alecsandrii,PDT,Limba română
+Drumul Alecsandrii,drumuri,1,43.7681224208278,25.2754235958066,Teleorman,Drum,3424,,Drumul Alecsandrii,PDT,Limba română
+Drumul Alecsandrii,drumuri,1,43.7471041341525,25.2600500230898,Teleorman,Drum,3425,,Drumul Alecsandrii,PDT,Limba română
+Drumul Bătrânii,drumuri,1,43.6990025749911,25.1311701655123,Teleorman,Drum,12223,,Drumul Bătrânii,PDT,Limba română
+Drumul Bobeni,drumuri,1,43.8533346382426,24.9924519168181,Teleorman,Drum,12435,,Drumul Bobeni,PDT,Limba română
+Drumul Bobeni,drumuri,1,43.8404976591981,24.974752413797,Teleorman,Drum,12436,,Drumul Bobeni,PDT,Limba română
+Drumul Ciocăneștilor,drumuri,1,44.0481049962554,25.5533655716844,Teleorman,Drum,4214,,Drumul Ciocăneștilor,PDT,Limba română
+Drumul Fierului,drumuri,1,43.914041498,25.5070891126,Teleorman,Drum,4209,,Drumul Fierului,PDT,Limba română
+Drumul Gherghiței,drumuri,1,43.795303400159,25.2566079920605,Teleorman,Drum,3422,,Drumul Gherghiței,PDT,Limba română
+Drumul Hoțului,drumuri,1,43.8054650036057,24.8388212747086,Teleorman,Drum,8014,,Drumul Hoțului,PDT,Limba română
+Drumul Lăceanului,drumuri,1,44.3452655254742,25.0977284493497,Teleorman,Drum,9037,,Drumul Lăceanului,PDT,Limba română,Drumul Lăceanului,Geomil 25000,Limba română
+Drumul Lambii,drumuri,1,43.8320094824557,25.5265451251289,Teleorman,Drum,1389,,Drumul Lambii,Geomil 25000,Limba română
+Drumul Roșiorilor de Vede,drumuri,1,44.0297671247792,24.8302242469171,Teleorman,Drum,12422,,Drumul Roșiorilor de Vede,PDT,Limba română
+Drumul Sărei,drumuri,1,44.3351824034586,25.0859605708398,Teleorman,Drum,9036,,Drumul Sărei,PDT,Limba română
+Drumul Tinizei,drumuri,1,43.7504042516,25.2671442598,Teleorman,Drum,4210,,Drumul Tinizei,PDT,Limba română
+Drumul Țintei,drumuri,1,43.7863065799357,25.2244448854609,Teleorman,Drum,3790,,Drumul Țintei,PDT,Limba română
+Valea cu Drum,drumuri,1,43.862736964785,24.9552226698311,Teleorman,Vale,12432,,Valea cu Drum,PDT,Limba română
+Drumul Mare,drumul Mare,2,45.8588095193051,22.0188844155416,Timis,Drum,4301,,Drumul Mare,PDT,Limba română
+Fântâna lângă drumul mare,drumul Mare,2,45.7550867217487,20.9231725963575,Timis,Altele,7621,,Fântâna lângă drumul mare,PDT,Limba română
+Drumu cu Cireși,drumuri,1,45.9546486243318,20.574381067953,Timis,Drum,7625,,Drumu cu Cireși,Geomil 25000,Limba română
+Drumu cu Nuci,drumuri,1,45.9538983179416,20.5998798893189,Timis,Drum,7624,,Drumu cu Nuci,Geomil 25000,Limba română
+Drumu de Piatra,drumuri,1,45.9933394371072,20.3630074907005,Timis,Drum,5672,,Drumu de Piatra,Geomil 25000,Limba română
+Drumu Dudeștii Vechi,drumuri,1,45.9689417074507,20.5380291274269,Timis,Drum,7626,,Drumu Dudeștii Vechi,Geomil 25000,Limba română
+Drumu Dudului,drumuri,1,45.8247768889051,21.0123235080814,Timis,Drum,11352,,Drumu Dudului,Geomil 25000,Limba română
+Drumu Folei,drumuri,1,45.4966961291436,21.3529588420804,Timis,Înălțime,5674,,Drumu Folei,Geomil 25000,Limba română
+Drumu Foroticului,drumuri,1,45.2449841444301,21.470184559972,Timis,Drum,897,,Drumu Foroticului,Geomil 25000,Limba română
+Drumu Jadanilor,drumuri,1,45.9490334926638,21.2638395483283,Timis,Drum,7636,,Drumu Jadanilor,Geomil 25000,Limba română
+Drumu Livezilor,drumuri,1,45.6877182161901,21.6753934564933,Timis,Drum,12655,,Drumu Livezilor,Geomil 25000,Limba română
+Drumu Lugojului,drumuri,1,45.5718421063271,21.6357876642107,Timis,Drum,887,,Drumu Lugojului,Geomil 25000,Limba română
+Drumu Merelor,drumuri,1,45.4184574913446,21.0788762660732,Timis,Drum,1977,,Drumu Merelor,Geomil 25000,Limba română
+Drumu Mocrinului,drumuri,1,45.9390023961381,20.5046621218975,Timis,Drum,7627,,Drumu Mocrinului,Geomil 25000,Limba română
+Drumu Morii,drumuri,1,46.1141181348444,20.6512600087564,Timis,Drum,1958,,Drumu Morii,Geomil 25000,Limba română
+Drumu Mureșului,drumuri,1,45.7688495704419,20.7260790169488,Timis,Drum,1968,,Drumu Mureșului,Geomil 25000,Limba română
+Drumu Năzdravenilor,drumuri,1,46.0589150217636,21.4896723572416,Timis,Drum,14249,,Drumu Năzdravenilor,Geomil 25000,Limba română
+Drumu Nerăului,drumuri,1,45.9637406428815,20.6886191862818,Timis,Drum,7623,,Drumu Nerăului,Geomil 25000,Limba română
+Drumu Orașului,drumuri,1,45.6155127990454,21.4160527882258,Timis,Drum,5675,,Drumu Orașului,Geomil 25000,Limba română
+Drumu Panciovei,drumuri,1,45.3397448488246,21.2242928631254,Timis,Drum,1978,,Drumu Panciovei,Geomil 25000,Limba română
+Drumu Partoș,drumuri,1,45.3440164795548,21.1942183151496,Timis,Drum,7602,,Drumu Partoș,Geomil 25000,Limba română
+Drumu Rudna,drumuri,1,45.4685756837055,20.9081706018026,Timis,Drum,1975,,Drumu Rudna,Geomil 25000,Limba română
+Drumu Țernei,drumuri,1,45.7637626987217,20.7051845555908,Timis,Drum,1967,,Drumu Țernei,Geomil 25000,Limba română
+Drumu Vinilor,drumuri,1,45.7841916425131,21.9743037843709,Timis,Drum,10591,,Drumu Vinilor,Imperiul Habsburgic (1887),Limba română
+Drumu Vulpii,drumuri,1,45.4192727615065,21.0857559773949,Timis,Drum,1976,,Drumu Vulpii,Geomil 25000,Limba română
+Drumul Birtului,drumuri,1,45.7748081124627,21.9611167251019,Timis,Drum,10590,,Drumul Birtului,Imperiul Habsburgic (1887),Limba română
+Drumul Costeiului,drumuri,1,45.7589051972912,21.9159838343921,Timis,Drum,10862,,Drumul Costeiului,Imperiul Habsburgic (1887),Limba română,Drumu Coșteiului,Geomil 25000,Limba română
+Drumul Crainicului,drumuri,1,45.7704984916098,22.0022113598245,Timis,Drum,6179,,Drumul Crainicului,PDT,Limba română
+Drumul la Mureș,drumuri,1,46.0881876541194,20.6280741440623,Timis,Drum,5668,,Drumul la Mureș,PDT,Limba română
+Drumul la Mureș,drumuri,1,46.1124557791337,20.6449700791203,Timis,Drum,7632,,Drumul la Mureș,PDT,Limba română
+Drumul Muranilor,drumuri,1,45.956596704374,21.309510928605,Timis,Drum,5651,,Drumul Muranilor,PDT,Limba română
+Drumul Pădurii,drumuri,1,46.0927268716805,20.6230370487688,Timis,Drum,5667,,Drumul Pădurii,PDT,Limba română
+Drumul Pădurii,drumuri,1,46.112291444389,20.6276510184388,Timis,Drum,12652,,Drumul Pădurii,PDT,Limba română
+Drumul Paocului,drumuri,1,45.8182659056527,22.0154127119553,Timis,Drum,4299,,Drumul Paocului,PDT,Limba română
+Drumul Șesului,drumuri,1,45.8031510048439,20.9484532652395,Timis,Drum,11354,,Drumul Șesului,ANCPI,Limba română
+Drumul Vacii,drumuri,1,45.6148066798639,21.406328105459,Timis,Drum,7612,,Drumul Vacii,PDT,Limba română
+Drumul Zamborului,drumuri,1,46.1019451033299,20.5891732079953,Timis,Drum,5666,,Drumul Zamborului,PDT,Limba română
+La Cotu Drumului,drumuri,1,45.6438612992926,20.8006673839557,Timis,Altele,7618,,La Cotu Drumului,Geomil 25000,Limba română
+Pesta Drumul Timișoarei,drumuri,1,46.0322443797611,20.703214134922,Timis,Câmp,5660,,Pesta Drumul Timișoarei,PDT,Limba română
+Câmpul cu drumul Camberului,drumuri,1,44.9388612804853,28.6849540329203,Tulcea,Câmp,11078,,Câmpul cu drumul Camberului,PDT,Limba română
+Drumu Tătarului,drumuri,1,45.0054842687465,28.1569111900547,Tulcea,Drum,6701,,Drumu Tătarului,PDT,Limba română
+Drumul Bolzii,drumuri,1,45.1617581106486,28.2385296755757,Tulcea,Drum,7685,,Drumul Bolzii,Geomil 25000,Limba română
+Drumul Carapelitului,drumuri,1,45.070160978078,28.3301246385417,Tulcea,Drum,2885,,Drumul Carapelitului,Geomil 25000,Limba română
+Drumul Cârjelarilor,drumuri,1,45.0222690983239,28.3062403120783,Tulcea,Drum,11592,,Drumul Cârjelarilor,Geomil 25000,Limba română
+Drumul Cazacilor,drumuri,1,44.7549659610369,28.7655704366707,Tulcea,Drum,12908,,Drumul Cazacilor,Geomil 25000,Limba română
+Drumul Ceamurliei,drumuri,1,44.7946716066085,28.6103082429398,Tulcea,Drum,12910,,Drumul Ceamurliei,Geomil 25000,Limba română
+Drumul Cerchezilor,drumuri,1,44.9638753976126,28.573416711736,Tulcea,Drum,14152,,Drumul Cerchezilor,Geomil 25000,Limba română
+Drumul Cernei,drumuri,1,45.1348341308467,28.2283021841333,Tulcea,Drum,2887,,Drumul Cernei,Geomil 25000,Limba română
+Drumul Cișmelei,drumuri,1,44.8179608218989,28.3123214134564,Tulcea,Drum,12743,,Drumul Cișmelei,Geomil 25000,Limba română
+Drumul Gării,drumuri,1,44.9573566987872,28.7025117753814,Tulcea,Drum,11077,,Drumul Gării,PDT,Limba română
+Drumul Grecilor,drumuri,1,45.1562007304811,28.2862466146067,Tulcea,Drum,7681,,Drumul Grecilor,Geomil 25000,Limba română
+Drumul Grecului,drumuri,1,45.1389313317069,28.4888192232163,Tulcea,Drum,6692,,Drumul Grecului,PDT,Limba română
+Drumul Iazului,drumuri,1,45.2606814833213,28.4059933578184,Tulcea,Drum,11596,,Drumul Iazului,ANCPI,Limba română
+Drumul Izlazului,drumuri,1,45.0098573315134,28.9532259823248,Tulcea,Drum,9291,,Drumul Izlazului,Geomil 25000,Limba română
+Drumul Lăței,drumuri,1,45.4118541960616,28.0581188566817,Tulcea,Drum,12495,,Drumul Lăței,PDT,Limba română
+Drumul Minei,drumuri,1,44.8043097421659,28.589719810337,Tulcea,Drum,2881,,Drumul Minei,Geomil 25000,Limba română
+Drumul Rahmanului,drumuri,1,44.8269712363661,28.2937554658655,Tulcea,Drum,12742,,Drumul Rahmanului,Geomil 25000,Limba română
+Drumul Țigăncii,drumuri,1,45.2004810518729,28.327757320824,Tulcea,Drum,2891,,Drumul Țigăncii,Geomil 25000,Limba română
+Drumul Turcoii,drumuri,1,45.1626918491059,28.2518735330679,Tulcea,Drum,7684,,Drumul Turcoii,Geomil 25000,Limba română
+La Patru Drumuri,drumuri,1,45.2262504036621,28.3274318054852,Tulcea,Drum,2893,,La Patru Drumuri,Geomil 25000,Limba română
+Șoseaua Bulgărească,drumuri,1,45.2822530771063,28.2293638359969,Tulcea,Drum,1592,,Șoseaua Bulgărească,Geomil 25000,Limba română
+Valea Drumul Adânc,drumuri,1,45.1219323187755,28.3263146500868,Tulcea,Vale,2886,,Valea Drumul Adânc,Geomil 25000,Limba română
+Drumul Sărarilor,drumul Sării,2,44.9557823601802,24.0748758961246,Valcea,Drum,9376,,Drumul Sărarilor,PDT,Limba română
+Dealu Drumului,drumuri,1,44.6056188093611,24.1862373657506,Valcea,Deal,285,,Dealu Drumului,Geomil 25000,Limba română
+Dealul Drumul Malului,drumuri,1,44.685453742454,24.1543691907807,Valcea,Deal,4795,,Dealul Drumul Malului,PDT,Limba română,Dealul Drumul Malului,Geomil 25000,Limba română
+Dealul Drumului,drumuri,1,44.5459741461747,23.936603132757,Valcea,Deal,9344,,Dealul Drumului,Geomil 25000,Limba română
+Drumu Deajului,drumuri,1,44.5215815744851,24.0751249344141,Valcea,Drum,2960,,Drumu Deajului,Geomil 25000,Limba română
+Drumu Dealului,drumuri,1,44.6073114825447,24.0508702538702,Valcea,Drum,2957,,Drumu Dealului,Geomil 25000,Limba română
+Drumu Ploscuței,drumuri,1,44.8110304514562,23.7553642151445,Valcea,Drum,11346,,Drumu Ploscuței,Geomil 25000,Limba română
+Drumu Popii,drumuri,1,44.8107401087122,23.7965577411695,Valcea,Drum,253,,Drumu Popii,Geomil 25000,Limba română
+Drumul Cioturei,drumuri,1,44.5755163335002,24.2375972810048,Valcea,Drum,12537,,Drumul Cioturei,PDT,Limba română
+Drumul Coastei,drumuri,1,44.6333411012124,24.2353665319258,Valcea,Drum,4788,,Drumul Coastei,PDT,Limba română
+Drumul Dealului,drumuri,1,44.5753103407998,24.234980272348,Valcea,Drum,12536,,Drumul Dealului,PDT,Limba română
+Drumul Dealului,drumuri,1,45.0561831735615,24.0446284146124,Valcea,Drum,13857,,Drumul Dealului,Geomil 25000,Limba română
+Drumul linia Sonieră,drumuri,1,44.6207496912129,24.1294440624498,Valcea,Drum,4799,,Drumul linia Sonieră,PDT,Limba română
+Drumul Sărărilor,drumuri,1,44.9723373523376,24.0901238983216,Valcea,Drum,8442,,Drumul Sărărilor,PDT,Limba română
+Drumul Țimirilor,drumuri,1,45.5196366247628,24.2812588584469,Valcea,Drum,7408,,Drumul Țimirilor,Geomil 25000,Limba română
+Dealul Drumul Brăila,Drumul Brăilei,2,46.1146217394168,28.0328494210221,Vaslui,Deal,714,,Dealul Drumul Brăila,Geomil 25000,Limba română
+Dealul Drumul Brăila,Drumul Brăilei,2,46.3809984837457,27.9232309878975,Vaslui,Deal,2177,,Dealul Drumul Brăila,Geomil 25000,Limba română
+Drumu edeilor,drumuri,1,46.5942237683411,27.8753108815766,Vaslui,Drum,8843,,Drumu edeilor,PDT,Limba română
+Drumu Pașei,drumuri,1,46.5225620579344,28.1121201657815,Vaslui,Drum,10923,,Drumu Pașei,Moldova (1892-1898),Limba română
+Drumu Pușcilor,drumuri,1,46.613612017228,27.6638985892969,Vaslui,Drum,4618,,Drumu Pușcilor,PDT,Limba română
+Drumul Cărăușului,drumuri,1,46.5302568774567,28.105268035148,Vaslui,Drum,8866,,Drumul Cărăușului,Geomil 25000,Limba română
+Drumul de la Mori,drumuri,1,46.7134979536491,27.3089649033171,Vaslui,Drum,12290,,Drumul de la Mori,Geomil 25000,Limba română
+Drumul lui Cuza,drumuri,1,46.5676532453572,27.9232043670534,Vaslui,Drum,1686,,Drumul lui Cuza,Geomil 25000,Limba română
+Drumul Mănăstirei,drumuri,1,46.6064585874261,27.982668029209,Vaslui,Drum,8853,,Drumul Mănăstirei,PDT,Limba română
+Drumul Pașei,drumuri,1,46.4785591628524,28.0706044427947,Vaslui,Drum,1689,,Drumul Pașei,Geomil 25000,Limba română,Drumul Pașei,PDT,Limba română
+La Drumu Săpat,drumuri,1,46.5585776970688,27.6867922534582,Vaslui,Drum,8857,,La Drumu Săpat,PDT,Limba română
+Lanul Drumul Mare,drumul Mare,2,45.7791538138415,27.291285424044,Vrancea,Altele,2162,,Lanul Drumul Mare,Geomil 25000,Limba română
+Țarina Drumul Ocnei,Drumul Ocnelor,3,46.1246837823698,27.1735895262456,Vrancea,Altele,3931,,Țarina Drumul Ocnei,PDT,Limba română
+Dealul Drumul Periilor,drumuri,1,45.9600022492087,26.9242245087887,Vrancea,Deal,5349,,Dealul Drumul Periilor,PDT,Limba română
+Dealul Drumul Pociungilor,drumuri,1,45.963677650375,26.9252775547727,Vrancea,Deal,5350,,Dealul Drumul Pociungilor,PDT,Limba română
+Dealul Drumul Stricat,drumuri,1,45.7186722628608,27.0186932138705,Vrancea,Deal,2160,,Dealul Drumul Stricat,Geomil 25000,Limba română
+Drumul Căratului,drumuri,1,45.9356798083045,27.1328896603916,Vrancea,Drum,9618,,Drumul Căratului,Moldova (1892-1898),Limba română
+Drumul Copolu,drumuri,1,46.0871776894667,27.2774167697901,Vrancea,Drum,1727,,Drumul Copolu,Geomil 25000,Limba română
+Drumul la Căprarii-Runcul,drumuri,1,45.8397438751225,27.0163902191213,Vrancea,Drum,7903,,Drumul la Căprarii-Runcul,PDT,Limba română
+Drumul lui Lepădatu,drumuri,1,45.4878593114004,27.442869822088,Vrancea,Drum,13576,,Drumul lui Lepădatu,Geomil 25000,Limba română
+Drumul Luminelor,drumuri,1,45.7483549195726,27.170026774715,Vrancea,Drum,9531,,Drumul Luminelor,PDT,Limba română,Drumul Luminelor,Geomil 25000,Limba română
+Drumul Pionierilor,drumuri,1,46.0989239394491,27.2759286927716,Vrancea,Drum,1728,,Drumul Pionierilor,Geomil 25000,Limba română
+Drumul Piscul Porcului,drumuri,1,45.8770738569669,26.4041046846563,Vrancea,Drum,2112,,Drumul Piscul Porcului,Geomil 25000,Limba română
+Drumul Sondei,drumuri,1,45.9128947517472,26.4106077767566,Vrancea,Drum,13303,,Drumul Sondei,Geomil 25000,Limba română
+Drumul Untera-Scânteia,drumuri,1,45.8249688897151,26.9955922798301,Vrancea,Drum,7904,,Drumul Untera-Scânteia,PDT,Limba română
+Drumul Vârteșcoiului,drumuri,1,45.5453468090133,27.4191197915711,Vrancea,Drum,762,,Drumul Vârteșcoiului,Geomil 25000,Limba română
+Plaiul Drumul Iarmarocului,drumuri,1,45.8594303963236,26.8956628029388,Vrancea,Înălțime,9217,,Plaiul Drumul Iarmarocului,Geomil 25000,Limba română

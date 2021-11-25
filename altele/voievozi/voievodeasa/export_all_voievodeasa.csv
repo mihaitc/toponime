@@ -1,0 +1,9 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Pârâul Voivodesei,voievodeasa,3,47.036705940128,22.628512661026,Bihor,Vale,12353,12352,Pârâul Voivodesei,PDT,Limba română
+Piciorul Voivodesei,voievodeasa,3,47.0373235261393,22.6328824703539,Bihor,Înălțime,12352,,Piciorul Voivodesei,PDT,Limba română
+Poiana Voivodeasa,voievodeasa,3,46.7117637171513,22.55832131528,Bihor,Poiană,12540,,Poiana Voivodeasa,Geomil 25000,Limba română
+Balta Voievodeasa,voievodeasa,3,44.4458613464108,23.6550052248279,Dolj,Apă-deal-câmpie,5169,,Balta Voievodeasa,Geomil 25000,Limba română
+Voivodeasa,voievodeasa,3,47.0508872929143,25.3852242874431,Harghita,Vale,5420,5421,Voivodeasa,Geomil 25000,Limba română
+Voivodeasa,voievodeasa,3,47.1124422250153,25.3110960942494,Harghita,Înălțime,5421,,Voivodeasa,Geomil 25000,Limba română
+Fântâna Voivodeasa,voievodeasa,3,47.2315414505881,23.1971716088741,Salaj,Altele,7563,,Fântâna Voivodeasa,PDT,Limba română
+Voievodeasa,voievodeasa,3,47.7926082519498,25.7631875224612,Suceava,Localitate,6315,,Voievodeasa,Geomil 25000,Limba română

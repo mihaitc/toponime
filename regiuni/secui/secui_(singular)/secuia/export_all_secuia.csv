@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Secuia,secuia,4,46.6026604141719,27.7985731546141,Vaslui,Deal,2197,,Dealul Secuia,Geomil 25000,Limba română
+Valea Secuia,secuia,4,46.5907302723974,27.8053265444872,Vaslui,Vale,2198,2197,Valea Secuia,Geomil 25000,Limba română

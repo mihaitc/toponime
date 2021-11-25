@@ -1,0 +1,10 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Țutueanu,țuțuian,4,45.0976447821575,25.1729362865826,Arges,Deal,11125,,Dealul Țutueanu,PDT,Limba română
+Poiana Țuțuianu,țuțuian,4,46.4457908578586,26.1142637738786,Bacau,Poiană,10794,,Poiana Țuțuianu,Moldova (1892-1898),Limba română
+Movila Țuțuianului,țuțuian,4,44.9182932896285,27.2556301344291,Braila,Înălțime,4015,,Movila Țuțuianului,Geomil 25000,Limba română,Movila Țuțuianu,PDT,Limba română
+Muchia Țuțueanului,țuțuian,4,45.5776109114442,25.7447808689554,Brasov,Înălțime,6847,,Muchia Țuțueanului,PDT,Limba română
+Pârâul Țuțueanului,țuțuian,4,45.5802653656289,25.7551375777715,Brasov,Vale,6848,6847,Pârâul Țuțueanului,PDT,Limba română
+La Pâlcul Țuțueanului,țuțuian,4,44.9116902246294,27.1662616974426,Buzau,Altele,4013,,La Pâlcul Țuțueanului,PDT,Limba română
+Valea Țuțuianu,țuțuian,4,43.9887420733982,25.7887799155394,Giurgiu,Vale,3158,,Valea Țuțuianu,Geomil 25000,Limba română
+Bâtca Țuțuianu,țuțuian,4,46.7835507004922,26.0940807281154,Neamt,Înălțime,6518,,Bâtca Țuțuianu,Geomil 25000,Limba română
+Mormântu Țuțuianului,țuțuian,4,47.0948887056465,25.7628342283183,Neamt,Altele,6442,,Mormântu Țuțuianului,PDT,Limba română

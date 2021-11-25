@@ -1,0 +1,13 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Leahului,leah,3,48.019249777988,26.4017852370539,Botosani,Deal,2314,,Dealul Leahului,Geomil 25000,Limba română
+Dealul Poiana Leahului,leah,3,48.1415319063515,26.3126751144951,Botosani,Deal,4891,,Dealul Poiana Leahului,Geomil 25000,Limba română
+Dealul Sisiahul Leahului,leah,3,48.1236279126732,27.0088978329981,Botosani,Deal,11560,,Dealul Sisiahul Leahului,Geomil 25000,Limba română
+Odaia Leahului,leah,3,47.5461296520555,26.7807272446469,Botosani,Altele,1763,,Odaia Leahului,Geomil 25000,Limba română
+Valea la Fântâna Leahului,leah,3,48.020769883212,26.6628954104697,Botosani,Vale,3578,,Valea la Fântâna Leahului,PDT,Limba română
+Balta Leahului,leah,3,46.0145295105585,28.0892796436525,Galati,Apă-deal-câmpie,9498,,Balta Leahului,Geomil 25000,Limba română
+Dealul Leahului,leah,3,47.4856555165865,26.9549529519807,Iasi,Deal,2444,,Dealul Leahului,Geomil 25000,Limba română
+Leahu-Nacu,leah,3,47.4922419746785,26.9595027708536,Iasi,Localitate,2445,2444,Leahu-Nacu,Geomil 25000,Limba română
+Poiana Leahului,leah,3,47.1349710236332,26.7525155801605,Iasi,Poiană,11996,,Poiana Leahului,Moldova (1892-1898),Limba română
+Dealul Leahului,leah,3,47.8970763097117,25.7486200848316,Suceava,Deal,12069,,Dealul Leahului,Geomil 25000,Limba română
+Leahul,leah,3,47.832672438891,26.2390246202968,Suceava,Vale,14155,,Leahul,Geomil 25000,Limba română
+Valea Leahului,leah,3,47.4773051644817,26.5129694414529,Suceava,Vale,14062,,Valea Leahului,Geomil 25000,Limba română

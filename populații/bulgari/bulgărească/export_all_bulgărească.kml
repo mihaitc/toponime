@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Pădurea Bulgărească</name><description>Nume: Pădurea Bulgărească, Tip: bulgărească, Nivel: 3, Județ: Teleorman, Formă: Pădure, ID: 9032, ID Părinte: 9033 <br /><b>Variante</b><br />Nume: Pădurea Bulgărească, Hartă: PDT, Limbă: Limba română<br />Nume: Pădurea Bulgărească, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.179300,44.336305,0</coordinates></Point></Placemark>
+<Placemark><LineString id="9032_9033"><tessellate>1</tessellate><coordinates>25.179300,44.336305,0.
+25.196527,44.338154,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

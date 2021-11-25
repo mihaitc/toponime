@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Neamțoaica Mare,nemțoaică,4,45.5655579850147,25.1151406576482,Arges,Vale,5078,,Neamțoaica Mare,Geomil 25000,Limba română
+Neamțoaica Mică,nemțoaică,4,45.5607270343194,25.1146294325524,Arges,Vale,5079,5078,Neamțoaica Mică,Geomil 25000,Limba română
+Pădurea Nemțoaica,nemțoaică,4,43.7714036019907,24.7948733893619,Teleorman,Pădure,8007,,Pădurea Nemțoaica,PDT,Limba română
+Valea Nemțoaica,nemțoaică,4,44.2351168737535,25.4362349698577,Teleorman,Vale,3721,,Valea Nemțoaica,PDT,Limba română

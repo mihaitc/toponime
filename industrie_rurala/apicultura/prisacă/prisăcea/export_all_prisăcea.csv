@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+La Prisăcea,prisăcea,4,44.3397556129537,23.1144818053953,Mehedinti,Altele,11024,6163,La Prisăcea,Geomil 25000,Limba română
+Prisăceaua,prisăcea,4,44.3174960035665,23.0948734905884,Mehedinti,Localitate,6163,,Prisăceaua,Geomil 25000,Limba română
+Valea Prisăceaua,prisăcea,4,44.3196333568617,23.0744634468769,Mehedinti,Vale,6164,6163,Valea Prisăceaua,Geomil 25000,Limba română
+Valea Prisăceaua,prisăcea,4,44.7241091944678,24.4184516762682,Olt,Vale,4786,,Valea Prisăceaua,PDT,Limba română

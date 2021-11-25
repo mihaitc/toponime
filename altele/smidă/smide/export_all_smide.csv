@@ -1,0 +1,11 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Smidelor,smide,3,45.5306768950604,23.5962618688455,Alba,Vale,11215,11214,Valea Smidelor,Geomil 25000,Limba română
+Dealu Desmide,smide,3,47.1663370194491,22.5084510555502,Bihor,Deal,13723,,Dealu Desmide,Ungară 1869,Limba română
+Vârfu Smidele,smide,3,46.5001687068463,23.1411989962668,Cluj,Înălțime,12728,,Vârfu Smidele,Geomil 25000,Limba română
+Pârâul Smidelor,smide,3,47.0924048315506,26.0709227757961,Neamt,Vale,9121,,Pârâul Smidelor,Geomil 25000,Limba română,Pârâul Smidelor,PDT,Limba română
+Piciorul Smidelor,smide,3,47.1942343843623,25.7290873346748,Neamt,Înălțime,6441,,Piciorul Smidelor,PDT,Limba română
+Smidele Aței,smide,3,46.7854864785304,25.9744553012735,Neamt,Altele,10948,,Smidele Aței,Imperiul Habsburgic (1887),Limba română
+Smidele Fântânilor,smide,3,46.9939130987025,25.9457892285646,Neamt,Înălțime,13884,,Smidele Fântânilor,Moldova (1892-1898),Limba română
+Smide,smide,3,47.2972140969569,25.1620059811602,Suceava,Înălțime,6376,,Smide,Geomil 25000,Limba română
+Smidele lui Florea,smide,3,47.4069994801992,25.2014154697496,Suceava,Altele,9925,,Smidele lui Florea,Geomil 25000,Limba română
+Gruiul între Smide,smide,3,45.4223924116306,24.1111504853249,Valcea,Vale,12857,,Gruiul între Smide,Geomil 25000,Limba română

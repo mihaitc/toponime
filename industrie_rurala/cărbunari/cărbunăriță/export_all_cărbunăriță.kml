@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Valea Cărbunăriței</name><description>Nume: Valea Cărbunăriței, Tip: cărbunăriță, Nivel: 3, Județ: Brasov, Formă: Vale, ID: 6818, ID Părinte: 6829 <br /><b>Variante</b><br />Nume: Valea Cărbunăriței, Hartă: Geomil 25000, Limbă: Limba română<br />Nume: Valea Cărbunărița, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>25.351462,45.754182,0</coordinates></Point></Placemark>
+<Placemark><LineString id="6818_6829"><tessellate>1</tessellate><coordinates>25.351462,45.754182,0.
+25.371561,45.750296,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

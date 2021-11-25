@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Calea Ungureiului,ungurei (singular),3,46.0416158861878,23.8696536087835,Alba,Înălțime,2549,,Calea Ungureiului,Geomil 25000,Limba română
+Dealu Ungureiului,ungurei (singular),3,46.0307520270682,23.8606028684646,Alba,Deal,2550,2549,Dealu Ungureiului,Geomil 25000,Limba română
+Valea Ungureiului,ungurei (singular),3,46.0434547995302,23.8552319335179,Alba,Vale,2548,2549,Valea Ungureiului,Geomil 25000,Limba română

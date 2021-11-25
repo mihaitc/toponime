@@ -1,0 +1,16 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Daia Română,română,3,46.0061138755266,23.6673481622312,Alba,Localitate,10452,,Daia Română,Geomil 25000,Limba română
+Nimigea română,română,3,47.2752326468731,24.3281192767744,Bistrita Nasaud,Localitate,10586,,Nimigea română,Imperiul Habsburgic (1887),Limba română
+Ciclova-Română,română,3,45.0077577225287,21.7011339822202,Caras Severin,Localitate,8541,,Ciclova-Română,PDT,Limba română,Ciclova Română,Geomil 25000,Limba română
+Sasca Română,română,3,44.8893396477904,21.7208997480472,Caras Severin,Localitate,8517,,Sasca Română,PDT,Limba română,Sasca Română,Geomil 25000,Limba română
+Pădurea Română,română,3,46.1173973879169,25.6870319957303,Covasna,Pădure,2736,2735,Pădurea Română,Geomil 25000,Limba română
+Româna,română,3,44.2026928227996,24.1614118647064,Dolj,Localitate,7733,,Româna,PDT,Limba română
+Bretea română,română,3,45.6585333560549,23.0171522137665,Hunedoara,Localitate,5558,,Bretea română,PDT,Limba română
+Cucerdea română,română,3,46.4031078158173,24.2650327888431,Mures,Localitate,10809,,Cucerdea română,Imperiul Habsburgic (1887),Limba română
+Nadășa-română,română,3,46.7018000732405,24.8132636911942,Mures,Localitate,10851,,Nadășa-română,Imperiul Habsburgic (1887),Limba română
+Sieulia română,română,3,46.416095685231,24.244018657594,Mures,Localitate,10810,,Sieulia română,Imperiul Habsburgic (1887),Limba română
+Valea Apa Românei,română,3,44.4218557530392,24.0475178007556,Olt,Vale,2968,,Valea Apa Românei,Geomil 25000,Limba română
+Valea Românei,română,3,44.407440159239,24.0775113953804,Olt,Vale,2969,2970,Valea Românei,Geomil 25000,Limba română
+Bunea Română,română,3,45.9112959798615,22.09708017602,Timis,Localitate,6311,,Bunea Română,PDT,Limba română
+Stamora Română,română,3,45.6086649177082,21.3993419347425,Timis,Localitate,7611,,Stamora Română,Geomil 25000,Limba română
+Româna,română,3,44.3893004113355,24.1011708005198,Valcea,Localitate,2970,,Româna,Geomil 25000,Limba română,Romîna,Austriacă,Limba română,Româna,PDT,Limba română

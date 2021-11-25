@@ -1,0 +1,97 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Valea Rudarului,rudar,2,45.3912122089792,24.6352897824197,Arges,Vale,4985,,Valea Rudarului,Geomil 25000,Limba română
+Culmea Rudarilor,rudari,1,45.3684582443264,25.2289039816599,Arges,Înălțime,5040,,Culmea Rudarilor,Geomil 25000,Limba română,Piscul Rudăriei,PDT,Limba română
+La Rudari,rudari,1,45.0993193676551,24.9599784291146,Arges,Altele,6879,,La Rudari,Geomil 25000,Limba română
+La Rudari,rudari,1,45.2912403761442,24.5200078509417,Arges,Localitate,11109,,La Rudari,Geomil 25000,Limba română
+La Rudari,rudari,1,44.9367894535043,24.8884273869998,Arges,Altele,12830,,La Rudari,PDT,Limba română
+Malul Rudarilor,rudari,1,45.2740784338468,25.083015799424,Arges,Altele,1477,1476,Malul Rudarilor,Geomil 25000,Limba română
+Pârâul Rudarilor,rudari,1,45.1281967022467,24.8624204091706,Arges,Vale,13979,,Pârâul Rudarilor,PDT,Limba română
+Poiana Rudarilor,rudari,1,45.139525731038,25.0328190357133,Arges,Poiană,6878,,Poiana Rudarilor,Geomil 25000,Limba română,Poiana Rudarilor,PDT,Limba română
+Râpa Rudarilor,rudari,1,45.1725815599548,25.1027116345338,Arges,Altele,556,,Râpa Rudarilor,Geomil 25000,Limba română
+Valea Rudarilor,rudari,1,45.27716243106,25.0838579101112,Arges,Vale,1476,,Valea Rudarilor,Geomil 25000,Limba română
+Valea Rudarilor,rudari,1,44.9607925217412,24.7973624685302,Arges,Vale,6890,,Valea Rudarilor,Geomil 25000,Limba română
+Valea Rudarilor,rudari,1,44.9443028994415,24.9144645149567,Arges,Vale,8347,,Valea Rudarilor,PDT,Limba română
+Valea Rudarilor,rudari,1,44.9820081015801,25.0240669869808,Arges,Vale,10159,,Valea Rudarilor,PDT,Limba română
+Rudărița Mare,rudăriță,2,45.4019924136573,25.2994841292036,Arges,Vale,6867,5033,Rudărița Mare,Geomil 25000,Limba română
+Rudărița Mică,rudăriță,2,45.4066538941738,25.301609682237,Arges,Vale,6866,5033,Rudărița Mică,Geomil 25000,Limba română
+Valea Rudăriței,rudăriță,2,45.4106459581425,25.2752491808193,Arges,Vale,5033,,Valea Rudăriței,Geomil 25000,Limba română
+Valea Rudărița,rudăriță,2,45.5960035590801,25.1005282754618,Brasov,Vale,613,,Valea Rudărița,Geomil 25000,Limba română
+Valea Rudăriței,rudăriță,2,45.592079178658,25.0561317511222,Brasov,Vale,2712,,Valea Rudăriței,Geomil 25000,Limba română
+Valea Rudăriței,rudăriță,2,45.6215896085574,25.3384573971709,Brasov,Vale,13845,,Valea Rudăriței,Geomil 25000,Limba română
+Muchia Rudarului,rudar,2,45.3871693553847,26.5456818369029,Buzau,Înălțime,11709,,Muchia Rudarului,Geomil 25000,Limba română
+Valea Rudarului,rudar,2,45.1808992956589,26.455203237615,Buzau,Vale,7493,,Valea Rudarului,Geomil 25000,Limba română
+Poiana Rudarilor,rudari,1,45.4437225113405,26.430488612797,Buzau,Poiană,8768,,Poiana Rudarilor,PDT,Limba română
+Valea Rudarilor,rudari,1,45.1395195569985,26.5843420343057,Buzau,Vale,3961,,Valea Rudarilor,Geomil 25000,Limba română
+Puțu Rudarului,rudar,2,44.1095948786518,26.6729509584577,Calarasi,Altele,3269,,Puțu Rudarului,PDT,Limba română
+Rudarii,rudari,1,44.3164692632891,26.4109680902409,Calarasi,Localitate,3762,,Rudarii,PDT,Limba română
+Corhanu Rudăria,rudărie,2,44.8188555293368,22.20290627855,Caras Severin,Altele,3324,841,Corhanu Rudăria,Geomil 25000,Limba română
+Pârâu Rudăria,rudărie,2,44.8617997205578,22.1123806171752,Caras Severin,Vale,841,,Pârâu Rudăria,Geomil 25000,Limba română
+Pârâu Rudărica Mică,rudărie,2,44.8191785088476,22.1399079429475,Caras Severin,Altele,3315,841,Pârâu Rudărica Mică,Geomil 25000,Limba română
+Valea Rudăreasa,rudăreasă,2,46.4612844852893,22.5286605545164,Cluj,Vale,1000,,Valea Rudăreasa,Geomil 25000,Limba română,Valea Rudăreasa,PDT,Limba română,Vale Rudorassa,Ungară 1869,Limba română
+Poiana la Rudari,rudari,1,45.1038532641443,25.1779283112985,Dambovita,Poiană,11126,,Poiana la Rudari,PDT,Limba română
+Rudari,rudari,1,44.9611628085834,25.5445926155857,Dambovita,Localitate,10075,,Rudari,Austriacă,Limba română
+Rudari,rudari,1,44.8925130162711,25.2473206120983,Dambovita,Localitate,10135,,Rudari,PDT,Limba română
+La Turciturile Rudarului,rudar,2,44.1353932360085,23.3725775352146,Dolj,Altele,4645,4646,La Turciturile Rudarului,PDT,Limba română
+Piscul cu Rudarul,rudar,2,44.5964923636086,23.8264495071978,Dolj,Înălțime,4733,,Piscul cu Rudarul,PDT,Limba română
+Piscul Rudarului,rudar,2,44.5823468082175,23.8115493224221,Dolj,Înălțime,4725,,Piscul Rudarului,PDT,Limba română
+Valea cu Rudarul,rudar,2,44.5935514303806,23.8279067222066,Dolj,Vale,4732,4733,Valea cu Rudarul,PDT,Limba română
+Valea Rudarului,rudar,2,44.1362043132834,23.356302623861,Dolj,Vale,4646,,Valea Rudarului,PDT,Limba română,Valea Rudarului,Geomil 25000,Limba română
+Valea Rudarului,rudar,2,44.5808435989749,23.8094806312348,Dolj,Vale,4724,4725,Valea Rudarului,PDT,Limba română
+Capu Dealului Rudari,rudari,1,44.1481711670715,23.2573240224736,Dolj,Deal,4655,4653,Capu Dealului Rudari,PDT,Limba română
+Dealul Rudarilor,rudari,1,44.4885674143323,23.3926512489021,Dolj,Deal,104,103,Dealul Rudarilor,Geomil 25000,Limba română,ур. Рударилор (dealul Rudarilor),Sovietică,Limba română
+La Rudari,rudari,1,43.8521957021493,23.1992853894866,Dolj,Altele,156,,La Rudari,Geomil 25000,Limba română
+La Rudari,rudari,1,44.1419288630296,23.2272823111139,Dolj,Altele,4652,4653,La Rudari,PDT,Limba română
+Ogașul Rudarilor,rudari,1,44.5919876517601,23.5172934864552,Dolj,Altele,408,409,Ogașul Rudarilor,Geomil 25000,Limba română
+Pădurea La Rudari,rudari,1,43.8567930609755,23.1781201201101,Dolj,Pădure,157,156,Pădurea La Rudari,Geomil 25000,Limba română
+Pădurea Rudari,rudari,1,44.1541298447231,23.320702134687,Dolj,Pădure,4654,4653,Pădurea Rudari,PDT,Limba română
+Rudari,rudari,1,44.5883381411943,23.5094671370779,Dolj,Altele,409,,Rudari,Geomil 25000,Limba română
+Rudari,rudari,1,44.1472347389399,23.2951215329746,Dolj,Localitate,4653,,Rudari,PDT,Limba română,Rudari,Oltenia-Muntenia (1790),Limba română
+Valea Ogașul Rudarilor,rudari,1,44.4858245452834,23.3971036116993,Dolj,Vale,106,103,Valea Ogașul Rudarilor,PDT,Limba română
+Valea Rudarilor,rudari,1,44.4730293533616,23.4977217578939,Dolj,Vale,12304,,Valea Rudarilor,PDT,Limba română
+Valea Rudarilor,rudari,1,44.3387263196542,23.2896023598184,Dolj,Vale,13581,,Valea Rudarilor,PDT,Limba română
+Valea Rudarilor,rudari,1,44.4676333204339,23.3507925391696,Dolj,Vale,14188,,Valea Rudarilor,PDT,Limba română
+Groapa Rudăriei,rudărie,2,44.4921274243239,23.4080428141665,Dolj,Altele,103,,Groapa Rudăriei,Geomil 25000,Limba română
+Lacul Rudarului,rudar,2,44.0529375246504,26.192668187474,Giurgiu,Lac,3631,,Lacul Rudarului,Austriacă,Limba română
+Puțul-Rudarului,rudar,2,44.4175848834901,25.6290357824702,Giurgiu,Altele,3739,,Puțul-Rudarului,PDT,Limba română
+La Rudari,rudari,1,44.4630204541266,25.6769666379972,Giurgiu,Altele,4235,,La Rudari,PDT,Limba română
+La Rudari,rudari,1,45.0292493895988,23.4035590239472,Gorj,Altele,8053,,La Rudari,PDT,Limba română
+Piscul Rudarilor,rudari,1,44.673924554125,23.6012309893508,Gorj,Înălțime,8269,,Piscul Rudarilor,PDT,Limba română
+Rudari,rudari,1,45.1604044787839,22.8358463374892,Gorj,Înălțime,225,,Rudari,Geomil 25000,Limba română
+Rudari,rudari,1,44.7092702037911,23.2788085646125,Gorj,Altele,7438,7437,Rudari,PDT,Limba română
+Tarlaua Rudarilor,rudari,1,44.6164045299839,23.49341141578,Gorj,Altele,11027,,Tarlaua Rudarilor,Geomil 25000,Limba română
+Valea Rudarilor,rudari,1,44.6884600959735,23.2008454254308,Gorj,Vale,12307,,Valea Rudarilor,Geomil 25000,Limba română
+La Rudărie,rudărie,2,44.7088433135877,23.2849720745644,Gorj,Altele,7437,,La Rudărie,PDT,Limba română,La Rudărie,Geomil 25000,Limba română
+Rudăria,rudărie,2,44.9625222818703,23.0353041884704,Gorj,Localitate,11004,,Rudăria,PDT,Limba română
+Valea Rudarilor,rudari,1,46.0096032002473,23.0962124711261,Hunedoara,Vale,9659,,Valea Rudarilor,Geomil 25000,Limba română
+Drumul Rudarilor,rudari,1,44.5189182661521,26.2779158633409,Ilfov,Drum,4262,,Drumul Rudarilor,PDT,Limba română
+Drumul Rudarilor,rudari,1,44.5378007241917,26.2992111371873,Ilfov,Drum,8775,,Drumul Rudarilor,PDT,Limba română
+Dealu Poiana Rudarului,rudari,1,44.8148021780008,22.7401337079054,Mehedinti,Deal,185,,Dealu Poiana Rudarului,Geomil 25000,Limba română
+Dealu Rudarilor,rudari,1,44.5344070814107,22.8486624177768,Mehedinti,Deal,172,,Dealu Rudarilor,Geomil 25000,Limba română
+Valea Rudarea,rudarea,2,44.7876474747405,24.3941948712538,Olt,Vale,8130,8129,Valea Rudarea,PDT,Limba română
+Valea Rudăresii,rudăreasă,2,44.3005016493008,24.538068625236,Olt,Vale,2994,,Valea Rudăresii,Geomil 25000,Limba română
+Dealul Rudărei,rudărei,2,44.7871560558263,24.4076535669418,Olt,Deal,8129,,Dealul Rudărei,PDT,Limba română
+La Rudari,rudari,1,44.2767620348383,24.1966091463602,Olt,Altele,4809,,La Rudari,Geomil 25000,Limba română
+Rudari,rudari,1,43.99094028811,24.5954613862129,Olt,Localitate,1262,,Rudari,Geomil 25000,Limba română
+Valea Rudarului,rudar,2,45.0353642227636,26.2005463577327,Prahova,Vale,10086,,Valea Rudarului,PDT,Limba română
+Rudarii Bărcănescii,rudari,1,44.8576725701381,26.0840234486552,Prahova,Localitate,11060,,Rudarii Bărcănescii,PDT,Limba română
+Valea Rudari,rudari,1,45.187891862994,26.283955239247,Prahova,Vale,7489,,Valea Rudari,Geomil 25000,Limba română
+La Rudărie,rudărie,2,44.7228390063487,26.0131228540054,Prahova,Altele,1326,,La Rudărie,Geomil 25000,Limba română,Rudărie,PDT,Limba română
+Vârful Rudarilor,rudari,1,45.6570801838798,23.7567456772306,Sibiu,Înălțime,2517,,Vârful Rudarilor,Geomil 25000,Limba română
+Lacul Rudarilor,rudari,1,43.6536247359612,25.4951862188541,Teleorman,Apă-deal-câmpie,450,,Lacul Rudarilor,Geomil 25000,Limba română
+Dealul Rudarului,rudar,2,45.2458191991434,21.4829769835045,Timis,Deal,7603,895,Dealul Rudarului,PDT,Limba română
+Valea Rudarii Mari,rudari,1,45.2441458535864,21.493192433813,Timis,Vale,895,,Valea Rudarii Mari,Geomil 25000,Limba română
+Valea Rudarii Mici,rudari,1,45.2454723279304,21.487832733925,Timis,Vale,896,895,Valea Rudarii Mici,Geomil 25000,Limba română
+Gruiul Rudarul Mare,rudar,2,45.4369042478923,24.0448814686215,Valcea,Înălțime,1178,,Gruiul Rudarul Mare,Geomil 25000,Limba română
+Valea Rudarului,rudar,2,45.407984329099,24.0192825715717,Valcea,Vale,1176,1177,Valea Rudarului,Geomil 25000,Limba română
+Valea Rudarului,rudar,2,44.6705857805268,24.1362756432338,Valcea,Vale,4797,,Valea Rudarului,PDT,Limba română
+Pârâul Rudăreasa,rudăreasă,2,45.4086998573693,23.9231233445586,Valcea,Vale,7417,,Pârâul Rudăreasa,Geomil 25000,Limba română
+Valea Rudăreasa,rudăreasă,2,45.128252351399,24.0305845723872,Valcea,Vale,12849,,Valea Rudăreasa,Geomil 25000,Limba română
+Gruiul Rudarii Vechi,rudari,1,45.4429997647201,24.0429523350608,Valcea,Înălțime,1179,1178,Gruiul Rudarii Vechi,Geomil 25000,Limba română
+Gruiul Rudarilor,rudari,1,45.4157258443425,24.0352297556863,Valcea,Înălțime,1177,,Gruiul Rudarilor,Geomil 25000,Limba română
+Pârâu Rudarilor,rudari,1,45.3416723037331,24.4644068590748,Valcea,Vale,13287,,Pârâu Rudarilor,Geomil 25000,Limba română
+Rudari,rudari,1,44.6286801885193,23.9971411932245,Valcea,Localitate,12574,,Rudari,PDT,Limba română
+Vâlceaua Rudarilor,rudari,1,44.687676468392,24.1512320109773,Valcea,Altele,4793,,Vâlceaua Rudarilor,PDT,Limba română
+Vali Rudari,rudari,1,45.4265640463355,24.0045768639748,Valcea,Vale,7424,1178,Vali Rudari,Austriacă,Limba română
+Zăvoiul Rudarilor,rudari,1,45.0061858394301,24.2991948788219,Valcea,Apă-deal-câmpie,332,,Zăvoiul Rudarilor,Geomil 25000,Limba română
+Rudăria,rudărie,2,44.999348998851,24.1974684790915,Valcea,Localitate,8432,,Rudăria,PDT,Limba română
+La Rudari,rudari,1,45.6569497309229,26.8940841350778,Vrancea,Altele,2153,,La Rudari,Geomil 25000,Limba română

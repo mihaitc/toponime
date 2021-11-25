@@ -1,0 +1,16 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Culmea Ovreiului,ovrei,4,45.3986714826996,25.026989729963,Arges,Înălțime,12276,,Culmea Ovreiului,Geomil 25000,Limba română
+Valea Ovreiului,ovrei,4,45.1143316421327,24.8900539308228,Arges,Vale,13980,,Valea Ovreiului,PDT,Limba română
+Pârâul Ovreiului,ovreu,3,45.4008612240712,25.0237422734313,Arges,Vale,12914,12276,Pârâul Ovreiului,Geomil 25000,Limba română
+Kașeria Ovreiki,ovreică,4,45.3266446709342,27.797217467464,Braila,Altele,3609,,Kașeria Ovreiki,Austriacă,Limba română
+Movila Ovreiului,ovreu,3,45.1614671203111,27.1035923861057,Braila,Înălțime,3586,,Movila Ovreiului,PDT,Limba română,Movile Evreului,Geomil 25000,Limba română
+Movila Ovreiului,ovrei,4,44.8842632762858,26.9491811953884,Buzau,Înălțime,8730,,Movila Ovreiului,PDT,Limba română
+Puțul Ovreiului,ovreu,3,44.3193921933702,27.3610159135154,Calarasi,Altele,3303,,Puțul Ovreiului,PDT,Limba română
+Fântâna Ovreiului,ovrei,4,44.1623741058514,23.4525824514119,Dolj,Altele,8097,,Fântâna Ovreiului,PDT,Limba română
+Lacul Ovreilor,ovrei,4,44.217415158979,23.6984213067406,Dolj,Lac,7721,,Lacul Ovreilor,PDT,Limba română
+Măgura Ovreilor,ovreu,3,43.975655449301,22.9397424760401,Dolj,Înălțime,3647,,Măgura Ovreilor,Austriacă,Limba română
+Măgura Ovreiului,ovreu,3,44.1033957705903,23.1437824876206,Dolj,Înălțime,3651,,mâg. Ovreiului,Austriacă,Limba română,Măgura Ovreiului,PDT,Limba română
+Valea Crângul Ovreiului,ovreu,3,44.1253985919577,25.9464046805491,Giurgiu,Vale,3167,,Valea Crângul Ovreiului,PDT,Limba română
+Movila Ovrei,ovrei,4,44.6275650669765,27.1149894754177,Ialomita,Înălțime,9325,,Movila Ovrei,Austriacă,Limba română
+Tufa Ovreiului,ovreu,3,44.804509716083,26.1331116755034,Prahova,Altele,38,,Tufa Ovreiului,PDT,Limba română
+La lacul Ovreiului,ovreu,3,44.2646273177992,25.40696928656,Teleorman,Lac,3723,,La lacul Ovreiului,PDT,Limba română

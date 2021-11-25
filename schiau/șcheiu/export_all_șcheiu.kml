@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Pârâu Șcheiu</name><description>Nume: Pârâu Șcheiu, Tip: șcheiu, Nivel: 2, Județ: Hunedoara, Formă: Vale, ID: 12844, ID Părinte: 10330 <br /><b>Variante</b><br />Nume: Pârâu Șcheiu, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>22.629004,45.285423,0</coordinates></Point></Placemark>
+<Placemark><LineString id="12844_10330"><tessellate>1</tessellate><coordinates>22.629004,45.285423,0.
+22.598965,45.304903,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

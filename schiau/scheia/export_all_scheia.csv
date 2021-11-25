@@ -1,0 +1,7 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Pădurea Scheia,scheia,2,44.9050422909948,24.7756033995337,Arges,Pădure,8344,8342,Pădurea Scheia,Geomil 25000,Limba română
+Valea Scheii,scheia,2,45.4352887867756,25.1727264394137,Arges,Vale,11259,,Valea Scheii,Geomil 25000,Limba română
+Dealul Scheia,scheia,2,47.1259677791705,26.8796463186659,Iasi,Deal,7794,7793,Dealul Scheia,PDT,Limba română
+Scheia,scheia,2,47.1162074257165,26.8819541087037,Iasi,Localitate,7793,,Scheia,PDT,Limba română
+Pârâul Scheia,scheia,2,47.6414949874548,26.2147780077789,Suceava,Vale,9057,2262,Pârâul Scheia,PDT,Limba română,Șcheia,Geomil 25000,Limba română
+Pădurea Schea,scheia,2,46.5279833314803,28.2110576376623,Vaslui,Pădure,10925,1690,Pădurea Schea,Moldova (1892-1898),Limba română

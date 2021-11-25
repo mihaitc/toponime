@@ -1,0 +1,28 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Cerchez,cerchez,3,46.0308134348342,23.2346063591189,Alba,Înălțime,9662,,Cerchez,Geomil 25000,Limba română
+Vârfu Cherchezului,cerchez,3,46.07338515036,23.4152582822968,Alba,Înălțime,10671,,Vârfu Cherchezului,Geomil 25000,Limba română
+Movila Cerchez,cerchez,3,45.3598440518529,27.1978947141199,Buzau,Înălțime,11443,,Movila Cerchez,Geomil 25000,Limba română
+Valea Cercheză,cercheză,3,45.1279833501871,22.2423886115201,Caras Severin,Vale,11229,,Valea Cercheză,Geomil 25000,Limba română
+Cerchezului,cerchez,3,46.6751122470091,23.2782234342688,Cluj,Altele,2594,,Cerchezului,Geomil 25000,Limba română
+Cerchezu,cerchez,3,43.8245936802976,28.0995355154958,Constanta,Localitate,2854,,Cerchezu,Geomil 25000,Limba română
+Movila Cerchezu,cerchez,3,43.8297286188638,28.114619115309,Constanta,Înălțime,2855,,Movila Cerchezu,Geomil 25000,Limba română
+Pădurea Cerchezu,cerchez,3,43.974362489292,27.8090601678225,Constanta,Pădure,2849,,Pădurea Cerchezu,Geomil 25000,Limba română
+Valea Cerchezu,cerchez,3,43.9841286544174,27.8090464044524,Constanta,Vale,2850,2849,Valea Cerchezu,Geomil 25000,Limba română
+Dealul Cerchez,cerchez,3,46.0977371983523,27.4551754052788,Galati,Deal,9494,,Dealul Cerchez,PDT,Limba română
+Dealul Cerchez,cerchez,3,46.0102898576251,27.5246791840674,Galati,Deal,11431,,Dealul Cerchez,Geomil 25000,Limba română
+Dealu Cerchezului,cerchez,3,44.863808970587,23.0480437524286,Gorj,Deal,5120,,Dealu Cerchezului,Geomil 25000,Limba română,Dealul Cerchezului,PDT,Limba română
+Cerkezen,cerchezi,2,44.5697222156384,27.4674665431349,Ialomita,Localitate,9326,,Cerkezen,Austriacă,Limba română
+Valea Cerchezoaia,cerchezoaia,3,47.4511351555781,27.4753170029318,Iasi,Vale,4868,,Valea Cerchezoaia,PDT,Limba română
+Lacu Cerchezoaia,cerchezoaia,3,44.4434357253251,25.9208303545371,Ilfov,Lac,9989,,Lacu Cerchezoaia,PDT,Limba română
+Dealul Cerchezului,cerchez,3,47.6337707478633,24.3235611195794,Maramures,Deal,4485,,Dealul Cerchezului,Geomil 25000,Limba română
+Dealul Cerchezului,cerchez,3,47.817059305852,24.3875698273196,Maramures,Deal,4533,,Dealul Cerchezului,Geomil 25000,Limba română
+Pădurea Cerchezului,cerchez,3,44.5462703815368,23.0754059329164,Mehedinti,Pădure,438,437,Pădurea Cerchezului,Geomil 25000,Limba română,Pădurea Cerchezilor,PDT,Limba română
+Valea Cerchezului,cerchez,3,44.549384885865,23.1025525370504,Mehedinti,Vale,437,,Valea Cerchezului,Geomil 25000,Limba română,Valea Cerchezului,PDT,Limba română
+Culmea Cerchezilor,cerchezi,2,44.5429596630983,23.0663239395375,Mehedinti,Înălțime,3669,437,Culmea Cerchezilor,PDT,Limba română
+Cerchez,cerchez,3,45.0313340063023,28.5760129225344,Tulcea,Altele,11082,,Cerchez,Geomil 25000,Limba română
+Pădurea Cerchez,cerchez,3,44.9860229966488,28.1432389968923,Tulcea,Pădure,6703,,Pădurea Cerchez,PDT,Limba română
+Slava Cercheză,cercheză,3,44.9021975708648,28.5566098900594,Tulcea,Localitate,9299,,Slava Cercheză,Geomil 25000,Limba română
+Valea Cercheză,cercheză,3,44.8053603886441,28.6630621098521,Tulcea,Vale,11586,,Valea Cercheză,Geomil 25000,Limba română
+Drumul Cerchezilor,cerchezi,2,44.961362533522,28.5760073709047,Tulcea,Drum,14151,,Drumul Cerchezilor,Geomil 25000,Limba română
+Pădurea Cerchezului,cerchez,3,46.7361520593654,28.1782040010299,Vaslui,Pădure,13575,,Pădurea Cerchezului,Geomil 25000,Limba română
+La Cotu Cerchezoaia,cerchezoaia,3,46.1296902203919,27.5803277770517,Vaslui,Apă-deal-câmpie,9611,,La Cotu Cerchezoaia,Moldova (1892-1898),Limba română

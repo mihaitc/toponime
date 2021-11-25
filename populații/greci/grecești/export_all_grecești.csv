@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Grecești,grecești,3,43.9457699443967,23.8660723797832,Dolj,Localitate,7689,,Grecești,PDT,Limba română
+Măgura Grecești,grecești,3,43.9541121957013,23.8699250253155,Dolj,Înălțime,7690,7689,Măgura Grecești,PDT,Limba română
+Viile Grecești,grecești,3,45.9613105382902,21.1538281921801,Timis,Altele,7637,,Viile Grecești,PDT,Limba română

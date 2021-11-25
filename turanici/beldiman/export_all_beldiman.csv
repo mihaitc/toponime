@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Beldiman,beldiman,2,46.4844015094841,26.8079236565435,Bacau,Deal,3842,,Dealul Beldiman,Geomil 25000,Limba română,Dealul Beldiman,PDT,Limba română
+Beldiman,beldiman,2,47.1857717038619,27.5150504638705,Iasi,Altele,14110,,Beldiman,Geomil 25000,Limba română
+Câmpia Beldimanca,beldimanca,3,44.2465396975421,24.7075736384562,Olt,Câmp,2980,,Câmpia Beldimanca,Geomil 25000,Limba română
+Câmpia Beldimanca,beldimanca,3,44.2545467191756,24.7148587012264,Olt,Înălțime,2981,2980,Câmpia Beldimanca,Geomil 25000,Limba română
+Vârful Beldiman,beldiman,2,45.19666933444,25.6935618815511,Prahova,Înălțime,8817,,Vârful Beldiman,PDT,Limba română

@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Țigănașul,țigănaș,4,47.9452942455396,25.7983195634714,Suceava,Înălțime,2294,2293,Țigănașul,Geomil 25000,Limba română
+Grindul Țigănuș,țigănaș,4,44.8510328676205,29.5076601397692,Tulcea,Apă-deal-câmpie,2911,,Grindul Țigănuș,Geomil 25000,Limba română
+Dealul Țigănașu,țigănaș,4,45.7755959315844,26.6667312989147,Vrancea,Deal,9222,9221,Dealul Țigănașu,Geomil 25000,Limba română,Dealul Țigănașu,PDT,Limba română
+Țigănașu,țigănaș,4,45.7727395801639,26.6543654957739,Vrancea,Înălțime,9221,,Țigănașu,Geomil 25000,Limba română

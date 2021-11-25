@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Valea Sârbeana</name><description>Nume: Valea Sârbeana, Tip: sârbeana, Nivel: 3, Județ: Valcea, Formă: Vale, ID: 2956, ID Părinte: 2954 <br /><b>Variante</b><br />Nume: Valea Sârbeana, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.055755,44.653874,0</coordinates></Point></Placemark>
+<Placemark><LineString id="2956_2954"><tessellate>1</tessellate><coordinates>24.055755,44.653874,0.
+24.085361,44.649470,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

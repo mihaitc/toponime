@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Groapa Uzunoaicii,uzunoaică,3,44.0879711651454,26.513669152305,Calarasi,Altele,9984,,Groapa Uzunoaicii,PDT,Limba română
+Pădurea Uzunul,uzun,2,44.1492539062887,25.9872252092069,Giurgiu,Pădure,3166,3163,Pădurea Uzunul,PDT,Limba română
+Uzunu,uzun,2,44.1458382900606,25.9661064811345,Giurgiu,Localitate,3163,,Uzunu,Geomil 25000,Limba română
+Valea Uzunului,uzun,2,44.1377848278713,25.9766847182306,Giurgiu,Vale,3164,3163,Valea Uzunului,Geomil 25000,Limba română

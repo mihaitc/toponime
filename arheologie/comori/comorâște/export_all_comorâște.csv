@@ -1,0 +1,7 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Comorâște,comorâște,3,45.1814800620953,21.5600398846401,Caras Severin,Localitate,5702,,Comorâște,Geomil 25000,Limba română
+Dealul Comorâștei,comorâște,3,44.7663697621143,23.0185879641927,Gorj,Deal,9778,,Dealul Comorâștei,PDT,Limba română,Dealul Comorâștea,Geomil 25000,Limba română
+Valea Comorâștei,comorâște,3,44.8870001081995,22.9438940781962,Gorj,Vale,9774,219,Valea Comorâștei,PDT,Limba română
+Valea Comorâștei,comorâște,3,44.7607486995983,23.0111496496748,Gorj,Vale,9779,9778,Valea Comorâștei,PDT,Limba română
+Dealu Comorâște,comorâște,3,47.1775743331896,22.7612097888432,Salaj,Deal,1066,,Dealu Comorâște,Geomil 25000,Limba română
+Pădurea Comorâște,comorâște,3,47.1814333424374,22.7696538943332,Salaj,Pădure,1067,1066,Pădurea Comorâște,Geomil 25000,Limba română

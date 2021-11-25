@@ -1,0 +1,106 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Calea Țigăncii,țigancă,3,46.3436020442844,21.5428109418236,Arad,Drum,1093,,Calea Țigăncii,Geomil 25000,Limba română
+Pârâu Țiganca,țigancă,3,46.151313391721,21.3291181765438,Arad,Vale,14248,,Pârâu Țiganca,Geomil 25000,Limba română
+Culmea Țiganca Mare,țigancă,3,45.4272932479831,25.0415544874171,Arges,Înălțime,5024,,Culmea Țiganca Mare,Geomil 25000,Limba română
+Dealul Țigăncei,țigancă,3,44.7092543891226,24.7437472212037,Arges,Deal,3406,,Dealul Țigăncei,PDT,Limba română
+Poiana Țigăncei,țigancă,3,45.0927604923517,25.0471830108791,Arges,Poiană,8832,,Poiana Țigăncei,PDT,Limba română
+Valea Țiganca,țigancă,3,44.7496992631917,24.7777454263152,Arges,Vale,4780,,Valea Țiganca,PDT,Limba română
+Valea Țigăncei,țigancă,3,44.7070819249614,24.7450962378248,Arges,Vale,3407,3406,Valea Țigăncei,PDT,Limba română
+Valea Țigăncii,țigancă,3,44.9466755416943,24.6414495980434,Arges,Vale,88,,Valea Țigăncii,Geomil 25000,Limba română,Valea Țigănei,PDT,Limba română,дол. Цигэнчи (val. Țigăncii),Sovietică,Limba română
+Valea Țigăncii,țigancă,3,44.9619911339735,24.7368481160729,Arges,Vale,8346,,Valea Țigăncii,Geomil 25000,Limba română
+Dealul Țigăncii,țigancă,3,46.4571210806836,27.0895179751718,Bacau,Deal,12249,,Dealul Țigăncii,Geomil 25000,Limba română
+În Țiganca,țigancă,3,46.6623784892262,26.9911641263218,Bacau,Altele,1613,,În Țiganca,Geomil 25000,Limba română
+Râpa Țigăncii,țigancă,3,46.2131815704277,27.3301607689047,Bacau,Altele,1714,,Râpa Țigăncii,Geomil 25000,Limba română
+Valea Țigăncii,țigancă,3,46.6761637842601,26.9763395956236,Bacau,Vale,1612,1613,Valea Țigăncii,Geomil 25000,Limba română
+Țigănoaia,tiganoaia,4,46.5135013692643,26.7043266659138,Bacau,Altele,13154,,Țigănoaia,Geomil 25000,Limba română
+Valea Țigăncii,țigancă,3,47.175359639551,22.247694082551,Bihor,Vale,4196,4195,Valea Țigăncii,PDT,Limba română
+Vârful Țigăncii,țigancă,3,47.1201591386497,24.9624630546028,Bistrita Nasaud,Înălțime,5431,,Vârful Țigăncii,Geomil 25000,Limba română
+Dealul Țigăncii,țigancă,3,47.8675925989239,26.4251728555929,Botosani,Deal,1803,,Dealul Țigăncii,Geomil 25000,Limba română
+Dealul Țigăncii,țigancă,3,47.5894576913362,26.7187102654664,Botosani,Deal,2360,,Dealul Țigăncii,Geomil 25000,Limba română
+Dealul Țigăncii,țigancă,3,47.47533755683,27.0794418751474,Botosani,Deal,2366,,Dealul Țigăncii,Geomil 25000,Limba română
+Lacul din Țiganca,țigancă,3,47.6955027194744,26.865230543902,Botosani,Lac,2354,,Lacul din Țiganca,Geomil 25000,Limba română
+Pădurea la Țiganca,țigancă,3,47.5898273221434,26.8565313167248,Botosani,Pădure,1761,,Pădurea la Țiganca,Geomil 25000,Limba română
+Pădurea Țigăncii,țigancă,3,47.5709111907,26.6948466359391,Botosani,Pădure,2361,,Pădurea Țigăncii,Geomil 25000,Limba română
+Țiganca,țigancă,3,47.9771499415943,26.1785815736157,Botosani,Vale,14089,,Țiganca,Geomil 25000,Limba română
+Valea Țigăncii,țigancă,3,47.5975784690863,26.8511678903243,Botosani,Vale,1762,1761,Valea Țigăncii,Geomil 25000,Limba română
+Valea Țigăncii,țigancă,3,47.6923281995355,26.8649494336721,Botosani,Vale,2355,2354,Valea Țigăncii,Geomil 25000,Limba română
+Valea Țigăncii,țigancă,3,47.7133205049733,26.9405511986049,Botosani,Vale,2380,,Valea Țigăncii,Geomil 25000,Limba română
+Valea Țigăncii,țigancă,3,47.8644672161577,26.4392821426232,Botosani,Vale,4913,1803,Valea Țigăncii,PDT,Limba română
+Balta Țiganca,țigancă,3,45.1444117955586,27.941438595593,Braila,Apă-deal-câmpie,9264,,Balta Țiganca,PDT,Limba română
+Gârla Țigăncii,țigancă,3,45.4730144885758,27.5981294958391,Braila,Apă-deal-câmpie,3616,,Gârla Țigăncii,Geomil 25000,Limba română
+Fața Țigăncii,țigancă,3,45.7843895001235,25.1944593530358,Brasov,Altele,2491,,Fața Țigăncii,Geomil 25000,Limba română
+Curmătura Țiganca,țigancă,3,45.5558233636989,26.482944947217,Buzau,Înălțime,2809,,Curmătura Țiganca,Geomil 25000,Limba română
+Dealu Țigănoaia,țigancă,3,45.1633487982375,26.6685869535569,Buzau,Deal,75,,Dealu Țigănoaia,Geomil 25000,Limba română,Dealul Țigănoea,PDT,Limba română,г. Цигэноая (d. Țigănoaia),Sovietică,Limba română
+Movila Țigăncii,țigancă,3,45.406801862053,27.0967051203406,Buzau,Înălțime,755,,Movila Țigăncii,Geomil 25000,Limba română
+Pădurea Țiganca,țigancă,3,44.2414666800905,27.5787830117163,Calarasi,Pădure,477,,Pădurea Țiganca,Geomil 25000,Limba română
+Țiganca,țigancă,3,44.2313045143439,27.5586727561493,Calarasi,Altele,3464,,Țiganca,PDT,Limba română
+Tziganka,țigancă,3,44.4022301521336,26.5488384558518,Calarasi,Localitate,3628,,Tziganka,Austriacă,Limba română
+Culmea Țigăncii,țigancă,3,44.8684823755769,21.7731592819745,Caras Severin,Înălțime,8510,,Culmea Țigăncii,Geomil 25000,Limba română,Culmea Țigăncii,PDT,Limba română
+Dealul Țiganii,țigancă,3,45.241218223249,21.8170723855857,Caras Severin,Deal,1234,,Dealul Țiganii,Geomil 25000,Limba română
+Ogașu Țiganca,țigancă,3,45.2874078463489,21.7798066552147,Caras Severin,Înălțime,4323,,Ogașu Țiganca,Geomil 25000,Limba română
+Ogașu Țigăncii,țigancă,3,45.2237918557732,21.9746783149995,Caras Severin,Vale,1233,,Ogașu Țigăncii,Geomil 25000,Limba română
+Nemira Țiganca,țigancă,3,46.2313432081505,26.3246744362808,Covasna,Înălțime,5319,,Nemira Țiganca,Geomil 25000,Limba română
+Tiganka patak (Pârâul Țiganca),țigancă,3,46.2267503284986,26.2903471276665,Covasna,Vale,7923,5319,Tiganka patak (Pârâul Țiganca),PDT,Limba maghiară
+Măgura cu Țiganca,țigancă,3,44.6444209715763,25.314328716658,Dambovita,Înălțime,12794,,Măgura cu Țiganca,PDT,Limba română
+Țigăneasca,țigancă,3,44.703946854901,25.2295709835473,Dambovita,Altele,1515,,Țigăneasca,Geomil 25000,Limba română
+Balta Gârla Țigăncei,țigancă,3,43.7492550362613,23.9698256260163,Dolj,Apă-deal-câmpie,12166,,Balta Gârla Țigăncei,PDT,Limba română
+Galdăul Țigâncii,țigancă,3,43.8187635435045,23.6053944007918,Dolj,Apă-deal-câmpie,4680,,Galdăul Țigâncii,PDT,Limba română
+Grindul Țigancei,țigancă,3,43.8241844417789,23.7090223637362,Dolj,Apă-deal-câmpie,4679,,Grindul Țigancei,PDT,Limba română,Grindul Țigăncii,Geomil 25000,Limba română,Gr. Tziganci,Austriacă,Limba română
+Măgura Țigăncii,țigancă,3,43.89406540567,23.2726493889256,Dolj,Înălțime,10348,,Măgura Țigăncii,Geomil 25000,Limba română
+Pădurea Țigăncii,țigancă,3,44.2336423870333,23.3549323054806,Dolj,Pădure,11372,,Pădurea Țigăncii,Geomil 25000,Limba română
+Valea Țiganca,țigancă,3,44.2887555678392,23.6216590619224,Dolj,Vale,3367,,Valea Țiganca,PDT,Limba română
+Valea Țigăncii,țigancă,3,44.3926631472866,23.5814277777124,Dolj,Vale,4707,,Valea Țigăncii,Geomil 25000,Limba română
+Valea Țigăncii,țigancă,3,44.2546339442746,23.2145809526479,Dolj,Vale,8094,,Valea Țigăncii,PDT,Limba română
+Dealul Țiganca,țigancă,3,45.7285414083899,27.7090711839562,Galati,Deal,1588,,Dealul Țiganca,Geomil 25000,Limba română
+Movila Țiganca,țigancă,3,45.7299317035586,27.7039174389462,Galati,Înălțime,1590,1588,Movila Țiganca,Geomil 25000,Limba română,Movila Țigăncii,PDT,Limba română
+Țarina Țiganca,țigancă,3,45.7277575047125,27.7195230760833,Galati,Altele,1589,1588,Țarina Țiganca,Geomil 25000,Limba română
+La Țigăneasca,țigancă,3,44.2150323360194,25.9443997492114,Giurgiu,Altele,463,,La Țigăneasca,Geomil 25000,Limba română
+Valea Țigăncii,țigancă,3,45.0560313153383,23.641837490917,Gorj,Vale,3106,,Valea Țigăncii,Geomil 25000,Limba română
+Poiana Țigăncii,țigancă,3,47.3536580206614,26.8490294369667,Iasi,Poiană,6615,,Poiana Țigăncii,PDT,Limba română
+Valea la Gura Țigănci,țigancă,3,47.1965422937177,26.8143734017649,Iasi,Vale,8878,,Valea la Gura Țigănci,PDT,Limba română
+Pârâul Țigăncilor,țigănci,4,47.1715826949451,26.8149426567236,Iasi,Vale,12928,,Pârâul Țigăncilor,Geomil 25000,Limba română
+Pădurea Țiganca,țigancă,3,44.6002036570086,26.1907004745103,Ilfov,Pădure,1318,,Pădurea Țiganca,Geomil 25000,Limba română,Pădurea Țiganca Mare,PDT,Limba română
+Pădurea Țiganca,țigancă,3,44.5969062514178,26.2034367123339,Ilfov,Înălțime,1319,,Pădurea Țiganca,Geomil 25000,Limba română,Pădurea Țiganca Mică,Austriacă,Limba română
+Dosișul Prumul Țigăncei,țigancă,3,44.3742070069726,23.0402799274989,Mehedinti,Altele,11022,,Dosișul Prumul Țigăncei,PDT,Limba română
+Poiana Țigăncii,țigancă,3,47.1147137634396,24.9690764349782,Mures,Poiană,5430,5431,Poiana Țigăncii,Geomil 25000,Limba română,Poiana Țiganca,PDT,Limba română
+Valea Țiganca,țigancă,3,47.1068170958367,24.9697779285426,Mures,Vale,10018,5431,Valea Țiganca,PDT,Limba română
+Dealul Țigăncii,țigancă,3,46.8460741832258,27.0153687359215,Neamt,Deal,1627,1626,Dealul Țigăncii,Geomil 25000,Limba română
+La Țiganca,țigancă,3,46.8488299475809,27.0036150533257,Neamt,Altele,1626,,La Țiganca,Geomil 25000,Limba română
+Țiganca,țigancă,3,47.0238175457024,26.2668378468388,Neamt,Altele,671,,Țiganca,Geomil 25000,Limba română
+Țiganca,țigancă,3,46.8587915333782,26.9940120191943,Neamt,Vale,1628,1626,Țiganca,Geomil 25000,Limba română
+Țiganca,țigancă,3,47.1415656158697,25.9308165889394,Neamt,Vale,6458,6459,Țiganca,Geomil 25000,Limba română
+Țiganca,țigancă,3,47.019739129201,26.2559970129148,Neamt,Vale,12625,671,Țiganca,Geomil 25000,Limba română
+Vârful Țigăncii,țigancă,3,47.1353595978885,25.9430155059892,Neamt,Înălțime,6459,,Vârful Țigăncii,Geomil 25000,Limba română,Bâtca Pârâului Țigăncii,PDT,Limba română
+La Țiganca,țigancă,3,44.362399076537,24.2402455378292,Olt,Altele,11185,,La Țiganca,ANCPI,Limba română
+Măgura Țigăncii,țigancă,3,43.9325563158415,24.5661156974655,Olt,Înălțime,1264,,Măgura Țigăncii,Geomil 25000,Limba română
+Măgura Țigăncii,țigancă,3,43.912563689325,24.2976307659807,Olt,Înălțime,12375,,Măgura Țigăncii,Geomil 25000,Limba română
+Valea Țigăncii,țigancă,3,44.2958760845677,24.527003676452,Olt,Vale,2995,,Valea Țigăncii,Geomil 25000,Limba română
+Valea Țigăncei,țigancă,3,45.0397883679702,26.3259452810915,Prahova,Vale,16,,Valea Țigăncei,PDT,Limba română,Valea Zigan,Austriacă,Limba română
+Gruiul Țigăncii,țigancă,3,45.7767429216645,24.4319148161476,Sibiu,Altele,8003,,Gruiul Țigăncii,PDT,Limba română
+Pădurea Țigăncii,țigancă,3,47.6173809764183,25.8678793966823,Suceava,Pădure,649,,Pădurea Țigăncii,Geomil 25000,Limba română
+Părâul Țigancii,țigancă,3,47.6155693621693,25.8525037868547,Suceava,Vale,10753,649,Părâul Țigancii,Imperiul Habsburgic (1887),Limba română,Pârâul Țigancăi,Geomil 25000,Limba română
+Râpa Țigăncii,țigancă,3,47.7331836324345,26.3917152468481,Suceava,Înălțime,1794,,Râpa Țigăncii,Geomil 25000,Limba română,Râpa Țigănei,PDT,Limba română
+Țiganca,țigancă,3,47.3297091900761,26.2188209333218,Suceava,Vale,13270,,Țiganca,Geomil 25000,Limba română
+Dealu Țigăncei,țigancă,3,44.06297705223,25.2442667194572,Teleorman,Deal,10971,,Dealu Țigăncei,Geomil 25000,Limba română
+Ocolul Țigăncii,țigancă,3,43.7866804474405,24.768176961108,Teleorman,Apă-deal-câmpie,8013,,Ocolul Țigăncii,PDT,Limba română
+Valea Țigăneaua,țigănea,4,43.8137996141831,25.0628229335441,Teleorman,Vale,1384,,Valea Țigăneaua,Geomil 25000,Limba română
+Valea Țigăneaua Mare,țigănea,4,44.02142552809,25.0976168451654,Teleorman,Vale,10973,,Valea Țigăneaua Mare,Geomil 25000,Limba română
+Valea Țigăneaua Mică,țigănea,4,44.0160110796134,25.0941732647572,Teleorman,Vale,10972,10973,Valea Țigăneaua Mică,Geomil 25000,Limba română
+Pârâu Țiganca,țigancă,3,46.06394822832,20.4903229379701,Timis,Vale,5665,,Pârâu Țiganca,Geomil 25000,Limba română
+Țiganca,țigancă,3,46.0844091237537,20.4691769620844,Timis,Înălțime,1963,,Țiganca,Geomil 25000,Limba română,Czicanka,PDT,Limba română
+Țiganca,țigancă,3,46.0346216926036,20.7741217312892,Timis,Altele,5659,,Țiganca,PDT,Limba română
+Țiganca,țigancă,3,46.079550855149,20.6914083698705,Timis,Altele,5669,,Țiganca,PDT,Limba română
+Dealu Țigăncei,țigancă,3,45.1711318550122,28.3417696948037,Tulcea,Deal,6687,,Dealu Țigăncei,PDT,Limba română
+Țiganca Tăița,țigancă,3,45.1554828380814,28.3708481491431,Tulcea,Localitate,6690,6687,Țiganca Tăița,PDT,Limba română
+Valea Poteca Țigăncii,țigancă,3,45.111541063464,28.3394627564536,Tulcea,Vale,11594,6687,Valea Poteca Țigăncii,Geomil 25000,Limba română
+Valea Țiganca,țigancă,3,45.2052099873363,28.3337132837495,Tulcea,Vale,6686,6687,Valea Țiganca,PDT,Limba română
+Dealul Țigăncii,țigancă,3,46.1578634048616,27.6328207569493,Vaslui,Deal,721,,Dealul Țigăncii,Geomil 25000,Limba română
+Râpa Țiganca Mare,țigancă,3,46.1499359931052,27.6294075279643,Vaslui,Altele,722,721,Râpa Țiganca Mare,Geomil 25000,Limba română
+Râpa Țiganca Mică,țigancă,3,46.1614977353896,27.6336520059722,Vaslui,Altele,724,721,Râpa Țiganca Mică,Geomil 25000,Limba română
+Cișmeaua Țigăncii,țigancă,3,46.1766216006683,27.316590907095,Vrancea,Altele,1720,,Cișmeaua Țigăncii,Geomil 25000,Limba română,Fântâna Țigăncei,PDT,Limba română
+La Țiganca,țigancă,3,45.9588103885704,27.0887402018824,Vrancea,Altele,7899,,La Țiganca,PDT,Limba română
+Piscul Țigăncii,țigancă,3,46.0656341303697,26.8802998750641,Vrancea,Înălțime,9204,,Piscul Țigăncii,Geomil 25000,Limba română,Piscul Țigăncei,PDT,Limba română
+Poiana Țiganca,țigancă,3,46.0597928937673,26.8652298638833,Vrancea,Poiană,9203,9204,Poiana Țiganca,PDT,Limba română
+Poiana Țigăncei,țigancă,3,45.6318055324482,26.5821948083715,Vrancea,Poiană,9966,,Poiana Țigăncei,Moldova (1892-1898),Limba română
+Râpa Țigăncei,țigancă,3,45.591696128777,27.0211624793571,Vrancea,Înălțime,2148,,Râpa Țigăncei,Geomil 25000,Limba română
+Valea Țigăncii,țigancă,3,46.0647403308353,26.8901417145209,Vrancea,Vale,9205,9204,Valea Țigăncii,Geomil 25000,Limba română

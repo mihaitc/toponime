@@ -1,0 +1,20 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Culmea Coțofenei,coțofană,2,45.4301702202793,24.5784002288127,Arges,Înălțime,4987,,Culmea Coțofenei,Geomil 25000,Limba română
+Valea Coțofenei,coțofană,2,44.4439961044191,25.0731297366437,Arges,Vale,9447,,Valea Coțofenei,Geomil 25000,Limba română
+Dealul Coțofenei,coțofană,2,47.1047884924289,24.2775785983091,Bistrita Nasaud,Deal,1010,,Dealul Coțofenei,Geomil 25000,Limba română
+Coțofenei,coțofană,2,45.2468774054644,28.0794353799891,Braila,Altele,7679,,Coțofenei,PDT,Limba română
+Muchia Coțofenei,coțofană,2,45.5525134498193,25.198693121332,Brasov,Înălțime,11254,,Muchia Coțofenei,Geomil 25000,Limba română
+Valea Coțofenei,coțofană,2,45.5557098026296,25.2019229494815,Brasov,Vale,11255,11254,Valea Coțofenei,Geomil 25000,Limba română
+La Coțofana,coțofană,2,44.0620524492107,26.4072534884487,Calarasi,Altele,1331,,La Coțofana,Geomil 25000,Limba română
+Valea Crângul Coțofanei,coțofană,2,44.2816205170082,26.4096248963625,Calarasi,Vale,3764,,Valea Crângul Coțofanei,PDT,Limba română,Valea Crângu Coțofenii,Geomil 25000,Limba română
+Valea Coțofana,coțofană,2,44.2128723642198,27.8092458169563,Constanta,Vale,9277,,Valea Coțofana,PDT,Limba română
+Valea Coțofenii,coțofană,2,44.4629282666981,23.6723204550241,Dolj,Vale,12295,,Valea Coțofenii,PDT,Limba română
+În Coțofene,coțofană,2,44.0286925323241,26.0940416690128,Giurgiu,Altele,3160,,În Coțofene,Geomil 25000,Limba română
+Laku Kotzofan-mare,coțofană,2,44.0182127235125,26.0794292493482,Giurgiu,Lac,5744,3160,Laku Kotzofan-mare,Austriacă,Limba română
+Dealul Coțofenei,coțofană,2,46.2964136091295,25.0007885166567,Harghita,Deal,7951,,Dealul Coțofenei,Geomil 25000,Limba română
+Dealul Coțofenelor,coțofană,2,46.3273196899524,25.3799032784637,Harghita,Deal,10056,,Dealul Coțofenelor,Geomil 25000,Limba română
+Movila Coțofenei,coțofană,2,44.9248302723443,25.918920873726,Prahova,Înălțime,3690,,Movila Coțofenei,PDT,Limba română
+Piciorul Coțofenei,coțofană,2,45.3568793385298,25.5969999401601,Prahova,Înălțime,576,575,Piciorul Coțofenei,Geomil 25000,Limba română
+Piciorul Coțofenei,coțofană,2,45.3422368937311,25.6467149559544,Prahova,Înălțime,1570,,Piciorul Coțofenei,Geomil 25000,Limba română,Piscul Coțofana,PDT,Limba română
+Valea Coțofenei,coțofană,2,45.3568035039359,25.6043212886331,Prahova,Vale,575,,Valea Coțofenei,Geomil 25000,Limba română
+Măgura Coțofeni,coțofană,2,43.7408275456054,25.2309773147589,Teleorman,Înălțime,9465,,Măgura Coțofeni,PDT,Limba română

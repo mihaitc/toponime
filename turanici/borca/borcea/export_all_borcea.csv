@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Borcea,borcea,3,46.3196197069021,27.4051218814711,Bacau,Vale,13546,,Valea Borcea,Geomil 25000,Limba română
+Borcea Mică,borcea,3,45.2371229540964,28.0809518471758,Braila,Apă-deal-câmpie,9982,9980,Borcea Mică,PDT,Limba română
+Ghiolul Borcea,borcea,3,45.2421259769637,28.0683999844898,Braila,Apă-deal-câmpie,9981,9980,Ghiolul Borcea,PDT,Limba română
+Grindu Borcea,borcea,3,45.2368198705124,28.0694023877538,Braila,Apă-deal-câmpie,9980,,Grindu Borcea,PDT,Limba română
+Borcea,borcea,3,44.3244684814117,27.734704057804,Calarasi,Apă-deal-câmpie,9977,,Borcea,Geomil 25000,Limba română,Borca,Austriacă,Limba română

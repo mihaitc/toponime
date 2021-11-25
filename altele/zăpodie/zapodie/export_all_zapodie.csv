@@ -1,0 +1,49 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Pa Zapodia,zapodie,3,46.1239973230279,24.0588974116539,Alba,Altele,11765,2555,Pa Zapodia,PDT,Limba română
+Zapodia Lacului,zapodie,3,46.1389584856788,24.062685957947,Alba,Vale,11766,,Zapodia Lacului,PDT,Limba română
+Zapojida B.,zapodie,3,46.2586862706297,23.3866115083469,Alba,Deal,12193,,Zapojida B.,Transilvania (1769-1773),Limba germană
+Muchia Zapozii,zapodie,3,45.287626622304,24.5351630062924,Arges,Înălțime,11111,,Muchia Zapozii,Geomil 25000,Limba română
+Dealul Zapodi,zapodie,3,47.0390264416862,24.6074702218573,Bistrita Nasaud,Deal,10639,,Dealul Zapodi,Imperiul Habsburgic (1887),Limba română
+Dealul Zapodiei,zapodie,3,47.4039549628247,24.1941813425137,Bistrita Nasaud,Deal,7090,,Dealul Zapodiei,Geomil 25000,Limba română
+Pârâul Zapodi,zapodie,3,47.3172469524491,24.4678209193623,Bistrita Nasaud,Vale,9872,,Pârâul Zapodi,PDT,Limba română
+Zapodia Bondri,zapodie,3,47.070639961978,24.7341445914773,Bistrita Nasaud,Altele,9902,,Zapodia Bondri,PDT,Limba română
+Zapodia Roșie,zapodie,3,47.0721768712511,24.7435151864455,Bistrita Nasaud,Vale,9901,,Zapodia Roșie,PDT,Limba română
+Dealul Zapodia Mică,zapodie,3,46.5965232996645,23.6644617902142,Cluj,Deal,8137,8136,Dealul Zapodia Mică,PDT,Limba română
+Dealul Zapodii,zapodie,3,46.6973135908387,23.6462039340783,Cluj,Deal,10413,,Dealul Zapodii,PDT,Limba română,Zepogye,Transilvania (1869-1870),Limba română
+Dosu Zapozi,zapodie,3,46.907972862081,23.3396790213535,Cluj,Deal,10419,,Dosu Zapozi,Transilvania (1869-1870),Limba română
+Pârâul Zapodie,zapodie,3,46.6323976511054,23.4601279881473,Cluj,Vale,8967,,Pârâul Zapodie,PDT,Limba română
+Pârâul Zapozii,zapodie,3,46.6287040911179,23.4270801688161,Cluj,Vale,8966,,Pârâul Zapozii,PDT,Limba română
+Zapodia Mică,zapodie,3,46.5961880699425,23.6731399839642,Cluj,Altele,8136,,Zapodia Mică,PDT,Limba română
+Zapodie,zapodie,3,46.6500182523119,23.6934979249659,Cluj,Altele,8970,,Zapodie,PDT,Limba română
+Zapodia,zapodie,3,46.3141954322992,24.9157810859471,Harghita,Înălțime,10626,,Zapodia,PDT,Limba română
+Zapodia lui Călin,zapodie,3,46.968294639189,25.2764622891006,Harghita,Altele,10012,,Zapodia lui Călin,PDT,Limba română
+Gura Zapodii,zapodie,3,45.6383011575747,22.9058821785835,Hunedoara,Înălțime,9021,,Gura Zapodii,PDT,Limba română
+Vârful Zapozii,zapodie,3,46.1775539548347,23.0206851680517,Hunedoara,Înălțime,13961,,Vârful Zapozii,PDT,Limba română
+Zapodia Brișscarului,zapodie,3,47.441022940244,26.8903973107438,Iasi,Altele,8926,,Zapodia Brișscarului,PDT,Limba română
+Zapodia Malului,zapodie,3,47.6514082194678,24.1606372212051,Maramures,Altele,8255,,Zapodia Malului,PDT,Limba română,Zăpodiile Malului,Geomil 25000,Limba română
+Fântâna din Zapodia,zapodie,3,44.6015452730741,22.8527097185731,Mehedinti,Altele,8071,8070,Fântâna din Zapodia,PDT,Limba română
+Valea Zapodia,zapodie,3,44.6107213917723,22.8552686852694,Mehedinti,Vale,8070,,Valea Zapodia,PDT,Limba română
+Pârâul Zapodia Pietroasă,zapodie,3,46.9550760206182,24.9373007675551,Mures,Vale,7954,,Pârâul Zapodia Pietroasă,PDT,Limba română
+Valea Zapodia,zapodie,3,46.7018170271281,24.8921079784086,Mures,Vale,12083,,Valea Zapodia,PDT,Limba română
+Zapodia Castrână,zapodie,3,47.0422810767167,25.0399780872541,Mures,Altele,11734,,Zapodia Castrână,PDT,Limba română
+Zapodia Florii,zapodie,3,47.0398178804397,25.0384585861788,Mures,Altele,11733,,Zapodia Florii,PDT,Limba română
+Zapodia la groapă,zapodie,3,46.9893882435782,25.1078186180968,Mures,Altele,7963,,Zapodia la groapă,PDT,Limba română
+Zapodia lui Gerș,zapodie,3,47.0425030975559,25.0648915768228,Mures,Altele,11732,,Zapodia lui Gerș,PDT,Limba română
+Zapodia lui Nicol,zapodie,3,47.0511220711501,25.0730019510947,Mures,Altele,11729,,Zapodia lui Nicol,PDT,Limba română
+Zapodia Stânii,zapodie,3,47.0386325309858,25.0602583683144,Mures,Altele,11731,,Zapodia Stânii,PDT,Limba română
+Zapodia Tiltei,zapodie,3,47.0465488331213,25.0389838466118,Mures,Altele,11735,,Zapodia Tiltei,PDT,Limba română
+Zapodia Vârful cel Mare,zapodie,3,46.9618004936528,25.2710037890715,Mures,Înălțime,7964,,Zapodia Vârful cel Mare,PDT,Limba română
+Zapodie,zapodie,3,46.1966586518043,24.8550148742502,Mures,Altele,10062,,Zapodie,PDT,Limba română
+Zapodiea cu Frasini,zapodie,3,46.997948431168,25.054514162346,Mures,Vale,11748,,Zapodiea cu Frasini,PDT,Limba română
+Zapodia,zapodie,3,47.0799989477856,26.7399285742603,Neamt,Localitate,9711,,Zapodia,Moldova (1892-1898),Limba română
+Facia Zapodei,zapodie,3,47.049273404642,23.1880854877207,Salaj,Înălțime,10422,,Facia Zapodei,Transilvania (1869-1870),Limba română
+Fântâna Zapodii,zapodie,3,47.3143008939492,23.3657683000689,Salaj,Altele,8991,,Fântâna Zapodii,PDT,Limba română
+Groapa Zapodii,zapodie,3,47.0604001504482,23.091987216829,Salaj,Altele,11336,,Groapa Zapodii,Geomil 25000,Limba română
+Pârâu Zapodia lui Lucaci,zapodie,3,46.9663865257403,23.3182905711442,Salaj,Vale,10409,,Pârâu Zapodia lui Lucaci,PDT,Limba română
+Zapodie,zapodie,3,47.4005924674777,23.2803852832892,Salaj,Altele,8175,,Zapodie,PDT,Limba română
+Valea Zapodiei,zapodie,3,46.0273614549669,23.9447036069705,Sibiu,Vale,14256,,Valea Zapodiei,Geomil 25000,Limba română
+Zapodia,zapodie,3,46.0793466334145,24.6204063784737,Sibiu,Altele,14086,,Zapodia,Geomil 25000,Limba română
+Zapodia Lungă,zapodie,3,46.0580232601814,24.2885493662694,Sibiu,Altele,13463,,Zapodia Lungă,PDT,Limba română
+Zapodia Scurtă,zapodie,3,46.0598573500547,24.2805409439942,Sibiu,Altele,13464,,Zapodia Scurtă,PDT,Limba română
+Dealul Zapodia,zapodie,3,44.1099067393835,24.9451967660483,Teleorman,Deal,9045,,Dealul Zapodia,PDT,Limba română
+La Zapodie,zapodie,3,45.8024147860591,27.0885750999671,Vrancea,Altele,9231,,La Zapodie,PDT,Limba română

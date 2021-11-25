@@ -1,0 +1,29 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Pârâu Barcău,barcău,3,46.616762708685,21.8688156323801,Arad,Vale,13931,,Pârâu Barcău,Geomil 25000,Limba română
+Valea lui Bărcan,bărcan,2,44.4324409102083,25.0717855898688,Arges,Vale,3389,,Valea lui Bărcan,Geomil 25000,Limba română
+Bărcana,bărcana,3,46.4874787849294,27.361068429551,Bacau,Localitate,9600,,Bărcana,Moldova (1892-1898),Limba română
+Barcanul,barcan,3,45.1479663877046,28.0338122895626,Braila,Apă-deal-câmpie,9263,,Barcanul,PDT,Limba română
+Dealul Bărcanului,bărcan,2,46.8959125554945,23.4494903658205,Cluj,Deal,10405,,Dealul Bărcanului,PDT,Limba română
+Barcani,barcan,3,45.6830351498927,26.0793735889581,Covasna,Înălțime,6052,6054,Barcani,Geomil 25000,Limba română
+Barcani,barcan,3,45.7045558513098,26.09564612705,Covasna,Localitate,6054,,Barcani,Geomil 25000,Limba română
+Valea Barcani,barcan,3,45.6837978219351,26.0676706370377,Covasna,Vale,6053,6054,Valea Barcani,Geomil 25000,Limba română
+Dealul Barcan,barcan,3,44.207005905163,23.1894184896499,Dolj,Deal,8091,,Dealul Barcan,PDT,Limba română
+Valea Barcan,barcan,3,44.2038369414836,23.1900544669297,Dolj,Vale,8092,8091,Valea Barcan,PDT,Limba română
+Lipoveanca-Bărcăneasca,bărcăneasca,3,44.3699613767799,25.6771865211903,Giurgiu,Localitate,10107,,Lipoveanca-Bărcăneasca,PDT,Limba română
+Pădurea Bărcănești,bărcan,2,44.6645377897802,26.6858488648574,Ialomita,Pădure,3180,3179,Pădurea Bărcănești,Geomil 25000,Limba română
+Bărcănești,bărcănești,3,44.6387358064137,26.6506827481802,Ialomita,Localitate,3179,,Bărcănești,Geomil 25000,Limba română
+Bărcănești,bărcănești,3,44.8175780199224,22.774172481033,Mehedinti,Localitate,8412,,Bărcănești,PDT,Limba română
+Cracul Bărcănești,bărcănești,3,44.8147274931991,22.7842375516831,Mehedinti,Vale,8413,8412,Cracul Bărcănești,PDT,Limba română
+Bărcani,bărcan,2,46.7823989507098,26.6768097310719,Neamt,Localitate,9148,,Bărcani,PDT,Limba română
+Bărcănești,bărcănești,3,46.7158304667601,26.5911898348785,Neamt,Localitate,9948,,Bărcănești,Moldova (1892-1898),Limba română,Bărcănești,Geomil 25000,Limba română
+Dealul Bârcănești,bărcănești,3,46.6737791847063,26.5650183209075,Neamt,Deal,9949,9948,Dealul Bârcănești,Geomil 25000,Limba română
+Bărcănești,bărcănești,3,44.3054824435728,24.5456549224998,Olt,Localitate,2998,,Bărcănești,Geomil 25000,Limba română
+Bărcănești,bărcănești,3,44.2937752147478,24.5169346589527,Olt,Înălțime,2999,2998,Bărcănești,Geomil 25000,Limba română
+Pârâu Bărcăneasca,bărcăneasca,3,44.8811503955504,26.0846802791764,Prahova,Vale,8800,8795,Pârâu Bărcăneasca,Geomil 25000,Limba română
+Bărcănești,bărcănești,3,44.8813496572617,26.0502972424822,Prahova,Localitate,8795,,Bărcănești,Geomil 25000,Limba română,Bărcănești,PDT,Limba română
+Pădurea Bărcănescii,bărcănești,3,44.8729337761553,26.0840034323294,Prahova,Pădure,8799,8795,Pădurea Bărcănescii,PDT,Limba română
+Râu Barcău,barcău,3,47.1091686025227,22.7100165808812,Salaj,Vale,11913,,Râu Barcău,Geomil 25000,Limba română
+Valea lui Bărcan,bărcan,2,44.1590725078047,25.1420941171049,Teleorman,Vale,12205,,Valea lui Bărcan,Geomil 25000,Limba română
+Barcanele,barcanele,3,45.0899540106084,24.1257046887995,Valcea,Localitate,11378,,Barcanele,Geomil 25000,Limba română
+Bărcănești,bărcănești,3,44.805876357069,24.0304243719221,Valcea,Localitate,5833,,Bărcănești,Geomil 25000,Limba română,Bârcânești,Austriacă,Limba română,Bărcănești,PDT,Limba română
+Dealu Bărcănești,bărcănești,3,44.8044984442515,24.0493851592522,Valcea,Deal,5835,5833,Dealu Bărcănești,Geomil 25000,Limba română

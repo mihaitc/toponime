@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealu Chicioara,chicioara,3,46.2796125267305,21.8635702624402,Arad,Deal,13985,,Dealu Chiciora,Geomil 25000,Limba română
+Dealul Chicioara,chicioara,3,45.1513247056835,24.5410808554077,Arges,Deal,13208,,Dealul Chicioara,Geomil 25000,Limba română
+Valea Chicioara,chicioara,3,44.2457640090946,24.761020735577,Olt,Vale,13534,13533,Valea Chicioara,Geomil 25000,Limba română
+Chicioara,chicioara,3,45.1347688076803,24.2356846255526,Valcea,Localitate,13663,,Chicioara,PDT,Limba română

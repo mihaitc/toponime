@@ -1,0 +1,7 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Vaslui,vaslui,2,44.4040679016972,24.2406820757482,Olt,Vale,4807,,Valea Vaslui,PDT,Limba română,Pârâu Vaslui,Geomil 25000,Limba română
+Valea Vasluiețului,vaslui,2,44.4467289690567,24.1773784785067,Olt,Vale,279,4807,Valea Vasluiețului,Geomil 25000,Limba română
+Grindul Văsluelului,vaslui,2,43.7170405048414,25.134911579678,Teleorman,Înălțime,9470,9467,Grindul Văsluelului,PDT,Limba română
+Grindul Văsluiului,vaslui,2,43.7221785001109,25.1555206931492,Teleorman,Înălțime,9467,,Grindul Văsluiului,PDT,Limba română
+Lișteava Văsluelului,vaslui,2,43.7212429975313,25.1359537006195,Teleorman,Apă-deal-câmpie,9469,9467,Lișteava Văsluelului,PDT,Limba română
+Lișteava Văsluiului,vaslui,2,43.7202526026127,25.158270370404,Teleorman,Apă-deal-câmpie,9468,9467,Lișteava Văsluiului,PDT,Limba română

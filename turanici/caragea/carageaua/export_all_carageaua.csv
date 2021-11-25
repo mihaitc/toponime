@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Coasta Carageaua,carageaua,3,46.4834427856705,26.792354597555,Bacau,Înălțime,3844,3843,Coasta Carageaua,Geomil 25000,Limba română
+Dealul Carageaua,carageaua,3,46.4911301882616,26.7942219290559,Bacau,Deal,3843,,Dealul Carageaua,Geomil 25000,Limba română

@@ -1,0 +1,112 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealu Mocanului,mocan,3,46.2831343862764,23.4079963845524,Alba,Deal,10668,,Dealu Mocanului,Geomil 25000,Limba română,Mokan B.,Transilvania (1769-1773),Limba română
+Pădurea Mocanilor,mocani,2,46.1013738946185,24.0846980641016,Alba,Pădure,2554,,Pădurea Mocanilor,Geomil 25000,Limba română
+Dealu Mocanului,mocan,3,46.5473502544883,22.0310063642449,Arad,Deal,11333,,Dealu Mocanului,Geomil 25000,Limba română
+Moara Mocanului,mocan,3,44.7637962337306,25.1369441459551,Arges,Înălțime,1516,,Moara Mocanului,Geomil 25000,Limba română
+Moara Mocanului,mocan,3,44.768430839728,25.141317355228,Arges,Localitate,1517,1516,Moara Mocanului,Geomil 25000,Limba română
+Mocanul,mocan,3,45.5321283482951,24.7890079922293,Arges,Vale,10184,10183,Mocanul,Geomil 25000,Limba română
+Piscul Mocanului,mocan,3,45.5345790137426,24.7902125813206,Arges,Înălțime,10183,,Piscul Mocanului,Geomil 25000,Limba română
+Valea Mocanului,mocan,3,44.737722178111,24.7666344153035,Arges,Vale,1405,,Valea Mocanului,Geomil 25000,Limba română,Valea Mocanului,PDT,Limba română
+Pădurea Mocanca,mocanca,3,44.7153079964568,24.9628541040737,Arges,Pădure,8311,,Pădurea Mocanca,PDT,Limba română
+Dealu Mocanului,mocani,2,44.9023221589593,24.9788339189507,Arges,Deal,550,,Dealu Mocanului,Geomil 25000,Limba română
+Râpa Mocanilor,mocani,2,45.0027004945357,24.7714868217703,Arges,Înălțime,9696,,Râpa Mocanilor,PDT,Limba română
+Dealul Țutueanu,țuțuian,4,45.0976447821575,25.1729362865826,Arges,Deal,11125,,Dealul Țutueanu,PDT,Limba română
+Dealu Mocanului,mocan,3,46.2975163911722,27.3304970261099,Bacau,Deal,11542,,Dealu Mocanului,Geomil 25000,Limba română
+Dealul Arșița Mocanului,mocan,3,46.1297527620123,26.6155886892214,Bacau,Deal,5299,,Dealul Arșița Mocanului,PDT,Limba română,Dealul Arșița Mocanului,Geomil 25000,Limba română
+Dealul Mocanului,mocan,3,46.469055825761,26.2763180787394,Bacau,Deal,9959,,Dealul Mocanului,Moldova (1892-1898),Limba română
+La Mocanu,mocan,3,46.4098873493104,26.734400364313,Bacau,Altele,13858,,La Mocanu,PDT,Limba română
+Pârâul Mocanului,mocan,3,46.3106604419247,26.3241096217642,Bacau,Vale,9962,1890,Pârâul Mocanului,Moldova (1892-1898),Limba română,Mocanul,Geomil 25000,Limba română
+Piscul Mocanului,mocan,3,46.0876403097,26.9020240138,Bacau,Înălțime,5288,5287,Piscul Mocanului,Geomil 25000,Limba română
+Plaiul Mocanului,mocan,3,46.3155255284608,26.3266455038247,Bacau,Înălțime,1890,,Plaiul Mocanului,Geomil 25000,Limba română
+Poiana Mocanului,mocan,3,46.0925711126,26.9084057171,Bacau,Poiană,5287,,Poiana Mocanului,Geomil 25000,Limba română
+Valea Mocanului,mocan,3,46.3584305969713,26.9635144828219,Bacau,Vale,7821,,Valea Mocanului,Geomil 25000,Limba română
+Mocani,mocani,2,46.7343648112695,26.7072733989937,Bacau,Localitate,3900,,Mocani,PDT,Limba română
+Valea Mocanilor,mocani,2,46.6712692444382,26.6359836748695,Bacau,Vale,9152,,Valea Mocanilor,PDT,Limba română
+Poiana Țuțuianu,țuțuian,4,46.4457908578586,26.1142637738786,Bacau,Poiană,10794,,Poiana Țuțuianu,Moldova (1892-1898),Limba română
+Dealu Mocanu,mocani,2,46.4604564009171,22.5711948979119,Bihor,Deal,999,,Dealu Mocanu,Geomil 25000,Limba română
+Hârtopu Mocanului,mocan,3,48.0499929951713,26.745593861372,Botosani,Înălțime,6675,,Hârtopu Mocanului,PDT,Limba română
+Valea Mocanului,mocan,3,47.5321445434769,26.7689811986197,Botosani,Vale,1748,,Valea Mocanului,Geomil 25000,Limba română
+Valea Pârâu Mocanului,mocan,3,47.6504520915786,26.7369817985465,Botosani,Vale,9733,,Valea Pârâu Mocanului,Moldova (1892-1898),Limba română
+Crucea Mocanului,mocan,3,44.7898645973764,27.4672482235135,Braila,Altele,3599,,Crucea Mocanului,PDT,Limba română
+Puțul lui Jiga Mocanu,mocan,3,44.9222115659661,27.514624282694,Braila,Altele,6737,,Puțul lui Jiga Mocanu,PDT,Limba română
+Târlele Mocanilor,mocani,2,45.0013639091691,27.4196070305119,Braila,Localitate,6728,,Târlele Mocanilor,PDT,Limba română
+Movila Țuțuianului,țuțuian,4,44.9182932896285,27.2556301344291,Braila,Înălțime,4015,,Movila Țuțuianului,Geomil 25000,Limba română,Movila Țuțuianu,PDT,Limba română
+Movila Țuțuenilor,țuțuieni,3,44.9734072495122,27.8641865964709,Braila,Înălțime,6721,,Movila Țuțuenilor,PDT,Limba română
+Piscul lui Mocanu,mocan,3,45.7263245066706,25.2996288679295,Brasov,Înălțime,6823,,Piscul lui Mocanu,PDT,Limba română
+Muchia Țuțueanului,țuțuian,4,45.5776109114442,25.7447808689554,Brasov,Înălțime,6847,,Muchia Țuțueanului,PDT,Limba română
+Pârâul Țuțueanului,țuțuian,4,45.5802653656289,25.7551375777715,Brasov,Vale,6848,6847,Pârâul Țuțueanului,PDT,Limba română
+Pârâul Lazu Mocanului,mocan,3,45.3487577749597,26.2319007141337,Buzau,Vale,11708,,Pârâul Lazu Mocanului,PDT,Limba română
+Puțul lui Mocanu,mocan,3,45.2301646315439,27.1173626945237,Buzau,Altele,3585,,Puțul lui Mocanu,PDT,Limba română
+Dealul Mocanca,mocani,2,45.4881789215371,26.9695512959029,Buzau,Deal,567,,Dealul Mocanca,Geomil 25000,Limba română
+Mokani,mocani,2,45.3888536739848,26.8917062693836,Buzau,Localitate,5764,,Mokani,Austriacă,Limba română
+La Pâlcul Țuțueanului,țuțuian,4,44.9116902246294,27.1662616974426,Buzau,Altele,4013,,La Pâlcul Țuțueanului,PDT,Limba română
+Crucea Mocanului,mocan,3,44.1929462462719,27.0925078499577,Calarasi,Altele,3234,,Crucea Mocanului,PDT,Limba română,Crucea Mocanului,Geomil 25000,Limba română
+Grindu Mocanu,mocan,3,44.155960263115,27.4891253255457,Calarasi,Apă-deal-câmpie,11270,,Grindu Mocanu,Geomil 25000,Limba română
+Valea Mocanului,mocan,3,46.9948359195542,23.7870057510722,Cluj,Vale,8954,,Valea Mocanului,PDT,Limba română
+Dealul Mocanului,mocan,3,44.3676236143413,28.2203305959056,Constanta,Deal,12006,,Dealul Mocanului,Geomil 25000,Limba română
+Valea lui Mocanu,mocan,3,44.3138678942079,28.345913522343,Constanta,Vale,2871,,Valea lui Mocanu,Geomil 25000,Limba română
+Valea Mocanului,mocan,3,44.3592982243504,28.097966825199,Constanta,Vale,2840,,Valea Mocanului,Geomil 25000,Limba română
+Valea Mocanului,mocan,3,44.0066156594774,28.1214818397793,Constanta,Vale,14245,,Valea Mocanului,Geomil 25000,Limba română
+La Mocani,mocani,2,44.6018660205846,28.6025856001033,Constanta,Altele,9303,,La Mocani,Geomil 25000,Limba română
+Pădurea la Crucea Mocanului,mocan,3,45.0235684154041,25.6668671490892,Dambovita,Pădure,12828,,Pădurea la Crucea Mocanului,PDT,Limba română
+Pădurea Mocanul,mocan,3,44.6282770770217,25.3801169600431,Dambovita,Pădure,3379,,Pădurea Mocanul,PDT,Limba română,Pădurea Mocanu,Geomil 25000,Limba română
+Piscul Mocanului,mocan,3,45.0860574983468,25.3515871962755,Dambovita,Înălțime,8822,,Piscul Mocanului,PDT,Limba română
+Valea Mocanului,mocan,3,44.7298792988206,25.3809247608331,Dambovita,Vale,7451,,Valea Mocanului,Geomil 25000,Limba română,Valea Mocanului,PDT,Limba română
+Dorf Mokan (Satul Mocani),mocani,2,44.8361203524144,25.3892048696988,Dambovita,Localitate,12021,,Dorf Mokan (Satul Mocani),Oltenia-Muntenia (1790),Limba română
+Drumul Mocanilor,mocani,2,44.8295460745811,25.6009875495194,Dambovita,Drum,3700,,Drumul Mocanilor,PDT,Limba română
+Puțul Mocanilor,mocani,2,44.7210399742293,25.611676752341,Dambovita,Altele,4240,,Puțul Mocanilor,PDT,Limba română
+Crucea Mocanului,mocan,3,45.7783532003457,27.5796067881547,Galati,Altele,10992,,Crucea Mocanului,Moldova (1892-1898),Limba română
+Valea Mocanului,mocan,3,45.8901903668388,27.9001356850552,Galati,Vale,9641,,Valea Mocanului,Moldova (1892-1898),Limba română,Valea Mocanului,Geomil 25000,Limba română
+Via Mocanului,mocan,3,45.8984987560415,27.60556207129,Galati,Altele,9609,,Via Mocanului,Moldova (1892-1898),Limba română
+La Mocănie,mocănie,3,46.1036399944595,27.7591995485707,Galati,Altele,9615,,La Mocănie,Moldova (1892-1898),Limba română
+Puțul Mocanului,mocan,3,44.1149243077504,26.0491452616354,Giurgiu,Altele,3774,460,Puțul Mocanului,PDT,Limba română
+Mocăneasca,mocănească,3,44.0501247213844,26.2054882218755,Giurgiu,Apă-deal-câmpie,3630,,Mocăneasca,PDT,Limba română,Mokanaska Arm,Austriacă,Limba română
+Ostrovu Mocănașu,mocani,2,43.9083063020789,26.0078822176363,Giurgiu,Altele,1337,1338,Ostrovu Mocănașu,Geomil 25000,Limba română
+Ostrovu Mocanu,mocani,2,43.9009889590057,26.0185530271274,Giurgiu,Altele,1338,,Ostrovu Mocanu,Geomil 25000,Limba română,Ost. Mokan,Austriacă,Limba română
+Valea Mocanului,mocani,2,44.1077629780513,26.0538194637737,Giurgiu,Vale,460,,Valea Mocanului,Geomil 25000,Limba română
+Valea Mocanului,mocani,2,43.9227440316568,26.0065277763942,Giurgiu,Vale,1336,1338,Valea Mocanului,Geomil 25000,Limba română
+Valea Țuțuianu,țuțuian,4,43.9887420733982,25.7887799155394,Giurgiu,Vale,3158,,Valea Țuțuianu,Geomil 25000,Limba română
+Mov. Mokanului,mocan,3,44.7062188015992,27.3995741898892,Ialomita,Înălțime,12411,,Mov. Mokanului,Austriacă,Limba română
+Puțul Mocanului,mocan,3,44.4113852761563,27.6389755846131,Ialomita,Altele,3469,,Puțul Mocanului,PDT,Limba română,Puzu Mokanului,Austriacă,Limba română
+Fântâna Mocanului,mocan,3,47.1393639767507,27.3730803760029,Iasi,Altele,8873,,Fântâna Mocanului,PDT,Limba română
+Fântâna Mocanului,mocan,3,46.9959516309723,27.4694250393687,Iasi,Altele,9857,,Fântâna Mocanului,Moldova (1892-1898),Limba română
+Movila Mocanului,mocan,3,47.4032767370483,27.3565674920295,Iasi,Înălțime,4863,,Movila Mocanului,PDT,Limba română,Dealul Mocanului,Geomil 25000,Limba română
+Hanu Mokanului,mocan,3,44.5931803877959,26.0275918696768,Ilfov,Altele,5773,,Hanu Mokanului,Austriacă,Limba română
+Valea Mocanului,mocan,3,44.6010279329554,25.9835928466192,Ilfov,Vale,8785,,Valea Mocanului,PDT,Limba română,Pârâu Mocanu,Geomil 25000,Limba română
+Dealul Mocanului,mocan,3,47.0089639926728,27.1405309078323,Neamt,Deal,7299,,Dealul Mocanului,Geomil 25000,Limba română
+La Mocan,mocan,3,46.9821684649593,26.2620398529282,Neamt,Altele,9134,,La Mocan,Geomil 25000,Limba română
+Valea Mocanului,mocan,3,46.7922877909259,27.0895590571803,Neamt,Vale,1617,,Valea Mocanului,Geomil 25000,Limba română
+Dealul Mocanilor,mocani,2,46.751161425738,26.7008436814272,Neamt,Deal,2044,3900,Dealul Mocanilor,Geomil 25000,Limba română,Dealul Mocanului,PDT,Limba română
+La Mocanu,mocani,2,47.1985981524385,26.5201411879713,Neamt,Altele,660,,La Mocanu,Geomil 25000,Limba română
+Pădurea Mocanilor,mocani,2,46.9436505090848,26.781737720402,Neamt,Pădure,3895,3894,Pădurea Mocanilor,PDT,Limba română
+Dealul Mocănimea,mocănime,3,46.9534317635439,26.7845375528051,Neamt,Deal,3894,,Dealul Mocănimea,PDT,Limba română
+Bâtca Țuțuianu,țuțuian,4,46.7835507004922,26.0940807281154,Neamt,Înălțime,6518,,Bâtca Țuțuianu,Geomil 25000,Limba română
+Mormântu Țuțuianului,țuțuian,4,47.0948887056465,25.7628342283183,Neamt,Altele,6442,,Mormântu Țuțuianului,PDT,Limba română
+Vâlceaua Mocanu,mocan,3,45.0861455166671,25.8850524242308,Prahova,Vale,3984,,Vâlceaua Mocanu,PDT,Limba română,Vâlceaua Mocanu,Geomil 25000,Limba română
+Valea Mocanu,mocan,3,45.1284165140954,25.9116614472824,Prahova,Vale,8837,,Valea Mocanu,PDT,Limba română
+Valea Mocanului,mocan,3,45.0793862292585,26.2818191399859,Prahova,Vale,3995,,Valea Mocanului,PDT,Limba română,Valea Mocanului,Geomil 25000,Limba română
+Valea Mocanca,mocanca,3,45.0349274880273,25.7402086988334,Prahova,Vale,8809,,Valea Mocanca,PDT,Limba română
+Mokani,mocani,2,45.0494515744441,26.1643360291703,Prahova,Localitate,12009,,Mokani,Austriacă,Limba română
+Dealul Mocanului,mocan,3,47.4497329431112,26.4205039316373,Suceava,Deal,1766,,Dealul Mocanului,Geomil 25000,Limba română
+La Arșița Mocanului,mocan,3,47.3938847842214,26.5515401989079,Suceava,Altele,8922,,La Arșița Mocanului,Geomil 25000,Limba română
+Găvanul Mocanului,mocan,3,43.7772211591746,25.3015087875546,Teleorman,Apă-deal-câmpie,3423,,Găvanul Mocanului,PDT,Limba română
+Găvanul Mocanului,mocan,3,43.8430393258085,24.9944231387647,Teleorman,Apă-deal-câmpie,12434,,Găvanul Mocanului,PDT,Limba română
+Gropanu Mocanului,mocan,3,43.8040820188582,25.0979204207411,Teleorman,Altele,1383,,Gropanu Mocanului,Geomil 25000,Limba română
+Pădurea Mocanu,mocan,3,44.1841935850401,24.9071437805826,Teleorman,Pădure,12200,,Pădurea Mocanu,PDT,Limba română
+Poiana Mocanului,mocan,3,44.2143702601473,24.9320248489321,Teleorman,Poiană,12198,,Poiana Mocanului,PDT,Limba română
+Valea Mocanului,mocan,3,44.0764763414013,24.9467036589658,Teleorman,Vale,10974,,Valea Mocanului,Geomil 25000,Limba română
+Valea Mocanului,mocan,3,44.3530416313878,24.8358166725436,Teleorman,Vale,10988,,Valea Mocanului,PDT,Limba română
+Pârâul Mocanului,mocan,3,45.8179683933075,22.3654549802776,Timis,Vale,12839,,Pârâul Mocanului,PDT,Limba română
+Balta Mocanului,mocan,3,45.3540672281569,28.0603138356448,Tulcea,Apă-deal-câmpie,6680,,Balta Mocanului,PDT,Limba română
+Movila Mocănașu,mocănaș,3,45.0009140160475,28.2498287374482,Tulcea,Înălțime,11591,,Movila Mocănașu,Geomil 25000,Limba română
+Botul Mocanului,mocan,3,46.5178851265575,27.5874826023279,Vaslui,Înălțime,7279,,Botul Mocanului,Geomil 25000,Limba română
+Dealul Mocanului,mocan,3,46.5202238518226,27.7318108495727,Vaslui,Deal,1676,,Dealul Mocanului,Geomil 25000,Limba română
+Râpa Mocanului,mocan,3,46.3748367410127,27.6920494824754,Vaslui,Înălțime,12255,,Râpa Mocanului,Geomil 25000,Limba română
+Bărtălușu Mocani,mocani,2,46.3945245148472,27.4543256464747,Vaslui,Localitate,9636,,Bărtălușu Mocani,Moldova (1892-1898),Limba română,Bărtăluș-Mocani,Geomil 25000,Limba română
+Mocani,mocani,2,46.3023212744138,28.1406481602835,Vaslui,Localitate,10917,,Mocani,Moldova (1892-1898),Limba română
+Dealul Mocanului,mocan,3,45.7825791540213,26.7108648419624,Vrancea,Deal,9533,,Dealul Mocanului,Moldova (1892-1898),Limba română,Dealul Mocanului,Geomil 25000,Limba română
+Dealul Mocanului,mocan,3,46.1730217974452,27.390936513567,Vrancea,Deal,9638,,Dealul Mocanului,Geomil 25000,Limba română,Dealul Mocanului,Moldova (1892-1898),Limba română
+Pădurea Mocanului,mocan,3,46.1191500393787,27.3446152718343,Vrancea,Pădure,12332,,Pădurea Mocanului,PDT,Limba română
+Pârâul Mocanului,mocan,3,46.0700703564003,26.677768373287,Vrancea,Vale,9537,,Pârâul Mocanului,Moldova (1892-1898),Limba română
+Mocăneasca,mocănească,3,45.5954116644927,27.2105207583514,Vrancea,Altele,2157,,Mocăneasca,Geomil 25000,Limba română
+Mocani,mocani,2,45.5114046662843,27.3866977521184,Vrancea,Altele,11446,,Mocani,Geomil 25000,Limba română

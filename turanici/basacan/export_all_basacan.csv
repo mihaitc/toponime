@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Golu Basacan,basacan,2,46.3018585347876,26.4451771039061,Bacau,Altele,13634,13633,Golu Basacan,PDT,Limba română
+Piascu Basacan,basacan,2,46.3021130675863,26.4617928998199,Bacau,Înălțime,13635,13633,Piascu Basacan,PDT,Limba română
+Piatra Basacan,basacan,2,46.2971390795296,26.4519360468749,Bacau,Înălțime,13633,,Piatra Basacan,PDT,Limba română

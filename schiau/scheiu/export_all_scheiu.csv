@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Scheiu,scheiu,2,45.4576031853597,26.7419250922284,Buzau,Localitate,11768,,Scheiu,PDT,Limba română,Skei,Austriacă,Limba română
+Pădurea Scheiu,scheiu,2,44.9479574331525,25.1742065284966,Dambovita,Pădure,10168,528,Pădurea Scheiu,PDT,Limba română
+Scheiu de Jos,scheiu,2,44.9286253383138,25.2024603615096,Dambovita,Localitate,528,,Scheiu de Jos,Geomil 25000,Limba română
+Scheiu de Sus,scheiu,2,44.9558295999515,25.1909989108522,Dambovita,Localitate,529,528,Scheiu de Sus,Geomil 25000,Limba română

@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+La Nedei,nedei,3,45.3221584822645,23.8418705988198,Gorj,Înălțime,2929,,La Nedei,Geomil 25000,Limba română
+Vârfu Nedeilor,nedei,3,45.2354862000767,22.9550852129026,Gorj,Înălțime,11579,,Vârfu Nedeilor,Geomil 25000,Limba română
+Dial Nedej,nedei,3,45.5263272726475,23.0217884887153,Hunedoara,Deal,12733,,Dial Nedej,Transilvania (1769-1773),Limba română
+Dealu Nedeiu,nedei,3,45.803160788103,23.6496088885585,Sibiu,Deal,2520,,Dealu Nedeiu,Geomil 25000,Limba română
+Pârâu Nedeiu,nedei,3,45.8075534004858,23.6516756195758,Sibiu,Vale,2521,2520,Pârâu Nedeiu,Geomil 25000,Limba română

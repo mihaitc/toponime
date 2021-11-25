@@ -1,0 +1,10 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Berindești,berindești,3,45.3218577684688,24.6629870001851,Arges,Localitate,4977,,Berindești,Geomil 25000,Limba română
+Dealul Berindești,berindești,3,45.3298330378298,24.6662239509189,Arges,Deal,4979,4977,Dealul Berindești,Geomil 25000,Limba română
+Izlazul Berindești,berindești,3,45.3208573619069,24.6806269435552,Arges,Altele,4980,4977,Izlazul Berindești,Geomil 25000,Limba română
+Pârâul Berindești,berindești,3,45.3150289307374,24.6590976792793,Arges,Vale,4981,4977,Pârâul Berindești,Geomil 25000,Limba română
+Berendești,berindești,3,46.3438063500064,26.9415608084635,Bacau,Localitate,9523,,Berendești,Moldova (1892-1898),Limba română
+Pădurea Berindești,berindești,3,46.3367464052022,26.932719728264,Bacau,Pădure,7822,9523,Pădurea Berindești,Geomil 25000,Limba română
+Valea Berendești,berindești,3,46.91982593442,22.32023561332,Bihor,Vale,4157,4156,Valea Berendești,Geomil 25000,Limba română
+Dealul Berindești,berindești,3,47.0140883027734,26.8847420195255,Neamt,Deal,10884,,Dealul Berindești,Geomil 25000,Limba română
+Berindestji,berindești,3,47.6923765885541,26.1169696052878,Suceava,Localitate,12773,,Berindestji,Bucovina (1773-1775),Limba română

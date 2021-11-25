@@ -1,0 +1,51 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Pădurea Povernii,povarnă,3,46.2288115559534,22.9934302274686,Alba,Pădure,6252,,Pădurea Povernii,Geomil 25000,Limba română
+Dealul Povernei,povarnă,3,45.008550689229,25.0081159300724,Arges,Deal,542,541,Dealul Povernei,Geomil 25000,Limba română
+Pârâul Povernei,povarnă,3,45.2918750859648,24.5085998673446,Arges,Vale,12583,,Pârâul Povernei,British Maps (1944),Limba română
+Valea Povernei,povarnă,3,45.0018196205126,25.0016425992369,Arges,Vale,541,,Valea Povernei,Geomil 25000,Limba română
+Valea Povernei,povarnă,3,45.2320013573221,24.715146875581,Arges,Vale,4062,,Valea Povernei,PDT,Limba română
+Pârâul Velnița,velniță,3,46.5253394809576,27.0044203729297,Bacau,Vale,9506,,Pârâul Velnița,PDT,Limba română,Velnița,Geomil 25000,Limba română
+Coasta Velniței,velniță,3,47.9915608748897,26.6912055697489,Botosani,Înălțime,2336,,Coasta Velniței,Geomil 25000,Limba română
+Dealul la Velnița,velniță,3,48.1179738196791,26.3990051693798,Botosani,Deal,4889,,Dealul la Velnița,PDT,Limba română,La Velnița,Geomil 25000,Limba română
+Dealul Velniței,velniță,3,48.0971381062154,26.324892298967,Botosani,Deal,2018,,Dealul Velniței,Geomil 25000,Limba română
+Dealul Velniței,velniță,3,47.6741715316082,26.8858908221053,Botosani,Deal,14071,,Dealul Velniței,Geomil 25000,Limba română
+Iazul Velnița,velniță,3,47.7131905288149,27.0843861419234,Botosani,Apă-deal-câmpie,6666,2385,Iazul Velnița,PDT,Limba română
+Iazul Velniței,velniță,3,48.2166472016082,26.8055394924909,Botosani,Apă-deal-câmpie,14095,,Iazul Velniței,Geomil 25000,Limba română
+La Velniță,velniță,3,47.7161977783299,27.0753994270653,Botosani,Altele,2385,,La Velniță,Geomil 25000,Limba română
+Lacul Velniței,velniță,3,47.9838301398285,26.2069574521444,Botosani,Lac,4903,,Lacul Velniței,PDT,Limba română
+Valea Velnița,velniță,3,47.7079545202239,27.0841009995307,Botosani,Vale,6667,2385,Valea Velnița,PDT,Limba română
+Valea Velniței,velniță,3,47.5246104330473,26.6720835154746,Botosani,Vale,1750,,Valea Velniței,Geomil 25000,Limba română
+Valea Velniței,velniță,3,47.5600466297711,26.7430323261392,Botosani,Vale,1753,,Valea Velniței,Geomil 25000,Limba română
+Valea Velniței,velniță,3,47.8634634000078,26.4076375226507,Botosani,Vale,1802,,Valea Velniței,Geomil 25000,Limba română
+Valea Velniței,velniță,3,48.1635129208009,26.6315339152632,Botosani,Vale,2327,,Valea Velniței,Geomil 25000,Limba română
+Valea Velniței,velniță,3,47.9856171860307,26.2069048660077,Botosani,Vale,4904,4903,Valea Velniței,PDT,Limba română
+Velnița Corni,velniță,3,47.6487225762395,26.5544434807548,Botosani,Altele,1836,,Velnița Corni,Geomil 25000,Limba română
+Dealul Velnișoarei,velnișoară,4,46.9913131856274,27.8037185640503,Iasi,Deal,2217,,Dealul Velnișoarei,Geomil 25000,Limba română
+Șesul Velniței,velniță,3,46.9282774038248,27.7395624625719,Iasi,Câmp,2212,,Șesul Velniței,Geomil 25000,Limba română
+Tarlaua Velniței,velniță,3,46.9334718555251,27.3489437818587,Iasi,Altele,2226,,Tarlaua Velniței,Geomil 25000,Limba română
+Valea Velniței,velniță,3,47.159367618796,27.0230869102954,Iasi,Vale,11630,,Valea Velniței,Geomil 25000,Limba română
+Velnița,velniță,3,46.9536920468113,28.0855006557097,Iasi,Altele,1704,,Velnița,Geomil 25000,Limba română
+Velnița,velniță,3,47.4043511123917,26.8842814308364,Iasi,Altele,6633,,Velnița,Geomil 25000,Limba română,Velnița Zugaria,Moldova (1892-1898),Limba română
+Velnița Bălteni,velniță,3,47.4080655266031,27.4986080419937,Iasi,Altele,6646,,Velnița Bălteni,PDT,Limba română
+Velnița Deleni,velniță,3,47.4693861550291,26.8937688737716,Iasi,Altele,9736,,Velnița Deleni,Moldova (1892-1898),Limba română
+Dealul Velniței,velniță,3,46.8297368881616,26.6062493658601,Neamt,Deal,2038,,Dealul Velniței,Geomil 25000,Limba română
+Grădina Velniței,velniță,3,47.2660098568268,26.2029476388392,Neamt,Altele,7399,,Grădina Velniței,Geomil 25000,Limba română
+Poiana Velnițelor,velniță,3,47.0590468479399,26.5013335870412,Neamt,Poiană,9145,,Poiana Velnițelor,Geomil 25000,Limba română
+Șesul Velniței,velniță,3,46.814961811769,26.604700166578,Neamt,Câmp,11391,2038,Șesul Velniței,Geomil 25000,Limba română
+Valea Velniței,velniță,3,46.7783716220299,27.0024469832818,Neamt,Vale,1623,,Valea Velniței,Geomil 25000,Limba română
+Dealul Velniței,velniță,3,47.6937885099338,26.281749075692,Suceava,Deal,1790,,Dealul Velniței,Geomil 25000,Limba română,Dealul Velniței,PDT,Limba română
+Pârâul la Velniță,velniță,3,47.9156469083083,26.1409471994708,Suceava,Vale,10757,,Pârâul la Velniță,Moldova (1892-1898),Limba română
+Pârâul la Velnițăa,velniță,3,47.8647077489363,26.2226436200474,Suceava,Vale,7265,,Pârâul la Velnițăa,PDT,Limba română
+Părâul Velnița,velniță,3,47.4656490925999,25.9973682932057,Suceava,Vale,10748,,Părâul Velnița,Imperiul Habsburgic (1887),Limba română
+Pârâul Velniței,velniță,3,47.5153138371537,26.1647646332766,Suceava,Vale,9058,,Pârâul Velniței,PDT,Limba română
+Valea Velniței,velniță,3,47.5105944000482,26.4699726853684,Suceava,Vale,2272,,Valea Velniței,Geomil 25000,Limba română
+Velniță,velniță,3,47.8434655557117,26.1165246230692,Suceava,Altele,2295,,Velniță,Geomil 25000,Limba română
+Velnița,velniță,3,47.4020150676011,26.595171875787,Suceava,Vale,12921,,Velnița,Geomil 25000,Limba română
+Velnița Dumbrăvenilor,velniță,3,47.6701899021718,26.4294436434959,Suceava,Altele,4921,,Velnița Dumbrăvenilor,PDT,Limba română
+Valea Povernei,povarnă,3,44.1278996864622,25.6802803435067,Teleorman,Vale,14228,,Valea Povernei,PDT,Limba română
+La Velniță,velniță,3,46.674391987215,27.7637673475693,Vaslui,Altele,2451,,La Velniță,Geomil 25000,Limba română
+La Velnița,velniță,3,46.2666241020873,27.8438301043634,Vaslui,Altele,7385,,La Velnița,Geomil 25000,Limba română
+Valea Velnița,velniță,3,46.717079331354,27.3297980871304,Vaslui,Vale,9632,,Valea Velnița,Moldova (1892-1898),Limba română
+Valea Velniței,velniță,3,46.5370542793345,27.8762095931506,Vaslui,Vale,11293,,Valea Velniței,Geomil 25000,Limba română
+Velnița,velniță,3,46.7982685950181,27.7209117599851,Vaslui,Altele,2457,,Velnița,Geomil 25000,Limba română
+Velnița,velniță,3,46.843599648945,27.4511955264207,Vaslui,Altele,13989,,Velnița,Moldova (1892-1898),Limba română

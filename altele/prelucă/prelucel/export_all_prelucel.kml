@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Prelucel B.</name><description>Nume: Prelucel B., Tip: prelucel, Nivel: 3, Județ: Bihor, Formă: Deal, ID: 13422, ID Părinte: 13421 <br /><b>Variante</b><br />Nume: Prelucel B., Hartă: Ungară 1869, Limbă: Limba română</description><Point><coordinates>22.779737,46.939577,0</coordinates></Point></Placemark>
+<Placemark><LineString id="13422_13421"><tessellate>1</tessellate><coordinates>22.779737,46.939577,0.
+22.796344,46.953177,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

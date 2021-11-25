@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Valea Ungureșii</name><description>Nume: Valea Ungureșii, Tip: ungureasă, Nivel: 3, Județ: Satu Mare, Formă: Vale, ID: 6955, ID Părinte: 8210 <br /><b>Variante</b><br />Nume: Valea Ungureșii, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>22.893380,47.481806,0</coordinates></Point></Placemark>
+<Placemark><LineString id="6955_8210"><tessellate>1</tessellate><coordinates>22.893380,47.481806,0.
+22.886357,47.486932,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

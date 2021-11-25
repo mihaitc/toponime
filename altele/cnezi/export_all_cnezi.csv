@@ -1,0 +1,14 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Chinăzăi,chineză,3,46.2000550595232,24.1942949221657,Alba,Vale,11905,,Valea Chinăzăi,PDT,Limba română
+Cioaca Chinezului,chinez,3,44.7994707470401,21.7560355426866,Caras Severin,Altele,8502,,Cioaca Chinezului,PDT,Limba română
+Moara Chinezului,chinez,3,45.4617534829074,21.930308869575,Caras Severin,Altele,6193,,Moara Chinezului,PDT,Limba română
+Poiana Chinezului,chinez,3,45.0146800877066,22.1269328625847,Caras Severin,Poiană,5724,,Poiana Chinezului,Geomil 25000,Limba română,Poiana Chinezului,PDT,Limba română
+Pădurea Chineja,chinejă,3,45.9252338110815,27.9296882127122,Galati,Pădure,10908,7371,Pădurea Chineja,Geomil 25000,Limba română
+Valea Chinejei,chinejă,3,46.0469395951989,27.9125820756041,Galati,Vale,7371,,Valea Chinejei,Geomil 25000,Limba română
+Chinezoaia,chinezoaie,3,46.2996511954042,24.7094130666907,Mures,Altele,4360,,Chinezoaia,Geomil 25000,Limba română
+Pădurea Chinezoaia,chinezoaie,3,46.3107331212905,24.7095195387394,Mures,Pădure,8654,4360,Pădurea Chinezoaia,PDT,Limba română
+Drumul Chinezilor,chinez,3,46.8126310913013,26.275807506704,Neamt,Drum,2027,,Drumul Chinezilor,Geomil 25000,Limba română
+Satchinez,chinez,3,45.9413596503265,21.043451567737,Timis,Localitate,7633,,Satchinez,Geomil 25000,Limba română
+Valea Chinului,chin,3,45.7278621149653,26.7127571089877,Vrancea,Vale,9226,,Valea Chinului,PDT,Limba română
+Dealul la China,china,3,45.9524354456467,26.7476721441456,Vrancea,Deal,9195,,Dealul la China,Geomil 25000,Limba română
+Pârâul Chinilor,chini,3,45.9353638017561,26.742447300494,Vrancea,Vale,9196,9195,Pârâul Chinilor,PDT,Limba română,Pârâul Chinilor,Geomil 25000,Limba română

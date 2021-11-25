@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Culmea Păgânilor,păgâni,3,46.4611494568329,25.8902216870622,Harghita,Înălțime,2758,,Culmea Păgânilor,Geomil 25000,Limba română
+Muntele Păgânilor,păgâni,3,46.4742185325741,25.9009248735885,Harghita,Înălțime,2759,2758,Muntele Păgânilor,Geomil 25000,Limba română
+Cetatea Păgânilor,păgâni,3,46.6445315565751,24.3825096636885,Mures,Altele,4338,,Cetatea Păgânilor,Geomil 25000,Limba română

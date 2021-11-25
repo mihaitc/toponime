@@ -1,0 +1,7 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Comoriște,comoriște,3,44.8708625124359,22.501147683184,Mehedinti,Înălțime,9440,,Comoriște,Geomil 25000,Limba română
+Comoriștea,comoriște,3,44.6498670265462,22.5997737035905,Mehedinti,Altele,11160,,Comoriștea,Geomil 25000,Limba română
+Dealu Comoriștei,comoriște,3,44.8716106086362,22.4844864146682,Mehedinti,Deal,9441,9440,Dealu Comoriștei,Geomil 25000,Limba română
+Dealul Comoriște,comoriște,3,44.8450235532612,22.5519000029972,Mehedinti,Deal,12465,,Dealul Comoriște,ANCPI,Limba română
+Comoriștea,comoriște,3,47.2260607649536,23.1902714176932,Salaj,Altele,7562,,Comoriștea,PDT,Limba română
+Comoristi B.,comoriște,3,46.9926050590026,22.922646979408,Salaj,Deal,13425,,Comoristi B.,Transilvania (1769-1773),Limba română

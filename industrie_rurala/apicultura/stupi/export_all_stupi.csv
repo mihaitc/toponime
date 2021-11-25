@@ -1,0 +1,12 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+La Stupii Surdului,stupi,3,46.2813686897764,21.9836090402943,Arad,Altele,9408,,La Stupii Surdului,Geomil 25000,Limba română
+Valea Stupilor,stupi,3,46.3176062004349,27.2503542830506,Bacau,Vale,7892,,Valea Stupilor,PDT,Limba română
+Valea Stupului,stupi,3,47.407503837491,24.1958462095152,Bistrita Nasaud,Vale,7091,,Valea Stupului,Geomil 25000,Limba română
+Dealu Stupilor,stupi,3,45.1728542098166,21.8277199369785,Caras Severin,Deal,5716,,Dealu Stupilor,Geomil 25000,Limba română
+Poiana Stupilor,stupi,3,45.4434581427575,22.1517924608733,Caras Severin,Poiană,10300,,Poiana Stupilor,Ungară 1869,Limba română
+Piscul Stuparului,stupi,3,44.4575506492165,23.2810357554025,Dolj,Deal,116,,ур. Ступулуй (Dealul Stupului),Sovietică,Limba română,Piscul Stuparului,PDT,Limba română
+Valea Stupului,stupi,3,44.4539291242767,23.28295594868,Dolj,Vale,117,116,Valea Stupului,PDT,Limba română,Valea Stuparului,Geomil 25000,Limba română
+Mo. Stupului,stupi,3,44.6698721463094,26.4944331981836,Ialomita,Înălțime,5750,,Mo. Stupului,Austriacă,Limba română
+Pădurea Stupului,stupi,3,45.733834851707,24.1339506780646,Sibiu,Pădure,8582,8584,Pădurea Stupului,Geomil 25000,Limba română
+Stupul,stupi,3,45.7326905441462,24.1273585870544,Sibiu,Vale,8584,,Stupul,Geomil 25000,Limba română
+Valea Stupilor,stupi,3,46.6810663452174,27.9661683262573,Vaslui,Localitate,8850,,Valea Stupilor,PDT,Limba română

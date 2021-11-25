@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Locu Secuiesc,secuiesc,3,46.8408613455225,23.0229943727603,Cluj,Altele,11538,,Locu Secuiesc,Geomil 25000,Limba română
+Muntele Secuiesc,secuiesc,3,46.9236773763918,26.0070222116063,Neamt,Înălțime,6511,6510,Muntele Secuiesc,Geomil 25000,Limba română
+Poiana Vârfului Secuesc,secuiesc,3,46.9176035953972,26.0051893446282,Neamt,Poiană,6508,6510,Poiana Vârfului Secuesc,PDT,Limba română
+Vârful Secuesc,secuiesc,3,46.9214109992743,25.99809657202,Neamt,Înălțime,6510,,Vârful Secuesc,PDT,Limba română,Vârful Secuesc,Geomil 25000,Limba română

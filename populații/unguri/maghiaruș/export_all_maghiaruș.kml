@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealul Maghiarușului</name><description>Nume: Dealul Maghiarușului, Tip: maghiaruș, Nivel: 3, Județ: Brasov, Formă: Deal, ID: 2766 <br /><b>Variante</b><br />Nume: Dealul Maghiarușului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.857623,45.690939,0</coordinates></Point></Placemark>
+<Placemark><name>Maghiaroș</name><description>Nume: Maghiaroș, Tip: maghiaruș, Nivel: 3, Județ: Cluj, Formă: Altele, ID: 10400, ID Părinte: 10399 <br /><b>Variante</b><br />Nume: Maghiaroș, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>23.603114,46.991282,0</coordinates></Point></Placemark>
+<Placemark><LineString id="10400_10399"><tessellate>1</tessellate><coordinates>23.603114,46.991282,0.
+23.587699,46.986939,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

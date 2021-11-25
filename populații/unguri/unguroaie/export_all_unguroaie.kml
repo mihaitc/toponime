@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Unguroaia</name><description>Nume: Unguroaia, Tip: unguroaie, Nivel: 3, Județ: Botosani, Formă: Localitate, ID: 2358 <br /><b>Variante</b><br />Nume: Unguroaia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.701020,47.611155,0</coordinates></Point></Placemark>
+<Placemark><name>Unguroaia</name><description>Nume: Unguroaia, Tip: unguroaie, Nivel: 3, Județ: Botosani, Formă: Vale, ID: 2359, ID Părinte: 2358 <br /><b>Variante</b><br />Nume: Unguroaia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.686876,47.607140,0</coordinates></Point></Placemark>
+<Placemark><LineString id="2359_2358"><tessellate>1</tessellate><coordinates>26.686876,47.607140,0.
+26.701020,47.611155,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

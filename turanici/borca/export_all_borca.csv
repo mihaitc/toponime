@@ -1,0 +1,11 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Borcea,borcea,3,46.3196197069021,27.4051218814711,Bacau,Vale,13546,,Valea Borcea,Geomil 25000,Limba română
+Borcea Mică,borcea,3,45.2371229540964,28.0809518471758,Braila,Apă-deal-câmpie,9982,9980,Borcea Mică,PDT,Limba română
+Ghiolul Borcea,borcea,3,45.2421259769637,28.0683999844898,Braila,Apă-deal-câmpie,9981,9980,Ghiolul Borcea,PDT,Limba română
+Grindu Borcea,borcea,3,45.2368198705124,28.0694023877538,Braila,Apă-deal-câmpie,9980,,Grindu Borcea,PDT,Limba română
+Valea Borcii,borca,2,45.6138119900598,25.9552358082134,Brasov,Vale,11452,,Valea Borcii,Geomil 25000,Limba română
+Borcea,borcea,3,44.3244684814117,27.734704057804,Calarasi,Apă-deal-câmpie,9977,,Borcea,Geomil 25000,Limba română,Borca,Austriacă,Limba română
+Dealul Cioaca lui Borcan,borcan,3,44.7185869250971,22.9231339698224,Mehedinti,Deal,11792,,Dealul Cioaca lui Borcan,Geomil 25000,Limba română
+Dealu Cioaca lui Borcian,borcian,3,44.6785458568396,22.9592610746221,Mehedinti,Deal,12718,,Dealu Cioaca lui Borcian,Geomil 25000,Limba română
+Borca,borca,2,47.1791740667189,25.777433709057,Neamt,Localitate,6439,,Borca,Geomil 25000,Limba română,Borca,PDT,Limba română
+Poiana Borcei,borca,2,47.1925793640073,25.7582108867779,Neamt,Poiană,6440,6439,Poiana Borcei,PDT,Limba română,Poiana Borca,Geomil 25000,Limba română

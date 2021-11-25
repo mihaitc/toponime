@@ -1,0 +1,12 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Poiana Ardeleanului,ardelean,3,46.5415627745999,26.0946390340724,Bacau,Poiană,4550,,Poiana Ardeleanului,Geomil 25000,Limba română,Poiana Ardeleanului,PDT,Limba română
+Crucea Ardeleanului,ardelean,3,45.2849369151164,26.8870846733412,Buzau,Altele,8452,2087,Crucea Ardeleanului,PDT,Limba română
+Dealul Ardeleanului,ardelean,3,45.2745564707663,26.8841016264903,Buzau,Deal,2087,,Dealul Ardeleanului,Geomil 25000,Limba română
+Vârfu Ardeleanului,ardelean,3,45.35512561887,22.6677138841708,Hunedoara,Înălțime,6099,,Vârfu Ardeleanului,Geomil 25000,Limba română
+Dealu Ardeleanului,ardelean,3,47.5844073722337,23.0961492375322,Maramures,Deal,10827,,Dealu Ardeleanului,Imperiul Habsburgic (1887),Limba română
+Moara Ardeleanului,ardelean,3,47.4889398243495,23.4898121680122,Maramures,Altele,10561,,Moara Ardeleanului,Imperiul Habsburgic (1887),Limba română
+Valea Ardeleanu,ardelean,3,47.7621291953181,23.4060208789644,Maramures,Vale,12348,,Valea Ardeleanu,Geomil 25000,Limba română
+Ardeleanul,ardelean,3,46.9595270304811,26.1650597816616,Neamt,Vale,13265,,Ardeleanul,Geomil 25000,Limba română
+Fântâna Ardeleanului,ardelean,3,46.9476959789993,26.9608162543016,Neamt,Altele,3891,,Fântâna Ardeleanului,PDT,Limba română
+Plaiul Ardeleanului,ardelean,3,45.8196934322979,26.9559093171244,Vrancea,Înălțime,768,,Plaiul Ardeleanului,Geomil 25000,Limba română
+Valea Ardeleanului,ardelean,3,45.8157844848529,26.9577835901925,Vrancea,Vale,769,768,Valea Ardeleanului,Geomil 25000,Limba română,Valea Ardeleanu,PDT,Limba română

@@ -1,0 +1,24 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealu Cazanului,cazan,2,46.2393409721767,21.6643406599629,Arad,Deal,6297,,Dealu Cazanului,Geomil 25000,Limba română
+Kâzanești,căzănești,3,45.0268726509591,24.5030006510949,Arges,Localitate,5827,,Kâzanești,Austriacă,Limba română
+Râpa Căzănaia,căzănoaia,3,45.240942250912,25.0735679042783,Arges,Altele,5057,,Râpa Căzănaia,PDT,Limba română
+Cazancea,cazancea,3,47.6938975824527,26.9870164144951,Botosani,Vale,14074,14073,Cazancea,Geomil 25000,Limba română
+Pădurea Cazancea,cazancea,3,47.7021604824759,26.9478221615295,Botosani,Pădure,14073,,Pădurea Cazancea,Geomil 25000,Limba română
+Privalul Căzăneasca,cazan,2,44.267947916685,27.8431425438014,Calarasi,Apă-deal-câmpie,3461,,Privalul Căzăneasca,PDT,Limba română
+Valea Căzăneștilor,căzănești,3,45.8850857759392,27.9355073644618,Galati,Vale,11438,,Valea Căzăneștilor,Geomil 25000,Limba română
+Piscul lui Cazan,cazan,2,44.6486508547855,23.6011582729069,Gorj,Înălțime,11014,,Piscul lui Cazan,PDT,Limba română
+Căzănești,căzănești,3,46.1464493686923,22.512231688907,Hunedoara,Localitate,6229,,Căzănești,Geomil 25000,Limba română
+Căzănești,cazan,2,44.6217507212163,27.0117777465776,Ialomita,Localitate,3430,,Căzănești,PDT,Limba română,Căzănești,Geomil 25000,Limba română
+Pe Căzăneasca,căzăneasca,3,44.772909917826,27.1071616916282,Ialomita,Altele,13577,,Pe Căzăneasca,Geomil 25000,Limba română
+Pădurea Căzănești,căzănești,3,44.589340627678,26.9791810568229,Ialomita,Pădure,9324,3430,Pădurea Căzănești,PDT,Limba română
+Căzănești,căzănești,3,44.7238000154546,22.8904358725873,Mehedinti,Localitate,8067,,Căzănești,Geomil 25000,Limba română,Kazanești,Austriacă,Limba română
+Măgura lui Cazan,cazan,2,44.0829891785146,24.328224137267,Olt,Înălțime,3039,,Măgura lui Cazan,Geomil 25000,Limba română
+Pădurea Cazan,cazan,2,44.6543919101143,24.3662356741017,Olt,Pădure,9352,,Pădurea Cazan,Geomil 25000,Limba română,Pădurea Cazan,PDT,Limba română
+Căzănești,căzănești,3,44.619533811242,24.3594417616067,Olt,Localitate,9350,,Căzănești,Geomil 25000,Limba română
+Pădurea Căzănești-Rădești,căzănești,3,44.6345053613235,24.3561643048139,Olt,Pădure,9353,9350,Pădurea Căzănești-Rădești,Geomil 25000,Limba română
+Pădurea Căzăneasca,cazan,2,44.2720566762584,25.1686246925039,Teleorman,Pădure,3726,12608,Pădurea Căzăneasca,Geomil 25000,Limba română,Pădurea Căzăneasca,PDT,Limba română
+Căzăneasca,căzăneasca,3,44.2630751516761,25.1364878531292,Teleorman,Localitate,12608,,Căzăneasca,PDT,Limba română
+Căzănești,cazan,2,44.6356923112944,23.8908664395815,Valcea,Localitate,4738,,Căzănești,Geomil 25000,Limba română
+Căzănești,căzănești,3,45.0546477602223,24.2837044178236,Valcea,Localitate,9369,,Căzănești,Geomil 25000,Limba română
+Căzănești,căzănești,3,46.8690877695777,27.5022577631304,Vaslui,Localitate,9852,,Căzănești,Geomil 25000,Limba română
+Dealul Căzănești,căzănești,3,46.8552244245191,27.512788427084,Vaslui,Deal,9853,9852,Dealul Căzănești,Geomil 25000,Limba română

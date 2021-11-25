@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Caraclău</name><description>Nume: Caraclău, Tip: caraclău, Nivel: 2, Județ: Bacau, Formă: Vale, ID: 9173 <br /><b>Variante</b><br />Nume: Caraclău, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.729241,46.284111,0</coordinates></Point></Placemark>
+<Placemark><name>caraclău</name><description>Nume: caraclău, Tip: caraclău, Nivel: 2, Județ: Bacau, Formă: Localitate, ID: 9174, ID Părinte: 9173 <br /><b>Variante</b><br />Nume: caraclău, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.711874,46.308924,0</coordinates></Point></Placemark>
+<Placemark><LineString id="9174_9173"><tessellate>1</tessellate><coordinates>26.711874,46.308924,0.
+26.729241,46.284111,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

@@ -1,0 +1,10 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Alsóv-Maros-Váradja (Oarba de Jos),vărădia,3,46.0349109943426,23.5635413739587,Alba,Localitate,11827,,Alsóv-Maros-Váradja (Oarba de Jos),Imperiul Habsburgic (1887),Limba maghiară
+Vărădia de Mureș,vărădia,3,46.0087249461147,22.1579787204579,Arad,Localitate,6199,,Vărădia de Mureș,Geomil 25000,Limba română
+Pârâu Vărădia,vărădia,3,45.1016444011437,21.5293795438475,Caras Severin,Vale,5710,5707,Pârâu Vărădia,Geomil 25000,Limba română
+Vărădia,vărădia,3,45.0812987901631,21.5408278815314,Caras Severin,Localitate,5707,,Vărădia,Geomil 25000,Limba română
+Câmpul Varodia,vărădia,3,44.5295072649459,23.0888158307572,Mehedinti,Câmp,5844,5842,Câmpul Varodia,Geomil 25000,Limba română
+Valea Varodia Mare,vărădia,3,44.5357277044639,23.1108886966721,Mehedinti,Vale,5845,5842,Valea Varodia Mare,Geomil 25000,Limba română
+Valea Varodia Mica,vărădia,3,44.5305741917368,23.1176632351971,Mehedinti,Vale,5846,5842,Valea Varodia Mica,Geomil 25000,Limba română
+Varodia,vărădia,3,44.5286723670093,23.1065888690512,Mehedinti,Localitate,5842,,Varodia,Geomil 25000,Limba română,Baltzatzi Varadi,Austriacă,Limba română
+Dealul Varadi,varadi,4,47.3640058121898,23.1631723355894,Salaj,Deal,6947,,Dealul Varadi,Geomil 25000,Limba română

@@ -1,0 +1,9 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Piciorul lui Balic,balic,3,46.6131146419276,26.3362401442594,Bacau,Înălțime,9161,,Piciorul lui Balic,PDT,Limba română
+Dealul Balica,balica,2,44.3249465457748,23.0412285479283,Mehedinti,Deal,11021,,Dealul Balica,Geomil 25000,Limba română
+Piscul Balica,balica,2,44.6367632570068,23.2423712747305,Mehedinti,Înălțime,12720,,Piscul Balica,Geomil 25000,Limba română
+Valea Balica,balica,2,44.3404626073872,23.0465569607323,Mehedinti,Vale,11375,11021,Valea Balica,Geomil 25000,Limba română
+Valea Balica,balica,2,44.7041342763926,22.8361949242482,Mehedinti,Vale,12719,,Valea Balica,Geomil 25000,Limba română
+Valea Bălica,balica,2,44.6315432660678,23.2630642807766,Mehedinti,Vale,12721,12720,Valea Bălica,Geomil 25000,Limba română
+Balica,balica,2,46.6270053136882,27.4519643139583,Vaslui,Localitate,4630,,Balica,PDT,Limba română,Balica,Geomil 25000,Limba română
+Dealul Balica,balica,2,46.6287971948535,27.4446099710323,Vaslui,Deal,4622,4630,Dealul Balica,Geomil 25000,Limba română

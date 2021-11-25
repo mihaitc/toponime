@@ -1,0 +1,15 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealu Olteanca,olteancă,3,44.9680677594204,24.9928178415394,Arges,Deal,6012,,Dealu Olteanca,Geomil 25000,Limba română
+Olteanca,olteancă,3,46.0961386169,26.9021389942,Bacau,Vale,5290,,Olteanca,Geomil 25000,Limba română
+Piscul Oltencei,olteancă,3,46.0918098384,26.888642139,Bacau,Altele,5291,5290,Piscul Oltencei,Geomil 25000,Limba română
+Poiana Oltencei,olteancă,3,46.0947289452,26.8992971625,Bacau,Poiană,5289,5290,Poiana Oltencei,Geomil 25000,Limba română
+Pârâu Olteana,olteancă,3,45.3091791195608,22.5084035084777,Caras Severin,Vale,854,,Pârâu Olteana,Geomil 25000,Limba română
+Olteanca,olteancă,3,44.4337603249204,22.9596148666371,Mehedinti,Localitate,3663,,Olteanca,PDT,Limba română,Olteanca,Geomil 25000,Limba română
+Olteanca,olteancă,3,44.4470676913355,22.9736563338179,Mehedinti,Înălțime,5197,,Olteanca,Geomil 25000,Limba română
+Valea Olteanca,olteancă,3,44.3485372721876,23.1513029152513,Mehedinti,Vale,6165,,Valea Olteanca,Geomil 25000,Limba română,Valea Oltenci,Austriacă,Limba română
+Olteanca,olteancă,3,43.8298279408594,24.7948499509453,Teleorman,Localitate,8011,,Olteanca,Geomil 25000,Limba română
+Dealu Olteanca,olteancă,3,44.8566733818303,24.1047549838915,Valcea,Deal,5207,5206,Dealu Olteanca,Geomil 25000,Limba română
+Dealu Olteanca,olteancă,3,44.8819575698711,24.0808471255544,Valcea,Deal,5834,5206,Dealu Olteanca,Geomil 25000,Limba română
+Olteanca,olteancă,3,44.8113938958935,24.1068948274739,Valcea,Localitate,5202,,Olteanca,Geomil 25000,Limba română
+Olteanca,olteancă,3,44.8613233567912,24.0978574389153,Valcea,Localitate,5206,,Olteanca,Geomil 25000,Limba română
+Valea Olteanca,olteancă,3,44.8985601816149,24.0985969489869,Valcea,Vale,349,,Valea Olteanca,Geomil 25000,Limba română

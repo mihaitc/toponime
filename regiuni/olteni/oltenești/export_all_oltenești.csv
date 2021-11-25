@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Oltenești,oltenești,3,46.5838516694478,27.9012275472673,Vaslui,Localitate,2199,,Oltenești,Geomil 25000,Limba română
+Pădurea Oltenești,oltenești,3,46.559435584783,27.8985051515786,Vaslui,Pădure,1685,2199,Pădurea Oltenești,Geomil 25000,Limba română

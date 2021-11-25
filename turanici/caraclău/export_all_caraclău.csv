@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Caraclău,caraclău,2,46.2841112336667,26.7292414235283,Bacau,Vale,9173,,Caraclău,Geomil 25000,Limba română
+caraclău,caraclău,2,46.3089238259135,26.7118736925836,Bacau,Localitate,9174,9173,caraclău,Geomil 25000,Limba română

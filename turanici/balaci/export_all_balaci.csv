@@ -1,0 +1,11 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Balaciului,balaciu,3,46.0723929312656,23.1366210538818,Alba,Deal,13152,,Dealul Balaciului,Geomil 25000,Limba română
+Dealul Balcaciu,balcaci,3,46.1293505578533,24.0762566826838,Alba,Deal,11424,,Dealul Balcaciu,Geomil 25000,Limba română
+Valea Balcaciu,balcaci,3,46.2179331938749,24.0735326380594,Alba,Vale,11423,,Valea Balcaciu,Geomil 25000,Limba română
+Balaciu de Jos,balaciu,3,44.6131209713417,26.892900878606,Ialomita,Localitate,9322,,Balaciu de Jos,PDT,Limba română
+Balaciu de Sus,balaciu,3,44.6370170776173,26.8893994925812,Ialomita,Localitate,9323,9322,Balaciu de Sus,PDT,Limba română,Balaciu,Geomil 25000,Limba română
+Balaci,balaci,2,44.3412782116149,24.923410971693,Teleorman,Localitate,10978,,Balaci,Geomil 25000,Limba română
+Valea Balacilor,balaci,2,44.3454380235804,24.913380237079,Teleorman,Vale,10982,10978,Valea Balacilor,Geomil 25000,Limba română
+Valea Balacilor,balaci,2,44.9558068882376,23.896816191409,Valcea,Vale,9380,9381,Valea Balacilor,Geomil 25000,Limba română
+Balaciu,balaciu,3,44.9354618047596,23.9357161216632,Valcea,Localitate,9381,,Balaciu,Geomil 25000,Limba română,Balaciul,PDT,Limba română
+Dealul Balaciu,balaciu,3,44.9313280657946,23.9161391056839,Valcea,Deal,9382,9381,Dealul Balaciu,PDT,Limba română

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealul Blahui</name><description>Nume: Dealul Blahui, Tip: blahui, Nivel: 2, Județ: Vrancea, Formă: Deal, ID: 5282, ID Părinte: 11966 <br /><b>Variante</b><br />Nume: Dealul Blahui, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>27.156885,46.014173,0</coordinates></Point></Placemark>
+<Placemark><LineString id="5282_11966"><tessellate>1</tessellate><coordinates>27.156885,46.014173,0.
+27.144802,46.001224,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealu Buciului</name><description>Nume: Dealu Buciului, Tip: buciu, Nivel: 2, Județ: Teleorman, Formă: Deal, ID: 10981 <br /><b>Variante</b><br />Nume: Dealu Buciului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.897375,44.319989,0</coordinates></Point></Placemark>
+<Placemark><name>Fântâna Buciului</name><description>Nume: Fântâna Buciului, Tip: buciu, Nivel: 2, Județ: Teleorman, Formă: Altele, ID: 10984, ID Părinte: 10981 <br /><b>Variante</b><br />Nume: Fântâna Buciului, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.901608,44.328207,0</coordinates></Point></Placemark>
+<Placemark><LineString id="10984_10981"><tessellate>1</tessellate><coordinates>24.901608,44.328207,0.
+24.897375,44.319989,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

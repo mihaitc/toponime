@@ -1,0 +1,25 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+La Buda Jidanului,jidan,3,46.1807338689874,26.768629148228,Bacau,Altele,11304,,La Buda Jidanului,Geomil 25000,Limba română
+Dealul Jidanului,jidan,3,47.8913109257079,26.624949731881,Botosani,Deal,2338,,Dealul Jidanului,Geomil 25000,Limba română
+Movila Jidanului,jidan,3,47.8920733123524,26.4996785189638,Botosani,Înălțime,9581,,Movila Jidanului,Moldova (1892-1898),Limba română
+Valea Jidanului,jidan,3,47.8879842437369,26.6282569014136,Botosani,Vale,2339,2338,Valea Jidanului,Geomil 25000,Limba română
+Valea Jidanului,jidan,3,47.8699835025895,26.5325708542284,Botosani,Vale,2349,,Valea Jidanului,Geomil 25000,Limba română
+Movila Jidanului,jidan,3,45.3158912383289,27.170905626115,Buzau,Înălțime,8722,,Movila Jidanului,PDT,Limba română
+Cârșia Jidanului,jidan,3,44.9464882785615,21.8056872620301,Caras Severin,Altele,8536,,Cârșia Jidanului,PDT,Limba română
+Pârâu lui Jidanu,jidan,3,45.3842842325364,22.4185498932307,Caras Severin,Vale,6094,,Pârâu lui Jidanu,Geomil 25000,Limba română
+Pârâu Jidanului,jidan,3,45.2649778784626,22.9019647605838,Gorj,Vale,5128,,Pârâu Jidanului,Geomil 25000,Limba română
+Valea Jidanului,jidan,3,46.9466400745819,25.8367124957262,Harghita,Vale,7139,,Valea Jidanului,PDT,Limba română
+Dealul Jidanului,jidan,3,47.4086030710615,27.0713237389299,Iasi,Deal,2441,,Dealul Jidanului,Geomil 25000,Limba română
+Dealul Jidanului,jidan,3,47.3512237629723,27.167074604188,Iasi,Deal,6641,6640,Dealul Jidanului,PDT,Limba română
+Hârtopul Jidanului,jidan,3,47.3513966047712,27.1753377771487,Iasi,Înălțime,6640,,Hârtopul Jidanului,PDT,Limba română
+Iazul Jidanului,jidan,3,47.4026044454628,27.0587923840189,Iasi,Apă-deal-câmpie,13621,2441,Iazul Jidanului,PDT,Limba română
+Lanu Jidanului,jidan,3,47.4250617158005,27.3049863797244,Iasi,Altele,4865,,Lanu Jidanului,PDT,Limba română
+Valea Bordeiu Jidanului,jidan,3,47.4600099899806,26.7768800273909,Iasi,Vale,9561,,Valea Bordeiu Jidanului,Moldova (1892-1898),Limba română
+Cumea Jidanului,jidan,3,46.8714688634011,25.8018544925282,Neamt,Înălțime,1889,,Cumea Jidanului,Geomil 25000,Limba română,Muntele Jidanului,PDT,Limba română
+Pârâul Jidanului,jidan,3,47.0358314512005,25.8997110003099,Neamt,Vale,9108,,Pârâul Jidanului,PDT,Limba română
+Pârâul Jidanului,jidan,3,47.2040744717097,25.2544917142269,Suceava,Vale,9941,,Pârâul Jidanului,Moldova (1892-1898),Limba română
+Piciorul Jidanului,jidan,3,47.1665365475901,25.6144446599083,Suceava,Înălțime,6449,,Piciorul Jidanului,PDT,Limba română
+Poiana la Stâna Jidanului,jidan,3,47.3454042312113,25.5443806792764,Suceava,Poiană,6391,,Poiana la Stâna Jidanului,PDT,Limba română
+Poiana Jidoafcei,jidoafcă,4,47.2343394458284,25.6894179341872,Suceava,Poiană,6401,,Poiana Jidoafcei,PDT,Limba română
+Gârla Jidanului,jidan,3,45.3289577340604,29.3160387507959,Tulcea,Apă-deal-câmpie,12640,,Gârla Jidanului,British Maps (1944),Limba română
+Movila Jidanului,jidan,3,44.9313525819585,28.2029782845756,Tulcea,Înălțime,6706,,Movila Jidanului,PDT,Limba română

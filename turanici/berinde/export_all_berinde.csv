@@ -1,0 +1,31 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Pădurea Berindei,berindei,3,46.2056581905428,24.0835437077728,Alba,Pădure,8636,,Pădurea Berindei,PDT,Limba română
+Berindia,berindia,3,46.3204239419414,22.1602483671244,Arad,Localitate,6280,,Berindia,Geomil 25000,Limba română
+Dealu Berindia,berindia,3,46.3253278196667,22.1699051975338,Arad,Deal,6281,6280,Dealu Berindia,Geomil 25000,Limba română
+Dealu Berendei,berendei,3,44.647862357616,24.7322909132091,Arges,Deal,3051,,Dealu Berendei,Geomil 25000,Limba română
+Berindei,berindei,3,44.9655681945823,24.7765499497086,Arges,Localitate,12638,,Berindei,British Maps (1944),Limba română
+Berindești,berindești,3,45.3218577684688,24.6629870001851,Arges,Localitate,4977,,Berindești,Geomil 25000,Limba română
+Dealul Berindești,berindești,3,45.3298330378298,24.6662239509189,Arges,Deal,4979,4977,Dealul Berindești,Geomil 25000,Limba română
+Izlazul Berindești,berindești,3,45.3208573619069,24.6806269435552,Arges,Altele,4980,4977,Izlazul Berindești,Geomil 25000,Limba română
+Pârâul Berindești,berindești,3,45.3150289307374,24.6590976792793,Arges,Vale,4981,4977,Pârâul Berindești,Geomil 25000,Limba română
+Berendești,berindești,3,46.3438063500064,26.9415608084635,Bacau,Localitate,9523,,Berendești,Moldova (1892-1898),Limba română
+Pădurea Berindești,berindești,3,46.3367464052022,26.932719728264,Bacau,Pădure,7822,9523,Pădurea Berindești,Geomil 25000,Limba română
+Berindeasca,berindeasca,3,46.9132575350765,22.3185387404307,Bihor,Altele,4156,,Berindeasca,PDT,Limba română
+Valea Berendești,berindești,3,46.91982593442,22.32023561332,Bihor,Vale,4157,4156,Valea Berendești,Geomil 25000,Limba română
+Berindul,berinde,2,46.936754589431,23.4393454624055,Cluj,Localitate,4388,,Berindul,PDT,Limba română,Berindu,Geomil 25000,Limba română,Berend,Transilvania (1869-1870),Limba română
+Dealu Berindului,berinde,2,46.9366928608842,23.4125799797377,Cluj,Deal,6917,4388,Dealu Berindului,Geomil 25000,Limba română
+Valea Berindului,berinde,2,46.9342897301037,23.4076359203018,Cluj,Vale,6918,4388,Valea Berindului,Geomil 25000,Limba română
+Cotul Berindei,berindei,3,44.9341939558824,23.1596063590688,Gorj,Apă-deal-câmpie,8059,,Cotul Berindei,PDT,Limba română
+Dealul Berindești,berindești,3,47.0140883027734,26.8847420195255,Neamt,Deal,10884,,Dealul Berindești,Geomil 25000,Limba română
+Pădurea Berendoaica,berendoaica,3,44.1088871701393,24.5384860362319,Olt,Pădure,9482,7748,Pădurea Berendoaica,PDT,Limba română
+Dealu Berindeu,berinde,2,44.559381804746,24.7125997428907,Olt,Deal,5815,,Dealu Berindeu,Geomil 25000,Limba română
+Podul Berindeasca,berindeasca,3,44.6578653928711,24.3814505120357,Olt,Altele,9351,,Podul Berindeasca,PDT,Limba română
+Berindei,berindei,3,44.1081521869874,24.5627400269845,Olt,Localitate,7748,,Berindei,Geomil 25000,Limba română
+Berindei,berindei,3,45.1600799796754,26.113517902608,Prahova,Localitate,7476,,Berindei,PDT,Limba română
+Berindan,berindan,3,47.7856387220137,23.0105740316823,Satu Mare,Localitate,11515,,Berindan,Geomil 25000,Limba română
+Ferma Berindei,berindei,3,47.8946838811679,23.1150454823905,Satu Mare,Altele,10319,,Ferma Berindei,PDT,Limba română
+Dealul Berindei,berindei,3,47.3150889335608,26.2062478232307,Suceava,Deal,1776,,Dealul Berindei,Geomil 25000,Limba română
+Pârâul Berindei,berindei,3,47.3158489965171,26.2287529947663,Suceava,Vale,13269,1776,Pârâul Berindei,Geomil 25000,Limba română
+Berindestji,berindești,3,47.6923765885541,26.1169696052878,Suceava,Localitate,12773,,Berindestji,Bucovina (1773-1775),Limba română
+Pădurea Berindei,berindei,3,44.2707558008692,24.9497706986799,Teleorman,Pădure,10111,,Pădurea Berindei,Geomil 25000,Limba română
+Berindei,berindei,3,44.7013833892729,23.9060601447199,Valcea,Altele,3090,,Berindei,Geomil 25000,Limba română

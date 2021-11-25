@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Voievodului,voevod,3,44.6635280190513,23.7194491480806,Dolj,Deal,11030,,Dealul Voievodului,Geomil 25000,Limba română
+Valea Voevodului,voevod,3,45.5142361563618,23.5447059342362,Hunedoara,Vale,10676,10677,Valea Voevodului,Geomil 25000,Limba română

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Calea Ungureiului</name><description>Nume: Calea Ungureiului, Tip: ungurei (singular), Nivel: 3, Județ: Alba, Formă: Înălțime, ID: 2549 <br /><b>Variante</b><br />Nume: Calea Ungureiului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.869654,46.041616,0</coordinates></Point></Placemark>
+<Placemark><name>Dealu Ungureiului</name><description>Nume: Dealu Ungureiului, Tip: ungurei (singular), Nivel: 3, Județ: Alba, Formă: Deal, ID: 2550, ID Părinte: 2549 <br /><b>Variante</b><br />Nume: Dealu Ungureiului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.860603,46.030752,0</coordinates></Point></Placemark>
+<Placemark><LineString id="2550_2549"><tessellate>1</tessellate><coordinates>23.860603,46.030752,0.
+23.869654,46.041616,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Valea Ungureiului</name><description>Nume: Valea Ungureiului, Tip: ungurei (singular), Nivel: 3, Județ: Alba, Formă: Vale, ID: 2548, ID Părinte: 2549 <br /><b>Variante</b><br />Nume: Valea Ungureiului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.855232,46.043455,0</coordinates></Point></Placemark>
+<Placemark><LineString id="2548_2549"><tessellate>1</tessellate><coordinates>23.855232,46.043455,0.
+23.869654,46.041616,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Câmpia Beldimanca,beldimanca,3,44.2465396975421,24.7075736384562,Olt,Câmp,2980,,Câmpia Beldimanca,Geomil 25000,Limba română
+Câmpia Beldimanca,beldimanca,3,44.2545467191756,24.7148587012264,Olt,Înălțime,2981,2980,Câmpia Beldimanca,Geomil 25000,Limba română

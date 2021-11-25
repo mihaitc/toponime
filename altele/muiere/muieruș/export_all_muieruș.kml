@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Muierușu</name><description>Nume: Muierușu, Tip: muieruș, Nivel: 3, Județ: Dolj, Formă: Localitate, ID: 4721 <br /><b>Variante</b><br />Nume: Muierușu, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.688766,44.565290,0</coordinates></Point></Placemark>
+<Placemark><name>Valea Muierușului</name><description>Nume: Valea Muierușului, Tip: muieruș, Nivel: 3, Județ: Dolj, Formă: Vale, ID: 4722, ID Părinte: 4721 <br /><b>Variante</b><br />Nume: Valea Muierușului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.680162,44.563616,0</coordinates></Point></Placemark>
+<Placemark><LineString id="4722_4721"><tessellate>1</tessellate><coordinates>23.680162,44.563616,0.
+23.688766,44.565290,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

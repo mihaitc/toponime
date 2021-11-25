@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Valea Corboaica,corboaică,3,44.8882157418485,25.2966723862738,Dambovita,Vale,10133,,Valea Corboaica,PDT,Limba română
+Plaiul Corboaica,corboaică,3,45.3557480163801,26.1014396746379,Prahova,Înălțime,2822,,Plaiul Corboaica,Geomil 25000,Limba română
+Valea Corboaica,corboaică,3,45.3508685194007,26.1019550155609,Prahova,Vale,2823,2822,Valea Corboaica,Geomil 25000,Limba română

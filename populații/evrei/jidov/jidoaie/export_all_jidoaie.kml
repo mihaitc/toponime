@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Valea Jidoaia</name><description>Nume: Valea Jidoaia, Tip: jidoaie, Nivel: 4, Județ: Valcea, Formă: Vale, ID: 7415, ID Părinte: 7414 <br /><b>Variante</b><br />Nume: Valea Jidoaia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.969994,45.514945,0</coordinates></Point></Placemark>
+<Placemark><LineString id="7415_7414"><tessellate>1</tessellate><coordinates>23.969994,45.514945,0.
+23.916550,45.522130,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

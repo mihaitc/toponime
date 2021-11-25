@@ -1,0 +1,102 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dâmbu Neamțului,neamț,4,46.2231639904775,23.2880047461297,Alba,Înălțime,5579,,Dâmbu Neamțului,Geomil 25000,Limba română
+Piatra Neamțului,neamț,4,46.4661201305344,23.15213011445,Alba,Înălțime,11528,,Piatra Neamțului,Geomil 25000,Limba română
+Podu Neamțului,neamț,4,46.249026742483,23.9765097571379,Alba,Altele,7354,,Podu Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,46.2153136955385,23.3001607829882,Alba,Vale,2580,5579,Valea Neamțului,Geomil 25000,Limba română
+Cioaca Neamțului,neamț,4,46.1812063001125,21.7327760644669,Arad,Înălțime,10292,,Cioaca Neamțului,Geomil 25000,Limba română,Cioka Niamtzului,Ungară 1869,Limba română
+Dâmbul Neamțului,neamț,4,46.5967876421485,22.1564492006839,Arad,Înălțime,4092,,Dâmbul Neamțului,PDT,Limba română
+Dealul Neamțului,neamț,4,45.9371524390492,22.4097959391573,Arad,Deal,874,,Dealul Neamțului,Geomil 25000,Limba română
+Fântâna neamțiului,neamț,4,46.3918782751692,21.9612231824803,Arad,Altele,6286,,Fântâna neamțiului,PDT,Limba română
+Pârâul Neamțului,neamț,4,46.1170594189194,21.8058268842783,Arad,Vale,5630,,Pârâul Neamțului,PDT,Limba română,Pârâul Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,46.1077752659222,21.7500993954286,Arad,Vale,1948,,Valea Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,46.2401957684099,22.5665373665456,Arad,Vale,6258,,Valea Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,46.2111675656595,21.7360508435098,Arad,Vale,9415,,Valea Neamțului,Geomil 25000,Limba română
+Ciuha Neamțului,neamț,4,45.2189286239976,24.536020849158,Arges,Înălțime,6909,,Ciuha Neamțului,PDT,Limba română
+Culmea Neamțului,neamț,4,45.3737009558346,24.945763976059,Arges,Înălțime,5000,,Culmea Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,45.2199726880191,24.9235190184947,Arges,Vale,5065,,Valea Neamțului,PDT,Limba română
+Groapa Neamțului,neamț,4,46.3097965967291,26.4871880841147,Bacau,Altele,4568,,Groapa Neamțului,PDT,Limba română
+Poiana Neamțului,neamț,4,46.379212127788,27.1571033929937,Bacau,Poiană,7887,,Poiana Neamțului,PDT,Limba română
+Valea Jgheabul Neamțului,neamț,4,46.4850398694398,26.3476036200075,Bacau,Vale,7879,,Valea Jgheabul Neamțului,Geomil 25000,Limba română
+Coliba Neamțului,neamț,4,47.1735955853819,22.360295062366,Bihor,Altele,4180,,Coliba Neamțului,PDT,Limba română
+Izvorul Neamțului,neamț,4,46.4060187273536,22.5037063224454,Bihor,Vale,5626,5627,Izvorul Neamțului,PDT,Limba română
+Pârâul Neamțului,neamț,4,46.6601980720561,22.0350638899163,Bihor,Vale,4112,,Pârâul Neamțului,PDT,Limba română
+Pârâul Neamțului,neamț,4,46.4115356137138,22.5133210368546,Bihor,Vale,5627,,Pârâul Neamțului,Geomil 25000,Limba română
+Dealul Neamțului,neamț,4,46.8693802426354,24.3987771119404,Bistrita Nasaud,Deal,5471,,Dealul Neamțului,PDT,Limba română,Dealul Neamțului,Geomil 25000,Limba română
+Dealul Neamțului,neamț,4,47.3938557083363,24.8007230550124,Bistrita Nasaud,Deal,9916,,Dealul Neamțului,Geomil 25000,Limba română
+Poiana Neamțului,neamț,4,47.4064797653777,24.4318538572054,Bistrita Nasaud,Poiană,1022,,Poiana Neamțului,Geomil 25000,Limba română
+Dealul Neamțului,neamț,4,47.8055959153472,26.7710190379218,Botosani,Deal,3571,,Dealul Neamțului,PDT,Limba română,Dealul Neamțului,Geomil 25000,Limba română
+Lacul Neamțu,neamț,4,47.9643847188604,26.7231249001972,Botosani,Lac,3576,,Lacul Neamțu,PDT,Limba română
+Lutăria la Neamțu,neamț,4,47.7811897825132,27.0194001824587,Botosani,Altele,2375,,Lutăria la Neamțu,Geomil 25000,Limba română
+Grindul Neamțului,neamț,4,45.1489802493149,28.0094067111292,Braila,Înălțime,9262,,Grindul Neamțului,PDT,Limba română
+Neamțul,neamț,4,45.6089554133106,25.0358124550357,Brasov,Vale,2713,,Neamțul,Geomil 25000,Limba română
+Ciuha Neamțului,neamț,4,45.2682289288507,26.3334134228144,Buzau,Înălțime,9817,,Ciuha Neamțului,PDT,Limba română
+Valea Neamțului,neamț,4,45.2698415792605,26.3494920761102,Buzau,Vale,9818,9817,Valea Neamțului,PDT,Limba română
+Cracu Neamțului,neamț,4,45.4682869384986,22.3541557061084,Caras Severin,Înălțime,856,,Cracu Neamțului,Geomil 25000,Limba română
+Cracul Neamțului,neamț,4,45.1486249756852,22.4552947973371,Caras Severin,Înălțime,8672,,Cracul Neamțului,PDT,Limba română
+Curmătura Neamțului,neamț,4,45.1141157199452,22.0715953413829,Caras Severin,Înălțime,9430,1226,Curmătura Neamțului,PDT,Limba română
+Dealu Masa Neamțului,neamț,4,45.424254932591,22.3256553984627,Caras Severin,Deal,10301,,Dealu Masa Neamțului,Geomil 25000,Limba română
+Dealu Neamțului,neamț,4,45.3907166225647,21.7531986872482,Caras Severin,Deal,4316,,Dealu Neamțului,Geomil 25000,Limba română
+Ogașu Crucea Neamțului,neamț,4,45.2652464570927,22.0602471319755,Caras Severin,Vale,6125,,Ogașu Crucea Neamțului,Geomil 25000,Limba română
+Pârâu Neamțului,neamț,4,45.4709322796439,22.3530872530077,Caras Severin,Vale,857,856,Pârâu Neamțului,Geomil 25000,Limba română
+Poiana Neamțului,neamț,4,45.1045760249623,22.0745887963519,Caras Severin,Poiană,1226,,Poiana Neamțului,Geomil 25000,Limba română,Poiana Neamțului,PDT,Limba română
+Poiana Neamțului,neamț,4,45.3875193012894,21.7480145962317,Caras Severin,Poiană,4319,4316,Poiana Neamțului,PDT,Limba română
+Dealu Neamțului,neamț,4,46.6599169909685,23.0871615640349,Cluj,Deal,5895,,Dealu Neamțului,Geomil 25000,Limba română
+Dealu Țapa Neamțului,neamț,4,46.8794647934336,23.4942731796005,Cluj,Deal,4387,,Dealu Țapa Neamțului,Geomil 25000,Limba română
+Moara Neamțului,neamț,4,46.0083404589535,25.727190394277,Covasna,Altele,6056,,Moara Neamțului,Geomil 25000,Limba română
+Dealul Neamțului,neamț,4,44.7860204581348,25.2213050747202,Dambovita,Deal,14177,,Dealul Neamțului,PDT,Limba română
+Poiana de la Coada Neamțului,neamț,4,44.8426920988038,25.340392476436,Dambovita,Poiană,11072,11073,Poiana de la Coada Neamțului,PDT,Limba română
+Valea Neamțului,neamț,4,45.0506820629358,25.3877998925868,Dambovita,Vale,8378,,Valea Neamțului,PDT,Limba română
+Valea Neamțului,neamț,4,44.8414284014888,25.3435157642573,Dambovita,Vale,11073,,Valea Neamțului,PDT,Limba română
+Fântâna de la Podul Neamțului,neamț,4,44.1440228387111,23.5158887579134,Dolj,Altele,8099,,Fântâna de la Podul Neamțului,PDT,Limba română
+Grindul Neamțului,neamț,4,43.7779666406861,23.9174117232732,Dolj,Apă-deal-câmpie,3027,,Grindul Neamțului,Geomil 25000,Limba română
+Măgura Neamțului,neamț,4,44.1851851065331,24.19024162056,Dolj,Înălțime,7734,,Măgura Neamțului,PDT,Limba română
+Piscul Neamțului,neamț,4,44.3133129684958,23.6367297770869,Dolj,Înălțime,3364,,Piscul Neamțului,PDT,Limba română
+Podul Neamțului,neamț,4,44.1734950961671,23.3281573062063,Dolj,Altele,4656,,Podul Neamțului,PDT,Limba română
+Valea Neamțu,neamț,4,44.5122412961452,23.6427188281487,Dolj,Vale,4694,,Valea Neamțu,PDT,Limba română
+Valea Neamțului,neamț,4,44.3654626679497,23.9958241903325,Dolj,Vale,9338,,Valea Neamțului,PDT,Limba română
+Via Neamțului,neamț,4,44.8662936737152,23.2867365172754,Gorj,Altele,11007,,Via Neamțului,PDT,Limba română
+Muchia Neamțului,neamț,4,45.7589287088515,23.3031976875819,Hunedoara,Înălțime,9841,,Muchia Neamțului,Geomil 25000,Limba română
+Poiana Neamțu,neamț,4,45.6992439413036,22.5449318775372,Hunedoara,Poiană,11581,,Poiana Neamțu,Geomil 25000,Limba română
+Dealul Neamțul,neamț,4,47.3163115729108,27.3457236658675,Iasi,Deal,4855,,Dealul Neamțul,PDT,Limba română
+La moara Neamțului,neamț,4,44.3934512323976,25.8636699008823,Ilfov,Altele,3750,,La moara Neamțului,PDT,Limba română
+Piciorul Neamțului,neamț,4,47.6876852359618,23.4314228974117,Maramures,Înălțime,8226,,Piciorul Neamțului,PDT,Limba română
+Cracu Neamțului,neamț,4,44.7534900759036,22.3293428546976,Mehedinti,Înălțime,5731,830,Cracu Neamțului,Geomil 25000,Limba română
+Neamțul,neamț,4,44.6945354539178,22.2615341932932,Mehedinti,Înălțime,8494,,Neamțul,PDT,Limba română,Vârfu Neamțului,Geomil 25000,Limba română
+Ogașu Neamțului,neamț,4,44.7537845395717,22.319043699097,Mehedinti,Vale,830,,Ogașu Neamțului,Geomil 25000,Limba română
+Pârâu Neamțului,neamț,4,44.6944322493567,22.2510019398374,Mehedinti,Vale,8495,8494,Pârâu Neamțului,PDT,Limba română
+Dealul Groapa Neamțului,neamț,4,46.5360512621273,24.6511566636152,Mures,Deal,4345,,Dealul Groapa Neamțului,Geomil 25000,Limba română
+Dealul Neamțului,neamț,4,46.9616198444363,24.9571251904316,Mures,Deal,5403,,Dealul Neamțului,Geomil 25000,Limba română
+Dealul Neamțului,neamț,4,46.9127117026004,25.0510142243967,Mures,Deal,10007,,Dealul Neamțului,PDT,Limba română
+Piatra Neamțului,neamț,4,47.0176189696775,25.032045369068,Mures,Înălțime,11747,,Piatra Neamțului,PDT,Limba română
+Dealul Neamțului,neamț,4,47.2256313087471,26.3329689825224,Neamt,Deal,7394,7393,Dealul Neamțului,Geomil 25000,Limba română
+Neamțul,neamț,4,47.2204848654689,26.3223987648432,Neamt,Vale,7395,7393,Neamțul,Geomil 25000,Limba română
+Târgu-Neamț,neamț,4,47.2063500394575,26.3638787803618,Neamt,Localitate,7393,,Târgu-Neamț,Geomil 25000,Limba română
+Conacul Neamțului,neamț,4,44.1113735533809,24.2155559228172,Olt,Altele,7738,,Conacul Neamțului,PDT,Limba română
+Dealul Neamțului,neamț,4,43.8945963751444,24.4086366306693,Olt,Deal,3033,,Dealul Neamțului,Geomil 25000,Limba română
+Muntele Neamțului,neamț,4,45.476560458304,25.6637230534067,Prahova,Înălțime,1554,,Muntele Neamțului,Geomil 25000,Limba română
+Valea Neamțului,neamț,4,45.482553951375,25.6833242029368,Prahova,Vale,1555,1554,Valea Neamțului,Geomil 25000,Limba română
+Vârful Neamțului,neamț,4,45.4688364469528,25.6937297532153,Prahova,Înălțime,1559,1554,Vârful Neamțului,Geomil 25000,Limba română
+Vârful Neamțului,neamț,4,45.1535695577562,25.9268372183878,Prahova,Înălțime,2828,,Vârful Neamțului,Geomil 25000,Limba română
+Dosu Neamțului,neamț,4,47.6066782826359,23.1781568106933,Satu Mare,Înălțime,4422,,Dosu Neamțului,Geomil 25000,Limba română
+Lazul Neamțului,neamț,4,46.1408819221198,24.5009626343648,Sibiu,Altele,1898,,Lazul Neamțului,Geomil 25000,Limba română,Lazul Neamțului,PDT,Limba română
+Neamțul,neamț,4,46.1206899690978,24.5563766686951,Sibiu,Altele,11244,,Neamțul,Geomil 25000,Limba română
+Poaina Neamțului,neamț,4,45.6381691651558,24.4729129827712,Sibiu,Poiană,1468,,Poaina Neamțului,Geomil 25000,Limba română
+Dealul Neamțului,neamț,4,47.7116481472633,26.4214898841677,Suceava,Deal,1796,,Dealul Neamțului,Geomil 25000,Limba română
+Gorapa Neamțului,neamț,4,47.7989383408716,25.7680443441722,Suceava,Altele,6316,,Gorapa Neamțului,Geomil 25000,Limba română
+La Neamț,neamț,4,47.7085671493649,26.4169645124626,Suceava,Altele,1797,1796,La Neamț,Geomil 25000,Limba română
+Neamțul,neamț,4,47.8012960842198,25.7580410337608,Suceava,Vale,6317,6316,Neamțul,Geomil 25000,Limba română
+Neamțul,neamț,4,47.6968719515571,25.7856415237602,Suceava,Vale,12917,,Neamțul,Geomil 25000,Limba română
+Picioarul Neamțului,neamț,4,47.3287136011564,25.7625799780087,Suceava,Înălțime,10735,,Picioarul Neamțului,Imperiul Habsburgic (1887),Limba română
+Niamț,neamț,4,44.2891080236994,25.4803917604848,Teleorman,Localitate,5777,,Niamț,Austriacă,Limba română
+Dealu Neamț,neamț,4,45.7901452994032,21.6620616347624,Timis,Deal,12834,,Dealu Neamț,Geomil 25000,Limba română
+Dialu Niamtzului,neamț,4,45.9119171940297,21.7986668761812,Timis,Deal,12329,,Dialu Niamtzului,Ungară 1869,Limba română
+Groapa Neamțului,neamț,4,45.7883020037602,20.9533451494983,Timis,Altele,11353,,Groapa Neamțului,Geomil 25000,Limba română
+Ogașul Neamțului,neamț,4,45.9657659200775,21.4014796143934,Timis,Vale,6314,,Ogașul Neamțului,PDT,Limba română
+V. Niamtzului,neamț,4,45.9258109454775,21.794729284756,Timis,Vale,12330,12329,V. Niamtzului,Ungară 1869,Limba română
+Valea Neamțului,neamț,4,45.9068663473473,21.0214354655172,Timis,Vale,10003,,Valea Neamțului,PDT,Limba română
+Valea Neamțului,neamț,4,44.9395321595715,28.307785161165,Tulcea,Vale,11589,,Valea Neamțului,Geomil 25000,Limba română
+Piscul Neamțului,neamț,4,45.1442258049466,24.4260821218992,Valcea,Înălțime,1446,,Piscul Neamțului,Geomil 25000,Limba română
+Coasta Neamțului,neamț,4,46.2392523681393,27.8307936433902,Vaslui,Înălțime,11435,,Coasta Neamțului,Geomil 25000,Limba română
+Valea Podul Neamțului,neamț,4,46.5770780304167,27.6390604820194,Vaslui,Vale,1673,,Valea Podul Neamțului,Geomil 25000,Limba română,Valea Podul Neamțului,PDT,Limba română
+La Momâia Neamțului,neamț,4,45.7583019184067,27.0148769366401,Vrancea,Înălțime,9236,,La Momâia Neamțului,PDT,Limba română
+Momâia Neamțului,neamț,4,45.572852342734,26.9211324676414,Vrancea,Înălțime,12996,,Momâia Neamțului,Geomil 25000,Limba română

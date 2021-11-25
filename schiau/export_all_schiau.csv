@@ -1,0 +1,68 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3,Nume 4,Hartă 4,Limbă 4
+Scheiul,schei,2,45.1063700481511,24.5309159735697,Arges,Localitate,12579,,Scheiul,British Maps (1944),Limba română
+Pădurea Scheia,scheia,2,44.9050422909948,24.7756033995337,Arges,Pădure,8344,8342,Pădurea Scheia,Geomil 25000,Limba română
+Valea Scheii,scheia,2,45.4352887867756,25.1727264394137,Arges,Vale,11259,,Valea Scheii,Geomil 25000,Limba română
+Pârâul Scheiului,schiau,1,45.2622438334965,24.6601411951984,Arges,Vale,4045,,Pârâul Scheiului,PDT,Limba română,Valea Scheiului,ANCPI,Limba română
+Schiau,schiau,1,44.9132331689815,24.8031113296493,Arges,Localitate,8342,,Schiau,Geomil 25000,Limba română
+Skeu,schiau,1,45.2962564482305,25.0616777502156,Arges,Localitate,6006,,Skeu,Austriacă,Limba română
+Valea Schiau,schiau,1,44.7631449103068,24.7018906553458,Arges,Vale,4773,,Valea Schiau,PDT,Limba română
+Valea Schiau,schiau,1,44.910047910389,24.7815984898014,Arges,Vale,8343,8342,Valea Schiau,Geomil 25000,Limba română
+Șchioloi,șchioloi,2,45.0934492045143,24.5121942438878,Arges,Înălțime,12577,12578,Șchioloi,Geomil 25000,Limba română
+Șchioloi,șchioloi,2,45.091302578303,24.5101594825754,Arges,Localitate,12578,,Șchioloi,ANCPI,Limba română
+Dealul Șcheia,șcheia,2,46.7683085075332,27.0193048571843,Bacau,Deal,9631,,Dealul Șcheia,Geomil 25000,Limba română
+Movila Scheaua,scheaua,2,45.0954756674205,27.6304772393629,Braila,Înălțime,8725,,Movila Scheaua,PDT,Limba română
+Valea Scheaua,scheaua,2,45.1000691527186,27.6347086066608,Braila,Vale,8724,8725,Valea Scheaua,PDT,Limba română
+Scheauța,șcheauță,2,45.9782833218694,25.234482195356,Brasov,Înălțime,6792,4942,Scheauța,PDT,Limba română
+Piua din Schei,schei,2,45.5988382007004,25.6520636648428,Brasov,Altele,6843,,Piua din Schei,PDT,Limba română
+Piua din Schei,schei,2,45.6091196420484,25.6530020856905,Brasov,Altele,6844,6843,Piua din Schei,PDT,Limba română
+Dosul Schiaului,schiau,1,45.8441731233795,25.3623055823674,Brasov,Înălțime,6812,,Dosul Schiaului,PDT,Limba română
+Fața Schiaului,schiau,1,45.8417206659796,25.3723935443038,Brasov,Înălțime,6811,6812,Fața Schiaului,PDT,Limba română
+Scheiu,scheiu,2,45.4576031853597,26.7419250922284,Buzau,Localitate,11768,,Scheiu,PDT,Limba română,Skei,Austriacă,Limba română
+Privalul Schiaului,schiau,1,44.2805868679427,27.7198068662815,Calarasi,Apă-deal-câmpie,3209,,Privalul Schiaului,PDT,Limba română
+Skeuss,scheuș,2,45.5195743953219,21.9173064584911,Caras Severin,Localitate,11762,,Skeuss,Transilvania (1869-1870),Limba română,Skeuss,Imperiul Habsburgic (1887),Limba română
+Dealul Schei,schei,2,44.9469340416448,25.1782988180467,Dambovita,Deal,10167,528,Dealul Schei,PDT,Limba română
+Valea Schei,schei,2,45.0682771072189,25.2811665234578,Dambovita,Vale,8371,,Valea Schei,PDT,Limba română
+Pădurea Scheiu,scheiu,2,44.9479574331525,25.1742065284966,Dambovita,Pădure,10168,528,Pădurea Scheiu,PDT,Limba română
+Scheiu de Jos,scheiu,2,44.9286253383138,25.2024603615096,Dambovita,Localitate,528,,Scheiu de Jos,Geomil 25000,Limba română
+Scheiu de Sus,scheiu,2,44.9558295999515,25.1909989108522,Dambovita,Localitate,529,528,Scheiu de Sus,Geomil 25000,Limba română
+Scheiul,scheiul,2,43.8141783366489,23.7269928175975,Dolj,Altele,11793,,Scheiul,Geomil 25000,Limba română
+Valea Schiaua,schiaua,2,44.3383043553163,24.0417850122856,Dolj,Vale,4810,,Valea Schiaua,Geomil 25000,Limba română
+Valea Schiaua Mare,schiaua,2,44.3485281701137,24.0175813026217,Dolj,Vale,4812,4810,Valea Schiaua Mare,PDT,Limba română
+Valea Schiaua Mică,schiaua,2,44.3506221056298,24.0210786934241,Dolj,Vale,4811,4810,Valea Schiaua Mică,PDT,Limba română
+Valea Scheiul,schei,2,44.8295238216568,23.6390789024313,Gorj,Vale,13949,,Valea Scheiul,PDT,Limba română
+Șaua Scheiului,schei,2,45.3049031091479,22.5989653205462,Hunedoara,Înălțime,10330,,Șaua Scheiului,Geomil 25000,Limba română
+Schei,schei,2,45.5790276608726,22.7396676901132,Hunedoara,Localitate,10801,,Schei,Imperiul Habsburgic (1887),Limba română,Skei,Transilvania (1869-1870),Limba română
+Pârâu Șcheiu,șcheiu,2,45.2854225090624,22.6290037923492,Hunedoara,Vale,12844,10330,Pârâu Șcheiu,Geomil 25000,Limba română
+Skaua Mare,schiaua,2,45.6247878417025,23.383836066686,Hunedoara,Înălțime,12321,,Skaua Mare,Transilvania (1769-1773),Limba română
+Skaua Mika,schiaua,2,45.6361082168126,23.3674476134006,Hunedoara,Înălțime,12322,12321,Skaua Mika,Transilvania (1769-1773),Limba română
+Balta Schiauca,schiauca,2,44.5917663948656,27.2461908064043,Ialomita,Lac,12660,,Balta Schiauca,PDT,Limba română
+Scheea,scheea,2,47.156619217725,26.8873857529221,Iasi,Altele,8879,7793,Scheea,PDT,Limba română
+Dealul Scheia,scheia,2,47.1259677791705,26.8796463186659,Iasi,Deal,7794,7793,Dealul Scheia,PDT,Limba română
+Scheia,scheia,2,47.1162074257165,26.8819541087037,Iasi,Localitate,7793,,Scheia,PDT,Limba română
+Poiana Șcheii,schiau,1,46.9603819590602,27.4911856860386,Iasi,Localitate,2224,1659,Poiana Șcheii,Geomil 25000,Limba română
+Șcheia,schiau,1,46.9444219593701,27.516955834824,Iasi,Înălțime,1659,,Șcheia,Geomil 25000,Limba română
+Șcheia,schiau,1,46.9301315154294,27.5067996432121,Iasi,Localitate,1660,1659,Șcheia,Geomil 25000,Limba română
+Valea Șcheauța,șcheauță,2,45.987990977547,25.2153331768067,Mures,Vale,4942,,Valea Șcheauța,Geomil 25000,Limba română,Scheauța,PDT,Limba română
+Valea Șcheauna,șcheauna,2,46.8711084823956,27.1497326549156,Neamt,Vale,13469,,Valea Șcheauna,Moldova (1892-1898),Limba română
+La Șesul Schei,schei,2,46.772211493616,27.0147805199112,Neamt,Câmp,9630,9631,La Șesul Schei,Moldova (1892-1898),Limba română
+Fântâna Șchiau,șchiau,2,46.7636095107224,26.767940393933,Neamt,Altele,12632,,Fântâna Șchiau,Moldova (1892-1898),Limba română
+Pârâul Schiaului,schiau,1,46.8573560264561,26.1304934852898,Neamt,Vale,6501,,Pârâul Schiaului,PDT,Limba română,Schiou,Geomil 25000,Limba română
+Dealul Scheei,schiau,1,45.0700772709828,26.3858377970349,Prahova,Deal,3971,3957,Dealul Scheei,PDT,Limba română
+Plaiul Schiaului,schiau,1,45.3664616635514,26.0549027843916,Prahova,Înălțime,1577,1576,Plaiul Schiaului,Geomil 25000,Limba română
+Schiau,schiau,1,44.9923614352265,26.1774210901748,Prahova,Localitate,7,,Schiau,Geomil 25000,Limba română,Schiaul,PDT,Limba română,Skiau,Austriacă,Limba română,Счьяу (Schiau),Sovietică,Limba română
+Schiau,schiau,1,44.9917406534616,26.1975903690867,Prahova,Cătun,8,7,Schiau,Geomil 25000,Limba română,Schiaul,PDT,Limba română
+Valea Scheei,schiau,1,45.0719387083602,26.4004777074349,Prahova,Localitate,3957,,Valea Scheei,PDT,Limba română,Valea Scheilor,Geomil 25000,Limba română
+Valea Scheilor,schiau,1,45.0483232377123,26.3949662842949,Prahova,Localitate,3954,3957,Valea Scheilor,PDT,Limba română,Valea Skeilor,Austriacă,Limba română
+Valea Scheilor,schiau,1,45.0623206303226,26.3975047280491,Prahova,Vale,3956,3957,Valea Scheilor,Geomil 25000,Limba română
+Vârful Schiaului,schiau,1,45.3737237991009,26.0783592162604,Prahova,Înălțime,1576,,Vârful Schiaului,Geomil 25000,Limba română
+Culmea Schian,schian,2,45.6643053580554,24.0802015375744,Sibiu,Înălțime,11320,,Culmea Schian,Geomil 25000,Limba română
+Dealul Scheiului,schiau,1,45.6850455486599,24.0681065884671,Sibiu,Deal,2503,,Dealul Scheiului,Geomil 25000,Limba română
+Stâna Schiaua,schiaua,2,45.5970378268705,24.3617237125822,Sibiu,Altele,10524,,Stâna Schiaua,Imperiul Habsburgic (1887),Limba română
+Pârâul Scheia,scheia,2,47.6414949874548,26.2147780077789,Suceava,Vale,9057,2262,Pârâul Scheia,PDT,Limba română,Șcheia,Geomil 25000,Limba română
+Șcheia,șcheia,2,47.6604451524028,26.2235069675107,Suceava,Localitate,2262,,Șcheia,Geomil 25000,Limba română,Scheia,PDT,Limba română
+Scrioaștea (Șcheioastre),șchei,2,44.1465037443832,24.9536373638993,Teleorman,Localitate,12423,,Scrioaștea (Șcheioastre),Geomil 25000,Limba română
+Dealu Scheiului,schiau,1,44.9587820698237,24.4582499415163,Valcea,Localitate,3080,,Dealu Scheiului,Geomil 25000,Limba română
+Valea Scheiului,schiau,1,44.9415350039321,24.4747353254614,Valcea,Localitate,3081,3080,Valea Scheiului,Geomil 25000,Limba română
+Cotul Schei,schei,2,46.5264912873684,28.2265038936867,Vaslui,Apă-deal-câmpie,6563,1690,Cotul Schei,Geomil 25000,Limba română,Cotul Schea,PDT,Limba română
+Pădurea Schea,scheia,2,46.5279833314803,28.2110576376623,Vaslui,Pădure,10925,1690,Pădurea Schea,Moldova (1892-1898),Limba română
+Dealul Scheia Veche,schiau,1,46.5148689565577,28.1619549606959,Vaslui,Deal,1690,,Dealul Scheia Veche,Geomil 25000,Limba română

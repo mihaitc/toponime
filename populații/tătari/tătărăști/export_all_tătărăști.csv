@@ -1,0 +1,10 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Tătărăști,tătărăști,3,46.2191799540076,27.2015903370807,Bacau,Localitate,7845,,Tătărăști,Geomil 25000,Limba română
+Pârâu Tătărăști,tătărăști,3,46.1502374917012,22.6062148456301,Hunedoara,Vale,6273,6264,Pârâu Tătărăști,Geomil 25000,Limba română
+Tătărăști,tătărăști,3,45.9503519146107,22.5106538325593,Hunedoara,Localitate,10876,,Tătărăști,Geomil 25000,Limba română
+Tătărăștii de Criș,tătărăști,3,46.1627988078781,22.6140304836794,Hunedoara,Localitate,6264,,Tătărăștii de Criș,PDT,Limba română,Tătărăștii de Criș,Geomil 25000,Limba română
+Dealul Tătărăști,tătărăști,3,44.4265965081167,22.9090769068134,Mehedinti,Deal,5196,5195,Dealul Tătărăști,Geomil 25000,Limba română
+Valea Tătărăști,tătărăști,3,44.4281810115032,22.9105538013056,Mehedinti,Vale,5195,,Valea Tătărăști,Geomil 25000,Limba română
+Dealu Tătărăștilor,tătărăști,3,47.6773803093379,22.9614684317341,Satu Mare,Deal,6962,4472,Dealu Tătărăștilor,Geomil 25000,Limba română
+Tătăreștii de Jos,tătărăști,3,44.3722563273428,25.1801949108594,Teleorman,Localitate,9034,9035,Tătăreștii de Jos,PDT,Limba română
+Tătăreștii de Sus,tătărăști,3,44.4072087808297,25.1242497176016,Teleorman,Localitate,9035,,Tătăreștii de Sus,PDT,Limba română

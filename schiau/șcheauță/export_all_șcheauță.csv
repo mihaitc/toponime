@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Scheauța,șcheauță,2,45.9782833218694,25.234482195356,Brasov,Înălțime,6792,4942,Scheauța,PDT,Limba română
+Valea Șcheauța,șcheauță,2,45.987990977547,25.2153331768067,Mures,Vale,4942,,Valea Șcheauța,Geomil 25000,Limba română,Scheauța,PDT,Limba română

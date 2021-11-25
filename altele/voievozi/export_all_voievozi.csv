@@ -1,0 +1,33 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Voivodeni,voivodeni,3,46.3990615859306,22.0300858920268,Arad,Localitate,6283,,Voivodeni,Geomil 25000,Limba română,Voivodeni,PDT,Limba română
+Pusta Voivodeștiului,voivodești,3,46.4864881613532,22.0855540668349,Arad,Câmp,8041,,Pusta Voivodeștiului,PDT,Limba română
+Golul de Munte Voevoda,voevoda,3,45.4052419427365,24.9634782526566,Arges,Înălțime,5003,5001,Golul de Munte Voevoda,Geomil 25000,Limba română
+Piscul Voevoda,voevoda,3,45.3874504453043,24.9558759468945,Arges,Înălțime,5001,,Piscul Voevoda,Geomil 25000,Limba română
+Culmea Caprei Voievozi,voievozi,2,45.3867214187233,24.9466213655926,Arges,Înălțime,5002,5001,Culmea Caprei Voievozi,Geomil 25000,Limba română
+Pârâul Voivodesei,voievodeasa,3,47.036705940128,22.628512661026,Bihor,Vale,12353,12352,Pârâul Voivodesei,PDT,Limba română
+Piciorul Voivodesei,voievodeasa,3,47.0373235261393,22.6328824703539,Bihor,Înălțime,12352,,Piciorul Voivodesei,PDT,Limba română
+Poiana Voivodeasa,voievodeasa,3,46.7117637171513,22.55832131528,Bihor,Poiană,12540,,Poiana Voivodeasa,Geomil 25000,Limba română
+Voivozi,voivozi,3,47.2167430803598,22.3893108107449,Bihor,Localitate,8197,,Voivozi,Geomil 25000,Limba română
+Piscul Voevoada,voevoda,3,45.5894594595145,25.2722211579853,Brasov,Înălțime,8556,,Piscul Voevoada,PDT,Limba română
+Dealul Voivodeni,voivodeni,3,45.7738303845401,24.8419777279727,Brasov,Deal,11249,11248,Dealul Voivodeni,Geomil 25000,Limba română
+Voivodeni,voivodeni,3,45.7782387385937,24.8610173153738,Brasov,Localitate,11248,,Voivodeni,Geomil 25000,Limba română
+Mov. Voiwoda,voivoda,3,44.2656614287245,26.9564887081509,Calarasi,Înălțime,8462,8461,Mov. Voiwoda,Austriacă,Limba română
+Padurea Voiwoda,voivoda,3,44.2536431779224,26.9888741891528,Calarasi,Pădure,8461,,Padurea Voiwoda,Austriacă,Limba română
+Valea Voivodeni,voivodeni,3,45.1961801872121,25.4266707107333,Dambovita,Vale,11127,,Valea Voivodeni,Geomil 25000,Limba română
+Dealul Voievodului,voevod,3,44.6635280190513,23.7194491480806,Dolj,Deal,11030,,Dealul Voievodului,Geomil 25000,Limba română
+Balta Voievodeasa,voievodeasa,3,44.4458613464108,23.6550052248279,Dolj,Apă-deal-câmpie,5169,,Balta Voievodeasa,Geomil 25000,Limba română
+Valea Voievoada,voevoda,3,44.7441262084358,23.6649548931351,Gorj,Vale,5145,,Valea Voievoada,Geomil 25000,Limba română
+Matca Voievozilor,voievozi,2,44.7523827824812,23.664385549264,Gorj,Vale,5146,,Matca Voievozilor,Geomil 25000,Limba română
+Valea Voivoda,voivoda,3,44.8285714950701,23.7417282281081,Gorj,Vale,12683,12682,Valea Voivoda,PDT,Limba română
+Voivoda,voivoda,3,44.827251133182,23.7352190848319,Gorj,Localitate,12682,,Voivoda,PDT,Limba română
+Voivodeasa,voievodeasa,3,47.0508872929143,25.3852242874431,Harghita,Vale,5420,5421,Voivodeasa,Geomil 25000,Limba română
+Voivodeasa,voievodeasa,3,47.1124422250153,25.3110960942494,Harghita,Înălțime,5421,,Voivodeasa,Geomil 25000,Limba română
+Valea Voevodului,voevod,3,45.5142361563618,23.5447059342362,Hunedoara,Vale,10676,10677,Valea Voevodului,Geomil 25000,Limba română
+Dealul Voivodul,voivod,3,45.4884243993542,23.5610794874489,Hunedoara,Deal,10677,,Dealul Voivodul,Imperiul Habsburgic (1887),Limba română
+Dealu Voivoda,voivoda,3,46.0892853677683,23.0580701408154,Hunedoara,Deal,6244,,Dealu Voivoda,Geomil 25000,Limba română,Dealul Voivoda,PDT,Limba română
+Valea Voievozilor,voievozi,2,46.3796602332237,24.3074725206355,Mures,Vale,6762,,Valea Voievozilor,Geomil 25000,Limba română
+Fântâna Voivodeasa,voievodeasa,3,47.2315414505881,23.1971716088741,Salaj,Altele,7563,,Fântâna Voivodeasa,PDT,Limba română
+Pârâu Voivodeni,voivodeni,3,47.0484703403748,23.4073089516093,Salaj,Vale,6923,6922,Pârâu Voivodeni,Geomil 25000,Limba română
+Voivodeni,voivodeni,3,47.0553024423811,23.4250294644366,Salaj,Localitate,6922,,Voivodeni,Geomil 25000,Limba română
+Voievodeasa,voievodeasa,3,47.7926082519498,25.7631875224612,Suceava,Localitate,6315,,Voievodeasa,Geomil 25000,Limba română
+Voievoda,voievoda,3,43.8419071390342,25.1371068941096,Teleorman,Localitate,5784,,Voievoda,Geomil 25000,Limba română,Voivoda,Austriacă,Limba română

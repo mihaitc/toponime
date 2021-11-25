@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Unguriți,unguriți,3,44.6668363028306,23.9318198955861,Valcea,Localitate,4739,,Unguriți,PDT,Limba română
+Valea Unguriți,unguriți,3,44.6542546428992,23.95787524399,Valcea,Vale,261,4739,Valea Unguriți,Geomil 25000,Limba română,Valea Unguriți,PDT,Limba română

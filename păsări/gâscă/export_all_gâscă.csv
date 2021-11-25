@@ -1,0 +1,34 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Fântâna Gâștelor,gâscă,2,46.5321214341773,21.5114447937804,Arad,Altele,10368,,Fântâna Gâștelor,PDT,Limba română,Fântâna Gâștelor,Geomil 25000,Limba română
+La Heleșteul Gâscanilor,gâscan,3,44.7240762051343,24.9212011320952,Arges,Apă-deal-câmpie,1402,,La Heleșteul Gâscanilor,Geomil 25000,Limba română
+Ezerul Gâsca,gâscă,2,44.8553000820075,27.8850472662636,Braila,Apă-deal-câmpie,9270,,Ezerul Gâsca,PDT,Limba română
+Gâsca,gâscă,2,44.8813513907642,27.8987686544428,Braila,Altele,3194,3196,Gâsca,Geomil 25000,Limba română
+Gâsca,gâscă,2,44.8780445115303,28.0589577569815,Braila,Lac,3485,,Gâsca,PDT,Limba română
+La Gâsca,gâscă,2,45.1548481073294,27.9887897690618,Braila,Altele,9261,,La Gâsca,PDT,Limba română
+Lacul Gâștei,gâscă,2,44.1748680863862,27.1292535884715,Calarasi,Lac,8467,,Lacul Gâștei,PDT,Limba română
+Movila Gâsca,gâscă,2,44.3281930356816,27.6019342620715,Calarasi,Înălțime,3467,,Movila Gâsca,PDT,Limba română
+Dealul Gânsacului,gânsac,3,43.9450306383115,23.9420229192748,Dolj,Deal,11605,,Dealul Gânsacului,Geomil 25000,Limba română
+Valea Gânsacului,gânsac,3,43.9269297434023,24.08157008296,Dolj,Vale,1276,,Valea Gânsacului,Geomil 25000,Limba română
+Grindul Gâștei,gâscă,2,43.8414236413918,23.6362471874399,Dolj,Înălțime,3801,,Grindul Gâștei,Geomil 25000,Limba română,Grindul Gâștei,PDT,Limba română
+Pădurea La Gâscă,gâscă,2,43.8721631233576,23.1408975570044,Dolj,Pădure,10351,,Pădurea La Gâscă,Geomil 25000,Limba română
+Toaca Gâștii,gâscă,2,44.0792762610578,26.2980301945045,Giurgiu,Altele,11176,,Toaca Gâștii,ANCPI,Limba română
+Ostrovul Gâsca,gâscă,2,44.7074922732939,27.8745422418719,Ialomita,Apă-deal-câmpie,3619,,Ostrovul Gâsca,PDT,Limba română
+Puiul Gâștii,gâscă,2,44.7282689367372,27.8662648689647,Ialomita,Altele,3201,3619,Puiul Gâștii,Geomil 25000,Limba română
+Dealul Coada Gâștei,gâscă,2,47.4214034444533,26.9599860923985,Iasi,Deal,1735,,Dealul Coada Gâștei,Geomil 25000,Limba română
+Pădurea Gâștei,gâscă,2,47.0443927481128,27.4722911982491,Iasi,Pădure,12932,8898,Pădurea Gâștei,Geomil 25000,Limba română
+Valea Gâsca,gâscă,2,47.0471100116984,27.4872900243826,Iasi,Vale,8898,,Valea Gâsca,PDT,Limba română
+Valea Gâștei,gâscă,2,47.7293398545154,24.4260082721342,Maramures,Vale,10873,,Valea Gâștei,Geomil 25000,Limba română
+Poiana Gâștei,gâscă,2,47.2202457195695,25.7446196554903,Neamt,Poiană,2074,,Poiana Gâștei,Geomil 25000,Limba română
+Dealu Gânsacului,gânsac,3,44.2160565402967,24.3418740049163,Olt,Deal,3009,3008,Dealu Gânsacului,Geomil 25000,Limba română
+Valea Gânsacului,gânsac,3,44.2153211689768,24.3271181735416,Olt,Vale,3008,,Valea Gânsacului,Geomil 25000,Limba română
+Măgura Gâștei,gâscă,2,43.7554048232312,24.1282402977198,Olt,Înălțime,1270,,Măgura Gâștei,Geomil 25000,Limba română
+Măgura Gâscanilor,gâscan,3,43.9417585135129,24.576059610004,Olt,Înălțime,12220,,Măgura Gâscanilor,PDT,Limba română
+Vârfu Gâștii,gâscă,2,47.0312752322407,23.3743305719022,Salaj,Înălțime,6924,,Vârfu Gâștii,Geomil 25000,Limba română
+Dealu Fântâna Gâștii,gâscă,2,47.5638273997243,23.0388116257159,Satu Mare,Deal,4415,,Dealu Fântâna Gâștii,Geomil 25000,Limba română
+Dealul Gâștelor,gâscă,2,46.1458819334546,24.4248062754963,Sibiu,Deal,2627,,Dealul Gâștelor,Geomil 25000,Limba română
+Groapa Gâștei,gâscă,2,46.2112927590192,24.4222387367332,Sibiu,Altele,1905,,Groapa Gâștei,Geomil 25000,Limba română
+Dealul Gâștei,gâscă,2,47.3241397748317,26.2320582889497,Suceava,Deal,2256,,Dealul Gâștei,Geomil 25000,Limba română
+Ostrovu Gâsca,gâscă,2,43.6505269671739,25.5336405521037,Teleorman,Apă-deal-câmpie,448,,Ostrovu Gâsca,Geomil 25000,Limba română
+Pădurea Gâsca,gâscă,2,43.6554398510954,25.5204434469888,Teleorman,Pădure,449,448,Pădurea Gâsca,Geomil 25000,Limba română
+Șesul Valea Gâștei,gâscă,2,45.7867005738753,27.1528072756534,Vrancea,Câmp,3556,3558,Șesul Valea Gâștei,PDT,Limba română
+Valea Gâștei,gâscă,2,45.7970836632199,27.1377636207356,Vrancea,Vale,3558,,Valea Gâștei,Geomil 25000,Limba română
