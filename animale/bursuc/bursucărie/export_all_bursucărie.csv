@@ -2,8 +2,8 @@ Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă
 Poiana Bursucăria,bursucărie,3,46.5153350017426,26.425224635072,Bacau,Poiană,6547,,Poiana Bursucăria,PDT,Limba română
 Bursucăria,bursucărie,3,47.7277575449002,26.5362645671568,Botosani,Altele,1833,,Bursucăria,Geomil 25000,Limba română
 Bursucărie,bursucărie,3,47.6612126604297,26.6319491874843,Botosani,Altele,1827,,Bursucărie,Geomil 25000,Limba română
-Dealul Bursucăriei,bursucărie,3,47.850599800287,27.1578392012884,Botosani,Deal,11663,,Dealul Bursucăriei,Geomil 25000,Limba română
 Dealul Bursucăriei,bursucărie,3,47.6730565408307,26.6396499345,Botosani,Deal,1826,,Dealul Bursucăriei,Geomil 25000,Limba română,Dealul Bursucăria,PDT,Limba română
+Dealul Bursucăriei,bursucărie,3,47.850599800287,27.1578392012884,Botosani,Deal,11663,,Dealul Bursucăriei,Geomil 25000,Limba română
 Valea Bursucăria,bursucărie,3,47.8422646811474,27.1591398757133,Botosani,Vale,12383,11663,Valea Bursucăria,Moldova (1892-1898),Limba română
 Pasul Bursucăriei,bursucărie,3,47.1277929799731,25.4015799451821,Harghita,Înălțime,11713,11711,Pasul Bursucăriei,ANCPI,Limba română
 Vârful Bursucăriei,bursucărie,3,47.1287491422396,25.4315659148901,Harghita,Înălțime,11711,,Vârful Bursucăriei,Geomil 25000,Limba română

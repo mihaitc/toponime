@@ -1,0 +1,260 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Dealu Porcului,porc,2,45.8997153948694,23.5954162428456,Alba,Deal,1150,Dealu Porcului,Geomil 25000,Limba română
+Troaca Porcilor,porc,2,46.3204747429767,24.0309406140408,Alba,Altele,13994,Troaca Porcilor,PDT,Limba română
+Valea Porcilor,porc,2,46.0713332560903,23.3942866128597,Alba,Vale,2574,Valea Porcilor,Geomil 25000,Limba română
+Dealu Porcului,porc,2,46.1791811677992,22.2899947728808,Arad,Deal,10363,Dealu Porcului,Geomil 25000,Limba română
+Fântâna Porcilor,porc,2,46.6157669728649,21.7702588134576,Arad,Altele,7592,Fântâna Porcilor,PDT,Limba română
+Fântâna Porcilor,porc,2,46.5258844416466,21.5899480513855,Arad,Altele,8029,Fântâna Porcilor,PDT,Limba română
+Imașu Porcilor,porc,2,46.3372146389538,21.2435816491027,Arad,Altele,11683,Imașu Porcilor,Geomil 25000,Limba română
+Pârâul Porcului,porc,2,46.0764286233293,22.1896670242624,Arad,Vale,13497,Pârâul Porcului,PDT,Limba română
+Valea Porcului,porc,2,46.2447710952535,21.9781409181258,Arad,Vale,9409,Valea Porcului,Geomil 25000,Limba română
+Valea Mistrețului,mistreț,3,45.3821038887499,24.900999206608,Arges,Vale,4996,Valea Mistrețului,Geomil 25000,Limba română
+Culmea Porcului,porc,2,45.4957274862176,24.9217540019643,Arges,Înălțime,624,Culmea Porcului,Geomil 25000,Limba română
+Eleșteul Porcului,porc,2,44.6467083564146,25.0159784146663,Arges,Apă-deal-câmpie,3720,Eleșteul Porcului,PDT,Limba română
+Piscul Porcului,porc,2,45.185846186602,24.9368555933652,Arges,Înălțime,563,Piscul Porcului,Geomil 25000,Limba română
+Piscul Porcului,porc,2,45.0099514803774,24.8240435916436,Arges,Înălțime,6893,Piscul Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,45.4434740760773,25.1120833053471,Arges,Vale,5027,Valea Porcului,Geomil 25000,Limba română,Valea Porcului,PDT,Limba română
+Culmea Scroafei,scroafă,3,45.4558171284746,24.6840674233575,Arges,Înălțime,11203,Culmea Scroafei,ANCPI,Limba română
+Dealul Scroafa,scroafă,3,44.8939446506616,24.679703760461,Arges,Deal,85,Дялу-Скроафа (Dealul Scroafa),Sovietică,Limba română,Dealul Scroafa,Geomil 25000,Limba română,Dealul Scrofa,PDT,Limba română
+Valea Scroafa,scroafă,3,44.751911981432,24.7957792234534,Arges,Vale,4782,Valea Scroafa,PDT,Limba română
+Valea Scroafei,scroafă,3,44.6707851627314,24.9066298276551,Arges,Vale,11190,Valea Scroafei,ANCPI,Limba română
+Mistrețul,mistreț,3,46.2905783390767,26.3400572311642,Bacau,Vale,9963,Mistrețul,Geomil 25000,Limba română
+Coama Porcului,porc,2,46.5818482894556,26.4013581366757,Bacau,Înălțime,9955,Coama Porcului,Moldova (1892-1898),Limba română
+Dealul Porcului,porc,2,46.49098875104,26.2228002881504,Bacau,Deal,4593,Dealul Porcului,PDT,Limba română
+Dealul Porcului,porc,2,46.5742974009429,27.2164119217236,Bacau,Deal,7858,Dealul Porcului,Geomil 25000,Limba română,Dealul Porcului,PDT,Limba română
+Dealul Porcului,porc,2,46.5049106349833,26.2368789935314,Bacau,Deal,7878,Dealul Porcului,Geomil 25000,Limba română
+Pârâul Porcului,porc,2,46.3997813849324,26.2666410490097,Bacau,Vale,4591,Pârâul Porcului,PDT,Limba română
+Pârâul Porcului,porc,2,46.1199697916615,26.7419183807503,Bacau,Vale,5302,Pârâul Porcului,PDT,Limba română
+Pârâul Porcului,porc,2,46.1923031871263,26.450229252061,Bacau,Vale,12394,Pârâul Porcului,PDT,Limba română
+Pârâul Porcului,porc,2,46.1464305002564,26.8229219607153,Bacau,Vale,13596,Pârâul Porcului,PDT,Limba română
+Piciorul Coama Porcului,porc,2,46.6349206138186,26.3525444219905,Bacau,Înălțime,9158,Piciorul Coama Porcului,PDT,Limba română
+Piciorul Porcului,porc,2,46.2573762796926,26.4676234844559,Bacau,Înălțime,687,Piciorul Porcului,Geomil 25000,Limba română
+Piciorul Porcului,porc,2,46.5672300001607,26.2759389971392,Bacau,Înălțime,9162,Piciorul Porcului,PDT,Limba română
+Piciorul Porcului,porc,2,46.2458935720138,26.5756502264665,Bacau,Înălțime,13602,Piciorul Porcului,PDT,Limba română
+Poiana Porcului,porc,2,46.1090931007892,26.7700538784497,Bacau,Poiană,10883,Poiana Porcului,Moldova (1892-1898),Limba română
+Fântâna Porcilor,porc,2,46.9755929661092,21.6904472438593,Bihor,Înălțime,6976,Fântâna Porcilor,Geomil 25000,Limba română
+Fântâna Porcilor,porc,2,47.1600972914197,21.9820738517564,Bihor,Altele,7674,Fântâna Porcilor,PDT,Limba română
+Fântâna Porcilor,porc,2,47.1738107809561,21.8340680003719,Bihor,Altele,11863,Fântâna Porcilor,PDT,Limba română
+Gruiu Porcului,porc,2,46.9778700450818,22.1398630325395,Bihor,Înălțime,9937,Gruiu Porcului,Geomil 25000,Limba română
+Gruiul Porcului,porc,2,46.9647220744564,22.1466321219955,Bihor,Altele,12358,Gruiul Porcului,PDT,Limba română
+Heruga Porcilor,porc,2,46.9322442135298,21.6163019855591,Bihor,Altele,6977,Heruga Porcilor,Geomil 25000,Limba română
+Pășunea Porcului,porc,2,47.5355509165512,22.1026377728623,Bihor,Altele,11873,Pășunea Porcului,Geomil 25000,Limba română
+Picioru Porcului,porc,2,46.7812677037608,22.5328832412866,Bihor,Înălțime,1121,Picioru Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,46.6272753660102,22.7633480800624,Bihor,Vale,7006,Valea Porcului,Geomil 25000,Limba română
+Măgura Porcului,porc,2,47.5599958370094,24.3748403341978,Bistrita Nasaud,Înălțime,4487,Măgura Porcului,Geomil 25000,Limba română
+Măgura Porcului,porc,2,47.4103155555001,24.7145543261476,Bistrita Nasaud,Înălțime,6360,Măgura Porcului,Geomil 25000,Limba română
+Porcul,porc,2,47.2700493947716,24.9997928036695,Bistrita Nasaud,Vale,9910,Porcul,Geomil 25000,Limba română
+Valea Pășunea Porcilor,porc,2,46.8626334217551,24.4272350337429,Bistrita Nasaud,Vale,13738,Valea Pășunea Porcilor,PDT,Limba română
+Valea Porcului,porc,2,47.3697251854755,24.4493746190144,Bistrita Nasaud,Vale,4494,Valea Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,47.4741502414982,24.2056673707006,Bistrita Nasaud,Vale,7092,Valea Porcului,Geomil 25000,Limba română
+Dealul Coama Porcului,porc,2,47.5680044763484,26.7898974099585,Botosani,Deal,1755,Dealul Coama Porcului,Geomil 25000,Limba română
+Movila Porcului,porc,2,48.1737464648076,26.4941419305412,Botosani,Înălțime,2329,Movila Porcului,Geomil 25000,Limba română
+Odaia Porciloru,porc,2,48.0216582087977,26.6913405499935,Botosani,Altele,3577,Odaia Porciloru,PDT,Limba română
+Valea Porcului,porc,2,47.6770685332466,26.7177112979491,Botosani,Vale,14070,Valea Porcului,Geomil 25000,Limba română
+Grindul Porcului,porc,2,45.1921662014361,28.0632458112716,Braila,Apă-deal-câmpie,7680,Grindul Porcului,PDT,Limba română
+Japșa Porcului,porc,2,44.8570240937309,28.0587952414207,Braila,Apă-deal-câmpie,3486,Japșa Porcului,PDT,Limba română
+Scroafa,scroafă,3,44.960635570216,28.0886135080313,Braila,Apă-deal-câmpie,6705,Scroafa,PDT,Limba română
+Culmea Părul Porcului,porc,2,45.6726885291421,24.6961428575878,Brasov,Înălțime,4955,Culmea Părul Porcului,Geomil 25000,Limba română
+Culmea Porcilor,porc,2,45.5911622359622,25.1482518610941,Brasov,Înălțime,611,Culmea Porcilor,Geomil 25000,Limba română
+Dealul Porcilor,porc,2,45.9288625526444,24.8231753326011,Brasov,Deal,11247,Dealul Porcilor,Geomil 25000,Limba română
+Groapa Porcilor,porc,2,46.0729285956381,25.0028013837547,Brasov,Altele,2484,Groapa Porcilor,Geomil 25000,Limba română
+La Fântîna Porcului,porc,2,45.9383518080684,25.1099658273518,Brasov,Altele,2686,La Fântîna Porcului,Geomil 25000,Limba română
+Livada Porcilor,porc,2,45.6690887019956,25.5273794062164,Brasov,Altele,6836,Livada Porcilor,PDT,Limba română
+Păr. Porcului,porc,2,45.6476157422151,24.9428070968166,Brasov,Vale,10528,Păr. Porcului,Imperiul Habsburgic (1887),Limba română
+Pârâul Porcior,porc,2,45.7249432223301,25.1916740576171,Brasov,Vale,12886,Pârâul Porcior,Imperiul Habsburgic (1887),Limba română
+Porcul,porc,2,45.8109226352045,25.3425395632902,Brasov,Vale,12671,Porcul,Geomil 25000,Limba română
+Porcul,porc,2,45.5714052495228,25.9489616580291,Brasov,Vale,13342,Porcul,Geomil 25000,Limba română
+Valea Scroafei,scroafă,3,46.1211619130164,25.1396649880976,Brasov,Vale,7947,Valea Scroafei,PDT,Limba română
+Pârâul Porcului,porc,2,45.6184422020496,26.3789311101815,Buzau,Vale,7918,Pârâul Porcului,Geomil 25000,Limba română
+Podul Porcului,porc,2,45.4619405823886,26.381180832844,Buzau,Altele,2813,Podul Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,45.4794909252352,26.6536959976571,Buzau,Vale,11199,Valea Porcului,ANCPI,Limba română
+Grindu Porcului,porc,2,44.1352865259762,27.1751690072591,Calarasi,Apă-deal-câmpie,3290,Grindu Porcului,PDT,Limba română
+Groapa Porcului,porc,2,44.1960767553289,26.4378422841698,Calarasi,Altele,3043,Groapa Porcului,Geomil 25000,Limba română,Groapa Porcului,PDT,Limba română
+Groapa Porcului,porc,2,44.1586966173495,27.1167386007413,Calarasi,Altele,3232,Groapa Porcului,PDT,Limba română
+Grindul Purcelului,purcel,3,44.1865060831201,27.4749355555345,Calarasi,Apă-deal-câmpie,3297,Grindul Purcelului,PDT,Limba română
+Grindul Purcelului,purcel,3,44.2338792718128,27.2391352058053,Calarasi,Apă-deal-câmpie,9983,Grindul Purcelului,PDT,Limba română
+Cracu Porcului,porc,2,44.8583933931541,21.8075282272186,Caras Severin,Altele,3317,Cracu Porcului,Geomil 25000,Limba română
+Cracu Porcului,porc,2,45.2606358330496,22.2584058117613,Caras Severin,Vale,6123,Cracu Porcului,Geomil 25000,Limba română
+Cracu Porcului,porc,2,45.1729323236233,22.3577163641623,Caras Severin,Înălțime,6135,Cracu Porcului,Geomil 25000,Limba română
+Cracu Porcului,porc,2,45.0625826428726,22.146727646422,Caras Severin,Înălțime,11496,Cracu Porcului,Geomil 25000,Limba română
+Dealul Hunca Porcului,porc,2,45.0921750649935,21.9426994916677,Caras Severin,Deal,10252,Dealul Hunca Porcului,Geomil 25000,Limba română
+Gruiu Porcilor,porc,2,45.538127609858,21.7700467491928,Caras Severin,Înălțime,1243,Gruiu Porcilor,Geomil 25000,Limba română
+La Porcu,porc,2,45.3692016802961,21.926257982204,Caras Severin,Altele,4311,La Porcu,Geomil 25000,Limba română
+Ogașul Porcului,porc,2,44.856764743173,21.7906904782489,Caras Severin,Vale,8512,Ogașul Porcului,PDT,Limba română
+Pârâu Porcului,porc,2,45.6036275426939,22.4160450950549,Caras Severin,Vale,863,Pârâu Porcului,Geomil 25000,Limba română
+Poiana Colul Porcului,porc,2,45.0116131754834,21.8260233242146,Caras Severin,Poiană,12162,Poiana Colul Porcului,PDT,Limba română
+Dealu Porcului,porc,2,46.6822811043635,23.1885718461486,Cluj,Deal,5896,Dealu Porcului,Geomil 25000,Limba română
+Dealu Porcului,porc,2,46.7833529152856,23.3362284664431,Cluj,Deal,7036,Dealu Porcului,Geomil 25000,Limba română
+Dealul Porcului,porc,2,46.9015829646554,23.5497025170575,Cluj,Deal,10665,Dealul Porcului,Imperiul Habsburgic (1887),Limba română
+Picioru Porcului,porc,2,46.8177532990172,22.7643843921991,Cluj,Înălțime,11537,Picioru Porcului,Geomil 25000,Limba română
+Șesu Porcului,porc,2,46.5226078897417,23.1840657819244,Cluj,Altele,12729,Șesu Porcului,Geomil 25000,Limba română
+Valea Porcilor,porc,2,46.5771894470154,23.8206308943376,Cluj,Vale,5879,Valea Porcilor,Geomil 25000,Limba română
+Valea Porcului,porc,2,46.3646487098674,22.1753925777175,Cluj,Vale,4208,Valea Porcului,PDT,Limba română,Pârâu Porcului,Geomil 25000,Limba română,Vale Porcului,Ungară 1869,Limba română
+Valea Porcului,porc,2,47.2297593959209,23.6818687911471,Cluj,Vale,7047,Valea Porcului,Geomil 25000,Limba română,Valea Porcului,PDT,Limba română
+Dealu Scroafelor,scroafă,3,47.0612500479154,23.5027144576479,Cluj,Deal,14027,Dealu Scroafelor,Geomil 25000,Limba română
+Valea Scroafei,scroafă,3,46.508048232469,22.7112490008384,Cluj,Vale,10289,Valea Scroafei,PDT,Limba română
+Valea Scrofii,scroafă,3,46.5920764193816,23.9594568911996,Cluj,Vale,10661,Valea Scrofii,Imperiul Habsburgic (1887),Limba română
+Valea Porcilor,porc,2,44.0738143373561,27.7783549660553,Constanta,Vale,2848,Valea Porcilor,Geomil 25000,Limba română
+Valea Porcilor,porc,2,43.9839494261368,28.1389011159201,Constanta,Vale,13640,Valea Porcilor,Geomil 25000,Limba română
+Culmea Porcilor,porc,2,46.1746442977928,26.2744635633874,Covasna,Înălțime,5318,Culmea Porcilor,Geomil 25000,Limba română
+Dealul Porcului,porc,2,45.5474785862605,26.0665735527748,Covasna,Deal,11315,Dealul Porcului,Geomil 25000,Limba română
+Pădurea Baia Porcului,porc,2,46.1174743674601,25.8681290064549,Covasna,Pădure,4373,Pădurea Baia Porcului,PDT,Limba română
+Piscul Porcilor,porc,2,46.1040869295546,26.3526848769206,Covasna,Înălțime,5316,Piscul Porcilor,Geomil 25000,Limba română
+Valea Porcilor,porc,2,46.090244528691,25.9083279056245,Covasna,Vale,4376,Valea Porcilor,PDT,Limba română
+Dealul Porcului,porc,2,44.8138026492909,25.2668198594124,Dambovita,Deal,10122,Dealul Porcului,PDT,Limba română
+La Lacul Porcului,porc,2,44.7752761229881,25.6284322298981,Dambovita,Lac,3704,La Lacul Porcului,PDT,Limba română
+La Lacul Porcului,porc,2,44.8552787432843,25.6178252582399,Dambovita,Lac,11145,La Lacul Porcului,PDT,Limba română
+Lacul Porcului,porc,2,44.7646057359394,25.3116296866549,Dambovita,Lac,10151,Lacul Porcului,PDT,Limba română
+Wale Porkului,porc,2,44.5464353436218,25.7797070227112,Dambovita,Vale,12227,Wale Porkului,Oltenia-Muntenia (1790),Limba română
+Dealul Porcului,porc,2,44.3315707899855,23.1911654484322,Dolj,Deal,139,Dealul Porcului,Geomil 25000,Limba română
+Grindul Porcului,porc,2,43.8249344120346,23.6342607923928,Dolj,Apă-deal-câmpie,4681,Grindul Porcului,PDT,Limba română
+Lacul Porcului,porc,2,44.1292210442204,23.8311624508432,Dolj,Lac,7699,Lacul Porcului,PDT,Limba română
+Lacul Porcului,porc,2,44.209246452313,23.7057746450589,Dolj,Lac,7726,Lacul Porcului,PDT,Limba română
+Măgura Porcilor,porc,2,43.9649881732085,23.5841984090428,Dolj,Înălțime,8104,Măgura Porcilor,PDT,Limba română
+Piscul Porcului,porc,2,44.4774617309833,23.2361539757894,Dolj,Deal,121,Piscul Porcului,Geomil 25000,Limba română
+Valea Lacul Porcilor,porc,2,44.2002067123099,23.9127981098042,Dolj,Vale,12169,Valea Lacul Porcilor,PDT,Limba română
+Valea cu Scroafa,scroafă,3,44.5790992233151,23.6760820929379,Dolj,Vale,8281,Valea cu Scroafa,PDT,Limba română
+Dealul Movila Porcului,porc,2,46.0609134085607,27.6290507713367,Galati,Deal,9495,Dealul Movila Porcului,PDT,Limba română
+Dealul Piciorul Porcului,porc,2,46.0292957437801,27.2592526418152,Galati,Deal,2165,Dealul Piciorul Porcului,Geomil 25000,Limba română
+Dealul Porcului,porc,2,46.0661163848148,27.8928451756044,Galati,Deal,11290,Dealul Porcului,Geomil 25000,Limba română
+Lacul Porcului,porc,2,45.8677877403398,27.411785617264,Galati,Lac,741,Lacul Porcului,Geomil 25000,Limba română
+Piscul Porcului,porc,2,45.9525501378943,27.9546900840537,Galati,Înălțime,11437,Piscul Porcului,Geomil 25000,Limba română
+Dealul Piscu Scroafi,scroafă,3,46.041207224165,27.7166645691246,Galati,Deal,9753,Dealul Piscu Scroafi,Moldova (1892-1898),Limba română
+Dealul Scroafei,scroafă,3,45.9854636560867,27.9093901379847,Galati,Deal,9746,Dealul Scroafei,Geomil 25000,Limba română
+Dealul Crângul Porcului,porc,2,43.9826180766918,25.9674171121063,Giurgiu,Deal,3776,Dealul Crângul Porcului,PDT,Limba română
+Grindu Porcului,porc,2,44.1648843971208,26.0663307924613,Giurgiu,Apă-deal-câmpie,462,Grindu Porcului,Geomil 25000,Limba română
+Valea Porcilor,porc,2,44.2359061807649,25.7456887319915,Giurgiu,Vale,14229,Valea Porcilor,PDT,Limba română
+Valea Porcului,porc,2,43.9853394470072,25.8177427156177,Giurgiu,Vale,3778,Valea Porcului,PDT,Limba română
+Dealu Porcului,porc,2,45.1464810477884,22.8119717212641,Gorj,Deal,5126,Dealu Porcului,Geomil 25000,Limba română
+Dealul Porcului,porc,2,44.9633191989965,23.7347812776902,Gorj,Deal,5096,Dealul Porcului,Austriacă,Limba română
+Dealul Porcului,porc,2,44.721490245532,23.6608006447629,Gorj,Deal,5148,Dealul Porcului,Geomil 25000,Limba română
+Pârâul Porcului,porc,2,45.1927635433475,23.3506895816148,Gorj,Vale,235,Pârâul Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,44.8321675968814,22.9533327116515,Gorj,Vale,3676,Valea Porcului,PDT,Limba română
+Valea Scroafa,scroafă,3,44.8498863035545,23.7184038980002,Gorj,Vale,12684,Valea Scroafa,PDT,Limba română
+Valea Scroafei,scroafă,3,44.9132515493176,23.465821139768,Gorj,Vale,3132,Valea Scroafei,Geomil 25000,Limba română
+Purcelul,purcel,3,47.0679510309666,25.333133273441,Harghita,Vale,13142,Purcelul,Geomil 25000,Limba română
+Dealu Porcului,porc,2,46.1921300004016,23.0566769189623,Hunedoara,Deal,6250,Dealu Porcului,Geomil 25000,Limba română
+Dealu Porcului,porc,2,46.1631706168305,22.5977643070234,Hunedoara,Deal,6265,Dealu Porcului,Geomil 25000,Limba română
+Pârâu Porcu,porc,2,46.2996512678216,22.8751322129817,Hunedoara,Vale,5587,Pârâu Porcu,Geomil 25000,Limba română
+Pârâu Porcului,porc,2,45.6688356692862,22.6405119093095,Hunedoara,Vale,6102,Pârâu Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,46.0567467532557,23.0215468807677,Hunedoara,Vale,6242,Valea Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,46.0930754074538,22.981097437029,Hunedoara,Vale,9397,Valea Porcului,PDT,Limba română
+Poiana Purcelului,purcel,3,45.7026247749052,22.9116835572501,Hunedoara,Poiană,6113,Poiana Purcelului,Geomil 25000,Limba română
+Japșa Mistreața,mistreț,3,44.4037074331778,27.9772293112051,Ialomita,Apă-deal-câmpie,9976,Japșa Mistreața,PDT,Limba română
+Lacul Porcului,porc,2,44.7033086270552,27.8462068401297,Ialomita,Lac,12493,Lacul Porcului,PDT,Limba română
+Lacul Porcului,porc,2,44.5581471824326,27.2233803310296,Ialomita,Lac,12661,Lacul Porcului,PDT,Limba română
+Dealul Porcului,porc,2,47.1500877524189,27.1093595049401,Iasi,Deal,2236,Dealul Porcului,Geomil 25000,Limba română
+Dealul Porcului,porc,2,47.3796401903927,27.4894361965819,Iasi,Deal,6645,Dealul Porcului,PDT,Limba română
+Dealul Râtu Porcului,porc,2,46.9762497760863,27.8813919760152,Iasi,Deal,6585,Dealul Râtu Porcului,PDT,Limba română
+La Lacu Porcului,porc,2,47.4484474460391,27.3846946639359,Iasi,Lac,4869,La Lacu Porcului,PDT,Limba română
+La Râtul Porcului,porc,2,47.2435934612061,27.3395258758727,Iasi,Altele,4836,La Râtul Porcului,PDT,Limba română
+Râtul Porcului,porc,2,47.039542876545,27.3402846799579,Iasi,Altele,7800,Râtul Porcului,PDT,Limba română
+Groapa Porkului,porc,2,44.6988860094743,26.2033235244292,Ilfov,Altele,5771,Groapa Porkului,Austriacă,Limba română
+Valea Mistrețu,mistreț,3,47.7765354016814,23.7265137575226,Maramures,Vale,4470,Valea Mistrețu,Geomil 25000,Limba română
+Dealu Porcului,porc,2,47.7189643341779,23.3771996270421,Maramures,Deal,4448,Dealu Porcului,Geomil 25000,Limba română
+Dealul Porcului,porc,2,47.7532208513979,24.3631369072765,Maramures,Deal,7186,Dealul Porcului,PDT,Limba română,Dealul Porcului,Geomil 25000,Limba română
+Fântâna Porcului,porc,2,47.4175298210224,23.3755734759458,Maramures,Altele,8174,Fântâna Porcului,PDT,Limba română
+Măgura Porcului,porc,2,47.5945503569798,24.1074484807709,Maramures,Înălțime,1035,Măgura Porcului,Geomil 25000,Limba română
+Pojana Porkului,porc,2,47.4121755995032,23.8275290507794,Maramures,Localitate,13254,Pojana Porkului,Transilvania (1769-1773),Limba română
+Valea Porcului,porc,2,47.8708507500052,24.0153886678789,Maramures,Vale,908,Valea Porcului,Geomil 25000,Limba română,Valea Porcului,PDT,Limba română
+Valea Porcului,porc,2,47.5855258687063,23.6416899891354,Maramures,Vale,1042,Valea Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,47.4939818421628,23.6275553734717,Maramures,Vale,11415,Valea Porcului,Geomil 25000,Limba română
+Valle Porculuy,porc,2,47.5316079203333,24.0538270957917,Maramures,Vale,11993,Valle Porculuy,Ungaria (1782–1785),Limba română
+Gâtu Porcului,porc,2,44.9881039712742,22.5455283952115,Mehedinti,Altele,6153,Gâtu Porcului,Geomil 25000,Limba română
+Puțul Porcului,porc,2,44.4372773366866,22.7310883466447,Mehedinti,Altele,8081,Puțul Porcului,PDT,Limba română
+Valea Scroafei,scroafă,3,44.7469011578319,22.9154220266557,Mehedinti,Vale,421,Valea Scroafei,Geomil 25000,Limba română
+Dealul Mistrețului,mistreț,3,46.6751545196039,25.1312769508808,Mures,Deal,10846,Dealul Mistrețului,Geomil 25000,Limba română
+Dealul Porcului,porc,2,46.9920553988996,24.9902566197721,Mures,Deal,2081,Dealul Porcului,Geomil 25000,Limba română
+Dealul Porcului,porc,2,47.0122670604162,24.9811568679209,Mures,Deal,7324,Dealul Porcului,Geomil 25000,Limba română
+Gura Porcului,porc,2,46.9797109712768,24.9956599606735,Mures,Altele,10009,Gura Porcului,PDT,Limba română
+Porcul,porc,2,46.7552156208273,25.0409720014553,Mures,Vale,12809,Porcul,Geomil 25000,Limba română
+Șesul Porcului,porc,2,47.0442747495757,24.9804860753823,Mures,Câmp,5406,Șesul Porcului,Geomil 25000,Limba română
+Unghia Porcilor,porc,2,46.4536663579946,24.2101740927882,Mures,Altele,10659,Unghia Porcilor,Imperiul Habsburgic (1887),Limba română
+Unghiul Porcilor,porc,2,46.2289061134528,24.64101378379,Mures,Apă-deal-câmpie,14225,Unghiul Porcilor,Geomil 25000,Limba română
+Valea Porcului,porc,2,46.9287806777671,24.7551126319125,Mures,Vale,5451,Valea Porcului,Geomil 25000,Limba română
+Dealul Scroafei,scroafă,3,46.6604171712025,25.0798122428885,Mures,Înălțime,10845,Dealul Scroafei,Geomil 25000,Limba română
+Valea Scroafei,scroafă,3,46.1806798679428,24.968771811318,Mures,Vale,2464,Valea Scroafei,Geomil 25000,Limba română
+Valea Scroafei,scroafă,3,46.111923029505,25.0363531848139,Mures,Vale,6791,Valea Scroafei,PDT,Limba română
+Coama Porcului,porc,2,46.9140405263216,27.019055888217,Neamt,Înălțime,1632,Coama Porcului,Geomil 25000,Limba română
+Piciorul Porcului,porc,2,46.7908445019547,26.1616908339644,Neamt,Înălțime,6519,Piciorul Porcului,PDT,Limba română,Piciorul Porcului,Geomil 25000,Limba română
+Vârful Porcului,porc,2,46.7785667764475,26.3016666341777,Neamt,Înălțime,2028,Vârful Porcului,Geomil 25000,Limba română
+Dealu Porcului,porc,2,44.4395488671117,24.1756939725021,Olt,Deal,277,Dealu Porcului,Geomil 25000,Limba română
+La Lacul Porcului,porc,2,44.354321784571,24.7430320596134,Olt,Lac,13982,La Lacul Porcului,PDT,Limba română
+Lacul Porcului,porc,2,44.1256429894434,24.6500467663073,Olt,Lac,7753,Lacul Porcului,PDT,Limba română,Lacul Purcelului,Geomil 25000,Limba română
+Măgura Porcilor,porc,2,43.9185816994085,24.439717387,Olt,Înălțime,3034,Măgura Porcilor,Geomil 25000,Limba română
+Piscu Porcului,porc,2,44.2758778036311,24.3189621277349,Olt,Înălțime,12530,Piscu Porcului,PDT,Limba română
+Valea Porcului,porc,2,44.4100202995097,24.2008438068942,Olt,Vale,296,Valea Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,44.4623906823712,24.3551347266024,Olt,Vale,5808,Valea Porcului,Geomil 25000,Limba română
+Valea Purcelului,purcel,3,44.3175938054549,24.4887801536595,Olt,Vale,5807,Valea Purcelului,Geomil 25000,Limba română
+Valea Purcelului,purcel,3,44.5250806752538,24.3940559469813,Olt,Vale,11691,Valea Purcelului,Geomil 25000,Limba română
+Lacul Scroafei,scroafă,3,44.2318113468642,24.5683134204053,Olt,Lac,2985,Lacul Scroafei,PDT,Limba română
+Căpățâna Porcului,porc,2,45.4612952350836,25.4978173848401,Prahova,Altele,6858,Căpățâna Porcului,PDT,Limba română
+Pădurea Groapa Porcului,porc,2,44.8215108313,26.1534042966,Prahova,Pădure,36,Лес Гроапа-Поркулуй (Pădurea Groapa Porcului),Sovietică,Limba română,Pădurea Groapa Porcului,Geomil 25000,Limba română
+Poiana Porcului,porc,2,45.1113764399442,25.5880277580266,Prahova,Poiană,8814,Poiana Porcului,PDT,Limba română
+Valea Lacul Porcului,porc,2,45.0667166838332,25.9080817296161,Prahova,Vale,8836,Valea Lacul Porcului,PDT,Limba română
+Coasta Porcului,porc,2,47.3612639787096,23.2428440466702,Salaj,Înălțime,12745,Costea Porcului,Imperiul Habsburgic (1887),Limba română,Coasta Porcului,Geomil 25000,Limba română
+La Piciorul Porcului,porc,2,47.3220097619835,23.3371076584083,Salaj,Înălțime,8179,La Piciorul Porcului,PDT,Limba română
+Valea Porcilor,porc,2,47.2304981189644,22.989858412929,Salaj,Vale,7574,Valea Porcilor,PDT,Limba română
+Valea Porcului,porc,2,47.3146503607876,23.7760218348849,Salaj,Vale,4401,Valea Porcului,Geomil 25000,Limba română,Valea Porcului,PDT,Limba română
+Dâmbul Porcilor,porc,2,47.6437098677107,23.1563081222103,Satu Mare,Înălțime,8222,Dâmbul Porcilor,PDT,Limba română
+Dealu Porcilor,porc,2,47.4850690351717,22.5833690370808,Satu Mare,Deal,10783,Dealu Porcilor,Geomil 25000,Limba română
+Ocolul Porcilor,porc,2,47.6623914732191,22.7868385190309,Satu Mare,Altele,8701,Ocolul Porcilor,PDT,Limba română
+Pășunea Porcilor,porc,2,47.6908967409933,22.7933305923251,Satu Mare,Altele,5952,Pășunea Porcilor,Geomil 25000,Limba română
+Valea Porcului,porc,2,47.9249741937318,23.5237211551412,Satu Mare,Vale,4464,Valea Porcului,Geomil 25000,Limba română
+Groapa Porcilor,porc,2,46.2477821203991,24.5755800710733,Sibiu,Altele,5515,Groapa Porcilor,Geomil 25000,Limba română
+Pârâul Porcului,porc,2,45.7574338215124,24.3329358312081,Sibiu,Vale,4031,Pârâul Porcului,PDT,Limba română
+Valea Porcilor,porc,2,46.2551334384172,24.5458465772689,Sibiu,Vale,10628,Valea Porcilor,Imperiul Habsburgic (1887),Limba română
+Valea Porcu,porc,2,45.6988579522881,23.8762882117922,Sibiu,Vale,2511,Valea Porcu,Geomil 25000,Limba română
+Valea Porcului,porc,2,45.5640341307531,24.0125979563117,Sibiu,Vale,11319,Valea Porcului,Geomil 25000,Limba română
+Arșița Porcului,porc,2,47.3837857937689,25.3461964114461,Suceava,Înălțime,11169,Arșița Porcului,Imperiul Habsburgic (1887),Limba română
+Balta Porcului,porc,2,47.5369110120271,26.5012913170769,Suceava,Localitate,9061,Balta Porcului,PDT,Limba română
+Dealul Porcului,porc,2,47.4772238281107,26.157747964716,Suceava,Deal,9070,Dealul Porcului,PDT,Limba română
+Dealul Runcul Porcului,porc,2,47.5741620556579,25.7565625147974,Suceava,Deal,6326,Dealul Runcul Porcului,Geomil 25000,Limba română
+Piciorul Porcului,porc,2,47.8498849364947,25.5344863486115,Suceava,Înălțime,2288,Piciorul Porcului,Geomil 25000,Limba română
+Porcul,porc,2,47.7170982225562,26.3384642607017,Suceava,Vale,1793,Porcul,Geomil 25000,Limba română
+Porcul,porc,2,47.4334833362382,25.0699559700204,Suceava,Vale,6378,Porcul,Geomil 25000,Limba română
+Porcul,porc,2,47.1333503902577,25.570198073242,Suceava,Vale,13282,Porcul,Geomil 25000,Limba română
+Eleșteul Porcului,porc,2,44.0448674278056,25.5757458608949,Teleorman,Apă-deal-câmpie,4215,Eleșteul Porcului,PDT,Limba română
+La Lacu Porcului,porc,2,44.2535196549288,25.316965498019,Teleorman,Apă-deal-câmpie,509,La Lacu Porcului,Geomil 25000,Limba română,La Lac Porcului,PDT,Limba română
+La Lacul Porcilor,porc,2,44.2977566713036,25.301971155718,Teleorman,Lac,3724,La Lacul Porcilor,PDT,Limba română
+La Lacul Porcilor,porc,2,44.1560996707686,25.4030893753102,Teleorman,Lac,9027,La Lacul Porcilor,PDT,Limba română
+Lacul Porcilor,porc,2,44.2338414305281,25.0679964107584,Teleorman,Lac,3730,Lacul Porcilor,PDT,Limba română
+Lacul Porcului,porc,2,43.726098145769,25.0243580140494,Teleorman,Lac,1347,Lacul Porcului,Geomil 25000,Limba română
+Val. Porkului,porc,2,44.3401803013308,25.2995004527042,Teleorman,Vale,5778,Val. Porkului,Austriacă,Limba română,Valea Porcului,Geomil 25000,Limba română
+Valea Porcilor,porc,2,44.2332291211042,25.6080444816261,Teleorman,Vale,1392,Valea Porcilor,Geomil 25000,Limba română
+Valea Porcului,porc,2,44.2496642633473,25.6947307219856,Teleorman,Vale,4225,Valea Porcului,PDT,Limba română
+Valea Porcului,porc,2,44.2696640586244,25.5577805772682,Teleorman,Vale,10967,Valea Porcului,PDT,Limba română
+Padina Scroafei,scroafă,3,44.0447055235233,25.4836425660512,Teleorman,Altele,9025,Padina Scroafei,PDT,Limba română
+Valea Scroafa,scroafă,3,43.8718120125933,25.4715183391785,Teleorman,Vale,3412,Valea Scroafa,PDT,Limba română
+Dealu Porcului,porc,2,45.6599718125816,22.1579483585903,Timis,Deal,10860,Dealu Porcului,Geomil 25000,Limba română
+Pârâul Porcului,porc,2,45.663805629587,21.6832767994644,Timis,Vale,4306,Pârâul Porcului,PDT,Limba română
+Râtu Porcului,porc,2,45.6773169611534,21.6860399268716,Timis,Altele,5678,Râtu Porcului,Geomil 25000,Limba română
+Balta Porcilor,porc,2,45.2856489741754,28.0574443192876,Tulcea,Apă-deal-câmpie,6681,Balta Porcilor,PDT,Limba română
+Lacul Porcului,porc,2,45.1064384430099,29.5680516189171,Tulcea,Lac,12643,Lacul Porcului,Geomil 25000,Limba română
+Movila Porcului,porc,2,44.9419917375427,28.176278755129,Tulcea,Înălțime,12615,Movila Porcului,PDT,Limba română
+Dealul Porcului,porc,2,44.7582809731223,23.8184900463249,Valcea,Deal,256,Dealul Porcului,Geomil 25000,Limba română,Dealul Porcului,PDT,Limba română
+Dealul Porcului,porc,2,44.7131271223574,23.8405075468013,Valcea,Deal,8265,Dealul Porcului,PDT,Limba română
+M. Porku,porc,2,45.2097149253559,23.8212157707055,Valcea,Înălțime,5837,M. Porku,Austriacă,Limba română
+Pârâul Cheile Porcului,porc,2,45.2162844861651,24.1487192918118,Valcea,Vale,12972,Pârâul Cheile Porcului,Geomil 25000,Limba română
+Piciorul Porcului,porc,2,45.186305292814,24.1765784604466,Valcea,Înălțime,357,Piciorul Porcului,Geomil 25000,Limba română
+Poiana Porcului,porc,2,45.2155406431882,23.8387051065963,Valcea,Poiană,2926,Poiana Porcului,Geomil 25000,Limba română
+Porcul,porc,2,45.487507505725,24.2626704705391,Valcea,Vale,12559,Porcul,Geomil 25000,Limba română
+Valea Picioru Porcului,porc,2,45.2125664959234,24.2159708985044,Valcea,Vale,2940,Valea Picioru Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,44.6580983657512,23.8835761295226,Valcea,Vale,259,Valea Porcului,Geomil 25000,Limba română
+Valea Porcului,porc,2,44.9302507084591,24.0835994854763,Valcea,Vale,344,Valea Porcului,Geomil 25000,Limba română
+Valea Purceaua,purcea,3,44.815037942961,24.0567663242187,Valcea,Vale,11039,Valea Purceaua,Geomil 25000,Limba română
+Dealul Lacul Porcului,porc,2,46.9324499725889,27.1560089658553,Vaslui,Deal,12289,Dealul Lacul Porcului,Geomil 25000,Limba română
+Dealul Porcului,porc,2,46.558218812458,27.6343758897996,Vaslui,Deal,1674,Dealul Porcului,Geomil 25000,Limba română
+Lacul Porcului,porc,2,46.6253307852879,28.106016164904,Vaslui,Lac,1691,Lacul Porcului,Geomil 25000,Limba română,Lacu Porcului,PDT,Limba română
+Pădurea Scroafei,scroafă,3,46.6515406136547,27.541258337076,Vaslui,Pădure,4619,Pădurea Scroafei,Geomil 25000,Limba română
+Curmătura Porcului,porc,2,45.5966385713,26.7867566996169,Vrancea,Înălțime,2098,Curmătura Porcului,Geomil 25000,Limba română
+Dealul Colțul Porculuil,porc,2,45.6751898365801,26.7831501014479,Vrancea,Deal,5250,Dealul Colțul Porculuil,Geomil 25000,Limba română
+Dealul Porcului,porc,2,45.9603611938298,26.4667987112315,Vrancea,Deal,2793,Dealul Porcului,Geomil 25000,Limba română
+Dealul Porcului,porc,2,45.9614923367499,26.9375174792131,Vrancea,Deal,5348,Dealul Porcului,PDT,Limba română,Dealul Porcului,Geomil 25000,Limba română
+Pârâul Porcului,porc,2,45.7719782789739,26.8274947405565,Vrancea,Vale,7909,Pârâul Porcului,Geomil 25000,Limba română
+Pârâul Porcului,porc,2,45.7996947895886,26.5977982103916,Vrancea,Vale,12946,Pârâul Porcului,Geomil 25000,Limba română
+Pârâul Porcului,porc,2,45.9872979133129,26.5331765516976,Vrancea,Vale,13305,Pârâul Porcului,Geomil 25000,Limba română
+Piscul Porcului,porc,2,45.8684305669109,26.4339902424245,Vrancea,Înălțime,2111,Piscul Porcului,Geomil 25000,Limba română
+Vârful Porcului,porc,2,45.9232858776395,26.5788848300613,Vrancea,Înălțime,2798,Vârful Porcului,Geomil 25000,Limba română
+Dealul Purcei,purcel,3,45.9517528301772,26.8063238367095,Vrancea,Deal,5272,Dealul Purcei,Geomil 25000,Limba română
+Vârful Purcelului,purcel,3,45.6187510435788,26.6820620517705,Vrancea,Înălțime,5245,Vârful Purcelului,Geomil 25000,Limba română

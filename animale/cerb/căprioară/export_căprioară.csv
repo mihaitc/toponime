@@ -1,0 +1,46 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Căprioara,căprioară,3,46.5398048174593,22.8162169389467,Alba,Vale,5911,Valea Căprioara,Geomil 25000,Limba română
+Căprioara,căprioară,3,45.9820565061407,22.2786415535238,Arad,Localitate,10361,Căprioara,Geomil 25000,Limba română
+Culmea Căprioarei,căprioară,3,45.5426068374155,25.1112994943176,Arges,Înălțime,626,Culmea Căprioarei,Geomil 25000,Limba română
+Dealul Căprioarei,căprioară,3,45.3148059358187,25.0235338615403,Arges,Deal,10071,Dealul Căprioarei,Geomil 25000,Limba română
+Dealul Căprioarei,căprioară,3,45.1414322039556,24.7392058872618,Arges,Deal,11174,Dealul Căprioarei,ANCPI,Limba română
+Muntele Căprioarei,căprioară,3,45.3585428060447,24.5819631548014,Arges,Înălțime,4983,Muntele Căprioarei,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,45.4875400616735,25.201173404492,Arges,Vale,601,Valea Căprioarei,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,45.3481359962919,24.7924653252214,Arges,Vale,5075,Valea Căprioarei,PDT,Limba română
+Valea Căprioarei,căprioară,3,45.20795259295,25.0740108649106,Arges,Vale,8828,Valea Căprioarei,PDT,Limba română
+Căprioara,căprioară,3,47.0921365031876,22.3509019210924,Bihor,Altele,8204,Căprioara,PDT,Limba română
+Dealu Căprioarei,căprioară,3,46.8863963895645,22.0105901225335,Bihor,Deal,5983,Dealu Căprioarei,Geomil 25000,Limba română
+Căprioara,căprioară,3,47.4525417711405,24.4887473271211,Bistrita Nasaud,Vale,12891,Căprioara,Geomil 25000,Limba română
+Pășunea Căprioara,căprioară,3,46.8803010003868,24.2877878324354,Bistrita Nasaud,Altele,13736,Pășunea Căprioara,PDT,Limba română
+Căprioara,căprioară,3,47.1027278574404,23.5280032936089,Cluj,Localitate,1106,Căprioara,Geomil 25000,Limba română
+Pleșa Căprioarei,căprioară,3,47.0959732754895,23.5433650856893,Cluj,Înălțime,1105,Pleșa Căprioarei,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,46.6972078935433,23.603942175275,Cluj,Vale,7055,Valea Căprioarei,Geomil 25000,Limba română
+Dealul Căprioarei,căprioară,3,44.2402409511255,23.6195035516337,Dolj,Deal,3359,Dealul Căprioarei,Geomil 25000,Limba română
+La Căprioare,căprioară,3,44.1976530328888,23.5821160910048,Dolj,Altele,5177,La Căprioare,Geomil 25000,Limba română
+Pădurea Căprioarei,căprioară,3,44.1700141083388,23.5787111890959,Dolj,Pădure,1300,Pădurea Căprioarei,Geomil 25000,Limba română
+Dealul Căprioarei,căprioară,3,45.5431835805463,27.9368851966588,Galati,Deal,3500,Dealul Căprioarei,Geomil 25000,Limba română
+Pădurea Căprioara,căprioară,3,45.4777925394007,27.664182785325,Galati,Pădure,752,Pădurea Căprioara,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,45.8795526252831,27.5388784336569,Galati,Vale,3947,Valea Căprioarei,PDT,Limba română
+D. Kâprioaele,căprioară,3,45.016154323075,23.7768065513105,Gorj,Deal,5097,D. Kâprioaele,Austriacă,Limba română
+Valea Căprioara,căprioară,3,44.7333844355547,23.676263641953,Gorj,Vale,10693,Valea Căprioara,Geomil 25000,Limba română
+Dealul Căprioarelor,căprioară,3,46.2731082030853,25.5507250557151,Harghita,Deal,6783,Dealul Căprioarelor,Geomil 25000,Limba română
+Căprioara,căprioară,3,45.6315249333673,22.8248704165105,Hunedoara,Înălțime,9020,Căprioara,Geomil 25000,Limba română
+Căpriora,căprioară,3,45.7340284627067,23.1382976861296,Hunedoara,Altele,5555,Căpriora,PDT,Limba română,Dealul Căprioara,Geomil 25000,Limba română
+Culmea Căprioarei,căprioară,3,46.9841626349089,26.202477009838,Neamt,Înălțime,674,Culmea Căprioarei,Geomil 25000,Limba română
+Măgura Căprioarei,căprioară,3,44.2003302505556,24.5930188901557,Olt,Înălțime,1286,Măgura Căprioarei,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,44.5210590792399,24.468858949876,Olt,Vale,304,Valea Căprioarei,Geomil 25000,Limba română
+Poiana Căprioarei,căprioară,3,45.1224406897423,26.4040893596278,Prahova,Poiană,3974,Poiana Căprioarei,Geomil 25000,Limba română,Poiana Căprioarei,PDT,Limba română
+Culmea Căprioarei,căprioară,3,45.6144312331187,24.0827790469364,Sibiu,Înălțime,2501,Culmea Căprioarei,Geomil 25000,Limba română
+Culmea Căprioarelor,căprioară,3,45.6617690350332,23.8060194785714,Sibiu,Înălțime,2518,Culmea Căprioarelor,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,45.8380813067288,23.9460864273488,Sibiu,Vale,2544,Valea Căprioarei,Geomil 25000,Limba română,Valea Căprioarei,PDT,Limba română
+Peștera Căprioarei,căprioară,3,45.6328034266475,22.1777880167934,Timis,Altele,866,Peștera Căprioarei,Geomil 25000,Limba română
+Căprioara,căprioară,3,45.4312268816256,24.057237027014,Valcea,Vale,12589,Căprioara,Geomil 25000,Limba română
+Dealul Căprioarele,căprioară,3,45.0104151180574,23.7876486764577,Valcea,Deal,7426,Dealul Căprioarele,Geomil 25000,Limba română
+Gruiul Căprioarei,căprioară,3,45.3763915141948,24.1173648800697,Valcea,Înălțime,1172,Gruiul Căprioarei,Geomil 25000,Limba română
+V. Kaprioara,căprioară,3,44.5670975242614,24.0771994337026,Valcea,Vale,5831,V. Kaprioara,Austriacă,Limba română
+Valea Căprioarei,căprioară,3,44.603229825447,24.0650108955379,Valcea,Vale,2958,Valea Căprioarei,Geomil 25000,Limba română,Valea Căprioarei,PDT,Limba română
+Valea Căprioarei,căprioară,3,44.7015674542868,23.8822817436816,Valcea,Vale,3089,Valea Căprioarei,Geomil 25000,Limba română,Valea Căprioarei,PDT,Limba română
+Dealul Căprioarei,căprioară,3,46.8073915870597,27.4339932265015,Vaslui,Deal,1664,Dealul Căprioarei,Geomil 25000,Limba română
+Dealul Căprioarei,căprioară,3,46.2421992192804,27.8510571882357,Vaslui,Deal,7383,Dealul Căprioarei,Geomil 25000,Limba română
+Poiana Căprioarei,căprioară,3,46.5913574558095,27.6474040124276,Vaslui,Poiană,4613,Poiana Căprioarei,Geomil 25000,Limba română
+Căprioarei,căprioară,3,45.5355581908093,27.484657744828,Vrancea,Altele,9605,Căprioarei,Moldova (1892-1898),Limba română

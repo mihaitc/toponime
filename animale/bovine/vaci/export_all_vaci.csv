@@ -2,12 +2,12 @@ Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă
 Câmpu Vacilor,vaci,3,46.4691203785098,23.0625236360715,Alba,Câmp,10244,,Câmpu Vacilor,Geomil 25000,Limba română
 Valea Vacii,vaci,3,46.0516404176926,23.3943959870867,Alba,Vale,5571,,Valea Vacii,Geomil 25000,Limba română
 Fântâna Vacii,vaci,3,46.5431554527589,21.5677159087177,Arad,Altele,8026,,Fântâna Vacii,PDT,Limba română,Fântâna Vacii,Geomil 25000,Limba română
-Fântâna Vacilor,vaci,3,46.4208220819774,22.0391309822188,Arad,Altele,12538,,Fântâna Vacilor,Geomil 25000,Limba română
 Fântâna Vacilor,vaci,3,46.2344530836728,21.4053439961158,Arad,Altele,1096,,Fântâna Vacilor,Geomil 25000,Limba română
 Fântâna Vacilor,vaci,3,46.5638832427259,21.9327607668711,Arad,Altele,4102,,Fântâna Vacilor,PDT,Limba română
 Fântâna Vacilor,vaci,3,46.4106473880129,21.8472887612047,Arad,Altele,6289,,Fântâna Vacilor,PDT,Limba română
-Fântâna Vacilor,vaci,3,46.5306276898614,21.5838733829345,Arad,Altele,8028,,Fântâna Vacilor,PDT,Limba română
 Fântâna Vacilor,vaci,3,46.3939088707766,21.7182961668737,Arad,Altele,6290,,Fântâna Vacilor,PDT,Limba română
+Fântâna Vacilor,vaci,3,46.5306276898614,21.5838733829345,Arad,Altele,8028,,Fântâna Vacilor,PDT,Limba română
+Fântâna Vacilor,vaci,3,46.4208220819774,22.0391309822188,Arad,Altele,12538,,Fântâna Vacilor,Geomil 25000,Limba română
 Podu Vacilor,vaci,3,46.6531702689333,21.8541773704133,Arad,Altele,11670,,Podu Vacilor,Geomil 25000,Limba română
 Valea Vacii,vaci,3,46.2111420335605,22.4265555493039,Arad,Vale,12327,,Valea Vacii,Imperiul Habsburgic (1887),Limba română
 Coada Vacii,vaci,3,44.9100361572072,24.6953475144204,Arges,Înălțime,9364,3072,Coada Vacii,PDT,Limba română
@@ -17,9 +17,9 @@ Dealul Văii Vacii,vaci,3,45.1392002680947,25.0859516567533,Arges,Deal,554,,Deal
 Muchia Văii Vacii,vaci,3,45.2409943315581,24.7449714601108,Arges,Înălțime,4052,,Muchia Văii Vacii,Geomil 25000,Limba română
 Piscul Vacii,vaci,3,45.526752487208,24.7876090402431,Arges,Înălțime,11570,,Piscul Vacii,Geomil 25000,Limba română
 Valea Vaci,vaci,3,45.1382148954474,25.1128375876664,Arges,Localitate,6000,554,Valea Vaci,Austriacă,Limba română
-Valea Vacii,vaci,3,45.0143912813157,25.0755903325978,Arges,Vale,10161,,Valea Vacii,Geomil 25000,Limba română
 Valea Vacii,vaci,3,45.5463193482473,24.9458587442037,Arges,Vale,625,,Valea Vacii,Geomil 25000,Limba română
 Valea Vacii,vaci,3,45.2557612520104,24.9203382270662,Arges,Vale,5063,,Valea Vacii,Geomil 25000,Limba română
+Valea Vacii,vaci,3,45.0143912813157,25.0755903325978,Arges,Vale,10161,,Valea Vacii,Geomil 25000,Limba română
 Dealul Vacii,vaci,3,46.4110681644568,27.4702630440193,Bacau,Deal,12253,,Dealul Vacii,Geomil 25000,Limba română
 Pârâul Vacilor,vaci,3,46.6603395319374,26.2762036052897,Bacau,Vale,10939,,Pârâul Vacilor,Geomil 25000,Limba română
 Plaiul Poiana Vacii,vaci,3,46.1853273453436,27.001447107252,Bacau,Înălțime,13593,,Plaiul Poiana Vacii,PDT,Limba română
@@ -45,14 +45,14 @@ Vadu Vacilor,vaci,3,44.1902596338632,27.592489010277,Constanta,Altele,3219,,Vadu
 Valea Vadul Vacilor,vaci,3,44.1886183511979,27.5871914815122,Constanta,Vale,9278,3219,Valea Vadul Vacilor,PDT,Limba română
 La Lacul Vacilor,vaci,3,44.5902703219154,25.8208561216208,Dambovita,Lac,11053,,La Lacul Vacilor,PDT,Limba română
 La Vadul Vacii,vaci,3,44.6098196943281,25.9069794932512,Dambovita,Apă-deal-câmpie,11054,,La Vadul Vacii,PDT,Limba română
-Muntele Vaca,vaci,3,45.2451363478659,25.3209888351783,Dambovita,Înălțime,5217,,Muntele Vaca,Geomil 25000,Limba română
 Muntele Vaca,vaci,3,45.2706104970439,25.3138643384656,Dambovita,Înălțime,1488,,Muntele Vaca,Geomil 25000,Limba română
+Muntele Vaca,vaci,3,45.2451363478659,25.3209888351783,Dambovita,Înălțime,5217,,Muntele Vaca,Geomil 25000,Limba română
 Poiana la Bătătura Vacilor,vaci,3,44.7568787154793,25.3753498642971,Dambovita,Poiană,8315,,Poiana la Bătătura Vacilor,PDT,Limba română
 Poiana Vadul Vacilor,vaci,3,44.5831638350783,25.4331021284354,Dambovita,Poiană,9444,,Poiana Vadul Vacilor,PDT,Limba română
 Vadul Vacilor,vaci,3,44.7929834776385,25.7166467410076,Dambovita,Apă-deal-câmpie,11150,,Vadul Vacilor,PDT,Limba română
 Valea Coada Vacii,vaci,3,44.8747072199911,25.2167568289861,Dambovita,Vale,10138,,Valea Coada Vacii,PDT,Limba română
-Valea Vaca,vaci,3,45.2384589608954,25.3269556280369,Dambovita,Vale,5216,5217,Valea Vaca,Geomil 25000,Limba română
 Valea Vaca,vaci,3,45.2761923164069,25.3301121250379,Dambovita,Vale,1489,1488,Valea Vaca,Geomil 25000,Limba română,Valea Vacii,Austriacă,Limba română
+Valea Vaca,vaci,3,45.2384589608954,25.3269556280369,Dambovita,Vale,5216,5217,Valea Vaca,Geomil 25000,Limba română
 Valea Vacii,vaci,3,44.8661766495064,25.295354817299,Dambovita,Vale,10134,,Valea Vacii,PDT,Limba română
 Valea Vacilor,vaci,3,44.9196066141139,25.672178245862,Dambovita,Vale,3699,,Valea Vacilor,PDT,Limba română
 Grindul Vacilor,vaci,3,43.8432122114187,23.6337654404896,Dolj,Apă-deal-câmpie,3798,,Grindul Vacilor,PDT,Limba română

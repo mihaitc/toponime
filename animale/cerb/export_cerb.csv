@@ -1,0 +1,222 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Căprioara,căprioară,3,46.5398048174593,22.8162169389467,Alba,Vale,5911,Valea Căprioara,Geomil 25000,Limba română
+Cerbu,cerb,2,46.4432481062849,22.982483532854,Alba,Înălțime,1932,Cerbu,Geomil 25000,Limba română
+Dealu Cerbului,cerb,2,46.5120126164793,22.7441136747141,Alba,Deal,5616,Dealu Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,46.239697732468,23.1158574301787,Alba,Localitate,5581,Valea Cerbului,Geomil 25000,Limba română
+Valea Ciutei,ciută,3,46.2448897502371,23.0856543355539,Alba,Vale,5582,Valea Ciutei,Geomil 25000,Limba română
+Căprioara,căprioară,3,45.9820565061407,22.2786415535238,Arad,Localitate,10361,Căprioara,Geomil 25000,Limba română
+Vârful Cerbului,cerb,2,46.3809072245255,22.325835957437,Arad,Înălțime,7652,Vârful Cerbului,PDT,Limba română
+Vârfu Cerboaia,cerboaie,3,46.2502846160677,22.1210371294628,Arad,Înălțime,1946,Vârfu Cerboaia,Geomil 25000,Limba română
+Culmea Căprioarei,căprioară,3,45.5426068374155,25.1112994943176,Arges,Înălțime,626,Culmea Căprioarei,Geomil 25000,Limba română
+Dealul Căprioarei,căprioară,3,45.3148059358187,25.0235338615403,Arges,Deal,10071,Dealul Căprioarei,Geomil 25000,Limba română
+Dealul Căprioarei,căprioară,3,45.1414322039556,24.7392058872618,Arges,Deal,11174,Dealul Căprioarei,ANCPI,Limba română
+Muntele Căprioarei,căprioară,3,45.3585428060447,24.5819631548014,Arges,Înălțime,4983,Muntele Căprioarei,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,45.4875400616735,25.201173404492,Arges,Vale,601,Valea Căprioarei,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,45.3481359962919,24.7924653252214,Arges,Vale,5075,Valea Căprioarei,PDT,Limba română
+Valea Căprioarei,căprioară,3,45.20795259295,25.0740108649106,Arges,Vale,8828,Valea Căprioarei,PDT,Limba română
+Cerbu,cerb,2,44.7578985329973,24.8197074977007,Arges,,4779,Cerbu,Geomil 25000,Limba română,Cerbu,PDT,Limba română
+Dealu Cerbului,cerb,2,44.9024567062296,24.7389554320047,Arges,Deal,3071,Dealu Cerbului,Geomil 25000,Limba română
+Dealu Cerbului,cerb,2,44.799205649345,24.870235693358,Arges,Deal,11697,Dealu Cerbului,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,45.0626958494093,25.1128481202571,Arges,Deal,10163,Dealul Cerbului,Geomil 25000,Limba română
+Lacul Cerbului,cerb,2,45.5255934825776,24.5533790498499,Arges,Lac,10186,Lacul Cerbului,Geomil 25000,Limba română
+Muchia Cerbului,cerb,2,45.4171056246347,24.4725498345165,Arges,Înălțime,1452,Muchia Cerbului,Geomil 25000,Limba română
+Muntele Cerbului,cerb,2,45.3962433128973,24.5609431095911,Arges,Înălțime,10196,Muntele Cerbului,Geomil 25000,Limba română
+Poiana Cerbului,cerb,2,45.4190860257195,24.8017687842682,Arges,Poiană,5017,Poiana Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,44.8572769615888,24.7584117382114,Arges,Vale,81,Valea Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,44.7785387476273,24.8011242450723,Arges,Vale,1409,Valea Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,44.9171644412836,24.6956459674577,Arges,Vale,9365,Valea Cerbului,PDT,Limba română
+Valea Cerbului,cerb,2,45.450992187915,24.5564864788589,Arges,Vale,10195,Valea Cerbului,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,46.2581378790488,26.9509202135045,Bacau,Deal,9673,Dealul Cerbului,Moldova (1892-1898),Limba română
+Dealul Cerbului,cerb,2,46.4087054761483,26.7160908484346,Bacau,Deal,13862,Dealul Cerbului,PDT,Limba română
+Vârful Cerbului,cerb,2,46.2010928272759,26.4489570124754,Bacau,Înălțime,688,Vârful Cerbului,Geomil 25000,Limba română
+Poiana Ciutei,ciută,3,46.3084259990185,26.5311745798975,Bacau,Poiană,5322,Poiana Ciutei,PDT,Limba română
+Căprioara,căprioară,3,47.0921365031876,22.3509019210924,Bihor,Altele,8204,Căprioara,PDT,Limba română
+Dealu Căprioarei,căprioară,3,46.8863963895645,22.0105901225335,Bihor,Deal,5983,Dealu Căprioarei,Geomil 25000,Limba română
+Cerbu,cerb,2,47.1844924551806,22.3769726645693,Bihor,Altele,4179,Cerbu,PDT,Limba română
+Dâmbu Cerbului,cerb,2,46.3962974613974,22.6406603920989,Bihor,Înălțime,1934,Dâmbu Cerbului,Geomil 25000,Limba română,Dâmbul Cerbului,PDT,Limba română
+Dealu Fața Cerbului,cerb,2,46.5776215432819,22.2268301351171,Bihor,Deal,987,Dealu Fața Cerbului,Geomil 25000,Limba română
+Dealul Fața Cerbului,cerb,2,46.575455770812,22.2204481841104,Bihor,Deal,4083,Dealul Fața Cerbului,PDT,Limba română
+Gruiu Ciutei,ciută,3,46.927731357885,22.2604298177687,Bihor,Înălțime,1077,Gruiu Ciutei,Geomil 25000,Limba română
+Pădurea Ciuta,ciută,3,46.6266470706174,22.0759012429371,Bihor,Pădure,981,Pădurea Ciuta,Geomil 25000,Limba română
+Căprioara,căprioară,3,47.4525417711405,24.4887473271211,Bistrita Nasaud,Vale,12891,Căprioara,Geomil 25000,Limba română
+Pășunea Căprioara,căprioară,3,46.8803010003868,24.2877878324354,Bistrita Nasaud,Altele,13736,Pășunea Căprioara,PDT,Limba română
+Dealul Cerbului,cerb,2,47.2460724223661,24.4598354053455,Bistrita Nasaud,Deal,4515,Dealul Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,47.390703779581,24.408605466829,Bistrita Nasaud,Vale,1021,Valea Cerbului,Geomil 25000,Limba română
+Dealul Cerbăriei,cerbărie,3,46.9760280454089,24.1801492771198,Bistrita Nasaud,Deal,5863,Dealul Cerbăriei,Geomil 25000,Limba română
+Cerbul,cerb,2,47.6167572612683,26.8768790661883,Botosani,Înălțime,2421,Cerbul,Geomil 25000,Limba română
+Movila Cerbu,cerb,2,45.0195424247622,27.5270448637581,Braila,Înălțime,6726,Movila Cerbu,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,45.8837731068688,25.3927063890628,Brasov,Deal,2697,Dealul Cerbului,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,45.8826490252331,25.3657621907233,Brasov,Deal,2698,Dealul Cerbului,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,45.7295877670787,25.2153935904541,Brasov,Deal,8553,Dealul Cerbului,PDT,Limba română
+Grădina Cerbului,cerb,2,45.9393569411179,24.9057733948002,Brasov,Altele,4945,Grădina Cerbului,Geomil 25000,Limba română
+Piscul Cerbului,cerb,2,45.8117133353265,24.6814434408443,Brasov,Înălțime,2673,Piscul Cerbului,Geomil 25000,Limba română
+Piscul Cerbului,cerb,2,45.7966802583329,25.2701103985247,Brasov,Înălțime,6814,Piscul Cerbului,Geomil 25000,Limba română
+Piscul Cerbului,cerb,2,45.7261337373389,25.3119031561238,Brasov,Înălțime,6825,Piscul Cerbului,PDT,Limba română
+Valea Cerbul,cerb,2,45.5670549952198,25.5258926674696,Brasov,Vale,8572,Valea Cerbul,PDT,Limba română
+Valea Cerbului,cerb,2,45.6049244045489,25.9215037050883,Brasov,Vale,11451,Valea Cerbului,Geomil 25000,Limba română
+Piscul Ciutii,ciută,3,45.7274882535867,25.1419549557236,Brasov,Înălțime,4025,Piscul Ciutii,PDT,Limba română
+Dealul Cerbului,cerb,2,45.5098650494264,26.6484507140783,Buzau,Deal,12265,Dealul Cerbului,Geomil 25000,Limba română
+Muchia la Cerbi,cerb,2,45.3295751101023,26.4692661441454,Buzau,Înălțime,6120,Muchia la Cerbi,Geomil 25000,Limba română
+Pârâul Cerbu,cerb,2,45.2453900316587,26.2560451930967,Buzau,Vale,9816,Pârâul Cerbu,Geomil 25000,Limba română
+Pârâul Cerbului,cerb,2,45.6496134424811,26.4891703019325,Buzau,Vale,2804,Pârâul Cerbului,Geomil 25000,Limba română
+Pârâul Cerbului,cerb,2,45.4420419993275,26.4898910555736,Buzau,Vale,13340,Pârâul Cerbului,Geomil 25000,Limba română
+Vârful Cerbului,cerb,2,45.2533553179114,26.6177584998261,Buzau,Înălțime,78,Vârful Cerbului,Geomil 25000,Limba română,г. Черб (Cerb),Sovietică,Limba română
+Grindul Ciutii,ciută,3,44.3412260599234,27.4482171033418,Calarasi,Altele,3307,Grindul Ciutii,Geomil 25000,Limba română
+Cerbul,cerb,2,44.6843822267523,21.8776316523054,Caras Severin,Altele,11490,Cerbul,ANCPI,Limba română
+Cracu Cerbului,cerb,2,45.0907861651421,22.1017929594016,Caras Severin,Înălțime,1225,Cracu Cerbului,Geomil 25000,Limba română
+Dealu Cerbului,cerb,2,45.1508958140137,22.2316487662067,Caras Severin,Deal,6132,Dealu Cerbului,Geomil 25000,Limba română
+Dialu Cerbului,cerb,2,45.3637993754447,22.369526491606,Caras Severin,Deal,10325,Dialu Cerbului,Ungară 1869,Limba română
+Locu Cerbului,cerb,2,45.1380494282307,22.4116220676652,Caras Severin,Altele,1216,Locu Cerbului,Geomil 25000,Limba română
+Piatra Cerbului,cerb,2,45.0043489437708,22.4724289622287,Caras Severin,Înălțime,8677,Piatra Cerbului,PDT,Limba română
+Poiana Balta Cerbului,cerb,2,44.9462504711316,22.487120420081,Caras Severin,Poiană,843,Poiana Balta Cerbului,Geomil 25000,Limba română
+Poiana Cerbilor,cerb,2,45.0370944400491,21.8171183588336,Caras Severin,Poiană,12163,Poiana Cerbilor,PDT,Limba română
+Poiana Cerbului,cerb,2,45.0244419396593,22.1344568531987,Caras Severin,Poiană,5725,Poiana Cerbului,Geomil 25000,Limba română
+Tâlva Cerbului,cerb,2,44.8374508514145,21.7205169915179,Caras Severin,Înălțime,8509,Tâlva Cerbului,Geomil 25000,Limba română,Tâlva Cerbului,PDT,Limba română
+Tâlva Cerbului,cerb,2,45.0433456684316,21.986231025879,Caras Severin,Înălțime,13483,Tâlva Cerbului,PDT,Limba română
+Valea Cerbului,cerb,2,45.4686247932494,22.5427266337127,Caras Severin,Vale,6096,Valea Cerbului,Geomil 25000,Limba română
+Poiana Ciutei,ciută,3,45.1815279910275,22.1716184047784,Caras Severin,Poiană,13478,Poiana Ciutei,PDT,Limba română
+Tâlva Ciutii,ciută,3,44.7516251737923,22.012499839974,Caras Severin,Înălțime,8501,Tâlva Ciutii,PDT,Limba română,Tâlva Ciutii,Geomil 25000,Limba română
+Căprioara,căprioară,3,47.1027278574404,23.5280032936089,Cluj,Localitate,1106,Căprioara,Geomil 25000,Limba română
+Pleșa Căprioarei,căprioară,3,47.0959732754895,23.5433650856893,Cluj,Înălțime,1105,Pleșa Căprioarei,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,46.6972078935433,23.603942175275,Cluj,Vale,7055,Valea Căprioarei,Geomil 25000,Limba română
+Dâmbul Tăul Cerbului,cerb,2,46.9726308114735,22.6955656482138,Cluj,Înălțime,12351,Dâmbul Tăul Cerbului,PDT,Limba română
+Valea Cerbului,cerb,2,46.7257608521831,22.7398963238901,Cluj,Vale,1116,Valea Cerbului,Geomil 25000,Limba română
+Dealul Săritura Cerbului,cerb,2,46.0505389659341,25.7830638405873,Covasna,Deal,6060,Dealul Săritura Cerbului,Geomil 25000,Limba română
+Dealu Cerbului,cerb,2,44.8284876650116,25.2906469402416,Dambovita,Deal,7455,Dealu Cerbului,Geomil 25000,Limba română
+Valea Cerbului Mare,cerb,2,44.8141789904031,25.3711930139594,Dambovita,Vale,12019,Valea Cerbului Mare,PDT,Limba română
+Vârfu Ciutei,ciută,3,44.9797286113453,25.3170394122912,Dambovita,Înălțime,1530,Vârfu Ciutei,Geomil 25000,Limba română
+Dealul Căprioarei,căprioară,3,44.2402409511255,23.6195035516337,Dolj,Deal,3359,Dealul Căprioarei,Geomil 25000,Limba română
+La Căprioare,căprioară,3,44.1976530328888,23.5821160910048,Dolj,Altele,5177,La Căprioare,Geomil 25000,Limba română
+Pădurea Căprioarei,căprioară,3,44.1700141083388,23.5787111890959,Dolj,Pădure,1300,Pădurea Căprioarei,Geomil 25000,Limba română
+Măgura Cerbului,cerb,2,44.1336755642518,23.4361298030343,Dolj,Înălțime,150,Măgura Cerbului,Geomil 25000,Limba română
+Pădurea Cerbului,cerb,2,43.8822651505996,23.0652443389341,Dolj,Pădure,1311,Pădurea Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,44.6033199060434,23.8159208866597,Dolj,Vale,4735,Valea Cerbului,Geomil 25000,Limba română
+Dealul Cerboaiei,cerboaie,3,44.5793208838512,23.8843575089546,Dolj,Deal,385,Dealul Cerboaiei,Geomil 25000,Limba română
+Valea Cerboaiei,cerboaie,3,44.4044506841637,23.6404500309941,Dolj,Vale,4704,Valea Cerboaiei,Geomil 25000,Limba română
+Ciuta,ciută,3,43.9397933647829,23.7091151956709,Dolj,Înălțime,1303,Ciuta,Geomil 25000,Limba română
+Dealul Ciutei,ciută,3,44.4308476634129,23.220878809394,Dolj,Deal,122,Dealul Ciutei,Geomil 25000,Limba română
+Dealul Căprioarei,căprioară,3,45.5431835805463,27.9368851966588,Galati,Deal,3500,Dealul Căprioarei,Geomil 25000,Limba română
+Pădurea Căprioara,căprioară,3,45.4777925394007,27.664182785325,Galati,Pădure,752,Pădurea Căprioara,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,45.8795526252831,27.5388784336569,Galati,Vale,3947,Valea Căprioarei,PDT,Limba română
+Lunca Cerbului,cerb,2,45.9601415840048,27.8763521036103,Galati,Vale,9744,Lunca Cerbului,Moldova (1892-1898),Limba română,Valea Cerbului,Geomil 25000,Limba română
+Râpa Cerbului,cerb,2,45.8841764136025,28.0954687736977,Galati,Altele,704,Râpa Cerbului,Geomil 25000,Limba română,Râpa Cerbului,PDT,Limba română
+Rediul Cerbului,cerb,2,46.0283656251074,27.9687007708327,Galati,Altele,3512,Rediul Cerbului,Geomil 25000,Limba română
+Dealul Ciutei,ciută,3,46.0779488112454,27.8153681665928,Galati,Deal,9749,Dealul Ciutei,Geomil 25000,Limba română
+D. Kâprioaele,căprioară,3,45.016154323075,23.7768065513105,Gorj,Deal,5097,D. Kâprioaele,Austriacă,Limba română
+Valea Căprioara,căprioară,3,44.7333844355547,23.676263641953,Gorj,Vale,10693,Valea Căprioara,Geomil 25000,Limba română
+Dealu Cerbu,cerb,2,45.0512766962939,22.8419746832229,Gorj,Deal,221,Dealu Cerbu,Geomil 25000,Limba română
+Piscul Cerbului,cerb,2,44.9921967858047,23.6231134029898,Gorj,Înălțime,8401,Piscul Cerbului,PDT,Limba română
+Poiana Cerbu,cerb,2,45.2048135933552,23.7045752398292,Gorj,Poiană,11576,Poiana Cerbu,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,44.9485299156186,23.3010221929172,Gorj,Vale,3119,Valea Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,44.9001073150476,23.5827908316627,Gorj,Vale,5085,Valea Cerbului,PDT,Limba română
+Valea Cerbului,cerb,2,44.689893032432,23.5899224951321,Gorj,Vale,5088,Valea Cerbului,Geomil 25000,Limba română,Valea Cerbului,PDT,Limba română
+Valea Ciuta,ciută,3,45.1131434544801,22.8178705197529,Gorj,Vale,224,Valea Ciuta,Geomil 25000,Limba română
+Valea Ciutei,ciută,3,44.8476168579541,22.9785706974298,Gorj,Vale,3674,Valea Ciutei,PDT,Limba română
+Dealul Căprioarelor,căprioară,3,46.2731082030853,25.5507250557151,Harghita,Deal,6783,Dealul Căprioarelor,Geomil 25000,Limba română
+Câmpul Cerbilor,cerb,2,46.3559593286373,25.339348715883,Harghita,Câmp,4282,Câmpul Cerbilor,Geomil 25000,Limba română
+Căprioara,căprioară,3,45.6315249333673,22.8248704165105,Hunedoara,Înălțime,9020,Căprioara,Geomil 25000,Limba română
+Căpriora,căprioară,3,45.7340284627067,23.1382976861296,Hunedoara,Altele,5555,Căpriora,PDT,Limba română,Dealul Căprioara,Geomil 25000,Limba română
+Cerbu,cerb,2,45.9293959839009,22.8095097580752,Hunedoara,Înălțime,6168,Cerbu,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,45.4956028049633,23.2759372787335,Hunedoara,Deal,1127,Dealul Cerbului,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,45.481681823606,23.4932659585072,Hunedoara,Deal,1194,Dealul Cerbului,Geomil 25000,Limba română
+Gruiu Cerbului,cerb,2,46.1213667659165,22.5315153777478,Hunedoara,Înălțime,6231,Gruiu Cerbului,Geomil 25000,Limba română
+Piatra Cerbului,cerb,2,46.3064047156405,22.8757251866835,Hunedoara,Înălțime,5588,Piatra Cerbului,Geomil 25000,Limba română
+Piatra Cerbului,cerb,2,45.8434544508212,22.6492000792222,Hunedoara,Înălțime,6169,Piatra Cerbului,Geomil 25000,Limba română,Piatra Cerbului,PDT,Limba română
+Piscul Cerbului,cerb,2,45.7094914151451,23.1975346867022,Hunedoara,Înălțime,9827,Piscul Cerbului,PDT,Limba română
+Valea Cerbului,cerb,2,45.9899908023595,22.6862588127956,Hunedoara,Vale,937,Valea Cerbului,Geomil 25000,Limba română
+Vârfu Cerbului,cerb,2,45.5601462597426,22.7498804022219,Hunedoara,Înălțime,5133,Vârfu Cerbului,Geomil 25000,Limba română,Vurvu Tscherbuli,Transilvania (1769-1773),Limba română
+Vârful Cerbului,cerb,2,46.0396579669706,22.5182709168473,Hunedoara,Înălțime,6220,Vârful Cerbului,PDT,Limba română
+Culmea Cerbului,cerb,2,47.7906906136422,24.8268950387854,Maramures,Înălțime,7194,Culmea Cerbului,Geomil 25000,Limba română
+Poiana Cerbului,cerb,2,47.8172328865088,24.6751740756248,Maramures,Poiană,11158,Poiana Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,47.4547363044466,23.442357849114,Maramures,Vale,1043,Valea Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,47.4682335494704,24.0040041107846,Maramures,Vale,8248,Valea Cerbului,Geomil 25000,Limba română
+Dealu Cerboaia,cerboaie,3,47.4131705476935,23.3804135995031,Maramures,Deal,9928,Dealu Cerboaia,Geomil 25000,Limba română
+Valea Ciutei,ciută,3,47.7613833409293,23.9864475489755,Maramures,Vale,910,Valea Ciutei,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,44.3210730728998,23.1794645831372,Mehedinti,Deal,141,Dealul Cerbului,Geomil 25000,Limba română,De. Cerbului,Austriacă,Limba română
+Ogașu Cerbului,cerb,2,44.6277759896595,22.9562942500115,Mehedinti,Vale,11486,Ogașu Cerbului,Geomil 25000,Limba română
+Poiana Cerbului,cerb,2,44.9933736098849,22.6204626519242,Mehedinti,Poiană,11223,Poiana Cerbului,ANCPI,Limba română
+Valea Cerbului,cerb,2,44.332078979951,23.041752075699,Mehedinti,Vale,12190,Valea Cerbului,PDT,Limba română
+Culmea Ciutei,ciută,3,44.5255650315466,23.014150275906,Mehedinti,Înălțime,434,Culmea Ciutei,Geomil 25000,Limba română
+Dealu Ciuta,ciută,3,44.9843438305272,22.8326150142552,Mehedinti,Deal,197,Dealu Ciuta,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,46.3609078531878,24.5753740089537,Mures,Deal,13999,Dealul Cerbului,PDT,Limba română
+Pădurea Cerbăria,cerbărie,3,46.2756224551114,24.1902961355386,Mures,Pădure,11908,Pădurea Cerbăria,PDT,Limba română,Pădurea Cerbăria,Geomil 25000,Limba română
+Culmea Căprioarei,căprioară,3,46.9841626349089,26.202477009838,Neamt,Înălțime,674,Culmea Căprioarei,Geomil 25000,Limba română
+Cerbul,cerb,2,47.0445310786631,26.1668678207206,Neamt,Vale,9136,Cerbul,Geomil 25000,Limba română
+Piatra Cerbului,cerb,2,46.7569627704585,25.8871943296919,Neamt,Înălțime,9051,Piatra Cerbului,Geomil 25000,Limba română
+Piciorul Cerbului,cerb,2,47.2150452792951,25.8437482703862,Neamt,Înălțime,6454,Piciorul Cerbului,PDT,Limba română
+Poiana Cerbului,cerb,2,46.8083054082108,26.0187442718332,Neamt,Poiană,678,Poiana Cerbului,Geomil 25000,Limba română
+Măgura Căprioarei,căprioară,3,44.2003302505556,24.5930188901557,Olt,Înălțime,1286,Măgura Căprioarei,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,44.5210590792399,24.468858949876,Olt,Vale,304,Valea Căprioarei,Geomil 25000,Limba română
+Poiana Lacul Cerbului,cerb,2,44.2489447509549,24.3442754435482,Olt,Poiană,12528,Poiana Lacul Cerbului,PDT,Limba română
+Valea Cerboaiei,cerb,2,44.5266948818236,23.9859985010803,Olt,Vale,268,Valea Cerboaiei,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,44.7487005296922,24.4016166200883,Olt,Vale,1993,Valea Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,44.7360095879164,24.3809924556356,Olt,Vale,4787,Valea Cerbului,PDT,Limba română
+Valea Cerboaica,cerboaică,3,44.3768881701633,24.1732800941439,Olt,Vale,9331,Valea Cerboaica,Geomil 25000,Limba română
+Măgura Ciutei,ciută,3,43.7698948038467,24.4151157303341,Olt,Înălțime,3029,Măgura Ciutei,Geomil 25000,Limba română
+Poiana Căprioarei,căprioară,3,45.1224406897423,26.4040893596278,Prahova,Poiană,3974,Poiana Căprioarei,Geomil 25000,Limba română,Poiana Căprioarei,PDT,Limba română
+Dealul Cerbului,cerb,2,45.1273310168565,26.242455378537,Prahova,Deal,12455,Dealul Cerbului,PDT,Limba română
+La Râpa Cerbului,cerb,2,45.1823491348879,25.7908394616488,Prahova,Înălțime,7474,La Râpa Cerbului,PDT,Limba română
+Valea Cerbului,cerb,2,45.4407990372793,25.5272508433515,Prahova,Vale,584,Valea Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,45.4397986583081,25.4763135799932,Prahova,Vale,585,Valea Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,45.2500250578951,25.7492564908499,Prahova,Vale,3990,Valea Cerbului,PDT,Limba română
+Valea Cerbului,cerb,2,45.2360088778547,25.6687095518582,Prahova,Vale,8818,Valea Cerbului,PDT,Limba română
+Culmea Ciutei,ciută,3,45.3658751705441,25.6047569012936,Prahova,Înălțime,577,Culmea Ciutei,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,47.2438275777819,22.8164407073054,Salaj,Deal,8189,Dealul Cerbului,PDT,Limba română
+Dosul Cerboaei,cerboaie,3,47.1179514941628,23.1526338317591,Salaj,Înălțime,10384,Dosul Cerboaei,PDT,Limba română
+Culmea Căprioarei,căprioară,3,45.6144312331187,24.0827790469364,Sibiu,Înălțime,2501,Culmea Căprioarei,Geomil 25000,Limba română
+Culmea Căprioarelor,căprioară,3,45.6617690350332,23.8060194785714,Sibiu,Înălțime,2518,Culmea Căprioarelor,Geomil 25000,Limba română
+Valea Căprioarei,căprioară,3,45.8380813067288,23.9460864273488,Sibiu,Vale,2544,Valea Căprioarei,Geomil 25000,Limba română,Valea Căprioarei,PDT,Limba română
+Dealul Cerbului,cerb,2,45.5912016090639,24.1654726709942,Sibiu,Deal,1166,Dealul Cerbului,Geomil 25000,Limba română
+Pârâul Cerbului,cerb,2,45.622080342342,24.2587450272655,Sibiu,Vale,4038,Pârâul Cerbului,PDT,Limba română
+Pârâul Cerbului,cerb,2,45.6552717293777,24.2840868711973,Sibiu,Vale,7513,Pârâul Cerbului,PDT,Limba română
+Piscul Cerbului,cerb,2,45.587305483123,24.3286191903992,Sibiu,Înălțime,1456,Piscul Cerbului,Geomil 25000,Limba română
+Valea Cerbu,cerb,2,45.5011607584254,23.6650719452014,Sibiu,Vale,11212,Valea Cerbu,ANCPI,Limba română
+Valea Cerbului,cerb,2,45.9812062986416,24.8176932245238,Sibiu,Vale,2662,Valea Cerbului,Geomil 25000,Limba română
+Cerbul,cerb,2,47.2334645695987,25.2257541364631,Suceava,Înălțime,9100,Cerbul,PDT,Limba română
+Cerbul,cerb,2,47.6902889886942,25.7972946746252,Suceava,Înălțime,10752,Cerbul,Imperiul Habsburgic (1887),Limba română
+Dealul Cerbului,cerb,2,47.9251996504261,25.5011340573756,Suceava,Deal,644,Dealul Cerbului,Geomil 25000,Limba română
+Muntele Arșița Cerbului,cerb,2,47.1865272797647,25.6886337265786,Suceava,Înălțime,6411,Muntele Arșița Cerbului,Geomil 25000,Limba română
+Părâul Cerbului,cerb,2,47.7825504946786,25.6667897499139,Suceava,Vale,10763,Părâul Cerbului,Imperiul Habsburgic (1887),Limba română
+Poiana Cerbului,cerb,2,47.4889454900213,26.4201174070243,Suceava,Poiană,9065,Poiana Cerbului,PDT,Limba română
+Preluca Cerbului,cerb,2,47.5949987729294,25.0399687267304,Suceava,Înălțime,7246,Preluca Cerbului,Geomil 25000,Limba română,Preluca Cerbului,PDT,Limba română
+La Lacu Cerbului,cerb,2,44.295474652096,25.3272267953645,Teleorman,Apă-deal-câmpie,510,La Lacu Cerbului,Geomil 25000,Limba română
+Pârâul Cerbului,cerb,2,44.1671277412732,25.3636015131192,Teleorman,Vale,14179,Pârâul Cerbului,PDT,Limba română
+Viroaga Ciuta,ciută,3,43.7485773871807,24.7598236917178,Teleorman,Altele,3335,Viroaga Ciuta,PDT,Limba română
+Peștera Căprioarei,căprioară,3,45.6328034266475,22.1777880167934,Timis,Altele,866,Peștera Căprioarei,Geomil 25000,Limba română
+Canalul Cerbilor,cerb,2,45.3627815158975,21.1917164681351,Timis,Apă-deal-câmpie,7601,Canalul Cerbilor,Geomil 25000,Limba română
+Cotu Cerbului,cerb,2,45.6779441780301,21.7428545041554,Timis,Altele,5679,Cotu Cerbului,Geomil 25000,Limba română
+Dealu Cerbului,cerb,2,45.7904107727572,22.4028826703483,Timis,Deal,10308,Dealu Cerbului,Geomil 25000,Limba română
+Obârșia Cerbului,cerb,2,45.5449061676859,21.7557844406132,Timis,Altele,1244,Obârșia Cerbului,Geomil 25000,Limba română
+Vârfu Cerbului,cerb,2,45.7003180242598,22.3353590764778,Timis,Înălțime,11358,Vârfu Cerbului,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,44.8403750007502,28.6586469490581,Tulcea,Deal,2878,Dealul Cerbului,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,45.1680554220342,28.4886467938569,Tulcea,Deal,6694,Dealul Cerbului,PDT,Limba română
+Căprioara,căprioară,3,45.4312268816256,24.057237027014,Valcea,Vale,12589,Căprioara,Geomil 25000,Limba română
+Dealul Căprioarele,căprioară,3,45.0104151180574,23.7876486764577,Valcea,Deal,7426,Dealul Căprioarele,Geomil 25000,Limba română
+Gruiul Căprioarei,căprioară,3,45.3763915141948,24.1173648800697,Valcea,Înălțime,1172,Gruiul Căprioarei,Geomil 25000,Limba română
+V. Kaprioara,căprioară,3,44.5670975242614,24.0771994337026,Valcea,Vale,5831,V. Kaprioara,Austriacă,Limba română
+Valea Căprioarei,căprioară,3,44.603229825447,24.0650108955379,Valcea,Vale,2958,Valea Căprioarei,Geomil 25000,Limba română,Valea Căprioarei,PDT,Limba română
+Valea Căprioarei,căprioară,3,44.7015674542868,23.8822817436816,Valcea,Vale,3089,Valea Căprioarei,Geomil 25000,Limba română,Valea Căprioarei,PDT,Limba română
+Cerbu,cerb,2,45.2495900642261,23.7025634068256,Valcea,Înălțime,11349,Cerbu,ANCPI,Limba română
+Cerbul,cerb,2,45.4650689552684,24.3606382166987,Valcea,Vale,7508,Cerbul,Geomil 25000,Limba română
+Coasta Cerbului,cerb,2,45.144079032443,23.920316937217,Valcea,Înălțime,3100,Coasta Cerbului,Geomil 25000,Limba română
+Dealul Cerbu,cerb,2,45.2494619359399,24.4430889052061,Valcea,Deal,1449,Dealul Cerbu,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,45.479068394821,24.3624956940637,Valcea,Deal,10188,Dealul Cerbului,Geomil 25000,Limba română
+Dealul la Cerbul Cocoșat,cerb,2,44.6332656724167,24.010552566722,Valcea,Deal,12573,Dealul la Cerbul Cocoșat,PDT,Limba română
+Dealul Malul Cerbului,cerb,2,45.0817575308392,24.2067246334731,Valcea,Deal,354,Dealul Malul Cerbului,Geomil 25000,Limba română
+Malul Cerbului,cerb,2,45.0871721044668,24.20762235572,Valcea,Altele,355,Malul Cerbului,Geomil 25000,Limba română
+Piscul Cerbului,cerb,2,44.7987900837309,23.8777312551859,Valcea,Înălțime,8422,Piscul Cerbului,PDT,Limba română
+Piscul Cerbului,cerb,2,45.4486495975305,24.1494516672318,Valcea,Înălțime,12561,Piscul Cerbului,Geomil 25000,Limba română
+Poiana Cerbului,cerb,2,45.5203793148621,24.4026801501988,Valcea,Poiană,10187,Poiana Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,44.8068269874847,23.9278372841565,Valcea,Vale,9385,Valea Cerbului,PDT,Limba română
+Dealul Căprioarei,căprioară,3,46.8073915870597,27.4339932265015,Vaslui,Deal,1664,Dealul Căprioarei,Geomil 25000,Limba română
+Dealul Căprioarei,căprioară,3,46.2421992192804,27.8510571882357,Vaslui,Deal,7383,Dealul Căprioarei,Geomil 25000,Limba română
+Poiana Căprioarei,căprioară,3,46.5913574558095,27.6474040124276,Vaslui,Poiană,4613,Poiana Căprioarei,Geomil 25000,Limba română
+Căprioarei,căprioară,3,45.5355581908093,27.484657744828,Vrancea,Altele,9605,Căprioarei,Moldova (1892-1898),Limba română
+Cerbu,cerb,2,45.5954988180289,26.7157806695349,Vrancea,Localitate,5243,Cerbu,Geomil 25000,Limba română
+Dealul Cerbului,cerb,2,45.9915272692259,26.6985956747387,Vrancea,Deal,9193,Dealul Cerbului,PDT,Limba română
+La Coarnele Cerbului,cerb,2,45.9029955961852,26.7992370205515,Vrancea,Altele,5354,La Coarnele Cerbului,PDT,Limba română
+Pârâul Cerbului,cerb,2,46.0504180163091,26.9434516113596,Vrancea,Vale,9202,Pârâul Cerbului,PDT,Limba română
+Piscul Cerbului,cerb,2,45.7847983464594,26.8202728392522,Vrancea,Înălțime,777,Piscul Cerbului,Geomil 25000,Limba română,Piscul Cerbului,PDT,Limba română
+Valea Cerbului,cerb,2,45.9232569504519,27.1157292960955,Vrancea,Vale,5342,Valea Cerbului,PDT,Limba română
+Piatra Ciutei,ciută,3,45.9477694244209,26.59599990908,Vrancea,Înălțime,2794,Piatra Ciutei,Geomil 25000,Limba română
+Piscul Ciutei,ciută,3,46.0533807412119,26.804067784099,Vrancea,Înălțime,11306,Piscul Ciutei,Geomil 25000,Limba română

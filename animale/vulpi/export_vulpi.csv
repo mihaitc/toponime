@@ -1,0 +1,80 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Vulpei,vulpi,2,46.2243007577292,24.0509030831343,Alba,Altele,8637,Vulpei,PDT,Limba română
+Piciorul Vulpării,vulpărie,3,46.4578473179567,26.4071044378811,Bacau,Înălțime,6550,Piciorul Vulpării,PDT,Limba română
+Vârful Vulpăriei,vulpărie,3,46.647870504485,26.2083862563289,Bacau,Înălțime,9953,Vârful Vulpăriei,Geomil 25000,Limba română
+Coada Vulpii,vulpi,2,46.5944802273749,26.7122145192419,Bacau,Altele,3834,Coada Vulpii,Geomil 25000,Limba română
+Dealul Vulpea,vulpi,2,46.6062624786527,26.7321280436619,Bacau,Deal,3823,Dealul Vulpea,PDT,Limba română
+Coasta Vulpilor,vulpi,2,46.992195905147,22.4210433218461,Bihor,Înălțime,10276,Coasta Vulpilor,PDT,Limba română
+Gaura Vulpii,vulpi,2,47.1687939610904,21.8497696796257,Bihor,Altele,11864,Gaura Vulpii,PDT,Limba română
+Movila Vulpei,vulpi,2,47.4043241272541,22.2927639256642,Bihor,Înălțime,5947,Movila Vulpei,Geomil 25000,Limba română
+Dealul Vulpăriilor,vulpărie,3,47.9711100231558,27.053437664163,Botosani,Deal,4874,Dealul Vulpăriilor,PDT,Limba română,Dealul Vulpăriei,Geomil 25000,Limba română
+Tarlaua Vulpărie,vulpărie,3,47.5981374467575,27.3272235155256,Botosani,Altele,11553,Tarlaua Vulpărie,ANCPI,Limba română
+Vulpărie,vulpărie,3,47.8852978152362,27.1268698174355,Botosani,Altele,11662,Vulpărie,ANCPI,Limba română
+Dealul Vulpii,vulpi,2,47.6647678228743,26.6480334080678,Botosani,Deal,1828,Dealul Vulpii,Geomil 25000,Limba română
+Dealul Vulpii,vulpi,2,48.0806545058413,26.5253324963688,Botosani,Deal,2322,Dealul Vulpii,Geomil 25000,Limba română
+Râpa Vulpii,vulpi,2,47.7307043569956,26.4581211132207,Botosani,Înălțime,1799,Râpa Vulpii,Geomil 25000,Limba română
+Grindu Vulpei,vulpi,2,45.2427607686107,28.086474976297,Braila,Înălțime,7678,Grindu Vulpei,PDT,Limba română
+Dealul Vulpilor,vulpi,2,46.0209799702712,24.8999574640696,Brasov,Deal,2481,Dealul Vulpilor,Geomil 25000,Limba română
+Găurile Vulpilor,vulpi,2,45.6122685989182,25.4027972735136,Brasov,Altele,2708,Găurile Vulpilor,Geomil 25000,Limba română,Găurile Vulpilor,PDT,Limba română
+La Vulpărie,vulpărie,3,45.4287623388722,26.5578221354158,Buzau,Altele,13341,La Vulpărie,Geomil 25000,Limba română
+Poiana Vulpăriei,vulpărie,3,45.4687945208917,26.9459005617567,Buzau,Poiană,2091,Poiana Vulpăriei,Geomil 25000,Limba română
+La Vulpi,vulpi,2,45.2959042777967,26.684502989119,Buzau,Altele,12270,La Vulpi,Geomil 25000,Limba română
+Japșa Cotu Vulpii,vulpi,2,44.0654610858024,26.4801542164519,Calarasi,Apă-deal-câmpie,12003,Japșa Cotu Vulpii,Geomil 25000,Limba română
+Colțu Vulpilor,vulpi,2,45.0737854415254,21.8159872800538,Caras Severin,Înălțime,10707,Colțu Vulpilor,Geomil 25000,Limba română
+Ogașu Vulpii,vulpi,2,44.8150156935339,21.7579202825517,Caras Severin,Vale,8504,Ogașu Vulpii,Geomil 25000,Limba română
+Pădurea Vulpei,vulpi,2,47.1710329335711,23.7930754029551,Cluj,Pădure,1098,Pădurea Vulpei,Geomil 25000,Limba română
+Valea Vulpii,vulpi,2,46.7336686858866,23.4462855204873,Cluj,Vale,1113,Valea Vulpii,Geomil 25000,Limba română
+Valea Găurile Vulpii,vulpi,2,44.1167566865812,27.4949680292562,Constanta,Vale,12747,Valea Găurile Vulpii,PDT,Limba română
+Valea Vulpii,vulpi,2,44.3202812546637,28.1627451553706,Constanta,Vale,2843,Valea Vulpii,Geomil 25000,Limba română
+Valea Vulpilor,vulpi,2,43.997816211805,27.82316627497,Constanta,Vale,2851,Valea Vulpilor,Geomil 25000,Limba română
+Pădurea Vulpea,vulpi,2,44.6006891543216,25.9403984950936,Dambovita,Pădure,4258,Pădurea Vulpea,PDT,Limba română
+Lacul Vulpi,vulpi,2,44.1561116432054,23.5407924657413,Dolj,Lac,8098,Lacul Vulpi,PDT,Limba română
+Lacul Vulpii,vulpi,2,44.1675657708917,23.7289164579306,Dolj,Lac,3352,Lacul Vulpii,PDT,Limba română
+Măgura cu Vulpi,vulpi,2,44.0814561893596,23.1074176565467,Dolj,Înălțime,3652,Măgura cu Vulpi,PDT,Limba română
+Padina Vulpi,vulpi,2,44.1954254821119,23.3362300484148,Dolj,Altele,6166,Padina Vulpi,Austriacă,Limba română
+Pădurea Vulpii,vulpi,2,43.8713327796985,23.0641620235616,Dolj,Pădure,1310,Pădurea Vulpii,Geomil 25000,Limba română
+Valea Padina Vulpei,vulpi,2,44.2083910786988,23.2689224185872,Dolj,Vale,4641,Valea Padina Vulpei,PDT,Limba română
+Valea Vulpilor,vulpi,2,44.4314130331671,23.8494692612112,Dolj,Vale,398,Valea Vulpilor,Geomil 25000,Limba română
+Valea Vulpoaia,vulpoaie,3,44.5412880907084,23.7590738673294,Dolj,Vale,4730,Valea Vulpoaia,PDT,Limba română
+Dealul Vulpea,vulpi,2,45.6595428280427,27.8461214125646,Galati,Deal,3522,Dealul Vulpea,Geomil 25000,Limba română
+Dealul Vulpii,vulpi,2,45.7120102122469,27.7569809483561,Galati,Deal,1587,Dealul Vulpii,Geomil 25000,Limba română
+Valea Vulpii,vulpi,2,44.8787071906547,22.9555022981329,Gorj,Vale,9772,Valea Vulpii,PDT,Limba română
+La Vulpoi,vulpoi,3,44.909545361747,23.6985859853814,Gorj,Altele,12689,La Vulpoi,PDT,Limba română
+Culmea Vulpii,vulpi,2,46.4801522537171,25.689609870903,Harghita,Înălțime,2757,Culmea Vulpii,Geomil 25000,Limba română
+Dealul Fagul Vulpii,vulpi,2,46.7750797114319,25.3610362324054,Harghita,Deal,10038,Dealul Fagul Vulpii,Geomil 25000,Limba română
+Dealul Gura Vulpii,vulpi,2,46.1552680707085,25.3890501084214,Harghita,Deal,2730,Dealul Gura Vulpii,Geomil 25000,Limba română
+Gaura Vulpii,vulpi,2,46.2229772826565,25.2971634116791,Harghita,Altele,4275,Gaura Vulpii,Geomil 25000,Limba română
+Dealul Vulpii,vulpi,2,45.6338117839379,23.2629130425162,Hunedoara,Deal,12471,Dealul Vulpii,Geomil 25000,Limba română
+La Vulpe,vulpi,2,44.6690700771314,27.4220851479353,Ialomita,Altele,501,La Vulpe,Geomil 25000,Limba română
+La Cabana la Vulpe,vulpi,2,47.2435952327316,27.425548503654,Iasi,Altele,4845,La Cabana la Vulpe,Geomil 25000,Limba română
+Biserica Vulpii,vulpi,2,47.8236154661148,23.8187527586751,Maramures,Altele,7223,Biserica Vulpii,PDT,Limba română
+Piciorul Vulpii,vulpi,2,47.6663032889748,24.9031408677883,Maramures,Înălțime,7237,Piciorul Vulpii,Geomil 25000,Limba română
+Cracu Vulpii,vulpi,2,44.7644607657957,22.2304857001945,Mehedinti,Înălțime,13082,Cracu Vulpii,Geomil 25000,Limba română
+Valea Vulpea,vulpi,2,44.9543577246248,22.7852680283309,Mehedinti,Vale,6154,Valea Vulpea,Geomil 25000,Limba română
+Pârâul Vulpilor,vulpi,2,47.0165801944444,24.9598475051368,Mures,Vale,5405,Pârâul Vulpilor,Geomil 25000,Limba română
+Piciorul Vulpăriei,vulpărie,3,46.9769856682928,26.1244832325507,Neamt,Înălțime,9713,Piciorul Vulpăriei,Moldova (1892-1898),Limba română
+Dealul Vulpii,vulpi,2,46.9341529505187,26.4238151659278,Neamt,Deal,3861,Dealul Vulpii,Geomil 25000,Limba română
+Piciorul cu Vulpi,vulpi,2,47.247922188699,26.014672908353,Neamt,Înălțime,13512,Piciorul cu Vulpi,Geomil 25000,Limba română
+Valea Vulpilor,vulpi,2,47.2642302786485,26.1937101348386,Neamt,Vale,9555,Valea Vulpilor,Moldova (1892-1898),Limba română
+Vulpea,vulpi,2,46.7344113541278,26.2756216171977,Neamt,Vale,13661,Vulpea,Geomil 25000,Limba română
+Colțul Vulpii,vulpi,2,45.3658959426144,25.5305462305983,Prahova,Înălțime,9795,Colțul Vulpii,PDT,Limba română
+La Poiana Vulpei,vulpi,2,45.1496636553197,26.0707588098614,Prahova,Poiană,821,La Poiana Vulpei,Geomil 25000,Limba română
+Movila Vulpii,vulpi,2,45.0030401532009,25.8818260434806,Prahova,Înălțime,7470,Movila Vulpii,Geomil 25000,Limba română
+Valea Vulpii,vulpi,2,45.3833761771789,25.5718612644756,Prahova,Vale,578,Valea Vulpii,Geomil 25000,Limba română
+Vulpea,vulpi,2,45.259131811949,25.8837314192901,Prahova,Localitate,8841,Vulpea,PDT,Limba română
+Dealul Vulpii,vulpi,2,47.3161558961758,22.6714774139107,Salaj,Deal,8184,Dealul Vulpii,PDT,Limba română
+Coasta Vulpii,vulpi,2,45.8428555907242,24.1539018524175,Sibiu,Înălțime,8596,Coasta Vulpii,PDT,Limba română
+Râpele Vulpilor,vulpi,2,45.9854800758899,24.7221809815219,Sibiu,Altele,2657,Râpele Vulpilor,Geomil 25000,Limba română
+Bâtca Vulpăria,vulpărie,3,47.404874292316,25.5645462618677,Suceava,Înălțime,9088,Bâtca Vulpăria,PDT,Limba română
+Pârâul Vulpăriei,vulpărie,3,47.317918375265,25.4859550978073,Suceava,Vale,6384,Pârâul Vulpăriei,PDT,Limba română
+Preluca Vulpăriei,vulpărie,3,47.4451172029086,25.7303639620956,Suceava,Vale,13522,Preluca Vulpăriei,Geomil 25000,Limba română
+Valea Vulpăriei,vulpărie,3,47.4931093603171,26.3025616409489,Suceava,Vale,4927,Valea Vulpăriei,PDT,Limba română
+Poiana Vulpii,vulpi,2,43.6968670568141,25.1059153860401,Teleorman,Poiană,1345,Poiana Vulpii,Geomil 25000,Limba română
+Coada Vulpei,vulpi,2,45.9030364639189,20.532014199442,Timis,Altele,1966,Coada Vulpei,Geomil 25000,Limba română
+Dealu Vulpii,vulpi,2,45.6021393853232,21.8442848000871,Timis,Deal,12051,Dealu Vulpii,Geomil 25000,Limba română
+Gaura Vulpilor,vulpi,2,45.6129722027968,20.8845288257992,Timis,Altele,1973,Gaura Vulpilor,Geomil 25000,Limba română
+Dealul Vulpilor,vulpi,2,45.0507175497782,28.3246045838039,Tulcea,Deal,11593,Dealul Vulpilor,Geomil 25000,Limba română
+Dealul Vulpoiu,vulpoi,3,45.2083270728301,24.4898303184723,Valcea,Deal,6910,Dealul Vulpoiu,Geomil 25000,Limba română,Dealul Vulpoiu,PDT,Limba română
+La Vulpărie,vulpărie,3,46.2219792346202,27.4872575109493,Vaslui,Altele,1711,La Vulpărie,Geomil 25000,Limba română
+Dealul Vulpii,vulpi,2,46.6546196144254,28.0761961165332,Vaslui,Deal,1692,Dealul Vulpii,Geomil 25000,Limba română
+La Vulpărie,vulpărie,3,46.1093960777442,27.273690253779,Vrancea,Altele,3932,La Vulpărie,PDT,Limba română

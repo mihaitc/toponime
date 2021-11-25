@@ -1,0 +1,543 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Coliba Ursului,urs,2,46.2308942565843,22.9921554390282,Alba,Înălțime,5585,Coliba Ursului,Geomil 25000,Limba română
+Creasta Ursului,urs,2,45.7150822408182,23.5211517780177,Alba,Înălțime,1133,Creasta Ursului,Geomil 25000,Limba română
+Dealu Ursului,urs,2,46.3509984479941,23.53713433045,Alba,Deal,1926,Dealu Ursului,Geomil 25000,Limba română
+Gaura Ursului,urs,2,45.8295735850649,23.4297152134529,Alba,Altele,11922,Gaura Ursului,Transilvania (1769-1773),Limba română
+Greu Ursului,urs,2,46.3852922534869,23.3279297130519,Alba,Înălțime,10508,Greu Ursului,Transilvania (1869-1870),Limba română
+Pârâu Ursu,urs,2,46.4680985340247,23.3307858104853,Alba,Vale,11530,Pârâu Ursu,Geomil 25000,Limba română
+Părâul Ursului,urs,2,45.8332676841848,23.474492268667,Alba,Vale,11923,Părâul Ursului,PDT,Limba română
+Pârâul Ursului,urs,2,46.2027376302152,23.3405434732516,Alba,Vale,13472,Pârâul Ursului,PDT,Limba română
+Poiana Ursului,urs,2,46.074940629312,23.4322346364673,Alba,Localitate,2575,Poiana Ursului,Geomil 25000,Limba română
+Ursu,urs,2,46.3059288926743,24.06324520103,Alba,Localitate,6755,Ursu,Geomil 25000,Limba română
+Vale Ursi,urs,2,45.8665146931962,23.6183604409656,Alba,Vale,13243,Vale Ursi,Transilvania (1769-1773),Limba română
+Valea Ursului,urs,2,46.0861510376355,23.3563853322509,Alba,Vale,2571,Valea Ursului,Geomil 25000,Limba română
+Poiana Ursoii,ursoaie,3,46.5339244659025,22.8178043942069,Alba,Poiană,5908,Poiana Ursoii,Geomil 25000,Limba română
+Valea Ursoaiei,ursoaie,3,46.2450292436043,23.2991633041724,Alba,Vale,12507,Valea Ursoaiei,Geomil 25000,Limba română
+Ursoiu,ursoi,3,46.042865058837,23.2373025378437,Alba,Altele,2566,Ursoiu,Geomil 25000,Limba română
+Cioaca Medvediac,medved,3,46.1395606594643,21.9029583855174,Arad,Înălțime,9413,Cioaca Medvediac,Geomil 25000,Limba română
+Dealul Medvediac,medved,3,46.1400199464179,21.7337848614143,Arad,Deal,9416,Dealul Medvediac,PDT,Limba română
+Cioaca Ursului,urs,2,46.1906903931802,21.7028504227084,Arad,Înălțime,1951,Cioaca Ursului,Geomil 25000,Limba română
+Dealu Grunoiu Ursului,urs,2,46.1092278833355,22.2070525129938,Arad,Deal,10216,Dealu Grunoiu Ursului,Geomil 25000,Limba română
+Dialu Ursului,urs,2,46.0395195989729,21.8139532172421,Arad,Deal,13493,Dialu Ursului,Ungară 1869,Limba română
+La Butura Ursului,urs,2,46.3321398034995,22.4041431245302,Arad,Înălțime,5606,La Butura Ursului,Geomil 25000,Limba română
+Măgura Piatra Ursului,urs,2,46.4372916272973,22.3203076683511,Arad,Înălțime,1940,Măgura Piatra Ursului,Geomil 25000,Limba română,Măgura la Piatra Ursului,PDT,Limba română
+Pârâul Ursului,urs,2,46.0635304050748,22.2149045520008,Arad,Vale,13498,Pârâul Ursului,PDT,Limba română
+Peștera Ursului,urs,2,46.4672118205781,22.259486492847,Arad,Altele,13924,Peștera Ursului,Geomil 25000,Limba română
+Prundu Ursu,urs,2,46.1111399715759,21.5755885347071,Arad,Apă-deal-câmpie,1953,Prundu Ursu,Geomil 25000,Limba română
+Tăul Ursului,urs,2,46.4439836825758,22.25876134311,Arad,Altele,4203,Tăul Ursului,PDT,Limba română
+Valea Ursului,urs,2,46.1313976501482,22.3680346300098,Arad,Vale,6228,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.29950102092,22.4782628763359,Arad,Vale,6276,Valea Ursului,Geomil 25000,Limba română
+Vârfu Ursului,urs,2,46.2114427901178,22.3463436214387,Arad,Înălțime,6282,Vârfu Ursului,Geomil 25000,Limba română
+Vârful Ursului,urs,2,45.9459755586054,21.7965534963605,Arad,Înălțime,10210,Vârful Ursului,Geomil 25000,Limba română
+Vârful Ursului,urs,2,46.2624102273315,22.5000844607468,Arad,Înălțime,10598,Vârful Ursului,Imperiul Habsburgic (1887),Limba română
+Cioka Ursoiui,ursoi,3,46.1196931224957,22.1561905724234,Arad,Înălțime,10874,Cioka Ursoiui,Ungară 1869,Limba română
+Dealu Ursoiului,ursoi,3,46.497454235958,22.1432086574011,Arad,Deal,977,Dealu Ursoiului,Geomil 25000,Limba română,Dealul Ursoiului,PDT,Limba română
+Culmea Ursului,urs,2,45.3719209931451,25.0429317526597,Arges,Înălțime,12913,Culmea Ursului,Geomil 25000,Limba română
+Dealu Cotu Ursului,urs,2,44.9653314228932,24.6474467868211,Arges,Deal,89,Dealu Cotu Ursului,Geomil 25000,Limba română,Dealu Cotul Ursului,PDT,Limba română,ур. Дялул-Котул-Урсулуй (Dealul Cotu Ursului),Sovietică,Limba română
+Dealu Ursului,urs,2,44.8067558312565,24.5895163433737,Arges,Deal,4771,Dealu Ursului,Geomil 25000,Limba română
+Dealul Ursu,urs,2,45.1262179469394,24.7706441152433,Arges,Deal,6899,Dealul Ursu,Geomil 25000,Limba română
+Dealul Ursului,urs,2,45.1287722537697,24.9017228026612,Arges,Deal,6881,Dealul Ursului,Geomil 25000,Limba română
+Jugul Ursului,urs,2,45.4783113419109,24.8127258824139,Arges,Înălțime,5015,Jugul Ursului,Geomil 25000,Limba română
+Lipitoarea Ursului,urs,2,45.5574556529383,24.6103199995569,Arges,Vale,2720,Lipitoarea Ursului,Geomil 25000,Limba română
+Pârâul Valea Ursului,urs,2,45.1739586870422,25.2183045033378,Arges,Vale,12960,Pârâul Valea Ursului,Geomil 25000,Limba română
+Piscul Ursului,urs,2,44.8863210161295,25.1572153188,Arges,Înălțime,1508,Piscul Ursului,Geomil 25000,Limba română,Piscul Ursului,PDT,Limba română
+Piscul Ursului,urs,2,45.5266546367167,24.8674858633085,Arges,Înălțime,5008,Piscul Ursului,Geomil 25000,Limba română
+Plaiul Ursului,urs,2,45.2454757843666,24.757758774074,Arges,Înălțime,4058,Plaiul Ursului,PDT,Limba română
+Poiana Ursului,urs,2,44.5550037156137,25.2440621000454,Arges,Poiană,3716,Poiana Ursului,PDT,Limba română
+Vaela Ursului,urs,2,45.260793477099,24.6811261371378,Arges,Vale,4046,Vaela Ursului,PDT,Limba română
+Valea Ursu,urs,2,44.7402632235276,24.7874978752696,Arges,Vale,14183,Valea Ursu,PDT,Limba română
+Valea Ursului,urs,2,44.7837136758484,24.8072830472552,Arges,Vale,1408,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.90194051154,25.1500063971624,Arges,Vale,1507,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.813240698743,25.1304023758085,Arges,Vale,1519,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.8207071860462,25.1189526468318,Arges,Vale,1520,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.8237182487487,25.1339385104244,Arges,Vale,1521,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.8893385578715,24.7695729210001,Arges,Vale,3068,Valea Ursului,Geomil 25000,Limba română,Valea Ursului,Austriacă,Limba română
+Valea Ursului,urs,2,45.4205503521329,24.9234009243863,Arges,Vale,5005,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.535482583887,24.7420451875454,Arges,Vale,5014,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.4689994551,25.2000308657,Arges,Vale,5037,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.1450142468787,24.7958133337869,Arges,Vale,6901,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.9552780726344,25.0680114194941,Arges,Vale,8351,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,45.2583729909664,24.8589404443439,Arges,Vale,11117,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,45.3882983098765,24.5117706140051,Arges,Vale,11201,Valea Ursului,Geomil 25000,Limba română
+Valea Urseanca,urseanca,3,44.9172676692298,24.7601063007631,Arges,Vale,9699,Valea Urseanca,PDT,Limba română
+Peștera Urșilor,urși,3,45.420339732818,25.191876132252,Arges,Altele,5031,Peștera Urșilor,Geomil 25000,Limba română
+Dealul Ursoaiei,ursoaie,3,45.0897700594686,25.0656335448313,Arges,Deal,553,Dealul Ursoaiei,Geomil 25000,Limba română
+Pădurea Ursoaia,ursoaie,3,44.9027220952629,24.5014349768683,Arges,Pădure,1998,Pădurea Ursoaia,Geomil 25000,Limba română
+Pârâu Ursoaia,ursoaie,3,44.5651877549744,24.8069101345696,Arges,Vale,3393,Pârâu Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.9943315858922,24.6588573335237,Arges,Vale,1413,Valea Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.7580420367385,24.7761607002792,Arges,Vale,4781,Valea Ursoaia,PDT,Limba română
+Pârâul Ursoiu,ursoi,3,45.3430470120867,24.5176664795309,Arges,Vale,12584,Pârâul Ursoiu,British Maps (1944),Limba română
+Dealul Ursului,urs,2,46.5762648976886,26.8488709661264,Bacau,Deal,3819,Dealul Ursului,PDT,Limba română
+Dealul Ursului,urs,2,46.2983059921819,26.8002544065738,Bacau,Deal,9175,Dealul Ursului,PDT,Limba română,Dealul Ursului,Geomil 25000,Limba română
+Padina Ursului,urs,2,46.5724740710182,26.2983309137951,Bacau,,7881,Padina Ursului,Geomil 25000,Limba română,Poiana Padina Ursului,Moldova (1892-1898),Limba română
+Pârâul Ursului,urs,2,46.5303734120995,26.1778247173362,Bacau,Vale,6538,Pârâul Ursului,PDT,Limba română
+Plaiul Ursului,urs,2,46.1110048207669,26.7425280225213,Bacau,Înălțime,5295,Plaiul Ursului,Geomil 25000,Limba română
+Poiana Gaură de Urs,urs,2,46.5166832595767,26.0985637472609,Bacau,Poiană,10795,Poiana Gaură de Urs,Moldova (1892-1898),Limba română
+Ursul,urs,2,46.5961303537117,26.4002338885198,Bacau,Vale,9952,Ursul,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.1526629322619,27.043286221406,Bacau,Vale,1733,Valea Ursului,Geomil 25000,Limba română,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,46.6177333715972,26.6548171379816,Bacau,Vale,3830,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.4353740767757,27.3181381014106,Bacau,Vale,9633,Valea Ursului,Geomil 25000,Limba română,Valea Ursului,Moldova (1892-1898),Limba română
+Valea Ursului,urs,2,46.5085782258324,27.1375706432998,Bacau,Vale,14077,Valea Ursului,Geomil 25000,Limba română
+La Ursărie,ursărie,3,46.2592885783795,26.4374479936105,Bacau,Altele,5320,La Ursărie,PDT,Limba română
+Dealul Ursoaia,ursoaie,3,46.2873903338692,27.3127577690441,Bacau,Deal,11301,Dealul Ursoaia,Geomil 25000,Limba română
+Dealul Ursoiii,ursoaie,3,46.3528603235653,26.5880158247633,Bacau,Deal,4586,Dealul Ursoiii,Geomil 25000,Limba română
+Pădurea Ursoii,ursoaie,3,46.6913334189048,26.9817150666779,Bacau,Pădure,1608,Pădurea Ursoii,Geomil 25000,Limba română,Pădurea Ursoaia,PDT,Limba română
+Pârâul Ursoaia,ursoaie,3,46.531876341246,26.2156572449503,Bacau,Vale,6540,Pârâul Ursoaia,PDT,Limba română
+Valea Ursoii,ursoaie,3,46.2812128930428,26.9292688947042,Bacau,Vale,7837,Valea Ursoii,Geomil 25000,Limba română
+Dealul Ursoiului,ursoi,3,46.474771055125,26.7293015781533,Bacau,Deal,3838,Dealul Ursoiului,Geomil 25000,Limba română
+Pădurea Ursoiului,ursoi,3,46.2839902445625,27.2016579006739,Bacau,Pădure,3920,Pădurea Ursoiului,Geomil 25000,Limba română
+Pădurea Ursoiului,ursoi,3,46.4263533205589,27.3653930853784,Bacau,Pădure,9634,Pădurea Ursoiului,Geomil 25000,Limba română
+Plaiul Ursoiului,ursoi,3,46.1423763077568,26.7501496874588,Bacau,Înălțime,13597,Plaiul Ursoiului,PDT,Limba română
+Ursoilor,ursoi,3,46.5327630230756,26.6859093570466,Bacau,Vale,12030,Ursoilor,Moldova (1788-1790),Limba română
+Dealul Ursului,urs,2,46.4457125680489,22.3863640914011,Bihor,Deal,997,Dealul Ursului,Geomil 25000,Limba română,Chicera Ursului,PDT,Limba română
+Gruiu Ursului,urs,2,46.7252945062419,22.6291481565775,Bihor,Înălțime,7009,Gruiu Ursului,Geomil 25000,Limba română
+La Fântâna Ursului,urs,2,47.195386853202,22.102473367998,Bihor,Altele,11507,La Fântâna Ursului,Geomil 25000,Limba română
+Pârâu Ursului,urs,2,46.5295637581315,22.2106648341181,Bihor,Vale,990,Pârâu Ursului,Geomil 25000,Limba română
+Pârâu Ursului,urs,2,46.5519930783872,22.2210865809278,Bihor,Vale,13928,Pârâu Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.5658885538917,22.7193788599015,Bihor,Vale,5617,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.5345450314812,22.1899420931552,Bihor,Vale,12047,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,46.7549160729768,22.3351564516585,Bihor,Vale,14217,Valea Ursului,PDT,Limba română
+Dealul Ursei,ursă,3,47.1909399306259,22.3026416945623,Bihor,Deal,4194,Dealul Ursei,PDT,Limba română
+Ursoaia,ursoaie,3,47.3541211907615,22.5131306792232,Bihor,Înălțime,6948,Ursoaia,Geomil 25000,Limba română
+Valea Ursoaiei,ursoaie,3,46.5451170243601,22.3996675122379,Bihor,Vale,991,Valea Ursoaiei,Geomil 25000,Limba română
+Pădurea Ursoi,ursoi,3,47.4941389086455,23.1625695472668,Bihor,Pădure,10826,Pădurea Ursoi,Geomil 25000,Limba română,Pădurea Ursoi,Imperiul Habsburgic (1887),Limba română
+Ursoiu,ursoi,3,47.210719867582,22.3915859514666,Bihor,Altele,4192,Ursoiu,PDT,Limba română
+Dealul Ursului,urs,2,47.3432776145886,24.2521693524347,Bistrita Nasaud,Deal,1017,Dealul Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,47.2145332933901,24.3434976290279,Bistrita Nasaud,Deal,4503,Dealul Ursului,Geomil 25000,Limba română,Dealul Ursului,PDT,Limba română
+Dealul Ursului,urs,2,46.9645171759112,24.6153104131174,Bistrita Nasaud,Deal,5452,Dealul Ursului,PDT,Limba română
+Dealul Ursului,urs,2,47.3569193186206,24.7046941310982,Bistrita Nasaud,Deal,6361,Dealul Ursului,Geomil 25000,Limba română,Dealul Ursului,PDT,Limba română
+Dealul Ursului,urs,2,47.2290734143648,24.0026332421896,Bistrita Nasaud,Deal,7099,Dealul Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,47.0017999739415,24.5590303717083,Bistrita Nasaud,Deal,10493,Dealul Ursului,PDT,Limba română
+Dealul Ursului,urs,2,47.0806670302928,24.6291596001203,Bistrita Nasaud,Deal,11608,Dealul Ursului,Geomil 25000,Limba română
+Gura Ursului,urs,2,47.4081465467173,24.3626051861215,Bistrita Nasaud,Altele,1023,Gura Ursului,Geomil 25000,Limba română
+La Dâmbul Ursului,urs,2,47.0508519650787,24.3185319902837,Bistrita Nasaud,Înălțime,5489,La Dâmbul Ursului,Geomil 25000,Limba română
+Muntele Ursului,urs,2,47.1349507766815,24.8985340745328,Bistrita Nasaud,Înălțime,5434,Muntele Ursului,Geomil 25000,Limba română,Piciorul Ursului,PDT,Limba română
+Muntele Ursului,urs,2,47.3864085910965,25.00855525167,Bistrita Nasaud,Înălțime,9912,Muntele Ursului,Geomil 25000,Limba română
+Piatra Ursului,urs,2,47.5147441752596,24.6704136946323,Bistrita Nasaud,Înălțime,10780,Piatra Ursului,Imperiul Habsburgic (1887),Limba română
+Priporul Ursului,urs,2,47.1571499232943,24.9739592470703,Bistrita Nasaud,Înălțime,10025,Priporul Ursului,PDT,Limba română
+Ursul,urs,2,47.2617625888072,24.838886582038,Bistrita Nasaud,Altele,9886,Ursul,Geomil 25000,Limba română
+Valea Izvorul Ursului,urs,2,47.4422390416567,24.6078794953042,Bistrita Nasaud,Vale,4522,Valea Izvorul Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,47.0890491277439,24.1741025202829,Bistrita Nasaud,Vale,4394,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,47.3205896228401,24.3172004316707,Bistrita Nasaud,Vale,7087,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,47.2609603059014,24.4251903361861,Bistrita Nasaud,Vale,7124,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,47.2856385036813,24.5238066010241,Bistrita Nasaud,Vale,9871,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,47.0749390086254,24.2645428799986,Bistrita Nasaud,Vale,10492,Valea Ursului,Transilvania (1869-1870),Limba română
+Valea Ursului,urs,2,47.3065315224798,24.7148766636126,Bistrita Nasaud,Vale,13390,Valea Ursului,Imperiul Habsburgic (1887),Limba română,Valea Ursului,Geomil 25000,Limba română
+Vârful Ursului,urs,2,47.3420985157674,24.2138389748859,Bistrita Nasaud,Înălțime,1015,Vârful Ursului,Geomil 25000,Limba română,Vârful Ursului,PDT,Limba română
+Vârful Ursului,urs,2,47.327980964243,24.2040675824352,Bistrita Nasaud,Înălțime,7108,Vârful Ursului,PDT,Limba română
+Valea Ursoii,ursoaie,3,47.3837626208722,24.9732960907428,Bistrita Nasaud,Vale,9914,Valea Ursoii,Geomil 25000,Limba română
+Vârful Ursoiului,ursoi,3,47.3236746313857,24.6413073090428,Bistrita Nasaud,Înălțime,9866,Vârful Ursoiului,Geomil 25000,Limba română
+Cotul Ursului,urs,2,47.7456622591688,26.4042402191274,Botosani,Apă-deal-câmpie,1800,Cotul Ursului,Geomil 25000,Limba română
+Fântâna Ursului,urs,2,47.6135983398288,26.5817541886961,Botosani,Altele,7775,Fântâna Ursului,PDT,Limba română,Fântâna Ursului,Geomil 25000,Limba română
+Dealul Cărarea Urșilor,urși,3,47.7305078927453,26.50910023516,Botosani,Altele,1832,Dealul Cărarea Urșilor,Geomil 25000,Limba română
+Ursoaia,ursoaie,3,48.170993099479,26.4565010483422,Botosani,Vale,13585,Ursoaia,Geomil 25000,Limba română
+Ursoaia,ursoaie,3,47.6508797070929,26.7313499384642,Botosani,Altele,14069,Ursoaia,Geomil 25000,Limba română
+Valea Ursoii,ursoaie,3,48.2352614620009,26.6264987744387,Botosani,Vale,2007,Valea Ursoii,Geomil 25000,Limba română
+Valea Ursoii,ursoaie,3,48.1889817902729,26.5180620619232,Botosani,Vale,2009,Valea Ursoii,Geomil 25000,Limba română
+Valea Ursoii,ursoaie,3,47.8471965343667,26.7144838396777,Botosani,Vale,2412,Valea Ursoii,Geomil 25000,Limba română
+Valea Ursoii,ursoaie,3,47.6585265098402,26.91704660723,Botosani,Vale,11661,Valea Ursoii,Geomil 25000,Limba română
+Valea Ursoiului,ursoi,3,48.1800047447853,26.4718425783454,Botosani,Vale,4887,Valea Ursoiului,PDT,Limba română
+Ursulică,ursulică,3,47.9685478258176,26.1912959634454,Botosani,Altele,14090,Ursulică,Geomil 25000,Limba română
+La Podul Ursului,urs,2,45.6068161090329,25.4239855605615,Brasov,Altele,8569,La Podul Ursului,PDT,Limba română
+Muchia Ursului,urs,2,45.5581947107696,25.1618931238331,Brasov,Înălțime,5038,Muchia Ursului,Geomil 25000,Limba română
+Pădurea Ursului,urs,2,45.6779646051509,25.1494810366005,Brasov,Pădure,2492,Pădurea Ursului,Geomil 25000,Limba română
+Pădurea Ursului,urs,2,45.8121984757094,24.6673585446684,Brasov,Pădure,2677,Pădurea Ursului,Geomil 25000,Limba română
+Pădurea Ursului,urs,2,45.9313970864554,24.8509668594347,Brasov,Pădure,4946,Pădurea Ursului,Geomil 25000,Limba română
+Pârâul Ursului,urs,2,45.9113432382625,25.3228495745337,Brasov,Vale,6805,Pârâul Ursului,PDT,Limba română
+Piatra Ursului,urs,2,45.6952789391871,25.903422856165,Brasov,Înălțime,10878,Piatra Ursului,Imperiul Habsburgic (1887),Limba română
+Piciorul Ursului,urs,2,45.4682707893649,25.5714694625436,Brasov,Înălțime,1550,Piciorul Ursului,Geomil 25000,Limba română
+Poiana Gaura Ursului,urs,2,45.6875717349884,25.4026667554767,Brasov,Poiană,2705,Poiana Gaura Ursului,Geomil 25000,Limba română
+Ursul,urs,2,45.6755868472438,24.9265103278484,Brasov,Vale,11883,Ursul,Geomil 25000,Limba română
+Valea Ursuiului,urs,2,45.5888038307319,25.7207255795254,Brasov,Vale,2776,Valea Ursuiului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.5103423543404,25.328330549549,Brasov,Vale,597,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.8826746379108,25.327740741295,Brasov,Vale,2699,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.7965107119225,25.4440262252521,Brasov,Vale,2703,Valea Ursului,Geomil 25000,Limba română,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,45.5651987399425,25.6528498324777,Brasov,Vale,8576,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,45.5379077586104,24.9678164577733,Brasov,Vale,8581,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.6278066601599,25.1417017306141,Brasov,Vale,10530,Valea Ursului,Imperiul Habsburgic (1887),Limba română
+Valea Ursului,urs,2,45.8540997039549,24.850222738067,Brasov,Vale,12283,Valea Ursului,Geomil 25000,Limba română
+Vârful Ursului,urs,2,45.4282933273405,25.3056567577225,Brasov,Înălțime,5034,Vârful Ursului,Geomil 25000,Limba română
+Ursoaia,ursoaie,3,45.7691849244462,25.3432404648297,Brasov,Altele,6815,Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,45.7184205088898,25.2936997468326,Brasov,Vale,6826,Valea Ursoaia,PDT,Limba română,Ursoaia,Geomil 25000,Limba română
+Pădurea Crângul Ursului,urs,2,45.4143753856532,27.1332373732815,Buzau,Pădure,756,Pădurea Crângul Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.4715061520486,26.6670555613203,Buzau,Vale,5230,Valea Ursului,Geomil 25000,Limba română
+Pădurea Ursoaia,ursoaie,3,45.2709785900895,26.4630027711645,Buzau,Pădure,4004,Pădurea Ursoaia,Geomil 25000,Limba română
+Pârâul Ursoaia,ursoaie,3,45.3719454203585,26.3437555521886,Buzau,Vale,9651,Pârâul Ursoaia,Geomil 25000,Limba română
+Ursoaia Mică,ursoaie,3,45.4232736820485,26.6451155887164,Buzau,Înălțime,5228,Ursoaia Mică,Geomil 25000,Limba română
+Medvedu,medved,3,44.9957619134725,22.5248281173171,Caras Severin,Altele,8679,Medvedu,PDT,Limba română
+Cioaca Ursului,urs,2,44.7775610807196,22.1291724958481,Caras Severin,Altele,3323,Cioaca Ursului,Geomil 25000,Limba română,Cioaca Ursului,PDT,Limba română
+Cracul Ursului,urs,2,44.8625522434496,21.6937826911347,Caras Severin,Înălțime,8535,Cracul Ursului,PDT,Limba română,Cracu Ursului,Geomil 25000,Limba română
+Cracul Ursului,urs,2,45.187688423066,22.4647314632083,Caras Severin,Înălțime,8670,Cracul Ursului,PDT,Limba română
+Culmea Ursului,urs,2,45.360936834815,22.4124437385637,Caras Severin,Înălțime,10324,Culmea Ursului,PDT,Limba română
+Dealul Ursului,urs,2,44.9023757292562,21.6856171582243,Caras Severin,Deal,8518,Dealul Ursului,PDT,Limba română,Dealul Ursului,Geomil 25000,Limba română
+Grămada Ursului,urs,2,45.2089168201194,22.0576858904848,Caras Severin,Înălțime,10709,Grămada Ursului,Imperiul Habsburgic (1887),Limba română
+Kr. Ursului,urs,2,44.9877335005053,22.1958981609703,Caras Severin,Înălțime,13439,Kr. Ursului,Ungară 1869,Limba română
+Ogașu Ursului,urs,2,44.6196049787783,22.0982059708508,Caras Severin,Vale,839,Ogașu Ursului,Geomil 25000,Limba română
+Ogașu Ursului,urs,2,45.1743826982308,22.4819544708814,Caras Severin,Înălțime,1215,Ogașu Ursului,Geomil 25000,Limba română
+Ogașu Ursului,urs,2,45.2851669845439,21.7745143341037,Caras Severin,Înălțime,4322,Ogașu Ursului,Geomil 25000,Limba română
+Ogașul Ursului,urs,2,44.9519170410305,21.8781972560921,Caras Severin,Vale,13490,Ogașul Ursului,PDT,Limba română
+Pârâu Ursu,urs,2,44.9169313478056,22.4297815377702,Caras Severin,Vale,12647,Pârâu Ursu,Geomil 25000,Limba română
+Poiana Ursului,urs,2,45.1083704810512,22.3651804261433,Caras Severin,Poiană,6137,Poiana Ursului,Geomil 25000,Limba română
+Tâlva Ursului,urs,2,45.2744921311521,22.2509381046841,Caras Severin,Vale,6122,Tâlva Ursului,Geomil 25000,Limba română,Tîlva Ursului,Ungară 1869,Limba română
+Valea Ursului,urs,2,45.127611343771,21.5465966417046,Caras Severin,Vale,5703,Valea Ursului,Geomil 25000,Limba română
+Vârful Ursului,urs,2,44.7309801410233,21.994132247123,Caras Severin,Înălțime,8498,Vârful Ursului,PDT,Limba română,Vârful Ursului,Geomil 25000,Limba română
+Culmea Urșilor,urși,3,45.0859099594455,21.8775535974368,Caras Severin,Înălțime,10253,Culmea Urșilor,Geomil 25000,Limba română
+Ogașu Urșilor,urși,3,44.9088914578858,21.9400964740946,Caras Severin,Altele,3314,Ogașu Urșilor,Geomil 25000,Limba română
+Poiana Ursoaia,ursoaie,3,44.9762850722824,21.8266098443306,Caras Severin,Poiană,12748,Poiana Ursoaia,PDT,Limba română
+Coasta Ursului,urs,2,46.848734377387,23.1456167638599,Cluj,Înălțime,7020,Coasta Ursului,Geomil 25000,Limba română
+D. Ursului,urs,2,46.5336712385617,23.5967921308754,Cluj,Deal,13710,D. Ursului,Transilvania (1869-1870),Limba română
+Dealu Ursului,urs,2,46.4138027538209,22.4403730905748,Cluj,Deal,998,Dealu Ursului,Geomil 25000,Limba română,Cicera Ursului,Ungară 1869,Limba română
+Dealu Ursului,urs,2,46.7881853497265,23.1853376811517,Cluj,Deal,7033,Dealu Ursului,Geomil 25000,Limba română
+Dealu Ursului,urs,2,46.8164444726089,23.2716908911806,Cluj,Deal,14222,Dealu Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,46.5462903529411,23.4307412025868,Cluj,Deal,10438,Dealul Ursului,Transilvania (1869-1870),Limba română
+Dealul Ursului,urs,2,46.707393392545,23.6057143491164,Cluj,Deal,10539,Dealul Ursului,Imperiul Habsburgic (1887),Limba română
+Gaura Ursului,urs,2,47.0066498084693,23.5295805518382,Cluj,Înălțime,10396,Gaura Ursului,PDT,Limba română
+Groapa Ursului,urs,2,46.8098855228368,24.0493459133325,Cluj,Altele,8974,Groapa Ursului,PDT,Limba română
+Grui ursului,urs,2,46.6526473243017,22.871443077417,Cluj,Înălțime,13719,Grui ursului,Transilvania (1869-1870),Limba română
+La Urs,urs,2,46.6479091049271,24.023230187669,Cluj,Altele,5497,La Urs,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.6004064091717,23.2232581856054,Cluj,Vale,5893,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.5437859854178,23.0965452447867,Cluj,Vale,5904,Valea Ursului,Geomil 25000,Limba română
+Vârful Groapa Ursului,urs,2,46.7726254949589,24.0189198400271,Cluj,Înălțime,5870,Vârful Groapa Ursului,Geomil 25000,Limba română
+Coasta Urșilor,urși,3,46.7106804530042,23.4919256617657,Cluj,Înălțime,1111,Coasta Urșilor,Geomil 25000,Limba română
+Dâmbu Urșilor,urși,3,46.7052214641823,23.0077025157832,Cluj,Înălțime,13065,Dâmbu Urșilor,Geomil 25000,Limba română
+Dealu Ursoaia,ursoaie,3,46.6736083175621,23.3768702197576,Cluj,Deal,10816,Dealu Ursoaia,Geomil 25000,Limba română
+La Gura Ursoii,ursoaie,3,46.6405771941408,23.4055194322269,Cluj,Altele,5888,La Gura Ursoii,Geomil 25000,Limba română
+Dealul Ursoiu,ursoi,3,46.9035274685776,22.8711153847848,Cluj,Deal,7023,Dealul Ursoiu,Geomil 25000,Limba română
+Capul Ursului,urs,2,45.7570650276348,26.2567118279154,Covasna,Înălțime,2792,Capul Ursului,Geomil 25000,Limba română
+Culmea Ursulu,urs,2,46.1944518733286,26.3098135956852,Covasna,Înălțime,12393,Culmea Ursulu,Geomil 25000,Limba română
+Dealul Gura Ursului,urs,2,45.9897315748099,25.6637659721294,Covasna,Deal,11459,Dealul Gura Ursului,ANCPI,Limba română
+Dealul Ursului,urs,2,45.6394172112281,26.1192833699135,Covasna,Deal,791,Dealul Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,45.9341479174985,25.9051197817355,Covasna,Deal,2747,Dealul Ursului,Geomil 25000,Limba română
+Dealul Vizuina Ursului,urs,2,45.9859720572501,25.9511502115105,Covasna,Deal,4384,Dealul Vizuina Ursului,PDT,Limba română
+Pârâul Poarta Ursului,urs,2,46.0429786047534,25.9866999734178,Covasna,Vale,12391,Pârâul Poarta Ursului,PDT,Limba română
+Piscul Ursului,urs,2,45.7541348861496,26.3388903614808,Covasna,Înălțime,2114,Piscul Ursului,Geomil 25000,Limba română
+Poiana de la Vârful Ursului,urs,2,46.0338882522542,25.8852322682481,Covasna,Poiană,2748,Poiana de la Vârful Ursului,Geomil 25000,Limba română
+Valea Culcușului de Urs,urs,2,45.7697253370347,25.9633311437085,Covasna,Vale,2765,Valea Culcușului de Urs,Geomil 25000,Limba română
+Dealu Patu Ursului,urs,2,44.9719072380166,25.3496023947498,Dambovita,Deal,1531,Dealu Patu Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,44.8503336146493,25.2145003140407,Dambovita,Deal,10156,Dealul Ursului,PDT,Limba română
+Piscul Ursului,urs,2,45.0739929052295,25.1647172491209,Dambovita,Înălțime,8447,Piscul Ursului,PDT,Limba română
+V. Gruiu Ursului,urs,2,45.275626568396,25.2837539394347,Dambovita,Înălțime,6004,V. Gruiu Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.9867389695714,25.2079527966456,Dambovita,Vale,532,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.0777904689686,25.6461226853801,Dambovita,Vale,1503,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.0962367629621,25.3262178882635,Dambovita,Vale,5994,Valea Ursului,Geomil 25000,Limba română,Valea Urșilor,Austriacă,Limba română,Valea Urșilor,PDT,Limba română
+Valea Ursului,urs,2,45.0578056040232,25.3553092404956,Dambovita,Vale,8372,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,45.02909488721,25.3782321935372,Dambovita,Vale,8379,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,44.9236002001508,25.2185745098104,Dambovita,Vale,10169,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,44.9948204378315,25.269218488945,Dambovita,Vale,11067,Valea Ursului,PDT,Limba română
+La Urșii de Pod,urși,3,44.8349686909362,25.6139514523692,Dambovita,Altele,11147,La Urșii de Pod,PDT,Limba română
+Pârâu Ursoaia,ursoaie,3,44.7537031257209,25.4590723575589,Dambovita,Vale,1524,Pârâu Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.7906093154454,25.4302184563046,Dambovita,Vale,8316,Valea Ursoaia,PDT,Limba română,Valea Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,45.0520104203117,25.2085774978547,Dambovita,Vale,8366,Valea Ursoaia,PDT,Limba română
+Valea Ursoaia,ursoaie,3,44.8483586080398,25.3308256054087,Dambovita,Vale,12020,Valea Ursoaia,PDT,Limba română
+Valea Ursoaia,ursoaie,3,44.9427758056673,25.5448906312282,Dambovita,Vale,12400,Valea Ursoaia,PDT,Limba română
+Valea Ursoaia,ursoaie,3,45.0340135209119,25.6503500607421,Dambovita,Vale,14264,Valea Ursoaia,PDT,Limba română
+Valea Ursoia,ursoaie,3,44.9848914019915,25.4801185579827,Dambovita,Vale,10074,Valea Ursoia,Austriacă,Limba română
+Poiana Ursului,urs,2,44.2442288830073,23.6540462468206,Dolj,Poiană,9764,Poiana Ursului,PDT,Limba română
+Valea Crângul Ursului,urs,2,44.074130059623,23.7075554039537,Dolj,Vale,8100,Valea Crângul Ursului,PDT,Limba română
+Valea Ursului,urs,2,44.5021166930046,23.6625201778635,Dolj,Vale,4693,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,44.34154419753,23.494710574657,Dolj,Vale,5180,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.4210586180151,23.3504408571995,Dolj,Vale,11369,Valea Ursului,Geomil 25000,Limba română
+Dealul Ursoaiei,ursoaie,3,44.6492714877057,23.7595544451666,Dolj,Deal,8289,Dealul Ursoaiei,PDT,Limba română
+Piscul Ursoaia,ursoaie,3,44.5578541009725,23.6191430040404,Dolj,Înălțime,8285,Piscul Ursoaia,PDT,Limba română
+Ursoaia,ursoaie,3,44.5335931685667,23.401001225196,Dolj,Localitate,100,Ursoaia,Geomil 25000,Limba română,Ursoaia,PDT,Limba română,Урсоая,Sovietică,Limba română
+Valea Ursoaei,ursoaie,3,44.3348236429559,23.885247125559,Dolj,Vale,4817,Valea Ursoaei,PDT,Limba română
+Valea Ursoaia,ursoaie,3,44.6186618664073,23.820071247583,Dolj,Vale,4729,Valea Ursoaia,PDT,Limba română,Valea Ursoii,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.5070326577534,23.6707195510121,Dolj,Vale,11810,Valea Ursoaia,PDT,Limba română
+Valea Ursoaiei,ursoaie,3,44.0971517026661,23.8554245552706,Dolj,Vale,5111,Valea Ursoaiei,Geomil 25000,Limba română,Valea Ursoia,Austriacă,Limba română
+Valea Ursoaiei,ursoaie,3,44.2296442238077,23.7798997258948,Dolj,Vale,5173,Valea Ursoaiei,Geomil 25000,Limba română,Valea Ursoi,PDT,Limba română
+Valea Ursoii,ursoaie,3,44.6077340250097,23.7606553983816,Dolj,Vale,394,Valea Ursoii,Geomil 25000,Limba română
+Valea Ursoii,ursoaie,3,44.4976796037987,23.6924274547757,Dolj,Vale,406,Valea Ursoii,Geomil 25000,Limba română
+Dealul Ursoaiei,ursoaie,3,45.5908994736228,27.7510699088814,Galati,Deal,748,Dealul Ursoaiei,Geomil 25000,Limba română
+Dealul Ursoaiei,ursoaie,3,46.0131940397829,27.3568787726281,Galati,Deal,3936,Dealul Ursoaiei,PDT,Limba română
+Poiana Ursoaia,ursoaie,3,45.98772576851,27.7191701495635,Galati,Poiană,9639,Poiana Ursoaia,Moldova (1892-1898),Limba română
+Dealu Ursului,urs,2,44.3414946303438,25.7774637877293,Giurgiu,Deal,10090,Dealu Ursului,Geomil 25000,Limba română
+Poiana Ursului,urs,2,44.4404204955024,25.5475943031511,Giurgiu,Poiană,8317,Poiana Ursului,PDT,Limba română
+Lacul Ursoaicei,ursoaică,3,44.4467822638515,25.6574811262301,Giurgiu,Lac,3735,Lacul Ursoaicei,PDT,Limba română
+Cotul Ursului,urs,2,45.4482216147127,23.5952234736255,Gorj,Înălțime,1190,Cotul Ursului,Geomil 25000,Limba română
+Cracu Ursului,urs,2,45.1274180319645,22.821311940615,Gorj,Vale,5125,Cracu Ursului,Geomil 25000,Limba română
+Dealu Ursului,urs,2,44.8185660926526,23.0349283318469,Gorj,Deal,11789,Dealu Ursului,Geomil 25000,Limba română
+Dealul Ursaților,urs,2,45.0741680724229,23.2152370810018,Gorj,Deal,234,Dealul Ursaților,Geomil 25000,Limba română
+Lacul Ursului,urs,2,44.7774811150545,23.3460342278408,Gorj,Lac,11008,Lacul Ursului,PDT,Limba română
+Pârâu Ursului,urs,2,45.2640500979716,22.8814004985988,Gorj,Vale,5127,Pârâu Ursului,Geomil 25000,Limba română
+Pârâul Ursului,urs,2,45.2527749214963,23.3924040797335,Gorj,Vale,9508,Pârâul Ursului,Geomil 25000,Limba română
+Piscu Ursului,urs,2,44.9537569036391,23.4765278968717,Gorj,Înălțime,3133,Piscu Ursului,Geomil 25000,Limba română
+Valea Ursu,urs,2,45.110343733715,23.7446207354031,Gorj,Vale,11038,Valea Ursu,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.9487183652529,22.9536177036695,Gorj,Vale,208,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.8067402950252,23.089083179317,Gorj,Vale,10698,Valea Ursului,Geomil 25000,Limba română
+Pădurea Ursoaiei,ursoaie,3,44.810362990371,23.1846640061151,Gorj,Pădure,3138,Pădurea Ursoaiei,Geomil 25000,Limba română
+Piscul Ursoaia,ursoaie,3,44.6446584644203,23.6278842198379,Gorj,Înălțime,8270,Piscul Ursoaia,PDT,Limba română
+Valea Ursa,ursoaie,3,44.9845336446764,23.0048263747878,Gorj,Vale,231,Valea Ursa,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.9572493256746,23.2961273168586,Gorj,Vale,3120,Valea Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,45.0051192190035,23.3451736665761,Gorj,Vale,3126,Valea Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.676788606285,23.5368652263108,Gorj,Vale,5087,Valea Ursoaia,Geomil 25000,Limba română,Valea Ursoaiei,PDT,Limba română
+Valea Ursoaia,ursoaie,3,44.7959946942342,23.4532235326339,Gorj,Vale,5140,Valea Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.8136685446941,23.7117617096237,Gorj,Vale,8268,Valea Ursoaia,PDT,Limba română
+Muntele Groapa Ursului,urs,2,46.3991236588973,25.6540530914636,Harghita,Înălțime,10052,Muntele Groapa Ursului,PDT,Limba română
+Poiana Ursului,urs,2,46.4578205864208,25.5421229035544,Harghita,Înălțime,10054,Poiana Ursului,Geomil 25000,Limba română
+Baia Urșilor,urși,3,46.5780099902414,25.5320533839357,Harghita,Altele,10034,Baia Urșilor,Geomil 25000,Limba română
+Grota Urșilor,urși,3,46.9657414684515,25.5673921049317,Harghita,Altele,7131,Grota Urșilor,Geomil 25000,Limba română
+Dealul Ursulețului,ursuleț,3,46.4987828088953,25.8658547105755,Harghita,Deal,11227,Dealul Ursulețului,ANCPI,Limba română
+Piatra Ursulețului,ursuleț,3,46.229472054408,25.5707526274329,Harghita,Înălțime,10058,Piatra Ursulețului,PDT,Limba română
+Coasta Ursului,urs,2,45.7687406886054,22.6741109014815,Hunedoara,Înălțime,9015,Coasta Ursului,Geomil 25000,Limba română
+Costa Ursului,urs,2,45.2998788308451,23.2206379923194,Hunedoara,Înălțime,13681,Costa Ursului,Transilvania (1869-1870),Limba română
+Culmea Ursului,urs,2,45.6537619116514,22.6758509913026,Hunedoara,Înălțime,10803,Culmea Ursului,Imperiul Habsburgic (1887),Limba română
+Dâmbul Ursului,urs,2,45.8525631343675,22.4484277772423,Hunedoara,Înălțime,6215,Dâmbul Ursului,PDT,Limba română
+Dealu Ursu,urs,2,46.0534901668162,23.00336866026,Hunedoara,Deal,6243,Dealu Ursu,Geomil 25000,Limba română
+Dealu Ursului,urs,2,45.5866101989503,22.6588360236309,Hunedoara,Deal,5134,Dealu Ursului,Geomil 25000,Limba română
+Dealu Ursului,urs,2,46.0704852098325,22.779127978169,Hunedoara,Deal,6238,Dealu Ursului,Geomil 25000,Limba română
+Dealu Ursului,urs,2,46.049232131679,22.6851513348783,Hunedoara,Deal,6240,Dealu Ursului,Geomil 25000,Limba română
+Dl. Ursului,urs,2,45.8271791968785,22.7665563820065,Hunedoara,Deal,11945,Dl. Ursului,Transilvania (1869-1870),Limba română
+Pârâu Ursului,urs,2,45.84584104579,22.9217317340449,Hunedoara,Vale,4288,Pârâu Ursului,Geomil 25000,Limba română
+Ursu,urs,2,45.4162259374565,23.282276690709,Hunedoara,Înălțime,1195,Ursu,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.9520790292372,22.4424393371032,Hunedoara,Vale,943,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.6170344212817,22.5642080276995,Hunedoara,Vale,5135,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.2480103227646,22.7130477504873,Hunedoara,Vale,6274,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.3150550814887,22.8936934609838,Hunedoara,Vale,10241,Valea Ursului,Geomil 25000,Limba română
+Vârfu Ursului,urs,2,46.0781666707169,22.5313393941904,Hunedoara,Înălțime,947,Vârfu Ursului,Geomil 25000,Limba română
+Dealu Ursoaicii,ursoaică,3,46.0481779940436,22.4927399682628,Hunedoara,Deal,945,Dealu Ursoaicii,Geomil 25000,Limba română
+Râul Ursoii,ursoaie,3,45.7257125515852,23.0764800244375,Hunedoara,Vale,9012,Râul Ursoii,PDT,Limba română
+Valea Ursoaiei,ursoaie,3,45.7313751058993,23.2052453846344,Hunedoara,Vale,1123,Valea Ursoaiei,Geomil 25000,Limba română
+Dealu Ursoi,ursoi,3,46.2024675112651,22.8880550782243,Hunedoara,Deal,6254,Dealu Ursoi,Geomil 25000,Limba română
+Dealu Ursoi,ursoi,3,45.8879186231328,22.7275508405504,Hunedoara,Deal,9014,Dealu Ursoi,Geomil 25000,Limba română,Dealul Ursoi,PDT,Limba română
+Dealu Ursoiu,ursoi,3,46.1859359025388,22.7363389459002,Hunedoara,Deal,934,Dealu Ursoiu,Geomil 25000,Limba română
+Dealu Ursoiu Mic,ursoi,3,45.9526523230297,22.935512977862,Hunedoara,Deal,9011,Dealu Ursoiu Mic,Geomil 25000,Limba română
+Dealu Ursoiului,ursoi,3,45.8526419377451,22.7061544667691,Hunedoara,Deal,9013,Dealu Ursoiului,Geomil 25000,Limba română
+Dealul Ursoiul,ursoi,3,45.9634200695256,22.8821688095027,Hunedoara,Deal,9009,Dealul Ursoiul,PDT,Limba română,Dealu Ursoiu,Geomil 25000,Limba română
+Ozului B,ursoi,3,46.0121890035289,22.8986415119408,Hunedoara,Deal,6241,Dealu Ursoi,Transilvania (1769-1773),Limba română
+Vârfu Ursoiu,ursoi,3,46.0012648843931,23.1977421530608,Hunedoara,Înălțime,9660,Vârfu Ursoiu,Geomil 25000,Limba română
+Valea Ursoiței,ursoiță,3,46.1856663757001,22.5594985528242,Hunedoara,Vale,9003,Valea Ursoiței,PDT,Limba română
+Movila Ursului,urs,2,47.5280479946469,27.2440620805202,Iasi,Înălțime,6655,Movila Ursului,Geomil 25000,Limba română,Movila Ursu,PDT,Limba română
+Valea Ursului,urs,2,47.1281859751484,27.5094549161805,Iasi,Vale,2228,Valea Ursului,Geomil 25000,Limba română,Valea Ursului,PDT,Limba română
+Dealul Ursoaei,ursoaie,3,47.5375354944014,27.3338910618961,Iasi,Deal,6658,Dealul Ursoaei,PDT,Limba română
+Dealul Ursoii,ursoaie,3,46.9619177276068,27.9036526541532,Iasi,Deal,6583,Dealul Ursoii,Geomil 25000,Limba română
+Ursoaia,ursoaie,3,47.2726966336371,27.3858625920622,Iasi,Localitate,4838,Ursoaia,Geomil 25000,Limba română,Ursoaea,PDT,Limba română
+Valea Ursoaei,ursoaie,3,47.2609573584011,27.3931066331875,Iasi,Vale,4839,Valea Ursoaei,PDT,Limba română
+Dealul Ursoilor,ursoi,3,46.959230738343,27.8694500886051,Iasi,Deal,6582,Dealul Ursoilor,Geomil 25000,Limba română
+La Lacu Ursului,urs,2,44.7093016759441,26.1316560270004,Ilfov,Lac,1324,La Lacu Ursului,Geomil 25000,Limba română
+Pădurea Ursului,urs,2,44.6430973264205,26.0353931529833,Ilfov,Pădure,4254,Pădurea Ursului,PDT,Limba română
+Balta Ursului,urs,2,47.7224126086247,23.9209691801695,Maramures,Apă-deal-câmpie,4482,Balta Ursului,Geomil 25000,Limba română
+Creasta Izvorul Ursului,urs,2,47.6990730574167,24.8984136229511,Maramures,Înălțime,4537,Creasta Izvorul Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,47.3882827931669,23.8457192571493,Maramures,Deal,4439,Dealul Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,47.4456801320824,23.7618548621349,Maramures,Deal,13172,Dealul Ursului,Geomil 25000,Limba română
+Dosul Ursului,urs,2,47.6602929714611,23.9547399227757,Maramures,Înălțime,12659,Dosul Ursului,British Maps (1944),Limba română
+Gruiul Ursul Mare,urs,2,47.5790083907466,24.3523746800723,Maramures,Înălțime,4486,Gruiul Ursul Mare,Geomil 25000,Limba română
+Obcina Ursului,urs,2,47.5251673949344,24.1467601671075,Maramures,Înălțime,1032,Obcina Ursului,Geomil 25000,Limba română
+Piciorul Ursului,urs,2,47.7541263837439,24.6755881760476,Maramures,Înălțime,8263,Piciorul Ursului,PDT,Limba română
+Poiana Ursului,urs,2,47.8731842804,24.0279474711805,Maramures,Poiană,907,Poiana Ursului,Geomil 25000,Limba română
+Poiana Ursului,urs,2,47.86862960398,24.0207553197387,Maramures,Poiană,7171,Poiana Ursului,PDT,Limba română
+Preluca Ursului,urs,2,47.7308719734894,24.0620055303938,Maramures,Altele,7179,Preluca Ursului,PDT,Limba română
+Valea Ursului,urs,2,47.7866693509488,23.7897625670005,Maramures,Vale,912,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,47.8299151986013,24.1289704821682,Maramures,Vale,920,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,47.8040778511259,24.0062607518256,Maramures,Vale,4484,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,47.8020682726217,23.7700196763518,Maramures,Vale,7224,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,47.4267796045923,23.5458687933794,Maramures,Vale,8172,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,47.4231669934059,23.8612439722967,Maramures,Vale,8243,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,47.7179284691185,24.6466132258766,Maramures,Vale,8259,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,47.5692467590861,23.7622702733268,Maramures,Vale,13749,Valea Ursului,Geomil 25000,Limba română
+Vârfu Ursului,urs,2,47.5629545705274,23.3017131871411,Maramures,Înălțime,4428,Vârfu Ursului,Geomil 25000,Limba română
+Vârful Ursului,urs,2,47.9069936463038,23.9892779114451,Maramures,Înălțime,906,Vârful Ursului,Geomil 25000,Limba română,Vr. Urszului,Ungară 1869,Limba română
+Dealul Ursei,ursă,3,47.7099381784387,24.341455345442,Maramures,Deal,7183,Dealul Ursei,PDT,Limba română
+Dealul Ursoaia,ursoaie,3,47.764270210493,24.4415644308946,Maramures,Deal,7187,Dealul Ursoaia,PDT,Limba română,Dealul Ursoii,Geomil 25000,Limba română
+Dealul Ursoii,ursoaie,3,47.6586251574696,24.4558703966564,Maramures,Deal,7154,Dealul Ursoii,Geomil 25000,Limba română,Dealul Ursoaiei,PDT,Limba română
+Izvorul Ursoaiei,ursoaie,3,47.6126388039602,24.1987368671169,Maramures,Vale,8252,Izvorul Ursoaiei,PDT,Limba română
+Valea Ursoii,ursoaie,3,47.6757535935473,24.7327283317795,Maramures,Vale,12900,Valea Ursoii,Geomil 25000,Limba română
+Dealul Ursoiului,ursoi,3,47.6538227346535,24.4182149775759,Maramures,Deal,7153,Dealul Ursoiului,Geomil 25000,Limba română
+Valea Ursoiului,ursoi,3,47.6051624314679,24.2578636869187,Maramures,Vale,11521,Valea Ursoiului,Geomil 25000,Limba română
+Vârful Ursoiului,ursoi,3,47.4916572778661,24.0210750355254,Maramures,Înălțime,8249,Vârful Ursoiului,PDT,Limba română
+Cracu Ursului,urs,2,44.7592420406441,22.3471161117774,Mehedinti,Înălțime,5730,Cracu Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.5755075912896,23.0391787140165,Mehedinti,Vale,175,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.9818596211172,22.7314439118801,Mehedinti,Vale,192,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.6319547015561,22.2294348377512,Mehedinti,Vale,832,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.3249901672756,23.0695568697655,Mehedinti,Vale,6160,Valea Ursului,Geomil 25000,Limba română
+Valea Ursoaei,ursoaie,3,44.9030868146413,22.8450315795349,Mehedinti,Vale,191,Valea Ursoaei,Geomil 25000,Limba română
+Capul Ursului,urs,2,46.9815919949757,25.0763821248555,Mures,Altele,7960,Capul Ursului,PDT,Limba română
+Dealul Ursului,urs,2,46.7323215286484,24.7414097887486,Mures,Deal,4335,Dealul Ursului,Geomil 25000,Limba română
+Lacul Ursului,urs,2,46.6040546215217,25.0848308437891,Mures,Lac,6774,Lacul Ursului,Geomil 25000,Limba română
+Părâul Cărarea Ursului,urs,2,46.6941661783665,24.8814782069269,Mures,Vale,12080,Părâul Cărarea Ursului,PDT,Limba română
+Pârâul Ursului,urs,2,46.6313128898877,25.0958388442867,Mures,Vale,13798,Pârâul Ursului,PDT,Limba română
+Ursul,urs,2,46.1079338124724,24.7906154150744,Mures,Vale,14085,Ursul,Geomil 25000,Limba română
+Valea Ursui,urs,2,46.7179390517191,24.9692191603348,Mures,Vale,10850,Valea Ursui,Transilvania (1869-1870),Limba română
+Vârful Groapa Ursului,urs,2,46.6048002469424,24.9253460491874,Mures,Înălțime,6772,Vârful Groapa Ursului,Geomil 25000,Limba română
+Zăpodea Ursului,urs,2,46.9965922506588,24.8873864461365,Mures,Înălțime,11751,Zăpodea Ursului,PDT,Limba română
+Zăpodea Ursului,urs,2,47.0870425685722,24.9717372041505,Mures,Altele,13402,Zăpodea Ursului,Imperiul Habsburgic (1887),Limba română
+Zăpodia Ursului,urs,2,47.0060207425239,24.909260607531,Mures,Înălțime,5437,Zăpodia Ursului,Geomil 25000,Limba română,Zăpodea Ursului,PDT,Limba română
+Ursoaia,ursoaie,3,46.7133294871699,24.3135677923171,Mures,Altele,5368,Ursoaia,Geomil 25000,Limba română
+Ursoaia,ursoaie,3,46.5499449793144,24.2244912806927,Mures,Localitate,5502,Ursoaia,Geomil 25000,Limba română
+Bradul Ursului,urs,2,46.906154361212,25.855722322143,Neamt,Altele,10608,Bradul Ursului,Imperiul Habsburgic (1887),Limba română
+Crângul Ursului,urs,2,46.8735181153577,26.2010479172909,Neamt,Altele,676,Crângul Ursului,Geomil 25000,Limba română
+Curmătura Ursului,urs,2,46.8309339026225,26.0843388723794,Neamt,Înălțime,6499,Curmătura Ursului,Geomil 25000,Limba română,Curmătura Ursului,PDT,Limba română
+Dealul Ursului,urs,2,46.8744700353565,27.0105385348438,Neamt,Deal,1629,Dealul Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,46.9235707995238,26.3144417588644,Neamt,Deal,6484,Dealul Ursului,PDT,Limba română
+Pârâul la Crucea Ursului,urs,2,47.068683831034,26.1022148122106,Neamt,Vale,9119,Pârâul la Crucea Ursului,PDT,Limba română
+Pârâul Ursiului,urs,2,47.1505835558613,26.3481633731299,Neamt,Vale,9130,Pârâul Ursiului,PDT,Limba română
+Pârâul Ursului,urs,2,47.1547263482051,25.7591935785894,Neamt,Vale,6425,Pârâul Ursului,PDT,Limba română
+Plaiul Ursului,urs,2,46.7293172495846,26.1280227017833,Neamt,Altele,681,Plaiul Ursului,Geomil 25000,Limba română
+Preluca Ursului,urs,2,47.0520340602442,25.7689387382405,Neamt,Înălțime,9945,Preluca Ursului,Moldova (1892-1898),Limba română,Culmea Preluca Ursului,Geomil 25000,Limba română
+Ursul,urs,2,46.7322868300028,26.1385970636538,Neamt,Vale,682,Ursul,Geomil 25000,Limba română
+Ursul,urs,2,46.8348090711209,26.8548281079082,Neamt,Vale,7810,Ursul,PDT,Limba română
+Ursul,urs,2,46.7545028193619,26.5166734933658,Neamt,Vale,13331,Ursul,Geomil 25000,Limba română
+Ursul,urs,2,47.1204672333209,26.3459334375418,Neamt,Vale,14116,Ursul,Geomil 25000,Limba română
+Valea Ursului,urs,2,47.2200067883018,26.3780339868026,Neamt,Vale,657,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.8050506091178,27.0709586961705,Neamt,Vale,1618,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,46.7783969106463,26.9786122329785,Neamt,Vale,1622,Valea Ursului,Geomil 25000,Limba română
+Vârful Ursului,urs,2,47.2805860651669,25.9949911156618,Neamt,Înălțime,655,Vârful Ursului,Geomil 25000,Limba română
+Ursăria,ursărie,3,46.8215545975439,26.2544197559134,Neamt,Altele,11648,Ursăria,Geomil 25000,Limba română
+Ursoaica,ursoaică,3,47.2146555154081,26.0239578813116,Neamt,Înălțime,2063,Ursoaica,Geomil 25000,Limba română
+Dealul Botul Ursoiii,ursoaie,3,46.8162123122815,27.0895031227474,Neamt,Deal,1619,Dealul Botul Ursoiii,Geomil 25000,Limba română
+Dealu Ursului,urs,2,44.688714713519,24.6746709348487,Olt,Deal,1407,Dealu Ursului,Geomil 25000,Limba română
+Fântâna Ursului,urs,2,44.1930170469083,24.3689189372039,Olt,Altele,8116,Fântâna Ursului,PDT,Limba română
+Măgura Ursului,urs,2,44.0216564350547,24.3609988979911,Olt,Înălțime,1277,Măgura Ursului,Geomil 25000,Limba română
+Măgura Ursului,urs,2,44.006122027315,24.2989260858355,Olt,Înălțime,7743,Măgura Ursului,PDT,Limba română
+Poiana Ursului,urs,2,44.6411581415984,24.3891111180049,Olt,Poiană,3055,Poiana Ursului,Geomil 25000,Limba română
+Valea Crângu Ursului,urs,2,44.3689531203374,24.2306495936864,Olt,Vale,295,Valea Crângu Ursului,Geomil 25000,Limba română
+Valea Ursa,ursă,3,43.7865103904617,24.6526037425625,Olt,Vale,8018,Valea Ursa,PDT,Limba română,Valea Ursa,Austriacă,Limba română,Valea Ursii,Geomil 25000,Limba română
+Dealu Urși,urși,3,44.7668175855922,24.438817010979,Olt,Deal,1994,Dealu Urși,Geomil 25000,Limba română
+Dealu Ursoii Colibașului,ursoaie,3,44.5076239639591,24.2037332775888,Olt,Deal,283,Dealu Ursoii Colibașului,Geomil 25000,Limba română
+Ursoaia,ursoaie,3,44.4234267869796,24.7068033883614,Olt,Înălțime,311,Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.5277331932848,24.6114108173942,Olt,Vale,305,Valea Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.5215144835521,24.6617163490046,Olt,Vale,306,Valea Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.270588359516,24.4873883914169,Olt,Vale,1288,Valea Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.7456799174967,24.3403406546488,Olt,Vale,11761,Valea Ursoaia,Geomil 25000,Limba română
+La Crucea Ursului,urs,2,45.2671482284968,25.6087485986511,Prahova,Altele,7471,La Crucea Ursului,PDT,Limba română
+Plaiul Ursului,urs,2,45.3110194973496,25.9195284165093,Prahova,Înălțime,1571,Plaiul Ursului,Geomil 25000,Limba română
+Podu Ursului,urs,2,45.1735201109597,25.9240880379144,Prahova,Localitate,2829,Podu Ursului,Geomil 25000,Limba română
+Pârâul Urșilor,urși,3,45.3386708910148,25.7691533465259,Prahova,Vale,13345,Pârâul Urșilor,Geomil 25000,Limba română
+Dealul Ursoaia,ursoaie,3,45.1185118446273,26.2647753215618,Prahova,Deal,31,Dealul Ursoaia,Geomil 25000,Limba română,Dealul Ursoaia,PDT,Limba română
+Dealul Ursoaia,ursoaie,3,45.1730144200849,26.220918280079,Prahova,Deal,7488,Dealul Ursoaia,Geomil 25000,Limba română
+Poiana Ursoaia,ursoaie,3,44.7766902995933,26.1643116614369,Prahova,Poiană,40,Poiana Ursoaia,PDT,Limba română
+Valea Ursoaiei,ursoaie,3,45.2628666233396,26.194023182062,Prahova,Vale,820,Valea Ursoaiei,Geomil 25000,Limba română
+Valea Ursoii,ursoaie,3,44.9585506334554,26.1732801041546,Prahova,Localitate,6,Valea Ursoii,Geomil 25000,Limba română
+Dealu Pădurea Ursului,urs,2,47.1457792338472,23.2712347706306,Salaj,Deal,1057,Dealu Pădurea Ursului,Geomil 25000,Limba română
+Dealu Ursului,urs,2,47.0725338196673,23.0042805720236,Salaj,Deal,1049,Dealu Ursului,Geomil 25000,Limba română
+Dosul Ursului,urs,2,47.1808322313018,23.3444733572011,Salaj,Înălțime,10386,Dosul Ursului,PDT,Limba română
+Fântâna Ursului,urs,2,47.3377816724786,22.8744416683688,Salaj,Altele,8182,Fântâna Ursului,PDT,Limba română
+Osoiul Ursului,urs,2,47.0864243535177,22.9805265234888,Salaj,Altele,7550,Osoiul Ursului,PDT,Limba română
+P. Ursului,urs,2,47.0743295484881,23.3401392509865,Salaj,Vale,13309,P. Ursului,Transilvania (1869-1870),Limba română
+Pârâul Ursului,urs,2,46.9910473993689,23.0685432045618,Salaj,Vale,7526,Pârâul Ursului,PDT,Limba română
+Vârful Ursului,urs,2,47.0848070752476,22.6445806189836,Salaj,Înălțime,8190,Vârful Ursului,PDT,Limba română
+Vârful Ursului,urs,2,47.3158702755742,23.7616721819492,Salaj,Înălțime,8983,Vârful Ursului,PDT,Limba română
+La Ursa,ursă,3,47.0622799880482,22.7628444294375,Salaj,Înălțime,7014,La Ursa,Geomil 25000,Limba română
+La Urșilor,urși,3,47.2099837184778,23.4035340711739,Salaj,Altele,10387,La Urșilor,PDT,Limba română
+Dealul Ursoaei,ursoaie,3,47.2009815169069,23.1703442747807,Salaj,Deal,7560,Dealul Ursoaei,PDT,Limba română
+La Ursoaia,ursoaie,3,47.3193279541345,23.1570853274927,Salaj,Altele,11416,La Ursoaia,Geomil 25000,Limba română
+Pădurea Ursoii,ursoaie,3,46.9972833217945,23.0284183426857,Salaj,Pădure,7527,Pădurea Ursoii,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,47.0037039871478,23.4375805463453,Salaj,Vale,6920,Valea Ursoaia,Geomil 25000,Limba română
+Valea Ursoaii,ursoaie,3,47.2661603544231,23.2076919451928,Salaj,Vale,8992,Valea Ursoaii,PDT,Limba română
+Dealu Ursoi,ursoi,3,47.3915116374736,23.2061048897949,Salaj,Deal,6946,Dealu Ursoi,Geomil 25000,Limba română
+Dealu Ursoiu,ursoi,3,47.0967210427833,22.582734133231,Salaj,Deal,1069,Dealu Ursoiu,Geomil 25000,Limba română
+Dealul Ursoi,ursoi,3,47.0561047333867,22.8165147792652,Salaj,Deal,7537,Dealul Ursoi,Geomil 25000,Limba română
+Ursoiu,ursoi,3,47.3663088605534,22.6434315714694,Salaj,Înălțime,12511,Ursoiu,Geomil 25000,Limba română
+Ursoiul,ursoi,3,47.1832695550166,23.2096124603152,Salaj,Altele,7559,Ursoiul,PDT,Limba română
+Dâmbu Ursului,urs,2,47.6591730596337,22.814173467057,Satu Mare,Înălțime,8700,Dâmbu Ursului,Geomil 25000,Limba română
+Dealu Tău Ursului,urs,2,47.9281270575387,23.5163465932365,Satu Mare,Deal,4463,Dealu Tău Ursului,Geomil 25000,Limba română
+Dealu Ursului,urs,2,47.6331764686592,23.2871935112321,Satu Mare,Deal,4426,Dealu Ursului,Geomil 25000,Limba română
+Coasta Ursoaei,ursoaie,3,47.8190623148853,23.4924862887969,Satu Mare,Înălțime,7213,Coasta Ursoaei,PDT,Limba română
+Dealu Ursoi,ursoi,3,47.80431525349,23.3290340653517,Satu Mare,Deal,2598,Dealu Ursoi,Geomil 25000,Limba română
+Dealu Ursoi,ursoi,3,47.9433115705423,23.2863778770558,Satu Mare,Deal,5972,Dealu Ursoi,Geomil 25000,Limba română
+Dealul Ursoiu,ursoi,3,47.9491365121757,23.1953822338932,Satu Mare,Deal,11987,Dealul Ursoiu,PDT,Limba română
+Pădurea Ursoi,ursoi,3,47.6738081675564,23.2652585522751,Satu Mare,Pădure,5964,Pădurea Ursoi,Geomil 25000,Limba română
+Dealul Gurii Ursului,urs,2,46.2114036324693,24.4171847205891,Sibiu,Deal,12815,Dealul Gurii Ursului,PDT,Limba română
+Dealul Ursului,urs,2,45.5522522183125,24.0485577187648,Sibiu,Deal,1163,Dealul Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,45.8607050677767,24.4107252772719,Sibiu,Deal,2654,Dealul Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,45.9704835002703,24.679110870001,Sibiu,Deal,7975,Dealul Ursului,Geomil 25000,Limba română
+Gaura Ursului,urs,2,46.0871930566106,24.5322713866764,Sibiu,Altele,2630,Gaura Ursului,Geomil 25000,Limba română
+Gaura Ursului,urs,2,46.0541648122186,24.3035943363484,Sibiu,Altele,8607,Gaura Ursului,PDT,Limba română
+Pădurea Pârâul Ursului,urs,2,45.8097914154168,24.0173720738182,Sibiu,Pădure,8591,Pădurea Pârâul Ursului,PDT,Limba română
+Pârâul Ursului,urs,2,45.7415330162874,24.4270121456777,Sibiu,Vale,4029,Pârâul Ursului,PDT,Limba română
+Pârâul Ursului,urs,2,45.6920800238932,24.4015940414413,Sibiu,Vale,7516,Pârâul Ursului,PDT,Limba română
+Pârâul Ursului,urs,2,45.8354673747103,23.899549783361,Sibiu,Vale,9390,Pârâul Ursului,PDT,Limba română
+Valea Ursului,urs,2,45.6763697368274,23.8226998461159,Sibiu,Vale,2514,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.8010596427694,24.4033134530959,Sibiu,Vale,8001,Valea Ursului,PDT,Limba română
+Vârfu Ursului,urs,2,45.69743809041,23.9173756822524,Sibiu,Înălțime,2504,Vârfu Ursului,Geomil 25000,Limba română
+Viile Ursului,urs,2,46.052723346914,24.6808168030171,Sibiu,Altele,2642,Viile Ursului,Geomil 25000,Limba română
+Pârâul Șipotul Urșilor,urși,3,45.910433741086,24.6998855193316,Sibiu,Vale,5533,Pârâul Șipotul Urșilor,Geomil 25000,Limba română
+Ursoaia,ursoaie,3,45.6792109772078,24.6621765685535,Sibiu,Vale,9684,Ursoaia,Geomil 25000,Limba română
+Medvezic,medvezic,4,47.7817273246267,25.4596989322094,Suceava,Vale,10764,Medvezic,Geomil 25000,Limba română
+Arșița Ursului,urs,2,47.4003768906717,25.6271294429251,Suceava,Altele,9086,Arșița Ursului,PDT,Limba română
+Bâtca Movila Ursului,urs,2,47.3997583337591,25.5885045883537,Suceava,Înălțime,9087,Bâtca Movila Ursului,PDT,Limba română
+Dealul Ursului,urs,2,47.3109593910496,25.6451206878119,Suceava,Deal,6395,Dealul Ursului,PDT,Limba română
+Dealul Ursului,urs,2,47.439772748585,26.4636243545556,Suceava,Deal,9067,Dealul Ursului,PDT,Limba română
+Pârâul Ursului,urs,2,47.2286351475902,25.6858529695623,Suceava,Vale,6402,Pârâul Ursului,PDT,Limba română
+Pe Deal la Urs,urs,2,47.6635513030207,26.3524732216312,Suceava,Deal,7787,Pe Deal la Urs,Geomil 25000,Limba română
+Piciorul Ursului,urs,2,47.3484050608126,25.8443122051482,Suceava,Înălțime,1781,Piciorul Ursului,Geomil 25000,Limba română
+Poiana Smidu Ursului,urs,2,47.5343949482158,25.3291090649738,Suceava,Poiană,1856,Poiana Smidu Ursului,Geomil 25000,Limba română
+Poiana Ursului,urs,2,47.7545653062109,25.6249418995973,Suceava,Poiană,645,Poiana Ursului,Geomil 25000,Limba română,Poeana Ursului,Imperiul Habsburgic (1887),Limba română
+Ursul,urs,2,47.4496727121715,25.0837212888079,Suceava,Vale,6379,Ursul,Geomil 25000,Limba română
+Ursul,urs,2,47.5533844261584,25.2134888116412,Suceava,Vale,13325,Ursul,Geomil 25000,Limba română
+Ursul,urs,2,47.1387063639224,25.5241561766736,Suceava,Vale,13412,Ursul,Geomil 25000,Limba română
+Ursul,urs,2,47.4567444740244,25.6440360487858,Suceava,Vale,13523,Ursul,Geomil 25000,Limba română
+Valea Ursului,urs,2,47.5181835704714,25.0653765382352,Suceava,Vale,9921,Valea Ursului,Geomil 25000,Limba română
+Dealul Ursăriei,ursărie,3,47.3033781897927,25.3949519536541,Suceava,Deal,9094,Dealul Ursăriei,PDT,Limba română,Dealul Ursăriei,Geomil 25000,Limba română
+Pârâul Ursoaicei,ursoaică,3,47.8949186988055,26.1200821551595,Suceava,Vale,7259,Pârâul Ursoaicei,PDT,Limba română
+Capul Ursoaia Mare,ursoaie,3,47.7433860416818,25.7434101564371,Suceava,Înălțime,1844,Capul Ursoaia Mare,Geomil 25000,Limba română
+Dealul Ursoii,ursoaie,3,47.8635906517239,25.5495445048757,Suceava,Deal,2285,Dealul Ursoii,Geomil 25000,Limba română
+Pădurea Ursoii,ursoaie,3,47.6102397855627,25.980517903001,Suceava,Pădure,6322,Pădurea Ursoii,Geomil 25000,Limba română
+Vârful Ursoii,ursoaie,3,47.4847152244498,25.6921022407702,Suceava,Înălțime,10740,Vârful Ursoii,Geomil 25000,Limba română
+Ursoiul,ursoi,3,47.8512223111768,25.8556168961909,Suceava,Înălțime,639,Ursoiul,Geomil 25000,Limba română
+Ursuleasa,ursuleasă,4,47.7195505850868,25.4365954030595,Suceava,Vale,7235,Ursuleasa,Geomil 25000,Limba română
+Lacul Ursului,urs,2,44.3434753762119,24.8515045991917,Teleorman,Lac,10986,Lacul Ursului,PDT,Limba română
+Măgura Urșilor,urși,3,43.9071060222685,25.0544260999047,Teleorman,Înălțime,1379,Măgura Urșilor,Geomil 25000,Limba română
+Câmpul Ursului,urs,2,45.4778231243934,21.4816663651751,Timis,Câmp,7608,Câmpul Ursului,PDT,Limba română,Ursului,Ungară 1869,Limba română
+Dealu Ursu,urs,2,45.7668953111853,22.3018394164451,Timis,Deal,868,Dealu Ursu,Geomil 25000,Limba română
+Dealu Ursului,urs,2,45.9115792066788,22.3100415158195,Timis,Deal,4293,Dealu Ursului,Geomil 25000,Limba română,Dealul Ursului,PDT,Limba română
+Dealu Ursului,urs,2,45.7295641442131,22.2917757428075,Timis,Deal,6068,Dealu Ursului,Geomil 25000,Limba română
+Dealul Gruniul Ursului,urs,2,45.2585217185016,21.4914275478794,Timis,Deal,13877,Dealul Gruniul Ursului,PDT,Limba română
+Grunie Urs,urs,2,45.281837493159,21.5348462918029,Timis,Înălțime,12650,Grunie Urs,Ungară 1869,Limba română,Gruniul Ursului,PDT,Limba română
+Tăul Ursului,urs,2,45.6671867408732,22.3537642555891,Timis,Înălțime,10304,Tăul Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.8367364268568,22.4262972046499,Timis,Vale,6208,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.9436454184169,28.2788907966405,Tulcea,Vale,11590,Valea Ursului,Geomil 25000,Limba română
+Culmea Văii Ursului,urs,2,44.989336487293,24.0659097035004,Valcea,Înălțime,9377,Culmea Văii Ursului,PDT,Limba română
+Gruiul Ursului,urs,2,45.3972882225343,24.0344943151027,Valcea,Înălțime,1175,Gruiul Ursului,Geomil 25000,Limba română,V. Ursului,Austriacă,Limba română
+Malul Ursului,urs,2,45.190877172965,24.2857492513918,Valcea,Înălțime,13609,Malul Ursului,PDT,Limba română
+Pădurea Gura Ursului,urs,2,45.1998632264848,24.3194496803627,Valcea,Pădure,12566,Pădurea Gura Ursului,Geomil 25000,Limba română
+Valea Ursoiului,urs,2,44.5515092748795,23.9463902949092,Valcea,Vale,379,Valea Ursoiului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.1305086870157,24.3106696114584,Valcea,Vale,1448,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.8924783403925,23.967305256407,Valcea,Vale,2946,Valea Ursului,Geomil 25000,Limba română,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,44.7993690337305,23.9747662731293,Valcea,Localitate,2947,Valea Ursului,Geomil 25000,Limba română,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,44.9893662688872,24.4673193482551,Valcea,Vale,3079,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.682000742118,23.8341259976957,Valcea,Vale,4742,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,44.7501957741045,23.7847201693684,Valcea,Vale,4749,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,45.4542850443966,24.3679255722087,Valcea,Vale,7507,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,44.9523345256243,23.8473740346247,Valcea,Vale,9384,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,45.4600109710397,24.3870938957848,Valcea,Vale,10189,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.517781965187,23.7509727544179,Valcea,Vale,12855,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,45.1871367614432,24.1241435134505,Valcea,Vale,13606,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,45.2013124366706,24.1934413365605,Valcea,Vale,13607,Valea Ursului,PDT,Limba română
+Vârful Ursu,urs,2,45.3232162737347,23.9184519292793,Valcea,Înălțime,2931,Vârful Ursu,Geomil 25000,Limba română
+Dealu Urșilor,urși,3,44.9046680084384,24.3353583602818,Valcea,Deal,3083,Dealu Urșilor,Geomil 25000,Limba română,Dealul Urșilor,PDT,Limba română
+Urși,urși,3,45.0079633171105,24.0702473229218,Valcea,Localitate,4759,Urși,PDT,Limba română
+Valea Ursoaica,ursoaică,3,44.950330686144,24.4847112945654,Valcea,Vale,13526,Valea Ursoaica,PDT,Limba română
+Dealu Ursoaia,ursoaie,3,44.8757597532283,24.107255572482,Valcea,Deal,5209,Dealu Ursoaia,Geomil 25000,Limba română
+Dealul Ursoaia,ursoaie,3,45.2847051139053,24.3696879167067,Valcea,Deal,12585,Dealul Ursoaia,British Maps (1944),Limba română
+Ursoaia,ursoaie,3,45.0765495911793,23.8602734796805,Valcea,Altele,245,Ursoaia,Geomil 25000,Limba română
+Valea Ursoaia,ursoaie,3,44.6595404434515,24.0749356988781,Valcea,Vale,2953,Valea Ursoaia,Geomil 25000,Limba română,Valea Ursoaia,PDT,Limba română
+Valea Ursoaia,ursoaie,3,44.7120721070195,24.1100518880478,Valcea,Vale,4798,Valea Ursoaia,PDT,Limba română
+Dealul Ursoaei,ursoaie,3,46.2037854480358,28.0423822450176,Vaslui,Deal,3507,Dealul Ursoaei,PDT,Limba română
+Dealul Ursoaiei,ursoaie,3,46.1997055649956,27.9708472837872,Vaslui,Deal,2181,Dealul Ursoaiei,Geomil 25000,Limba română
+Dealul Ursoii,ursoaie,3,46.5048856017504,27.9132201767919,Vaslui,Deal,1681,Dealul Ursoii,Geomil 25000,Limba română
+La Ursoaia,ursoaie,3,46.1824505775616,27.7598671304783,Vaslui,Altele,720,La Ursoaia,Geomil 25000,Limba română,La Ursoaia,PDT,Limba română
+Pădurea Ursoaiei,ursoaie,3,46.6980242799009,27.5283257712367,Vaslui,Pădure,4635,Pădurea Ursoaiei,Geomil 25000,Limba română,Pădurea Ursoaia,PDT,Limba română
+Ursoaia,ursoaie,3,46.6518018951458,27.4090736931042,Vaslui,Localitate,4626,Ursoaia,Geomil 25000,Limba română,Ursoaia,PDT,Limba română
+Dealul Ursoiu,ursoi,3,46.4175043199561,27.554632498913,Vaslui,Deal,9637,Dealul Ursoiu,Moldova (1892-1898),Limba română,Dealul Ursoiului,Geomil 25000,Limba română
+Culmea Ursului,urs,2,45.7565806129584,26.4898941408983,Vrancea,Înălțime,790,Culmea Ursului,Geomil 25000,Limba română
+Culmea Ursului,urs,2,45.7824705437366,26.541092579861,Vrancea,Înălțime,7913,Culmea Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,45.7741888800631,26.6011961401641,Vrancea,Deal,7911,Dealul Ursului,Geomil 25000,Limba română
+Dealul Ursului,urs,2,45.8390775601143,26.8060580764733,Vrancea,Deal,9220,Dealul Ursului,Geomil 25000,Limba română
+Groapa Ursului,urs,2,45.8575207472572,26.7209910018013,Vrancea,Altele,2132,Groapa Ursului,Geomil 25000,Limba română
+Groapa Ursului,urs,2,45.8543525026641,26.6638274540781,Vrancea,Vale,13791,Groapa Ursului,PDT,Limba română
+Muntele Ursului,urs,2,45.9750380232063,26.5184517283504,Vrancea,Înălțime,13304,Muntele Ursului,Geomil 25000,Limba română
+Pârâul Ursu,urs,2,45.7087434143071,26.6373288574607,Vrancea,Vale,13784,Pârâul Ursu,Geomil 25000,Limba română
+Pârâul Ursului,urs,2,45.8608429683835,26.4142450899976,Vrancea,Vale,2110,Pârâul Ursului,Geomil 25000,Limba română
+Pârâul Ursului,urs,2,45.9363448184089,26.9095229900153,Vrancea,Vale,9216,Pârâul Ursului,Geomil 25000,Limba română
+Pârâul Ursului,urs,2,45.6586217569485,26.5435323198135,Vrancea,Vale,9250,Pârâul Ursului,Geomil 25000,Limba română
+Piscul Piatra Ursului,urs,2,45.8633048220958,26.5984247867721,Vrancea,Înălțime,2127,Piscul Piatra Ursului,Geomil 25000,Limba română
+Unghiul Ursului,urs,2,45.7557975721576,27.3192391792419,Vrancea,Altele,3551,Unghiul Ursului,PDT,Limba română
+Valea Ursului,urs,2,45.9559138491123,26.7991613801464,Vrancea,Vale,5271,Valea Ursului,Geomil 25000,Limba română,Valea Ursului,PDT,Limba română
+Valea Ursului,urs,2,46.067892711,27.0735889445,Vrancea,Vale,5283,Valea Ursului,Geomil 25000,Limba română,Valea Ursului,PDT,Limba română
+Culmea Ursoaiei,ursoaie,3,45.7739725617317,26.7900212140281,Vrancea,Înălțime,776,Culmea Ursoaiei,Geomil 25000,Limba română
+Pârâul Ursoaia,ursoaie,3,45.6051546658317,26.6769627176197,Vrancea,Vale,5244,Pârâul Ursoaia,Geomil 25000,Limba română
+Ursoaia,ursoaie,3,45.7764679447186,26.7989706570075,Vrancea,Localitate,775,Ursoaia,Geomil 25000,Limba română
+Valea Ursoaea,ursoaie,3,46.0424478243047,26.9576021219912,Vrancea,Vale,9188,Valea Ursoaea,PDT,Limba română
+Valea Ursoaei,ursoaie,3,45.7900161345233,26.9924249076484,Vrancea,Vale,9230,Valea Ursoaei,PDT,Limba română
+La Ursoiu,ursoi,3,45.9173366443673,27.1118167646001,Vrancea,Altele,5341,La Ursoiu,PDT,Limba română
+Valea Ursoiului,ursoi,3,45.9431490746634,26.9372774369957,Vrancea,Vale,13045,Valea Ursoiului,Geomil 25000,Limba română

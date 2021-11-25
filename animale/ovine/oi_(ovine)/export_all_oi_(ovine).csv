@@ -5,8 +5,8 @@ Dealu Oilor,oi (ovine),3,46.4246768425886,22.1405937184712,Arad,Deal,973,,Dealu 
 Valea Oii Mari,oi (ovine),3,46.141366301666,22.181296208699,Arad,Vale,967,,Valea Oii Mari,Geomil 25000,Limba română
 Valea Oii Mici,oi (ovine),3,46.1381801291191,22.1855810623154,Arad,Vale,968,967,Valea Oii Mici,Geomil 25000,Limba română
 Culmea Mioarelor,mioare,4,45.4284597772274,24.8339992774277,Arges,Înălțime,634,,Culmea Mioarelor,Geomil 25000,Limba română
-Pârâul Mioarelor,mioare,4,45.4352889496808,24.8343922300487,Arges,Vale,13453,634,Pârâul Mioarelor,Geomil 25000,Limba română
 Pârâul Mioarelor,mioare,4,45.4922605013248,24.7375175610503,Arges,Vale,12967,,Pârâul Mioarelor,Geomil 25000,Limba română
+Pârâul Mioarelor,mioare,4,45.4352889496808,24.8343922300487,Arges,Vale,13453,634,Pârâul Mioarelor,Geomil 25000,Limba română
 Tăul Mioarelor,mioare,4,45.5867858195867,24.837587667792,Arges,Altele,11571,,Tăul Mioarelor,Geomil 25000,Limba română
 Dealul Oii,oi (ovine),3,45.0168144331846,24.8191115158234,Arges,Deal,6895,,Dealul Oii,Geomil 25000,Limba română
 Groapa Oii,oi (ovine),3,45.210552583502,25.1777051168203,Arges,Altele,6874,,Groapa Oii,Geomil 25000,Limba română
@@ -14,9 +14,9 @@ Pârâul Oilor,oi (ovine),3,45.4780136394294,24.6937940293664,Arges,Vale,12969,,
 Piscul Oii,oi (ovine),3,45.5038871679173,24.8486576382272,Arges,Înălțime,5007,,Piscul Oii,Geomil 25000,Limba română
 Plaiu Oii,oi (ovine),3,44.976824309618,24.8355287267695,Arges,Înălțime,6903,,Plaiu Oii,Geomil 25000,Limba română
 Plaiu Oii,oi (ovine),3,44.9617831976076,24.712979226231,Arges,Înălțime,8345,,Plaiu Oii,Geomil 25000,Limba română
-Plaiul Oii,oi (ovine),3,45.2147699787413,24.5794990613612,Arges,Înălțime,12646,,Plaiul Oii,Geomil 25000,Limba română
 Plaiul Oii,oi (ovine),3,45.2007807788748,24.8092957780808,Arges,Înălțime,5066,,Plaiul Oii,PDT,Limba română
 Plaiul Oii,oi (ovine),3,44.9166400985231,24.7388408526965,Arges,Înălțime,9698,,Plaiul Oii,PDT,Limba română
+Plaiul Oii,oi (ovine),3,45.2147699787413,24.5794990613612,Arges,Înălțime,12646,,Plaiul Oii,Geomil 25000,Limba română
 Plaju Oji,oi (ovine),3,45.5218369066366,24.5455793123633,Arges,Înălțime,12088,,Plaju Oji,Valahia-Moldova (1773-1774),Limba română
 Plaju Oji,oi (ovine),3,45.4656992450768,24.5329143825683,Arges,Înălțime,12089,,Plaju Oji,Valahia-Moldova (1773-1774),Limba română
 Piciorul Mioarei,mioare,4,46.1946510155993,26.9851043954565,Bacau,Înălțime,7829,,Piciorul Mioarei,Geomil 25000,Limba română
@@ -26,10 +26,10 @@ Oile Împietrite,oi (ovine),3,46.6389027927378,22.2312677587003,Bihor,Altele,984
 Dealul Oii,oi (ovine),3,47.2553828633211,24.6501058115432,Bistrita Nasaud,Deal,4518,,Dealul Oii,Geomil 25000,Limba română
 Dealul Oilor,oi (ovine),3,47.3447149813801,24.0667055581569,Bistrita Nasaud,Deal,7097,,Dealul Oilor,Geomil 25000,Limba română
 Cotul Oilor,oi (ovine),3,47.5787419535981,26.5635643396341,Botosani,Apă-deal-câmpie,14066,,Cotul Oilor,Geomil 25000,Limba română
-Hârtopul Oilor,oi (ovine),3,47.6767826546158,27.1720963436629,Botosani,Altele,2372,,Hârtopul Oilor,Geomil 25000,Limba română
 Hârtopul Oilor,oi (ovine),3,48.0619882040346,26.7410303492367,Botosani,Altele,2333,,Hârtopul Oilor,Geomil 25000,Limba română
-Căținul Oilor,oi (ovine),3,45.0010579239134,28.0312184187162,Braila,Apă-deal-câmpie,6715,,Căținul Oilor,PDT,Limba română
+Hârtopul Oilor,oi (ovine),3,47.6767826546158,27.1720963436629,Botosani,Altele,2372,,Hârtopul Oilor,Geomil 25000,Limba română
 Căținul Oilor,oi (ovine),3,44.8913717097369,28.0332025439614,Braila,Altele,3484,,Căținul Oilor,PDT,Limba română
+Căținul Oilor,oi (ovine),3,45.0010579239134,28.0312184187162,Braila,Apă-deal-câmpie,6715,,Căținul Oilor,PDT,Limba română
 La Muchia Oii,oi (ovine),3,45.5382845776525,25.5451806537516,Brasov,Înălțime,2789,,La Muchia Oii,Geomil 25000,Limba română
 Movila Oii,oi (ovine),3,45.030534902383,27.0693641102839,Buzau,Înălțime,8727,,Movila Oii,PDT,Limba română
 Vadu Oii,oi (ovine),3,45.5340901790904,26.4730616695575,Buzau,Localitate,7920,,Vadu Oii,Geomil 25000,Limba română

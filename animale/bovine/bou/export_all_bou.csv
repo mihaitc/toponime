@@ -1,27 +1,27 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3,Nume 4,Hartă 4,Limbă 4
-Dealu Boului,bou,3,46.4074878904984,22.7379591622821,Alba,Deal,5614,,Dealu Boului,Geomil 25000,Limba română
 Dealu Boului,bou,3,46.3507813259761,23.5747223201855,Alba,Deal,1923,,Dealu Boului,Geomil 25000,Limba română
+Dealu Boului,bou,3,46.4074878904984,22.7379591622821,Alba,Deal,5614,,Dealu Boului,Geomil 25000,Limba română
 Dealul Boului,bou,3,46.1923975023374,24.0179577471556,Alba,Deal,5508,,Dealul Boului,Geomil 25000,Limba română
 Fața Boilor,bou,3,46.128298990619,23.1528176482896,Alba,Înălțime,11951,,Fața Boilor,PDT,Limba română
 Muntele Boului,bou,3,46.5127456862134,23.3472062354104,Alba,Înălțime,2586,2587,Muntele Boului,Geomil 25000,Limba română
 Pădurea Tăul Boilor,bou,3,46.3581610894725,23.9653164090836,Alba,Pădure,13993,13992,Pădurea Tăul Boilor,PDT,Limba română
 Piatra Boului,bou,3,46.1083548265518,23.4599026946333,Alba,Înălțime,2577,,Piatra Boului,Geomil 25000,Limba română
 Tăul Boilor,bou,3,46.3608291845108,23.9635624463307,Alba,Altele,13992,,Tăul Boilor,PDT,Limba română
-Valea Boului,bou,3,46.4141265784066,22.7422717040155,Alba,Vale,5615,5614,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,46.5175477379235,23.3629346878159,Alba,Vale,2587,,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,46.4141265784066,22.7422717040155,Alba,Vale,5615,5614,Valea Boului,Geomil 25000,Limba română
 Câmpul Boilor,bou,3,46.4771605051462,21.7770094644473,Arad,Câmp,8034,,Câmpul Boilor,PDT,Limba română
 Dealu Boilor,bou,3,46.2833953842288,22.3517024098378,Arad,Deal,5603,,Dealu Boilor,Geomil 25000,Limba română,Dealul Boilor,PDT,Limba română
 Dealul Boilor,bou,3,46.1304707884226,21.7774384488531,Arad,Deal,5628,,Dealul Boilor,PDT,Limba română
 Dealul Boului,bou,3,46.4701517695731,22.3145744747952,Arad,Deal,10954,,Dealul Boului,Geomil 25000,Limba română
 Fântâna Boilor,bou,3,46.5659765852251,21.9294058885699,Arad,Altele,4103,,Fântâna Boilor,PDT,Limba română
+Fântâna Boilor,bou,3,46.2980874656961,21.6027233722692,Arad,Altele,5633,,Fântâna Boilor,PDT,Limba română
+Fântâna Boilor,bou,3,46.3044658862469,21.6677035434381,Arad,Altele,5634,,Fântâna Boilor,PDT,Limba română
 Fântâna Boilor,bou,3,46.4201286489547,22.0930734439527,Arad,Altele,6993,,Fântâna Boilor,Geomil 25000,Limba română
 Fântâna Boilor,bou,3,46.6129304040862,21.7777777191404,Arad,Altele,7591,,Fântâna Boilor,PDT,Limba română
-Fântâna Boilor,bou,3,46.3044658862469,21.6677035434381,Arad,Altele,5634,,Fântâna Boilor,PDT,Limba română
-Fântâna Boilor,bou,3,46.5717412760045,21.8138171532691,Arad,Altele,8045,,Fântâna Boilor,PDT,Limba română
-Fântâna Boilor,bou,3,46.5218138874991,21.6352300768702,Arad,Altele,11973,,Fântâna Boilor,PDT,Limba română
-Fântâna Boilor,bou,3,46.2980874656961,21.6027233722692,Arad,Altele,5633,,Fântâna Boilor,PDT,Limba română
 Fântâna Boilor,bou,3,46.4125436478167,22.1098490844106,Arad,Altele,7658,,Fântâna Boilor,PDT,Limba română
+Fântâna Boilor,bou,3,46.5717412760045,21.8138171532691,Arad,Altele,8045,,Fântâna Boilor,PDT,Limba română
 Fântâna Boilor,bou,3,46.2112774761821,21.5436304786102,Arad,Altele,9421,,Fântâna Boilor,Geomil 25000,Limba română
+Fântâna Boilor,bou,3,46.5218138874991,21.6352300768702,Arad,Altele,11973,,Fântâna Boilor,PDT,Limba română
 Fântâna Boilor din Răticaș,bou,3,46.5090225282155,21.6430798155534,Arad,Altele,8031,,Fântâna Boilor din Răticaș,PDT,Limba română
 Fântâna Boului,bou,3,46.5537479725582,21.5593163990693,Arad,Altele,8024,,Fântâna Boului,PDT,Limba română,Fântâna Boului,Geomil 25000,Limba română
 Grajdul Boilor Moșiei Armatei,bou,3,46.5711305718636,21.8894572879954,Arad,Altele,4106,,Grajdul Boilor Moșiei Armatei,PDT,Limba română
@@ -41,21 +41,21 @@ Dealul Boului,bou,3,44.8932710880821,25.0442527241122,Arges,Deal,8362,,Dealul Bo
 Pârâul Boilor,bou,3,45.4850807528396,24.6965537950967,Arges,Vale,12968,,Pârâul Boilor,Geomil 25000,Limba română
 Plaiul Boi,bou,3,44.9473916263929,24.8325925000747,Arges,Înălțime,5821,,Plaiul Boi,Austriacă,Limba română
 Valea Boului,bou,3,44.8383321193937,24.6334664922381,Arges,Vale,1410,3064,Valea Boului,Geomil 25000,Limba română
-Valea Boului,bou,3,44.5342539659647,25.1887965330059,Arges,Vale,3717,,Valea Boului,PDT,Limba română,Valea Boului,Geomil 25000,Limba română
-Valea Boului,bou,3,45.183350345932,24.868189380958,Arges,Vale,11566,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,44.8576142852153,25.1958554425833,Arges,Vale,1510,,Valea Boului,Geomil 25000,Limba română
-Valea Boului,bou,3,44.8675840417322,24.7273998589136,Arges,Vale,8341,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,44.946904629244,24.6068781677526,Arges,Vale,3074,3073,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,44.5342539659647,25.1887965330059,Arges,Vale,3717,,Valea Boului,PDT,Limba română,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,44.8675840417322,24.7273998589136,Arges,Vale,8341,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,44.8919505370226,25.0388527667704,Arges,Vale,8363,8362,Valea Boului,PDT,Limba română
 Valea Boului,bou,3,45.0758469069254,24.7594692834555,Arges,Vale,9694,,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,45.183350345932,24.868189380958,Arges,Vale,11566,,Valea Boului,Geomil 25000,Limba română
 Valea Șapte Boi,bou,3,44.4501385670671,25.0356232090843,Arges,Vale,8326,,Valea Șapte Boi,PDT,Limba română
 Bourețul,boureț,4,45.5431661446992,24.8457358143648,Arges,Vale,5010,5009,Bourețul,Geomil 25000,Limba română
 Piscul Bourețului,boureț,4,45.5401079601328,24.8501975745574,Arges,Înălțime,5009,,Piscul Bourețului,Geomil 25000,Limba română
 Lanul Cotul Boilor,bou,3,46.3377905368303,27.0610016237512,Bacau,Altele,7838,,Lanul Cotul Boilor,Geomil 25000,Limba română
 Pârâul Boului,bou,3,46.4983400555741,26.3823455246392,Bacau,Vale,6546,,Pârâul Boului,PDT,Limba română
 Plaiul Arșița Boului,bou,3,46.5044858617548,26.3808523759767,Bacau,Înălțime,6548,6546,Plaiul Arșița Boului,PDT,Limba română
-Poiana Boului,bou,3,46.5457390902874,26.662265119581,Bacau,Localitate,12345,,Poiana Boului,PDT,Limba română
 Poiana Boului,bou,3,46.610940168124,26.6694358193294,Bacau,Poiană,3831,,Poiana Boului,Geomil 25000,Limba română
+Poiana Boului,bou,3,46.5457390902874,26.662265119581,Bacau,Localitate,12345,,Poiana Boului,PDT,Limba română
 Pârâul Boureilor,bourei,4,46.1649633273446,26.8485001460602,Bacau,Vale,5334,,Pârâul Boureilor,PDT,Limba română
 Curătura Boilor,bou,3,46.8077220810391,22.1431124524936,Bihor,Altele,10371,,Curătura Boilor,PDT,Limba română
 Dealu Boilor,bou,3,46.752628865378,22.4670187327122,Bihor,Deal,1006,,Dealu Boilor,Geomil 25000,Limba română
@@ -63,22 +63,22 @@ Dealu Boului,bou,3,46.881693310457,22.2890726126398,Bihor,Deal,1081,,Dealu Boulu
 Iazul Boului,bou,3,46.9953525284471,22.3210206855155,Bihor,Apă-deal-câmpie,12356,,Iazul Boului,PDT,Limba română
 Piciorul Boului,bou,3,47.1892471522227,22.4378167562566,Bihor,Înălțime,4191,,Piciorul Boului,PDT,Limba română
 Valea Boilor,bou,3,46.9794203953699,22.0525501649839,Bihor,Vale,9940,,Valea Boilor,PDT,Limba română
-Valea Boului,bou,3,46.7842701897882,22.3247861532944,Bihor,Vale,4132,,Valea Boului,PDT,Limba română
 Valea Boului,bou,3,46.5059732483429,22.397135309115,Bihor,Vale,994,,Valea Boului,Geomil 25000,Limba română
-Valea Boului,bou,3,46.8712305566171,22.0334465926478,Bihor,Vale,12367,,Valea Boului,PDT,Limba română
-Valea Boului,bou,3,46.8398222332493,22.0612925259207,Bihor,Vale,5988,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,46.8899101889031,22.0372694976554,Bihor,Vale,1083,,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,46.7842701897882,22.3247861532944,Bihor,Vale,4132,,Valea Boului,PDT,Limba română
+Valea Boului,bou,3,46.8398222332493,22.0612925259207,Bihor,Vale,5988,,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,46.8712305566171,22.0334465926478,Bihor,Vale,12367,,Valea Boului,PDT,Limba română
 Valea Boilor,bou,3,46.9461500436301,24.2793776507854,Bistrita Nasaud,Vale,5491,,Valea Boilor,Geomil 25000,Limba română
 Valea Boului,bou,3,47.3263266283514,24.8214672610163,Bistrita Nasaud,Vale,9877,,Valea Boului,Geomil 25000,Limba română
-Vârful Boului,bou,3,47.0519354190619,24.7940195416794,Bistrita Nasaud,Înălțime,11609,,Vârful Boului,Geomil 25000,Limba română
 Vârful Boului,bou,3,47.4441781370601,24.9171909577677,Bistrita Nasaud,Înălțime,9920,,Vârful Boului,Geomil 25000,Limba română
+Vârful Boului,bou,3,47.0519354190619,24.7940195416794,Bistrita Nasaud,Înălțime,11609,,Vârful Boului,Geomil 25000,Limba română
 Dealul Boului,bou,3,47.9829165206212,26.883841396484,Botosani,Deal,2406,,Dealul Boului,Geomil 25000,Limba română
 Dealul Bourașului,bou,3,47.5166690598324,26.7262570698767,Botosani,Deal,1749,,Dealul Bourașului,Geomil 25000,Limba română
 Dealul Imașul Boilor,bou,3,47.8678422755726,26.4400915292399,Botosani,Deal,1804,,Dealul Imașul Boilor,Geomil 25000,Limba română,Dealul Imașul Boilor,PDT,Limba română
 Iazul Boilor,bou,3,47.7441304183554,26.7828800682,Botosani,Apă-deal-câmpie,2419,,Iazul Boilor,Geomil 25000,Limba română
 Pădurea Boul Roșu,bou,3,47.7185464598869,27.1085579553088,Botosani,Pădure,2386,2388,Pădurea Boul Roșu,Geomil 25000,Limba română
-Valea Boul Roșu,bou,3,47.7282988233892,27.1049015978638,Botosani,Vale,2388,,Valea Boul Roșu,Geomil 25000,Limba română
 Valea Boul Roșu,bou,3,47.9682720901003,27.1088115100349,Botosani,Vale,1822,,Valea Boul Roșu,Geomil 25000,Limba română
+Valea Boul Roșu,bou,3,47.7282988233892,27.1049015978638,Botosani,Vale,2388,,Valea Boul Roșu,Geomil 25000,Limba română
 Valea Boului,bou,3,47.9805989653958,26.8689858179201,Botosani,Vale,2407,,Valea Boului,Geomil 25000,Limba română
 Valea Iazul Boilor,bou,3,47.7478278641583,26.7681646492744,Botosani,Vale,2418,2419,Valea Iazul Boilor,Geomil 25000,Limba română,Valea Iazu Boilor,PDT,Limba română
 Balta Boi Negri,bou,3,45.0700535358404,27.2527879215512,Braila,Apă-deal-câmpie,3590,,Balta Boi Negri,PDT,Limba română
@@ -87,8 +87,8 @@ Lacul Boul Roșu,bou,3,44.9376011723389,27.8735091656069,Braila,Lac,6718,,Lacul 
 Movila Bou Negru,bou,3,45.0303055985476,27.5617684544864,Braila,Înălțime,6727,,Movila Bou Negru,PDT,Limba română
 Movila Boului,bou,3,45.1288434352416,27.4463576533593,Braila,Înălțime,3603,,Movila Boului,PDT,Limba română
 Movila Boului,bou,3,44.8620463444735,27.286484821165,Braila,Înălțime,4016,,Movila Boului,Geomil 25000,Limba română,Movila Boului,PDT,Limba română
-Valea Boului,bou,3,45.2014896929583,27.1636967855531,Braila,Vale,11266,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,45.2328825979959,27.1596265595798,Braila,Vale,3583,,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,45.2014896929583,27.1636967855531,Braila,Vale,11266,,Valea Boului,Geomil 25000,Limba română
 Dealul Spinarea Boului,bou,3,45.5900191997528,25.4961427572147,Brasov,Deal,8571,,Dealul Spinarea Boului,PDT,Limba română
 Pășunatul Boilor,bou,3,45.9608332465694,24.8202911554966,Brasov,Altele,2667,,Pășunatul Boilor,Geomil 25000,Limba română
 Piciorul Boului,bou,3,45.6281816017246,25.5891652440934,Brasov,Înălțime,2779,,Piciorul Boului,Geomil 25000,Limba română
@@ -101,9 +101,9 @@ Movila Boului,bou,3,45.0064385058371,26.9791014566216,Buzau,Înălțime,3596,,Mo
 Pârâul Boului,bou,3,45.7006321304662,26.4511670205358,Buzau,Vale,2806,2805,Pârâul Boului,Geomil 25000,Limba română
 Pârâul Poiana Boului,bou,3,45.488376918997,26.7029372876621,Buzau,Vale,5235,,Pârâul Poiana Boului,Geomil 25000,Limba română
 Poiana Boului,bou,3,45.5195632956668,26.4864137654219,Buzau,Poiană,2810,,Poiana Boului,Geomil 25000,Limba română
-Valea Boului,bou,3,45.2433079490458,26.9425977505662,Buzau,Vale,8453,,Valea Boului,PDT,Limba română
-Valea Boului,bou,3,45.2641412735445,27.030780438081,Buzau,Vale,3582,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,45.2698187368169,26.9185929407662,Buzau,Vale,2086,,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,45.2641412735445,27.030780438081,Buzau,Vale,3582,,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,45.2433079490458,26.9425977505662,Buzau,Vale,8453,,Valea Boului,PDT,Limba română
 Valea Boului,bou,3,45.3849997069776,26.4070340974973,Buzau,Localitate,8770,,Valea Boului,PDT,Limba română
 Valea Gura Boului,bou,3,45.2744417142538,26.4895038904739,Buzau,Vale,6121,,Valea Gura Boului,Geomil 25000,Limba română
 Boul Mare,bou,3,44.1957866079934,27.1089257905132,Calarasi,Altele,3235,,Boul Mare,PDT,Limba română
@@ -112,10 +112,10 @@ Japșa Bou,bou,3,44.2924780991959,27.9389273716956,Calarasi,Apă-deal-câmpie,12
 Lacul Boului,bou,3,44.1674826134208,27.0160993768438,Calarasi,Lac,8465,,Lacul Boului,PDT,Limba română
 Movila Boului,bou,3,44.3487161216557,27.6023032637016,Calarasi,Înălțime,3466,,Movila Boului,Geomil 25000,Limba română
 Privalul Boului,bou,3,44.2809551175218,27.9185719081102,Calarasi,Apă-deal-câmpie,12490,,Privalul Boului,PDT,Limba română
-Puțul Boilor,bou,3,44.4240925951022,27.6471165599963,Calarasi,Altele,12419,,Puțul Boilor,PDT,Limba română
 Puțul Boilor,bou,3,44.4627620354567,27.5704553524349,Calarasi,Altele,12418,,Puțul Boilor,PDT,Limba română
-Cracu Boului,bou,3,45.6377022500385,22.3952817192439,Caras Severin,Înălțime,6088,6082,Cracu Boului,Geomil 25000,Limba română
+Puțul Boilor,bou,3,44.4240925951022,27.6471165599963,Calarasi,Altele,12419,,Puțul Boilor,PDT,Limba română
 Cracu Boului,bou,3,45.4189420391533,22.3929980852296,Caras Severin,Înălțime,1207,1206,Cracu Boului,Geomil 25000,Limba română
+Cracu Boului,bou,3,45.6377022500385,22.3952817192439,Caras Severin,Înălțime,6088,6082,Cracu Boului,Geomil 25000,Limba română
 Cracul Boului,bou,3,44.7137440550329,22.0213380465928,Caras Severin,Înălțime,8689,,Cracul Boului,PDT,Limba română
 Culmea Boului,bou,3,45.4111886305685,22.3856355651166,Caras Severin,Înălțime,1206,,Culmea Boului,Geomil 25000,Limba română
 Dealu Boului,bou,3,45.4211430612831,22.3021270212062,Caras Severin,Deal,858,,Dealu Boului,Geomil 25000,Limba română,Dealul Boului,PDT,Limba română
@@ -148,15 +148,15 @@ Grindul Boilor,bou,3,45.4519441414583,28.173774787719,Galati,Apă-deal-câmpie,1
 La Boul Negru,bou,3,45.6470655800186,27.9215633204624,Galati,Altele,11440,,La Boul Negru,Geomil 25000,Limba română
 Valea Boului,bou,3,46.0513244423523,27.3466661755519,Galati,Vale,11430,,Valea Boului,Geomil 25000,Limba română
 Culmea Boului,bou,3,45.2335814467409,23.4876118148837,Gorj,Înălțime,2921,,Culmea Boului,Geomil 25000,Limba română
-Dealul Boului,bou,3,44.8418300870562,22.9480896822894,Gorj,Deal,9771,,Dealul Boului,PDT,Limba română
 Dealul Boului,bou,3,44.6124615937059,23.6445403516201,Gorj,Deal,8280,8279,Dealul Boului,PDT,Limba română
+Dealul Boului,bou,3,44.8418300870562,22.9480896822894,Gorj,Deal,9771,,Dealul Boului,PDT,Limba română
 Pârâu Boului,bou,3,45.1991734120884,22.9295500226865,Gorj,Vale,845,844,Pârâu Boului,Geomil 25000,Limba română
 Pârâul Boului,bou,3,45.2734506475928,23.2601695969933,Gorj,Vale,12676,,Pârâul Boului,Geomil 25000,Limba română
 Poiana Boului,bou,3,45.2084853500747,22.8913550269387,Gorj,Poiană,844,,Poiana Boului,Geomil 25000,Limba română
 Urma boului,bou,3,45.2259828611094,23.4741033905559,Gorj,Altele,12101,,Urma boului,Austriacă,Limba română
+Valea Boului,bou,3,45.108172674912,23.0281083714476,Gorj,Vale,230,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,44.603564949371,23.6785442313549,Gorj,Vale,5161,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,44.6066377897375,23.623801945559,Gorj,Localitate,8278,8279,Valea Boului,PDT,Limba română
-Valea Boului,bou,3,45.108172674912,23.0281083714476,Gorj,Vale,230,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,44.6042342495416,23.6295385031576,Gorj,Vale,8279,,Valea Boului,Geomil 25000,Limba română
 Culmea Boului,bou,3,46.9956863366871,25.3645790044443,Harghita,Înălțime,5419,,Culmea Boului,Geomil 25000,Limba română
 Dealul Boului,bou,3,47.0341898766782,25.3070835343657,Harghita,Deal,13404,,Dealul Boului,Imperiul Habsburgic (1887),Limba română
@@ -164,17 +164,17 @@ Muntele Smida Boului,bou,3,47.0858907586367,25.5316736834503,Harghita,Înălțim
 Vârful Smida Boului,bou,3,47.0755709205302,25.5211132371609,Harghita,Înălțime,2077,,Vârful Smida Boului,Geomil 25000,Limba română
 Câmpu Boului,bou,3,45.8035114167591,23.2146956388094,Hunedoara,Câmp,9845,,Câmpu Boului,Geomil 25000,Limba română
 Dealul Boului,bou,3,45.4919850384277,23.3819502307207,Hunedoara,Deal,1129,1130,Dealul Boului,Geomil 25000,Limba română
-Dealul Boului,bou,3,46.1312767188749,23.0036448985704,Hunedoara,Deal,11329,,Dealul Boului,Geomil 25000,Limba română
 Dealul Boului,bou,3,45.515237498973,22.8048381936769,Hunedoara,Deal,5564,,Dealul Boului,PDT,Limba română
 Dealul Boului,bou,3,46.1562905025375,22.9707019217293,Hunedoara,Deal,9400,,Dealul Boului,PDT,Limba română
+Dealul Boului,bou,3,46.1312767188749,23.0036448985704,Hunedoara,Deal,11329,,Dealul Boului,Geomil 25000,Limba română
 Fața Boului,bou,3,46.127925806466,22.9842005844199,Hunedoara,Înălțime,11328,11329,Fața Boului,Geomil 25000,Limba română
 Locu Boilor,bou,3,45.8573740058935,23.0270762485483,Hunedoara,Altele,9849,,Locu Boilor,PDT,Limba română
 Muncelul Boului,bou,3,45.508529019175,23.37922509936,Hunedoara,Înălțime,1130,,Muncelul Boului,Geomil 25000,Limba română
 Pârâu Boului,bou,3,45.810536829462,22.6901165983668,Hunedoara,Vale,4289,,Pârâu Boului,Geomil 25000,Limba română
 Pârâul Boului,bou,3,45.492411871006,23.3579946850217,Hunedoara,Vale,12976,1130,Pârâul Boului,Geomil 25000,Limba română
-Valea Boului,bou,3,46.1368313155908,23.0013007275262,Hunedoara,Vale,11327,11329,Valea Boului,Geomil 25000,Limba română
-Valea Boului,bou,3,45.5992302449413,22.7212426165193,Hunedoara,Vale,10799,,Valea Boului,Imperiul Habsburgic (1887),Limba română
 Valea Boului,bou,3,46.0133418505643,22.5739039744212,Hunedoara,Vale,9007,,Valea Boului,PDT,Limba română
+Valea Boului,bou,3,45.5992302449413,22.7212426165193,Hunedoara,Vale,10799,,Valea Boului,Imperiul Habsburgic (1887),Limba română
+Valea Boului,bou,3,46.1368313155908,23.0013007275262,Hunedoara,Vale,11327,11329,Valea Boului,Geomil 25000,Limba română
 Valea Gura Boului,bou,3,46.0331524505613,22.567092581769,Hunedoara,Vale,9005,6222,Valea Gura Boului,Geomil 25000,Limba română
 Vârfu Boului,bou,3,46.0358550764866,22.5259653244306,Hunedoara,Înălțime,6222,,Vârfu Boului,Geomil 25000,Limba română
 Vârful Boilor,bou,3,46.0703906364054,22.9965716624725,Hunedoara,Înălțime,9399,,Vârful Boilor,PDT,Limba română
@@ -188,9 +188,9 @@ Valea Boului,bou,3,47.3873662344376,27.1495113052461,Iasi,Vale,2439,,Valea Boulu
 Valea Boului,bou,3,44.7383598009509,26.156110511711,Ilfov,Vale,41,,Valea Boului,PDT,Limba română
 D. Boului,bou,3,47.6947168036323,24.5662853022238,Maramures,Deal,10268,,D. Boului,Ungară 1869,Limba română
 Fața Boului,bou,3,47.7265269650678,24.8650115532448,Maramures,Înălțime,4536,,Fața Boului,Geomil 25000,Limba română
-Valea Boului,bou,3,47.7238472913625,24.5453170072846,Maramures,Vale,10270,10268,Valea Boului,Geomil 25000,Limba română
-Valea Boului,bou,3,47.4202583645583,24.0224871607264,Maramures,Vale,4440,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,47.3826492518409,23.555403324877,Maramures,Vale,4433,,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,47.4202583645583,24.0224871607264,Maramures,Vale,4440,,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,47.7238472913625,24.5453170072846,Maramures,Vale,10270,10268,Valea Boului,Geomil 25000,Limba română
 Valea Izvorul Boului,bou,3,47.7318123443559,24.8674934464691,Maramures,Vale,4535,4536,Valea Izvorul Boului,Geomil 25000,Limba română
 Coasta Boului,bou,3,46.9631627162947,24.8628540931243,Mures,Înălțime,11613,,Coasta Boului,Geomil 25000,Limba română
 Tăul Boilor,bou,3,46.669651829514,24.2656063055351,Mures,Altele,11759,,Tăul Boilor,Geomil 25000,Limba română
@@ -205,15 +205,15 @@ Piciorul Boului,bou,3,47.2117873221605,25.8473685103748,Neamt,Înălțime,2069,6
 Poiana Ceairul Boilor,bou,3,47.1836788847898,26.2400701079314,Neamt,Poiană,668,,Poiana Ceairul Boilor,Geomil 25000,Limba română
 Dealul Boului,bou,3,44.4527602733442,23.9628530237355,Olt,Deal,2965,2966,Dealul Boului,Geomil 25000,Limba română,Dealul Boului,PDT,Limba română
 mâg. Boului,bou,3,44.2468292488974,24.5430058315708,Olt,Înălțime,5804,,mâg. Boului,Austriacă,Limba română
-Măgura Boului,bou,3,43.7736876694459,24.2543052963655,Olt,Înălțime,3792,,Măgura Boului,Geomil 25000,Limba română
 Măgura Boului,bou,3,44.2221826164709,24.5477606903365,Olt,Înălțime,2984,,Măgura Boului,Geomil 25000,Limba română
+Măgura Boului,bou,3,43.7736876694459,24.2543052963655,Olt,Înălțime,3792,,Măgura Boului,Geomil 25000,Limba română
 Pădurea Boului,bou,3,44.3807861210904,24.3731757591585,Olt,Pădure,12533,,Pădurea Boului,PDT,Limba română
 Valea Boului,bou,3,44.448613483286,23.9716012511853,Olt,Vale,2966,,Valea Boului,Geomil 25000,Limba română
 La Boul Negru,bou,3,46.1113575943105,27.1305952807025,Prahova,Altele,1730,,La Boul Negru,Geomil 25000,Limba română,La Boul Negru,PDT,Limba română
 Valea Boulețului,bou,3,45.3392090670976,25.9520935932234,Prahova,Vale,1573,,Valea Boulețului,Geomil 25000,Limba română
 Valea Boului,bou,3,45.1131088565058,26.2468389479093,Prahova,Localitate,29,,Valea Boului,PDT,Limba română,Valea Boului,Austriacă,Limba română,Валя-Боууй (Valea Boului),Sovietică,Limba română
-Valea Boului,bou,3,45.093355840859,25.9346945472204,Prahova,Vale,2825,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,45.1147052406284,26.2610011185899,Prahova,Vale,30,29,Valea Boului,PDT,Limba română,дол. Боу (valea Bou),Sovietică,Limba română
+Valea Boului,bou,3,45.093355840859,25.9346945472204,Prahova,Vale,2825,,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,45.1042879693967,25.7916809557709,Prahova,Vale,8840,,Valea Boului,PDT,Limba română
 Dealu Boului,bou,3,47.0117905709683,22.9350541048654,Salaj,Deal,1050,,Dealu Boului,Geomil 25000,Limba română
 Dealu Boului,bou,3,47.0624002855455,22.8713577206418,Salaj,Deal,5931,,Dealu Boului,Geomil 25000,Limba română,Dealul Boului,PDT,Limba română
@@ -221,8 +221,8 @@ Dealu Boului,bou,3,47.1736001392987,22.6155134855068,Salaj,Deal,7578,,Dealu Boul
 Dealul Boilor,bou,3,47.2216490835821,23.4234651589915,Salaj,Deal,9934,,Dealul Boilor,PDT,Limba română
 Dealul Boului,bou,3,47.0320635345475,22.719696573116,Salaj,Deal,11856,,Dealul Boului,PDT,Limba română
 Staulul Boilor,bou,3,47.387144541437,22.9292188028567,Salaj,Altele,12513,,Staulul Boilor,PDT,Limba română
-Valea Boului,bou,3,47.042368539794,22.859334299461,Salaj,Vale,7535,5931,Valea Boului,Geomil 25000,Limba română,Valea Boului,PDT,Limba română
 Valea Boului,bou,3,47.0445898612646,22.7233255604863,Salaj,Vale,1063,11856,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,47.042368539794,22.859334299461,Salaj,Vale,7535,5931,Valea Boului,Geomil 25000,Limba română,Valea Boului,PDT,Limba română
 Dealu Bouraș,bouraș,4,47.1341330204755,22.8404968406944,Salaj,Deal,5929,,Dealu Bouraș,Geomil 25000,Limba română
 Ferma Boilor,bou,3,47.6266716716653,22.549489417859,Satu Mare,Altele,11979,,Ferma Boilor,Geomil 25000,Limba română
 Pășunea Boilor,bou,3,47.7095360718374,22.773109971389,Satu Mare,Altele,6964,,Pășunea Boilor,Geomil 25000,Limba română
@@ -239,9 +239,9 @@ Boul,bou,3,47.4776955469328,25.6641323611653,Suceava,Vale,10743,,Boul,Geomil 250
 Boul,bou,3,47.9011263658395,25.5233920829676,Suceava,Vale,10775,,Boul,Geomil 25000,Limba română
 Dealul Boul Mic,bou,3,47.8696889364298,25.5012200470687,Suceava,Deal,2291,,Dealul Boul Mic,Geomil 25000,Limba română
 Obcina Boului,bou,3,47.4789553661669,25.6544688896519,Suceava,Înălțime,10742,10743,Obcina Boului,Geomil 25000,Limba română
-Părâul Boului,bou,3,47.6313177433535,25.5481733449668,Suceava,Vale,10768,1854,Părâul Boului,Imperiul Habsburgic (1887),Limba română
 Pârâul Boului,bou,3,47.7139985353888,26.3154020330263,Suceava,Vale,7273,,Pârâul Boului,PDT,Limba română
 Părâul Boului,bou,3,47.7740187102715,25.7289028878213,Suceava,Vale,10762,10761,Părâul Boului,Imperiul Habsburgic (1887),Limba română
+Părâul Boului,bou,3,47.6313177433535,25.5481733449668,Suceava,Vale,10768,1854,Părâul Boului,Imperiul Habsburgic (1887),Limba română
 Poeana Boilor,bou,3,47.1885521222275,25.221851045054,Suceava,Poiană,11725,,Poeana Boilor,Imperiul Habsburgic (1887),Limba română
 Poiana Boului,bou,3,47.1657976943296,25.6871322407187,Suceava,Poiană,6423,,Poiana Boului,PDT,Limba română
 Runcul Boului,bou,3,47.6416027025282,25.5469228424148,Suceava,Altele,1854,,Runcul Boului,Geomil 25000,Limba română
@@ -255,27 +255,27 @@ Piatra Boului,bou,3,45.0320609846789,28.8493318043745,Tulcea,Înălțime,11076,,
 Culmea Boului,bou,3,44.9671869799223,24.6082558645918,Valcea,Înălțime,4769,,Culmea Boului,Geomil 25000,Limba română
 Dealu Piscu Bou,bou,3,44.7821019625729,24.1763120933859,Valcea,Deal,368,,Dealu Piscu Bou,Geomil 25000,Limba română
 Dealul Bou,bou,3,45.3077336907566,24.4705607535377,Valcea,Deal,1441,,Dealul Bou,Geomil 25000,Limba română
-Dealul Boului,bou,3,45.0357529922477,24.4163561221318,Valcea,Deal,334,,Dealul Boului,Geomil 25000,Limba română
 Dealul Boului,bou,3,45.0130035303923,24.4055822701913,Valcea,Deal,333,,Dealul Boului,Geomil 25000,Limba română
+Dealul Boului,bou,3,45.0357529922477,24.4163561221318,Valcea,Deal,334,,Dealul Boului,Geomil 25000,Limba română
 Dealul Iazul Boilor,bou,3,46.7939641438148,27.6495669496957,Vaslui,Deal,14143,,Dealul Iazul Boilor,Geomil 25000,Limba română
 La Cotul Boilor,bou,3,46.650611459984,28.1942870087686,Vaslui,Apă-deal-câmpie,12291,,La Cotul Boilor,Geomil 25000,Limba română
 Movila Boului,bou,3,46.7021630616369,27.7779260449828,Vaslui,Înălțime,2459,,Movila Boului,Geomil 25000,Limba română
 Boul,bou,3,46.0517148812349,27.0915325692825,Vrancea,Localitate,9185,,Boul,PDT,Limba română
 Culmea Boului,bou,3,45.7589756056054,26.5887861127526,Vrancea,Înălțime,784,,Culmea Boului,Geomil 25000,Limba română
 Dealul Boului,bou,3,45.6773462163583,26.6550397472095,Vrancea,Deal,2108,,Dealul Boului,Geomil 25000,Limba română
-Dealul Boului,bou,3,46.042437169084,26.702535653864,Vrancea,Deal,9209,,Dealul Boului,PDT,Limba română
 Dealul Boului,bou,3,45.7998183170292,26.8067808719314,Vrancea,Deal,7907,,Dealul Boului,Geomil 25000,Limba română
+Dealul Boului,bou,3,46.042437169084,26.702535653864,Vrancea,Deal,9209,,Dealul Boului,PDT,Limba română
 Fântâna Boilor,bou,3,45.5577191547411,27.3299310822877,Vrancea,Altele,3546,,Fântâna Boilor,PDT,Limba română
 Groapa Boului,bou,3,45.9424035285516,26.85565778864,Vrancea,Altele,12261,,Groapa Boului,Geomil 25000,Limba română
 La Boul Roșu,bou,3,45.8705585862821,26.9535005714145,Vrancea,Altele,5276,,La Boul Roșu,Geomil 25000,Limba română
 Movila Boului,bou,3,45.7582394821106,27.2299557606475,Vrancea,Înălțime,2161,,Movila Boului,Geomil 25000,Limba română
-Pârâul Boului,bou,3,45.7970911568626,26.8132195842498,Vrancea,Vale,7908,7907,Pârâul Boului,Geomil 25000,Limba română
-Pârâul Boului,bou,3,45.8438069124732,26.5701388660761,Vrancea,Vale,2125,2124,Pârâul Boului,Geomil 25000,Limba română
 Pârâul Boului,bou,3,45.7613469686017,26.5893664596199,Vrancea,Vale,785,784,Pârâul Boului,Geomil 25000,Limba română
+Pârâul Boului,bou,3,45.8438069124732,26.5701388660761,Vrancea,Vale,2125,2124,Pârâul Boului,Geomil 25000,Limba română
+Pârâul Boului,bou,3,45.7970911568626,26.8132195842498,Vrancea,Vale,7908,7907,Pârâul Boului,Geomil 25000,Limba română
 Pârâul de la Fundu Boului,bou,3,45.8511920948041,26.5809770008694,Vrancea,Vale,2122,2124,Pârâul de la Fundu Boului,Geomil 25000,Limba română
 Piscul Boului,bou,3,45.8437767789602,26.5776302042636,Vrancea,Înălțime,2124,,Piscul Boului,Geomil 25000,Limba română
 Poienile Boului,bou,3,46.0380866733123,26.6961523993776,Vrancea,Poiană,9208,9209,Poienile Boului,Geomil 25000,Limba română,Poiana Boului,PDT,Limba română
 Valea Bou,bou,3,46.0407808729517,27.1376073008891,Vrancea,Vale,9187,9185,Valea Bou,PDT,Limba română
-Valea Boului,bou,3,46.0458528915204,26.6883447297142,Vrancea,Vale,9210,9209,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,46.0362321976119,27.1652941098801,Vrancea,Vale,5280,,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,46.0458528915204,26.6883447297142,Vrancea,Vale,9210,9209,Valea Boului,Geomil 25000,Limba română
 Valea Boului,bou,3,45.663765247893,26.6627003991866,Vrancea,Vale,11311,2108,Valea Boului,Geomil 25000,Limba română
