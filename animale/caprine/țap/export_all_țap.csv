@@ -1,9 +1,11 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
 Valea Țapului,țap,3,46.0479073279778,24.0301871850217,Alba,Vale,2552,,Valea Țapului,Geomil 25000,Limba română,Valea Țapului,PDT,Limba română
+Dealul Țapului,țap,3,46.1501200332379,22.2698430202998,Arad,Deal,14273,14274,Dealul Țapului,ANCPI,Limba română
 La Țapi,țap,3,46.3844371489444,22.3784555386093,Arad,Altele,5609,,La Țapi,Geomil 25000,Limba română
 Pârâu Țapilor,țap,3,46.3870631876006,22.3843598874903,Arad,Vale,5610,5609,Pârâu Țapilor,Geomil 25000,Limba română
 Pârâu Țapului,țap,3,46.4472255504286,22.1390021349698,Arad,Vale,975,,Pârâu Țapului,Geomil 25000,Limba română
 Valea Țapului,țap,3,45.9898802071055,21.625040928478,Arad,Vale,10354,,Valea Țapului,Geomil 25000,Limba română
+Vârful Țapului,țap,3,46.1491237403185,22.267159489733,Arad,Înălțime,14274,,Vârful Țapului,ANCPI,Limba română,Vurvu Tzapu,Ungară 1869,Limba română
 Dealul Țapului,țap,3,46.5946055958488,27.0279234447354,Bacau,Deal,7814,,Dealul Țapului,Geomil 25000,Limba română
 Pârâul Țapului,țap,3,46.3585131674073,26.3134791714582,Bacau,Vale,12777,12776,Pârâul Țapului,PDT,Limba română
 Plaiul Țapului,țap,3,46.3599042357175,26.3202971089752,Bacau,Înălțime,12776,,Plaiul Țapului,PDT,Limba română,Plaiul Țapului,Geomil 25000,Limba română

@@ -1,6 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3,Nume 4,Hartă 4,Limbă 4
 Castelul Tetuchi,castel,2,45.9440249348918,23.7449165943342,Alba,Altele,5545,,Castelul Tetuchi,PDT,Limba română
-Valea Castelului,castel,2,46.2679622423766,23.6857497339222,Alba,Vale,4391,,Valea Castelului,Geomil 25000,Limba română
+La Castel,castel,2,46.2628819435479,23.6924444326405,Alba,Altele,14277,,La Castel,PDT,Limba română
+Valea Castelului,castel,2,46.2679622423766,23.6857497339222,Alba,Vale,4391,14277,Valea Castelului,Geomil 25000,Limba română
 Cetate,cetate,2,46.4006191538067,23.5860283458231,Alba,Înălțime,13838,,Cetate,Transilvania (1869-1870),Limba română
 Cetatea de Baltă,cetate,2,46.2485573586587,24.1684343447591,Alba,Localitate,7352,,Cetatea de Baltă,Geomil 25000,Limba română
 Cetatea Trascăului,cetate,2,46.4250719985626,23.5439815755374,Alba,Altele,1930,,Cetatea Trascăului,Geomil 25000,Limba română

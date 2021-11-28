@@ -16,6 +16,7 @@ Cicera,cicera,3,46.5355205834862,22.9947650311729,Alba,Înălțime,13885,,Cicera
 Cicera Neagra,cicera,3,46.3490497639647,23.33231359063,Alba,Înălțime,13697,,Cicera Neagra,Transilvania (1869-1870),Limba română
 Pârâu Cicerii,cicera,3,46.5311520113242,23.011621898351,Alba,Vale,13886,13885,Pârâu Cicerii,Geomil 25000,Limba română
 Vârful Cichera,cichera,3,46.2094337728013,23.2999910384207,Alba,Înălțime,13471,,Vârful Cichera,PDT,Limba română
+Dealul Citara Puțului,citară,4,46.4265711889329,23.395860087359,Alba,Deal,14275,,Dealul Citara Puțului,ANCPI,Limba română
 Citera,citeră,3,46.3170365149953,23.2651135598547,Alba,Înălțime,13693,,Citera,Imperiul Habsburgic (1887),Limba română,Citera,Transilvania (1869-1870),Limba română
 Citera,citeră,3,46.3504034856452,22.9965335061573,Alba,Înălțime,13960,,Citera,Imperiul Habsburgic (1887),Limba română
 Citera Bimbu,citeră,3,46.4017159034841,23.0110048098899,Alba,Înălțime,14038,,Citera Bimbu,Transilvania (1869-1870),Limba română
@@ -161,8 +162,6 @@ Valea Muerei,muiere,2,44.9718718788737,25.0495692192132,Arges,Vale,10158,,Valea 
 Valea Muerei,muiere,2,45.0369164626887,25.0796372828017,Arges,Vale,14174,,Valea Muerei,PDT,Limba română
 Valea Muierii,muiere,2,45.4293060596665,25.2357943410126,Arges,Vale,6870,6869,Valea Muierii,PDT,Limba română
 Preluca Morii,prelucă,2,45.3203234642197,24.5175780169049,Arges,Altele,13460,,Preluca Morii,Geomil 25000,Limba română
-Cracul Repede,repede,3,45.451739708518,24.4749846938348,Arges,Înălțime,10193,,Cracul Repede,Geomil 25000,Limba română
-Piscul Repede,repede,3,45.5485911286665,24.8034107250981,Arges,Înălțime,13636,,Piscul Repede,Geomil 25000,Limba română
 Golul de Munte Voevoda,voevoda,3,45.4052419427365,24.9634782526566,Arges,Înălțime,5003,5001,Golul de Munte Voevoda,Geomil 25000,Limba română
 Piscul Voevoda,voevoda,3,45.3874504453043,24.9558759468945,Arges,Înălțime,5001,,Piscul Voevoda,Geomil 25000,Limba română
 Culmea Caprei Voievozi,voievozi,2,45.3867214187233,24.9466213655926,Arges,Înălțime,5002,5001,Culmea Caprei Voievozi,Geomil 25000,Limba română
@@ -194,8 +193,6 @@ Pârâul Păcurei,păcură,2,46.4376342767164,26.4870743006623,Bacau,Vale,7937,,
 Păcurița,păcuriță,3,46.2791053536623,26.5036483884627,Bacau,Vale,12940,,Păcurița,Geomil 25000,Limba română
 Preluca Tâlharului,prelucă,2,46.5658964092969,26.2557255667519,Bacau,Înălțime,13116,,Preluca Tâlharului,Geomil 25000,Limba română
 Preluci,preluci,3,46.456209805389,26.2741784844341,Bacau,Localitate,13041,,Preluci,Geomil 25000,Limba română
-Pârâul Repede,repede,3,46.5918243759661,26.1454032746466,Bacau,Vale,12937,,Pârâul Repede,Geomil 25000,Limba română
-Pârâul Repedea,repedea,2,46.459421462678,27.2631425809953,Bacau,Vale,13578,,Pârâul Repedea,Moldova (1892-1898),Limba română
 Pârâul Smida Palăncei,smidă,2,46.5528102387672,26.1267130712007,Bacau,Vale,6531,,Pârâul Smida Palăncei,PDT,Limba română
 Piciorul Smida Porcarului,smidă,2,46.639149011422,26.3895173108256,Bacau,Înălțime,9157,,Pârâul Smida Porcarului,PDT,Limba română
 Poiana Smida Mare,smidă,2,46.4736672573516,26.1602546808103,Bacau,Poiană,4551,,Poiana Smida Mare,Geomil 25000,Limba română
@@ -307,11 +304,6 @@ Pârâul Prelucilor,preluci,3,47.5558364975397,24.9838237517365,Bistrita Nasaud,
 Poeana Prelucilor,preluci,3,47.1633905242859,25.0009644394834,Bistrita Nasaud,Poiană,13393,,Poeana Prelucilor,Imperiul Habsburgic (1887),Limba română
 Poiana Prelucilor,preluci,3,47.193235644017,25.0509704534443,Bistrita Nasaud,Poiană,13140,,Poiana Prelucilor,Geomil 25000,Limba română
 Prelucile Gaja,preluci,3,47.5264941588385,24.9165907391041,Bistrita Nasaud,Înălțime,13826,,Prelucile Gaja,Geomil 25000,Limba română
-Dealul dintre Repede,repede,3,47.1264596965078,24.8850202318703,Bistrita Nasaud,Deal,10022,9889,Dealul dintre Repede,Geomil 25000,Limba română
-Valea Repede,repede,3,47.5685691399604,24.4575707192065,Bistrita Nasaud,Vale,4490,,Valea Repede,Geomil 25000,Limba română
-Vârful Repede,repede,3,47.5547915568351,24.6636929956072,Bistrita Nasaud,Înălțime,6356,11156,Vârful Repede,PDT,Limba română
-Repedea,repedea,2,47.1608034770385,24.8700571926814,Bistrita Nasaud,Vale,9889,,Repedea,Geomil 25000,Limba română,Valea Repedele,PDT,Limba română
-Poiana dnitre Repezele,repedele,3,47.1158068976513,24.8920132102404,Bistrita Nasaud,Poiană,10026,9889,Poiana dnitre Repezele,PDT,Limba română
 Piciorul Sâmnida,sâmnidă,3,47.4434684075822,24.7311736657798,Bistrita Nasaud,Înălțime,13136,,Piciorul Sâmnida,Geomil 25000,Limba română
 Poiana Sâmnida,sâmnidă,3,47.3607221776495,24.7215141897269,Bistrita Nasaud,Poiană,13135,,Poiana Sâmnida,Geomil 25000,Limba română
 Valea Simidi,simidă,3,47.3295831313074,24.5917908554735,Bistrita Nasaud,Vale,10645,,Valea Simidi,Imperiul Habsburgic (1887),Limba română
@@ -356,9 +348,6 @@ Dealul Zepodi,zepodia,3,46.873975713774,24.3238472061989,Bistrita Nasaud,Deal,13
 Dealul Zepodie,zepodia,3,46.9467305431215,24.313315675809,Bistrita Nasaud,Deal,10579,,Dealul Zepodie,Imperiul Habsburgic (1887),Limba română
 Tarlaua Zăpodiei,zăpodie,2,47.723022409095,27.216995493192,Botosani,Altele,2425,,Tarlaua Zăpodiei,Geomil 25000,Limba română
 Valea la Trei Muieri,muieri,3,44.9325709955514,27.2924409650888,Braila,Vale,3186,,Valea la Trei Muieri,Geomil 25000,Limba română,Valea la Trei Muieri,PDT,Limba română
-Căținul Repejoara,repejoara,3,44.9921033317641,28.0155720874128,Braila,Apă-deal-câmpie,6712,6713,Căținul Repejoara,PDT,Limba română
-Grindul Repejoarei,repejoara,3,44.9961742105883,28.0304395742322,Braila,Înălțime,6713,,Grindul Repejoarei,PDT,Limba română
-Privalul Repejoarei,repejoara,3,44.9979237188622,28.0401641089033,Braila,Apă-deal-câmpie,6714,6713,Privalul Repejoarei,PDT,Limba română
 Valea Chicera,chicera,3,45.5757916304032,25.2604871041127,Brasov,Vale,14258,,Valea Chicera,Geomil 25000,Limba română
 Chiciora,chiciora,2,45.7158972036332,25.1006279559266,Brasov,Înălțime,13473,,Chiciora,Imperiul Habsburgic (1887),Limba română
 Pârâul Chiciora,chiciora,2,45.6024166891825,25.2883455969922,Brasov,Vale,14164,,Pârâul Chiciora,PDT,Limba română
@@ -368,8 +357,6 @@ Vârful Chiciurii,chiciura,3,45.7849391273723,25.2419242766006,Brasov,Înălțim
 La Lespezi,lespezi,2,45.5329607326291,25.2823340329885,Brasov,Altele,12962,,La Lespezi,Geomil 25000,Limba română
 Culmea Calea Muierii,muiere,2,45.6245914885613,25.8075291306597,Brasov,Înălțime,6049,,Culmea Calea Muierii,Geomil 25000,Limba română
 Valea Muerei,muiere,2,45.4657095700593,25.2112317219399,Brasov,Vale,6862,,Valea Muerei,PDT,Limba română,Valea Muierii,Geomil 25000,Limba română
-Muchia Repede,repede,3,45.5790537834592,25.1333104688099,Brasov,Înălțime,11253,11252,Muchia Repede,Geomil 25000,Limba română
-Valea Repede,repede,3,45.5790425744542,25.1380288222064,Brasov,Vale,11252,,Valea Repede,Geomil 25000,Limba română
 Plaiul Smidei,smidă,2,45.658785036045,24.8638323211931,Brasov,Înălțime,9688,,Plaiul Smidei,Geomil 25000,Limba română
 Poiana Smidei,smidă,2,45.6646048481234,24.8569624329593,Brasov,Poiană,4954,9688,Poiana Smidei,Geomil 25000,Limba română,Poiana Smidei,PDT,Limba română
 Smida,smidă,2,45.6713341388304,24.9075607942873,Brasov,Înălțime,10526,,Smida,Imperiul Habsburgic (1887),Limba română
@@ -394,8 +381,6 @@ Valea Păcura,păcură,2,45.1545524801538,26.6364586243086,Buzau,Vale,3963,,Vale
 M. Sapodi,zăpodie,2,45.3590836245037,26.5013646849175,Buzau,Înălțime,5763,,M. Sapodi,Austriacă,Limba română
 Zăpodia,zăpodie,2,45.3654244477355,26.5219199314714,Buzau,Localitate,5762,5763,Zăpodia,Geomil 25000,Limba română
 Pavlicheni,pavlicheni,3,44.3818958300439,26.6685685809829,Calarasi,Cătun,3280,,Pavlicheni,PDT,Limba română
-Privalul Repede,repede,3,44.297693587227,27.8351366562267,Calarasi,Apă-deal-câmpie,3458,,Privalul Repede,PDT,Limba română
-Repedele,repedele,3,44.0937848885438,26.5221390438063,Calarasi,Apă-deal-câmpie,3767,,Repedele,PDT,Limba română
 Mov. Voiwoda,voivoda,3,44.2656614287245,26.9564887081509,Calarasi,Înălțime,8462,8461,Mov. Voiwoda,Austriacă,Limba română
 Padurea Voiwoda,voivoda,3,44.2536431779224,26.9888741891528,Calarasi,Pădure,8461,,Padurea Voiwoda,Austriacă,Limba română
 Cracul cu Aur,aur,2,45.3403018094674,21.7403398157853,Caras Severin,Vale,4320,,Cracul cu Aur,PDT,Limba română
@@ -422,7 +407,6 @@ Poiana Preluca,prelucă,2,45.0432368758973,22.0432531680294,Caras Severin,Poian�
 Poiana Preluca Craiovei,prelucă,2,45.1052537687494,22.0932989777012,Caras Severin,Poiană,13480,,Poiana Preluca Craiovei,PDT,Limba română
 Preluca,prelucă,2,45.2242327350747,22.1952631352873,Caras Severin,Altele,13350,,Preluca,Geomil 25000,Limba română
 Preluca Sudoarei,prelucă,2,45.1464686017335,22.15992144933,Caras Severin,Altele,13479,,Preluca Sudoarei,PDT,Limba română
-Pârâu Ogașu Repede,repede,3,44.8884388161254,22.3024148277938,Caras Severin,Vale,5728,,Pârâu Ogașu Repede,Geomil 25000,Limba română
 Dealul Șmidea,șmidă,3,45.4390276699651,21.9412560132422,Caras Severin,Deal,9424,,Dealul Șmidea,Geomil 25000,Limba română
 Smida,smidă,2,45.4457960634989,21.7710243124243,Caras Severin,Înălțime,5689,,Smida,Geomil 25000,Limba română
 Smida,smidă,2,45.484508658844,21.8042441659145,Caras Severin,Altele,6195,,Smida,PDT,Limba română
@@ -536,12 +520,8 @@ Dealul Chicirei,chicira,4,46.0425210100604,27.9800994021216,Galati,Deal,13536,,D
 Pădurea Chineja,chinejă,3,45.9252338110815,27.9296882127122,Galati,Pădure,10908,7371,Pădurea Chineja,Geomil 25000,Limba română
 Valea Chinejei,chinejă,3,46.0469395951989,27.9125820756041,Galati,Vale,7371,,Valea Chinejei,Geomil 25000,Limba română
 Dealul Nedeia,nedeia,2,45.9652424029479,27.865045541157,Galati,Deal,9747,,Dealul Nedeia,Geomil 25000,Limba română
-Grindul Repedea,repedea,2,45.6380494682995,28.0941226498288,Galati,Apă-deal-câmpie,10906,,Grindul Repedea,Geomil 25000,Limba română
 Züpodie Bach (Valea Zăpodiei),zăpodie,2,46.2942882335984,27.1375843142445,Galati,Vale,12259,,Züpodie Bach (Valea Zăpodiei),Moldova (1788-1790),Limba germană
 Pădurea Muierea,muiere,2,44.303141980121,25.8260795827782,Giurgiu,Pădure,1330,,Pădurea Muierea,Geomil 25000,Limba română
-Laku Repede,repede,3,43.7613401189933,25.8238889397006,Giurgiu,Lac,5741,,Laku Repede,Austriacă,Limba română
-Privalu Repedea,repedea,2,43.9638004356404,26.0776781379162,Giurgiu,Apă-deal-câmpie,9995,,Privalu Repedea,Geomil 25000,Limba română
-Privalul Repedea,repedea,2,43.994608309331,26.0791394169406,Giurgiu,Apă-deal-câmpie,11177,,Privalul Repedea,ANCPI,Limba română
 Chicera Târbanu,chicera,3,45.2773260772206,23.0974830560835,Gorj,Înălțime,13684,,Chicera Târbanu,Geomil 25000,Limba română
 Chiciora,chiciora,2,44.6222043709025,23.5727386389627,Gorj,Localitate,13049,,Chiciora,Geomil 25000,Limba română
 Chiciura Mocirlii,chiciura,3,45.2247154310812,23.4723945117047,Gorj,Înălțime,13808,,Chiciura Mocirlii,Geomil 25000,Limba română
@@ -552,7 +532,6 @@ Valea Muierii,muiere,2,45.0081559426429,23.1304485575616,Gorj,Vale,10335,,Valea 
 La Nedei,nedei,3,45.3221584822645,23.8418705988198,Gorj,Înălțime,2929,,La Nedei,Geomil 25000,Limba română
 Vârfu Nedeilor,nedei,3,45.2354862000767,22.9550852129026,Gorj,Înălțime,11579,,Vârfu Nedeilor,Geomil 25000,Limba română
 Pârâu Nedeia,nedeia,2,45.2205827441691,22.9555580746596,Gorj,Vale,13429,11579,Pârâu Nedeia,Geomil 25000,Limba română
-Pârâul Repede,repede,3,45.2332850658552,23.3845977729968,Gorj,Vale,12673,,Pârâul Repede,Geomil 25000,Limba română
 Dealu Smida,smidă,2,44.8272362500475,23.256341096968,Gorj,Deal,12186,,Dealu Smida,Geomil 25000,Limba română
 Valea Voievoada,voevoda,3,44.7441262084358,23.6649548931351,Gorj,Vale,5145,,Valea Voievoada,Geomil 25000,Limba română
 Matca Voievozilor,voievozi,2,44.7523827824812,23.664385549264,Gorj,Vale,5146,,Matca Voievozilor,Geomil 25000,Limba română
@@ -650,7 +629,6 @@ Gura Zapodii,zapodie,3,45.6383011575747,22.9058821785835,Hunedoara,Înălțime,9
 Vârful Zapozii,zapodie,3,46.1775539548347,23.0206851680517,Hunedoara,Înălțime,13961,,Vârful Zapozii,PDT,Limba română
 Zăpodia,zăpodie,2,45.7285478836993,23.1468742765622,Hunedoara,Înălțime,5554,,Zăpodia,PDT,Limba română
 Popina cu Morminte,morminte,3,44.605300925568,27.8638882229587,Ialomita,Înălțime,11622,,Popina cu Morminte,Geomil 25000,Limba română
-Repedele,repedele,3,44.6022260786008,27.9308613871267,Ialomita,Altele,11623,,Repedele,Geomil 25000,Limba română
 Dealul Chicera,chicera,3,47.1793401492752,26.7025187261658,Iasi,Deal,13556,,Dealul Chicera,Geomil 25000,Limba română
 Dealul Chicerei,chicera,3,46.9929084592118,27.4855073927049,Iasi,Deal,13555,,Dealul Chicerei,Geomil 25000,Limba română
 Chicerea,chicerea,4,47.1054734343512,27.7453028364447,Iasi,Localitate,13552,,Chicerea,Geomil 25000,Limba română
@@ -706,12 +684,6 @@ Preluka Zamen,prelucă,2,47.605713160557,24.9390105856571,Maramures,Altele,13903
 Prelucile,preluci,3,47.6111413677464,24.6692071765377,Maramures,Altele,13021,,Prelucile,Geomil 25000,Limba română
 Valea Prelucilor,preluci,3,47.5497948900231,25.0099028163973,Maramures,Vale,13022,,Valea Prelucilor,Geomil 25000,Limba română
 Poiana Prelocuța,prelucuță,3,47.5999589332042,23.8321158594785,Maramures,Poiană,13751,,Poiana Prelocuța,Imperiul Habsburgic (1887),Limba română
-Pârâul Repede,repede,3,47.6101781735073,24.6945411694597,Maramures,,11156,,Pârâul Repede,Geomil 25000,Limba română
-Dealul Repedea,repedea,2,47.8541660220681,24.3963942662222,Maramures,Deal,7201,7199,Dealul Repedea,Geomil 25000,Limba română
-Pârâul Repedea,repedea,2,47.8572691348671,24.3963696933133,Maramures,Vale,7200,7199,Pârâul Repedea,Geomil 25000,Limba română
-Repedea,repedea,2,47.840577509622,24.4030552604424,Maramures,Localitate,7202,7199,Repedea,Geomil 25000,Limba română
-Valea Repedea,repedea,2,47.9097687679015,24.4020779605109,Maramures,Vale,7199,,Valea Repedea,Geomil 25000,Limba română
-Între Repezi,repezi,3,47.5972476113503,24.4671237581265,Maramures,Altele,4491,,Între Repezi,Geomil 25000,Limba română
 Zăpoade,zăpoade,3,47.7696379549221,24.108571429171,Maramures,Altele,7177,,Zăpoade,Geomil 25000,Limba română
 Zăpoade,zăpoade,3,47.472509647654,23.6313481758398,Maramures,Altele,8237,,Zăpoade,PDT,Limba română
 Vr. Zepodei,zăpodă,3,47.7354374333631,23.8677863209363,Maramures,Înălțime,13750,,Vr. Zepodei,Ungară 1869,Limba română
@@ -734,7 +706,6 @@ Valea Lespezi,lespezi,2,44.66737655344,22.1514818482191,Mehedinti,Vale,13870,138
 Valea Morminetelor,morminte,3,44.648420867125,23.2737425821623,Mehedinti,Vale,7444,,Valea Morminetelor,PDT,Limba română,Valea La Morminte,Geomil 25000,Limba română
 Valea Mormintelor,morminte,3,44.8410472062102,22.8635980266476,Mehedinti,Vale,9766,,Valea Mormintelor,PDT,Limba română,Valea Mormintelor,Geomil 25000,Limba română
 Poiana Muierii,muiere,2,44.7095447058276,22.3145679389831,Mehedinti,Poiană,12754,,Poiana Muierii,Geomil 25000,Limba română
-Valea Repedea,repedea,2,44.4240023163476,23.2400388911462,Mehedinti,Vale,6159,,Valea Repedea,Geomil 25000,Limba română
 Pădurea Smida,smidă,2,44.6442849450044,23.2762918185529,Mehedinti,Pădure,7445,,Pădurea Smida,PDT,Limba română
 Dealu Zapăd,zapăd,3,44.8481206745614,22.5994705056215,Mehedinti,Deal,12466,,Dealu Zapăd,Geomil 25000,Limba română
 Zapod,zapod,3,44.7617344009069,22.4031263142968,Mehedinti,Altele,8493,,Zapod,PDT,Limba română
@@ -752,7 +723,6 @@ Preluca,prelucă,2,46.7282913030099,25.0030521916407,Mures,Altele,13322,,Preluca
 Preluca Diecilor,prelucă,2,47.0784089267999,25.0464156762374,Mures,Altele,13395,,Preluca Diecilor,Imperiul Habsburgic (1887),Limba română
 Preluca Poeni Capul Sebeș,prelucă,2,46.7120729221134,25.2101572094362,Mures,Altele,13797,,Preluca Poeni Capul Sebeș,PDT,Limba română
 Preluca Tlharului,prelucă,2,46.7984107602122,25.2625845646466,Mures,Altele,13257,,Preluca Tlharului,Geomil 25000,Limba română
-Pârâul Repede,repede,3,47.1081125190655,25.1815522707419,Mures,Vale,5422,,Pârâul Repede,Geomil 25000,Limba română
 Gaura Smidii,smidă,2,46.9610040706698,24.9265864478925,Mures,Înălțime,11754,10614,Gaura Smidii,Imperiul Habsburgic (1887),Limba română
 Pârâul Smida la Cot,smidă,2,46.9436994543449,25.1524122753785,Mures,Vale,10011,,Pârâul Smida la Cot,PDT,Limba română
 Piciorul la Smida cea Frumoasă,smidă,2,47.0248220456801,25.1720882975865,Mures,Înălțime,10014,,Piciorul la Smida cea Frumoasă,PDT,Limba română
@@ -889,7 +859,6 @@ Preluca Prislopașu,prelucă,2,47.0319224175372,26.1335408125157,Neamt,Înălți
 Pârâul Prelucilor,preluci,3,46.7306307389058,26.3707468129079,Neamt,Vale,13035,,Pârâul Prelucilor,Geomil 25000,Limba română
 Pârâul Prelucilor,preluci,3,47.1826072653639,26.0533488436662,Neamt,Vale,14113,,Pârâul Prelucilor,Geomil 25000,Limba română
 Poiana Prelucilor,preluci,3,46.7223759342876,26.3658921658187,Neamt,Poiană,13034,13035,Poiana Prelucilor,Geomil 25000,Limba română
-Pârâul Repede,repede,3,47.1714142108633,25.8662584708529,Neamt,Vale,6435,,Pârâul Repede,PDT,Limba română
 Cracul Smidei,smidă,2,46.9180936415426,25.9897714874831,Neamt,Înălțime,6509,,Cracul Smidei,PDT,Limba română
 Dealul Smidii,smidă,2,46.8146172196559,25.9665292454015,Neamt,Deal,10949,,Dealul Smidii,Imperiul Habsburgic (1887),Limba română
 La Smida lui Usturoi,smidă,2,47.2840700451326,25.8202140794794,Neamt,Înălțime,10731,,La Smida lui Usturoi,Geomil 25000,Limba română,La Smida lui Usturoiu,Moldova (1892-1898),Limba română
@@ -1131,7 +1100,6 @@ Valea Smidești,smidești,3,47.7025139022968,25.2177274120581,Suceava,Vale,7232,
 Vârful Smizei,smiză,3,47.3388889520286,25.5951590496706,Suceava,Înălțime,6387,,Vârful Smizei,PDT,Limba română
 Voievodeasa,voievodeasa,3,47.7926082519498,25.7631875224612,Suceava,Localitate,6315,,Voievodeasa,Geomil 25000,Limba română
 Părâul Zăpodei,zăpodă,3,47.1722467727172,25.2533115120365,Suceava,Vale,11726,,Părâul Zăpodei,Imperiul Habsburgic (1887),Limba română
-Privalu Repedea,repedea,2,43.6760650315748,25.5449047635822,Teleorman,Apă-deal-câmpie,10688,,Privalu Repedea,Geomil 25000,Limba română
 Voievoda,voievoda,3,43.8419071390342,25.1371068941096,Teleorman,Localitate,5784,,Voievoda,Geomil 25000,Limba română,Voivoda,Austriacă,Limba română
 Dealul Zapodia,zapodie,3,44.1099067393835,24.9451967660483,Teleorman,Deal,9045,,Dealul Zapodia,PDT,Limba română
 Valea Zăpodiei,zăpodie,2,45.0967290020029,25.4588372146087,Teleorman,Vale,3426,11196,Valea Zăpodiei,Geomil 25000,Limba română
@@ -1149,8 +1117,6 @@ Padure Smida,smidă,2,45.8006627033801,21.7619169862824,Timis,Pădure,10593,4302
 Smida,smidă,2,45.8063869400786,21.7612456719821,Timis,Altele,4302,,Smida,PDT,Limba română
 Pe Zăpodini,zăpodini,3,45.9059104031217,22.3774804736577,Timis,Altele,11582,,Pe Zăpodini,Geomil 25000,Limba română
 Dâmbu Zmizii,zmidă,3,45.7644911784121,22.5386940084151,Timis,Înălțime,11583,,Dâmbu Zmizii,Geomil 25000,Limba română
-Canalul Repedea,repedea,2,45.3375474222643,29.25723269239,Tulcea,Apă-deal-câmpie,12641,12642,Canalul Repedea,Geomil 25000,Limba română
-Lacul Repedea,repedea,2,45.3451707736608,29.2568895081263,Tulcea,Lac,12642,,Lacul Repedea,Geomil 25000,Limba română
 Chicioara,chicioara,3,45.1347688076803,24.2356846255526,Valcea,Localitate,13663,,Chicioara,PDT,Limba română
 Chiciura,chiciura,3,45.107885653835,24.4564006108719,Valcea,Înălțime,13583,,Chiciura,Geomil 25000,Limba română
 Dealul Chiciura,chiciura,3,45.0474295843592,24.2600122054866,Valcea,Deal,13543,,Dealul Chiciura,Geomil 25000,Limba română
@@ -1163,11 +1129,6 @@ Gori Mueri,muiere,2,44.5830000702302,24.012474767989,Valcea,Localitate,5832,,Gor
 Poiana Muierii,muiere,2,45.4663860165191,23.5978483960884,Valcea,Poiană,13834,,Poiana Muierii,Geomil 25000,Limba română
 Vârful Nedeii,nedeia,2,45.3278860992233,23.8458622109258,Valcea,Înălțime,2930,2929,Vârful Nedeii,Geomil 25000,Limba română
 Nedeița,nedeiță,3,45.0916684605617,24.0376080349743,Valcea,Înălțime,7425,,Nedeița,Geomil 25000,Limba română
-Pârâul Repede,repede,3,45.2739053010006,24.4800341709986,Valcea,Vale,10203,,Pârâul Repede,Geomil 25000,Limba română
-Piscul Repede,repede,3,45.2852372847618,24.4823489907174,Valcea,Înălțime,11108,10203,Piscul Repede,Geomil 25000,Limba română
-Pârâul Repedea,repedea,2,45.3441337239677,23.891001913614,Valcea,Vale,5836,,Pârâul Repedea,Geomil 25000,Limba română,Valea Repede,Austriacă,Limba română
-Culmea Repezi,repezi,3,45.3768935349,23.961402965,Valcea,Înălțime,7420,5836,Culmea Repezi,Geomil 25000,Limba română
-Dealul Repezi,repezi,3,45.3963604693621,23.9063780318905,Valcea,Deal,7418,,Dealul Repezi,Geomil 25000,Limba română
 Dealul Smida,smidă,2,45.1052170995211,24.0712733483678,Valcea,Deal,12570,,Dealul Smida,Geomil 25000,Limba română
 Grindul Smidei,smidă,2,45.4348699194083,24.2204403938328,Valcea,Înălțime,11573,,Grindul Smidei,Geomil 25000,Limba română
 Gruiul Smidei,smidă,2,45.3383187175743,24.1107450324792,Valcea,Înălțime,13970,,Gruiul Smidei,Geomil 25000,Limba română
@@ -1201,9 +1162,5 @@ Păcura,păcură,2,46.0606440588275,26.7572602140233,Vrancea,Vale,13333,,Păcura
 Pârâul Păcurei,păcură,2,45.6167061268346,26.7776132171529,Vrancea,Vale,12948,,Pârâul Păcurei,Geomil 25000,Limba română
 Valea Păcurei,păcură,2,45.9787947516681,26.7321826994572,Vrancea,Vale,5270,,Valea Păcurei,Geomil 25000,Limba română
 Valea Păcuri,păcură,2,45.6901531484444,26.8413116474594,Vrancea,Vale,9241,,Valea Păcuri,PDT,Limba română
-Valea Repede,repede,3,45.9108529517243,26.4381631351558,Vrancea,Vale,11307,,Valea Repede,Geomil 25000,Limba română
-Pârâul Repedea,repedea,2,45.9873831700411,27.0955370400732,Vrancea,Vale,7900,,Pârâul Repedea,PDT,Limba română
-Repedea,repedea,2,45.9196287036048,27.0358930359763,Vrancea,Localitate,5343,,Repedea,PDT,Limba română,Repedea,Geomil 25000,Limba română
-Pârâul Repejoara,repejoara,3,45.9942049176538,26.9375089352206,Vrancea,Vale,5278,,Pârâul Repejoara,Geomil 25000,Limba română
 La Zapodie,zapodie,3,45.8024147860591,27.0885750999671,Vrancea,Altele,9231,,La Zapodie,PDT,Limba română
 Valea Zapodia,zăpodie,2,45.9462630271722,27.1673276473986,Vrancea,Vale,5339,,Valea Zapodia,PDT,Limba română

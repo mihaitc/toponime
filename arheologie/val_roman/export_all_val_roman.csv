@@ -2,23 +2,8 @@ Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă
 Dealul Troian,val roman,2,46.134444366178,23.1982723617679,Alba,Deal,11953,11954,Dealul Troian,PDT,Limba română,Dealu Troian,Geomil 25000,Limba română
 Troian,val roman,2,45.9304362740633,23.6869717294839,Alba,Altele,9391,,Troian,PDT,Limba română
 Trojaner Wirthshaus (Hanul Troian),val roman,2,46.1334648309025,23.1852353216867,Alba,Altele,11954,,Trojaner Wirthshaus (Hanul Troian),Transilvania (1769-1773),Limba germană
-Alte Römer Schanzen,val roman,2,46.1732292061796,21.0082624793825,Arad,Altele,11904,,Alte Römer Schanzen,Ungaria (1782–1785),Limba germană
-La Traian,val roman,2,44.761663588266,25.1611534770068,Arges,Altele,1518,,La Traian,Geomil 25000,Limba română
 Valea Troianului,val roman,2,44.5202156324554,24.8131399238873,Arges,Vale,8337,,Valea Troianului,PDT,Limba română,Valea Troianului,Geomil 25000,Limba română
-Valu lui Traian,val roman,2,45.226998354926,27.4220997378002,Braila,Altele,8718,,Valu lui Traian,PDT,Limba română,Santzu lu Trajan,Austriacă,Limba română
 Șanț Roman,val roman,2,45.3680366203016,21.6755488601591,Caras Severin,Altele,12698,,Șanț Roman,PDT,Limba română
-Valul lui Traian,val roman,2,44.2278990786542,28.113653906981,Constanta,Altele,2845,,Valul lui Traian,Geomil 25000,Limba română
-Valul lui Traian,val roman,2,44.1475633794557,28.4893582893186,Constanta,Altele,2862,,Valul lui Traian,Geomil 25000,Limba română
-Valul lui Traian,val roman,2,44.1496666566421,28.5107345951857,Constanta,Altele,2863,,Valul lui Traian,Geomil 25000,Limba română
-Valul lui Traian,val roman,2,44.1580094504949,28.5547821617107,Constanta,Altele,2864,,Valul lui Traian,Geomil 25000,Limba română
-Valul lui Traian,val roman,2,44.2032295745383,28.4295844437552,Constanta,Altele,2867,,Valul lui Traian,Geomil 25000,Limba română
-Valul lui Traian,val roman,2,44.1585497389953,28.5760076349043,Constanta,Altele,9314,,Valul lui Traian,PDT,Limba română
-Valul lui Traian,val roman,2,44.2530066035044,28.2209282911742,Constanta,Altele,9317,,Valul lui Traian,PDT,Limba română
-Valul lui Traian,val roman,2,44.2163365350198,28.2303202697298,Constanta,Altele,9319,,Valul lui Traian,PDT,Limba română
-Valul lui Traian,val roman,2,44.18414626611,28.3139563283228,Constanta,Altele,11091,,Valul lui Traian,PDT,Limba română
-Valul lui Traian,val roman,2,44.21960056686,28.4004559596305,Constanta,Altele,11093,,Valul lui Traian,PDT,Limba română
-Valul lui Traian,val roman,2,44.184273548099,28.4736447811716,Constanta,Altele,11095,,Valul lui Traian,Geomil 25000,Limba română
-Valul lui Traian cu Piatră,val roman,2,44.1907849930651,28.4068791231402,Constanta,Altele,12712,,Valul lui Traian cu Piatră,PDT,Limba română
 Dealul Traian,val roman,2,45.7406074311345,27.848205478724,Galati,Deal,3521,,Dealul Traian,Geomil 25000,Limba română
 Gârla Troianu,val roman,2,45.6847737436479,28.126723912832,Galati,Apă-deal-câmpie,3502,,Gârla Troianu,PDT,Limba română
 Movila la Traian,val roman,2,45.4690697016814,27.8847304598774,Galati,Înălțime,3533,3534,Movila la Traian,PDT,Limba română
@@ -41,12 +26,5 @@ Drumu lui Traian,val roman,2,43.7547084569655,24.9778283537877,Teleorman,Drum,13
 Drumul lui Traian,val roman,2,43.7429570649774,24.9801966100449,Teleorman,Altele,1348,,Drumul lui Traian,Geomil 25000,Limba română
 Drumul lui Traian,val roman,2,43.8643470548783,24.9692052992184,Teleorman,Drum,12431,,Drumul lui Traian,PDT,Limba română
 Dealu Troianu,val roman,2,45.9084067178669,22.3936950262691,Timis,Deal,876,877,Dealu Troianu,Geomil 25000,Limba română
-Valu Roman,val roman,2,45.2995381070049,21.384815937089,Timis,Înălțime,1979,,Valu Roman,Geomil 25000,Limba română
-Valu Roman,val roman,2,45.3580510860951,21.3834793332476,Timis,Altele,1982,,Valu Roman,Geomil 25000,Limba română
-Valu Roman,val roman,2,45.3978388786572,21.3592709885283,Timis,Altele,1983,,Valu Roman,Geomil 25000,Limba română
-Valu Roman,val roman,2,45.3957638582476,21.2766761208173,Timis,Altele,5673,,Valu Roman,Geomil 25000,Limba română
-Valu Roman,val roman,2,45.9828390030771,21.4171526327502,Timis,Altele,6313,,Valu Roman,Geomil 25000,Limba română
-Valu Roman,val roman,2,46.0238412881565,21.4572441192429,Timis,Altele,7644,,Valu Roman,Geomil 25000,Limba română
-Valul Roman,val roman,2,45.9324951516704,21.3551464973303,Timis,Altele,5652,,Valul Roman,PDT,Limba română
 Dealul Valului,val roman,2,45.0798167291841,24.3282727073571,Valcea,Deal,351,,Dealul Valului,Geomil 25000,Limba română
 Troian,val roman,2,45.08066264773,24.3517006338341,Valcea,Localitate,350,,Troian,Geomil 25000,Limba română
