@@ -1,7 +1,10 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Frâncu,frânc,3,45.4759003013531,22.1028410446666,Caras Severin,Înălțime,14343,,Frâncu,ANCPI,Limba română
+Frâncul,frânc,3,45.3114489476017,22.5195657840568,Caras Severin,Înălțime,14357,,Frâncul,ANCPI,Limba română
 Pârâu Frâncului,frânc,3,45.1823377540164,22.2879043873622,Caras Severin,Vale,6133,6134,Pârâu Frâncului,Geomil 25000,Limba română
 Poiana Stâna Frâncului,frânc,3,45.1631994881727,22.1567939527901,Caras Severin,Poiană,11497,,Poiana Stâna Frâncului,Geomil 25000,Limba română
 Tâlva Frâncului,frânc,3,45.1913069731092,22.2790721120441,Caras Severin,Înălțime,6134,,Tâlva Frâncului,Geomil 25000,Limba română
+Valea Frâncului,frânc,3,45.4827738080455,22.1088467156613,Caras Severin,Vale,14344,14343,Valea Frâncului,ANCPI,Limba română
 Dealu Frâncu,frânc,3,46.7868661397109,23.0624953830615,Cluj,Deal,14220,,Dealu Frâncu,Geomil 25000,Limba română
 Dealul Frâncul,frânc,3,45.0267787196945,23.3829483553855,Gorj,Deal,8405,8052,Dealul Frâncul,PDT,Limba română
 Poiana Frâncul Mare,frânc,3,45.0291291337817,23.3823795035066,Gorj,Poiană,8052,,Poiana Frâncul Mare,PDT,Limba română

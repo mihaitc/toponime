@@ -66,6 +66,7 @@ Ungureni,ungureni,2,44.6113891217797,24.9364279996308,Arges,Vale,11191,Ungureni,
 Ungureni,ungureni,2,45.168331982684,24.5632552975548,Arges,Localitate,12024,Ungureni,Oltenia-Muntenia (1790),Limba română
 Ungurenii,ungureni,2,45.1843098902364,25.1181404925304,Arges,Localitate,11123,Ungurenii,PDT,Limba română
 Poiana Ardeleanului,ardelean,3,46.5415627745999,26.0946390340724,Bacau,Poiană,4550,Poiana Ardeleanului,Geomil 25000,Limba română,Poiana Ardeleanului,PDT,Limba română
+Ardeleni,ardeleni,2,46.4628223474692,26.7241233507999,Bacau,Localitate,14320,Ardeleni,PDT,Limba română
 Valea Ardeleni,ardeleni,2,46.4044865168199,26.694343877921,Bacau,Vale,13861,Valea Ardeleni,PDT,Limba română,Valea Ardelenilor,Geomil 25000,Limba română
 Dealu Mocanului,mocan,3,46.2975163911722,27.3304970261099,Bacau,Deal,11542,Dealu Mocanului,Geomil 25000,Limba română
 Dealul Arșița Mocanului,mocan,3,46.1297527620123,26.6155886892214,Bacau,Deal,5299,Dealul Arșița Mocanului,PDT,Limba română,Dealul Arșița Mocanului,Geomil 25000,Limba română
@@ -200,6 +201,7 @@ Valea Oltenilor,olteni,2,44.4877762676083,23.724750222241,Dolj,Vale,4692,Valea O
 Sekui de Jos,secui,2,44.1937017308621,23.8486036158692,Dolj,Localitate,5109,Sekui de Jos,Austriacă,Limba română
 Sekui de Sus,secui,2,44.1945729940827,23.8681136645111,Dolj,Localitate,5107,Sekui de Sus,Austriacă,Limba română,Secui,Geomil 25000,Limba română
 Cioaca Ungureanului,ungurean,3,44.5630644661741,23.5709284823583,Dolj,Înălțime,8286,Cioaca Ungureanului,PDT,Limba română
+Lacul Ungureanului,ungurean,3,44.1165096450108,23.7967476271837,Dolj,Lac,14372,Lacul Ungureanului,PDT,Limba română
 Puțul lui Ungureanu,ungurean,3,44.0277795254576,23.7069547857617,Dolj,Altele,4668,Puțul lui Ungureanu,PDT,Limba română
 Valea Ungureanului,ungurean,3,44.147640076078,23.9535631873814,Dolj,Vale,3015,Valea Ungureanului,Geomil 25000,Limba română,Valea Ungureanului,PDT,Limba română
 Valea Ungureanului,ungurean,3,44.3519259204217,23.6469406755784,Dolj,Vale,8050,Valea Ungureanului,PDT,Limba română
@@ -319,6 +321,7 @@ Valea Olteni,olteni,2,44.5023901257043,24.4245714050751,Olt,Vale,11692,Valea Olt
 Poiana Ungureanului,ungurean,3,44.7684797946729,24.3849549056922,Olt,Poiană,8131,Poiana Ungureanului,PDT,Limba română
 Valea Ungureanului,ungurean,3,44.0107387569644,24.3446982483167,Olt,Vale,7744,Valea Ungureanului,PDT,Limba română,Valea Ungureanului,Geomil 25000,Limba română
 Valea Ungureanului,ungurean,3,43.9888753520651,24.4688369790675,Olt,Vale,12222,Valea Ungureanului,Geomil 25000,Limba română
+Măgura Ungurenilor,ungureni,2,43.8724916246429,24.3667971117881,Olt,Înălțime,14384,Măgura Ungurenilor,PDT,Limba română
 Ungreni,ungureni,2,44.5108374122317,24.3482876684065,Olt,Localitate,12027,Ungreni,Oltenia-Muntenia (1790),Limba română
 Ungureni,ungureni,2,44.2792798037191,24.7550465518913,Olt,Localitate,5795,Ungureni,Austriacă,Limba română
 Ungureni,ungureni,2,44.3831929429274,24.0092219190623,Olt,Altele,9341,Ungureni,PDT,Limba română
@@ -382,6 +385,7 @@ La Munteanu,muntean,3,45.5529115980226,21.9246306207131,Timis,Înălțime,5682,L
 Munteni,munteni,2,45.6356077782746,21.1261228996606,Timis,Altele,11357,Munteni,Geomil 25000,Limba română
 Ungureanca,ungureancă,3,45.7031016164851,21.6718018725334,Timis,Altele,5677,Ungureanca,Geomil 25000,Limba română
 Balta Mocanului,mocan,3,45.3540672281569,28.0603138356448,Tulcea,Apă-deal-câmpie,6680,Balta Mocanului,PDT,Limba română
+Dealul Mocanului,mocan,3,44.9685591355427,28.5234461827113,Tulcea,Deal,14281,Dealul Mocanului,ANCPI,Limba română
 Movila Mocănașu,mocănaș,3,45.0009140160475,28.2498287374482,Tulcea,Înălțime,11591,Movila Mocănașu,Geomil 25000,Limba română
 Valea Moldoveanului,moldovean,3,44.9436782666085,28.5453387957681,Tulcea,Vale,9297,Valea Moldoveanului,Geomil 25000,Limba română
 Munteni,munteni,2,44.989330171048,24.2649443913693,Valcea,Localitate,9370,Munteni,Geomil 25000,Limba română

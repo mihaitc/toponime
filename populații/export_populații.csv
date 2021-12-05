@@ -442,6 +442,8 @@ Ungurul Mare,ungur,3,44.2963858301205,27.7023702465297,Calarasi,Altele,3207,Ungu
 Pârâul Boșneagului	,boșneagu,3,44.715037245076,21.6547285055277,Caras Severin,Vale,12704,Pârâul Boșneagului	,PDT,Limba română,Pârâu Basnului,Geomil 25000,Limba română,Bosniacka Bach,Banat (1769-1772),Limba germană
 Colonia Cehă,cehi,2,45.0578468362988,21.8262502416329,Caras Severin,Localitate,8543,Colonia Cehă,PDT,Limba română
 Valea Cercheză,cercheză,3,45.1279833501871,22.2423886115201,Caras Severin,Vale,11229,Valea Cercheză,Geomil 25000,Limba română
+Frâncu,frânc,3,45.4759003013531,22.1028410446666,Caras Severin,Înălțime,14343,Frâncu,ANCPI,Limba română
+Frâncul,frânc,3,45.3114489476017,22.5195657840568,Caras Severin,Înălțime,14357,Frâncul,ANCPI,Limba română
 Poiana Stâna Frâncului,frânc,3,45.1631994881727,22.1567939527901,Caras Severin,Poiană,11497,Poiana Stâna Frâncului,Geomil 25000,Limba română
 Tâlva Frâncului,frânc,3,45.1913069731092,22.2790721120441,Caras Severin,Înălțime,6134,Tâlva Frâncului,Geomil 25000,Limba română
 Cracul Grecului,grec,3,44.8931295003581,21.8207196714649,Caras Severin,Înălțime,8516,Cracul Grecului,PDT,Limba română,Cracu Grecului,Geomil 25000,Limba română
@@ -494,6 +496,7 @@ Lacu Turcului,turc,3,45.0170203683429,22.3486606207106,Caras Severin,Lac,1218,La
 Ogașu Turcului,turc,3,45.5886417812287,21.5905913078481,Caras Severin,Vale,11503,Ogașu Turcului,Geomil 25000,Limba română
 Poiana Preluca Turcului,turc,3,45.0960188373247,22.1069303626927,Caras Severin,Poiană,9431,Poiana Preluca Turcului,PDT,Limba română
 Tâlva Turcului,turc,3,45.4715163548601,21.7703979044057,Caras Severin,Altele,6194,Tâlva Turcului,PDT,Limba română
+Tâlva Turcului,turc,3,45.262965614826,22.2669317918261,Caras Severin,Vale,14348,Tâlva Turcului,PDT,Limba română
 Turcii Morții,turc,3,45.1143313650963,22.2806134231226,Caras Severin,Altele,6130,Turcii Morții,Geomil 25000,Limba română
 Valea Turcului,turc,3,45.5238942320251,21.7629731153699,Caras Severin,Vale,1242,Valea Turcului,Geomil 25000,Limba română
 Dealu Ungurului,ungur,3,45.3300403615717,22.3188092863871,Caras Severin,Deal,1210,Dealu Ungurului,Geomil 25000,Limba română
@@ -979,6 +982,7 @@ Zapoda Rusului,rus,3,46.7613683373409,25.0831735928131,Mures,Altele,12806,Zapoda
 Rușii-Munți,ruși,2,46.9150381863933,24.832614722186,Mures,Localitate,10471,Rușii-Munți,Geomil 25000,Limba română
 Dealul Sasului,sas,4,46.6577323737999,24.3540710693386,Mures,Deal,5374,Dealul Sasului,Geomil 25000,Limba română
 Pârâul Sasului,sas,4,46.1915995214616,24.7376968563873,Mures,Vale,5522,Pârâul Sasului,PDT,Limba română,Sasul,Geomil 25000,Limba română
+Tăetura Sasului,sas,4,46.9338069218589,25.2591193721141,Mures,Altele,14312,Tăetura Sasului,PDT,Limba română
 Valea Sasului,sas,4,46.8194746457869,24.4853470590295,Mures,Vale,5464,Valea Sasului,Geomil 25000,Limba română
 Laslăul săsesc,săsesc,4,46.3677690683546,24.5538100494993,Mures,Localitate,10812,Laslăul săsesc,Imperiul Habsburgic (1887),Limba română
 Pădurea Bisericii Săsești,săsesc,4,46.72377786796,24.7169461123822,Mures,Pădure,4336,Pădurea Bisericii Săsești,Geomil 25000,Limba română
@@ -1002,6 +1006,7 @@ Valea Ungurului,ungur,3,46.8084772193489,24.4840056299332,Mures,Localitate,5467,
 Ungurașul,unguraș,3,46.9815711338239,25.1207914689981,Mures,Vale,7325,Ungurașul,Geomil 25000,Limba română
 Böca unguriască,ungureasca,3,46.7347747590813,24.7983676796262,Mures,Localitate,10473,Böca unguriască,Transilvania (1869-1870),Limba română
 Valea Tăul Unguresc,unguresc,3,46.5791787375645,24.3434646996165,Mures,Vale,6769,Valea Tăul Unguresc,Geomil 25000,Limba română
+Sortile Ungurești,ungurești,3,46.267938998641,24.8836101470145,Mures,Altele,14334,Sortile Ungurești,PDT,Limba română
 Dealul La Unguri,unguri,2,46.6783845662905,24.7561925682112,Mures,Deal,7318,Dealul La Unguri,Geomil 25000,Limba română
 Piscul Cazacului,cazac,4,47.0565842428689,27.1669803541973,Neamt,Înălțime,1639,Piscul Cazacului,Geomil 25000,Limba română
 Cazaci,cazaci,3,46.8987068307835,26.1845581224297,Neamt,Localitate,6494,Cazaci,PDT,Limba română

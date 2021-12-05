@@ -41,6 +41,7 @@
 <Placemark><LineString id="9653_9652"><tessellate>1</tessellate><coordinates>26.224372,45.489808,0.
 26.215202,45.481857,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Culmea Vacilor</name><description>Nume: Culmea Vacilor, Tip: vaci, Nivel: 3, Județ: Caras Severin, Formă: Înălțime, ID: 1204 <br /><b>Variante</b><br />Nume: Culmea Vacilor, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>22.564014,45.526711,0</coordinates></Point></Placemark>
+<Placemark><name>Dealul Vacii</name><description>Nume: Dealul Vacii, Tip: vaci, Nivel: 3, Județ: Caras Severin, Formă: Deal, ID: 14346 <br /><b>Variante</b><br />Nume: Dealul Vacii, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>22.046953,45.452239,0</coordinates></Point></Placemark>
 <Placemark><name>Părâul Vacilor</name><description>Nume: Părâul Vacilor, Tip: vaci, Nivel: 3, Județ: Caras Severin, Formă: Vale, ID: 10681, ID Părinte: 1204 <br /><b>Variante</b><br />Nume: Părâul Vacilor, Hartă: Imperiul Habsburgic (1887), Limbă: Limba română</description><Point><coordinates>22.599910,45.533422,0</coordinates></Point></Placemark>
 <Placemark><LineString id="10681_1204"><tessellate>1</tessellate><coordinates>22.599910,45.533422,0.
 22.564014,45.526711,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

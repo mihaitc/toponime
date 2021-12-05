@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Bănăguiu,bănăgui,2,44.1640640775741,23.563953888977,Dolj,Vale,14366,,Bănăguiu,ANCPI,Limba română,Valea Paneguiu,Austriacă,Limba română,Pârâul Brăgui,PDT,Limba română
+Dealul Bărăguiului,bărăgui,3,44.1605748463231,23.5545717469542,Dolj,Deal,14367,14366,Dealul Bărăguiului,PDT,Limba română

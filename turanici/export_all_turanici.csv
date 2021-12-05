@@ -73,6 +73,7 @@ Dealul Coman,coman,3,46.5341994665359,26.6475459824167,Bacau,Deal,9167,,Dealul C
 Fruntea Comanului,coman,3,46.6450272179152,26.4072313348352,Bacau,Înălțime,9155,,Fruntea Comanului,PDT,Limba română
 Pădurea Coman,coman,3,46.5369381711246,26.651642475642,Bacau,Pădure,9168,9167,Pădurea Coman,Geomil 25000,Limba română
 Valea Coman,coman,3,46.6455126247055,26.5031739396193,Bacau,Vale,9951,4605,Valea Coman,Geomil 25000,Limba română
+Valea lui Coman,coman,3,46.4248455797765,26.7160651336198,Bacau,Vale,14319,,Valea lui Coman,PDT,Limba română
 Dealul Comanei,comana,3,46.6494763216436,26.4417993861218,Bacau,Deal,4605,,Dealul Comanei,Geomil 25000,Limba română
 La Comancea,comancea,3,46.5341618063161,26.9589538710891,Bacau,Altele,11549,,La Comancea,Geomil 25000,Limba română
 Comănești,comănești,3,46.4243762000181,26.4266949443511,Bacau,Localitate,4588,9165,Comănești,Geomil 25000,Limba română
@@ -170,10 +171,13 @@ Privalul Balaban,balaban,2,44.2507345707207,27.6949317521502,Calarasi,Apă-deal-
 Bărăgan,bărăgan,2,44.3792845668846,27.1263072469284,Calarasi,Câmp,3439,,Bărăgan,PDT,Limba română
 Lacul Băruiu,bărui,2,44.2111955408397,27.5189527212617,Calarasi,Lac,12474,,Lacul Băruiu,PDT,Limba română,Privalu Băruiu,Geomil 25000,Limba română
 Borcea,borcea,3,44.3244684814117,27.734704057804,Calarasi,Apă-deal-câmpie,9977,,Borcea,Geomil 25000,Limba română,Borca,Austriacă,Limba română
+Lacul Cătăloiu,cătălui,2,44.1230178153994,26.4790743098882,Calarasi,Lac,14395,,Lacul Cătăloiu,PDT,Limba română
 Privalul Căzăneasca,cazan,2,44.267947916685,27.8431425438014,Calarasi,Apă-deal-câmpie,3461,,Privalul Căzăneasca,PDT,Limba română
 Crucea lui Ciolpan,ciolpan,2,44.3366435109308,27.7643433397531,Calarasi,Altele,3454,,Crucea lui Ciolpan,PDT,Limba română
 Privalul Cosimbeasca,cosimbeasca,3,44.2143887871926,27.6404195175376,Calarasi,Apă-deal-câmpie,12481,,Privalul Cosimbeasca,PDT,Limba română
 Japșa Covurlui,covurlui,2,44.2888166953557,27.7855762451406,Calarasi,Apă-deal-câmpie,3460,,Japșa Covurlui,Geomil 25000,Limba română,Japșa Covurluiu,PDT,Limba română
+Cuțui,cuțui,2,44.0929611197632,26.5118082228725,Calarasi,Apă-deal-câmpie,14396,,Cuțui,PDT,Limba română
+Grindu Cuțuiu,cuțui,2,44.0904085776289,26.5143077627987,Calarasi,Apă-deal-câmpie,14397,14396,Grindu Cuțuiu,PDT,Limba română
 Gălățui,galați,2,44.2616964054557,27.1116136964607,Calarasi,Localitate,3240,3239,Gălățui,Geomil 25000,Limba română
 Lacul Gălățui,galați,2,44.228503694242,27.1215503540946,Calarasi,Lac,3239,,Lacul Gălățui,Geomil 25000,Limba română
 Jegălia,jegălia,3,44.2944577018258,27.6371757641645,Calarasi,Localitate,12488,12487,Jegălia,Geomil 25000,Limba română
@@ -230,11 +234,19 @@ Sultanu,sultan,2,45.1136022698513,25.5854412635332,Dambovita,Localitate,7465,,Su
 Vârful Sultanu,sultan,2,45.1472687535277,25.5972835918509,Dambovita,Înălțime,7467,7465,Vârful Sultanu,Geomil 25000,Limba română
 Dealul Sultănei,sultana,3,45.1270220547293,25.5747863330283,Dambovita,Deal,7464,7465,Dealul Sultănei,Geomil 25000,Limba română
 Măgura Asan,asan,2,44.0155177020373,23.4131900653214,Dolj,Înălțime,3344,,Măgura Asan,PDT,Limba română
+Grindo baldalui,băldălui,2,44.0698526515123,23.5990235595741,Dolj,Apă-deal-câmpie,14371,14370,Grindo baldalui,Austriacă,Limba română,Dealul Băldăului,ANCPI,Limba română,Grindu Băldălui-Lipov,PDT,Limba română
+Valea Baldalui,băldălui,2,44.0784838117839,23.5668798882564,Dolj,Vale,14370,,Valea Baldalui,Austriacă,Limba română,Băldal,ANCPI,Limba română
+Valea Băldăluiului,băldălui,2,43.8328570911448,24.1539533958877,Dolj,Vale,14383,,Valea Băldăluiului,PDT,Limba română
+Bănăguiu,bănăgui,2,44.1640640775741,23.563953888977,Dolj,Vale,14366,,Bănăguiu,ANCPI,Limba română,Valea Paneguiu,Austriacă,Limba română,Pârâul Brăgui,PDT,Limba română
+Dealul Bărăguiului,bărăgui,3,44.1605748463231,23.5545717469542,Dolj,Deal,14367,14366,Dealul Bărăguiului,PDT,Limba română
 Dealul Barcan,barcan,3,44.207005905163,23.1894184896499,Dolj,Deal,8091,,Dealul Barcan,PDT,Limba română
 Valea Barcan,barcan,3,44.2038369414836,23.1900544669297,Dolj,Vale,8092,8091,Valea Barcan,PDT,Limba română
 Basarabi,basarabi,2,44.0065128274694,23.0122067669989,Dolj,Localitate,8486,,Basarabi,Geomil 25000,Limba română,Basarabi,PDT,Limba română
 Valea Burdac,burdac,2,44.2193615042596,23.229043814862,Dolj,Vale,8095,,Valea Burdac,PDT,Limba română
 Dealul Buzduganului,buzdugan,2,44.6239537423071,23.8019792747507,Dolj,Deal,12177,,Dealul Buzduganului,Geomil 25000,Limba română
+Kaloiu,călui,2,43.9405136673438,23.867074506385,Dolj,Localitate,14381,14380,Kaloiu,Austriacă,Limba română
+Pădurea Călui,călui,2,43.9364835850494,23.8450955338894,Dolj,Pădure,14380,,Pădurea Călui,ANCPI,Limba română
+Pădurea Căluiu,călui,2,44.1330088571236,23.6472984555557,Dolj,Pădure,14369,,Pădurea Căluiu,PDT,Limba română
 Caraiman,caraiman,2,44.3472444127831,23.3787121571909,Dolj,Localitate,5181,,Caraiman,Geomil 25000,Limba română
 Dealul Ciolpan,ciolpan,2,44.4170730086549,23.7519124892034,Dolj,Deal,4689,,Dealul Ciolpan,Geomil 25000,Limba română,Dealul Ciolpan,PDT,Limba română
 Comănicea,coman,3,44.4853037321237,23.3310753508773,Dolj,Localitate,110,,Comănicea,Geomil 25000,Limba română,Kumanișa,Austriacă,Limba română
@@ -248,6 +260,7 @@ Komanî,comani,2,44.0132907264069,23.0525415805781,Dolj,Localitate,8487,,Komanî
 Valea Comănița,comănița,3,44.5042494300191,23.841393997076,Dolj,Vale,4824,,Valea Comănița,PDT,Limba română
 Valea Furdui,furdui,2,44.2148915102551,23.2380509918386,Dolj,Vale,8096,,Valea Furdui,PDT,Limba română
 Valea lui Găman,găman,2,44.2030133233511,23.2498794048913,Dolj,Vale,8093,,Valea lui Găman,PDT,Limba română
+Lacul Geamului,geamului,2,44.1803308016454,23.6396444035488,Dolj,Lac,14368,,Lacul Geamului,PDT,Limba română
 Dealul Sultanei,sultana,3,44.4067135937634,23.6354411811572,Dolj,Deal,11371,,Dealul Sultanei,Geomil 25000,Limba română
 Bălăbănești,bălăbănești,3,46.098006129176,27.7205203994186,Galati,Localitate,7372,,Bălăbănești,Geomil 25000,Limba română
 Valea Bălăbănești,bălăbănești,3,46.109456499228,27.704732835814,Galati,Vale,7376,7372,Valea Bălăbănești,Geomil 25000,Limba română
@@ -272,6 +285,7 @@ Tecuci,tecuci,2,45.8460469283365,27.426732540855,Galati,Localitate,10991,,Tecuci
 Poiana Baraca,baraca,3,44.0733091795458,26.2604460887398,Giurgiu,Poiană,10618,,Poiana Baraca,PDT,Limba română
 Lipoveanca-Bărcăneasca,bărcăneasca,3,44.3699613767799,25.6771865211903,Giurgiu,Localitate,10107,,Lipoveanca-Bărcăneasca,PDT,Limba română
 Comana,comana,3,44.1738708603887,26.1477508106165,Giurgiu,Localitate,3148,,Comana,Geomil 25000,Limba română
+Șowerliu,săvârlui,2,43.7671800967955,25.7850051313651,Giurgiu,Apă-deal-câmpie,14394,,Șowerliu,Austriacă,Limba română
 La Sultana,sultana,3,44.5212515760999,25.6119888183907,Giurgiu,Altele,12012,,La Sultana,PDT,Limba română
 Valea Uștubeu,uștubeu,3,44.1749129494234,25.8784747815075,Giurgiu,Vale,12443,,Valea Uștubeu,Geomil 25000,Limba română
 Pădurea Uzunul,uzun,2,44.1492539062887,25.9872252092069,Giurgiu,Pădure,3166,3163,Pădurea Uzunul,PDT,Limba română
@@ -388,11 +402,13 @@ Pârâul Șoldanului,șoldan,2,47.1728239191743,25.8724820446863,Neamt,Vale,6433
 Poiana Curul Șoldanului,șoldan,2,47.1765601945839,25.8757513845558,Neamt,Poiană,6434,6433,Poiana Curul Șoldanului,PDT,Limba română
 Alimănești,alimănești,3,44.2579861131571,24.5354294405663,Olt,Localitate,2993,,Alimănești,Geomil 25000,Limba română,Alimanești,Austriacă,Limba română
 Valea Alimănești,alimănești,3,44.4380679105938,23.9348957001189,Olt,Vale,9332,,Valea Alimănești,Geomil 25000,Limba română
+Balta Baldălului,băldălui,2,44.2896441284448,24.3506451464655,Olt,Apă-deal-câmpie,14379,,Balta Baldălului,PDT,Limba română
 Dealul Baraca,barac,2,44.4582901181257,24.180290455804,Olt,Deal,8296,,Dealul Baraca,PDT,Limba română
 Valea Baracului,barac,2,44.0608865971462,24.2298677308743,Olt,Vale,3038,,Valea Baracului,Geomil 25000,Limba română
 Viroaga Barâci,barac,2,44.5602541214007,24.6967332139413,Olt,Vale,8339,,Viroaga Barâci,PDT,Limba română
 Fântâna Bărăganului,bărăgan,2,43.8388896271119,24.2203513807978,Olt,Altele,1272,,Fântâna Bărăganului,Geomil 25000,Limba română
 Valea Balta Bărăgan,bărăgan,2,44.4350834105491,24.0911098566852,Olt,Vale,275,,Valea Balta Bărăgan,Geomil 25000,Limba română,Valea Balta Bărăgan,PDT,Limba română
+Valea Bărăgan,bărăgan,2,43.8504209831711,24.3329350978332,Olt,Vale,14385,,Valea Bărăgan,PDT,Limba română
 Bărcănești,bărcănești,3,44.3054824435728,24.5456549224998,Olt,Localitate,2998,,Bărcănești,Geomil 25000,Limba română
 Bărcănești,bărcănești,3,44.2937752147478,24.5169346589527,Olt,Înălțime,2999,2998,Bărcănești,Geomil 25000,Limba română
 Pârâu Bârlui,bârlui,3,44.4222433046753,24.1568511112269,Olt,Vale,4805,,Pârâu Bârlui,Geomil 25000,Limba română,Valea Bârluiului,PDT,Limba română
@@ -406,6 +422,8 @@ La Călmățui,călmățui,2,44.2350159970779,24.7027776897084,Olt,Altele,2979,2
 Lacu Călmățui,călmățui,2,44.210212869835,24.7105054690583,Olt,Lac,2982,2978,Lacu Călmățui,Geomil 25000,Limba română
 Pârâu Călmățuiu Sec,călmățui,2,44.2304824036737,24.6995593718633,Olt,Vale,2978,,Pârâu Călmățuiu Sec,Geomil 25000,Limba română
 Valea Călmățui,călmățui,2,44.2122143834088,24.6271943786231,Olt,Vale,2983,,Valea Călmățui,Geomil 25000,Limba română
+Călui,călui,2,44.4550059597158,24.0403798226408,Olt,Vale,14377,,Călui,ANCPI,Limba română,V. Kaluiul,Austriacă,Limba română
+Călui,călui,2,44.4507384702853,24.0646104747915,Olt,Localitate,14378,14377,Călui,ANCPI,Limba română,Căluiul,PDT,Limba română
 Caracal,caracal,2,44.1122716671683,24.3495401476555,Olt,Localitate,9483,,Caracal,Geomil 25000,Limba română
 Pârâu Caracal,caracal,2,44.1065109086544,24.4188484622256,Olt,Vale,9484,9483,Pârâu Caracal,Geomil 25000,Limba română
 Măgura lui Cazan,cazan,2,44.0829891785146,24.328224137267,Olt,Înălțime,3039,,Măgura lui Cazan,Geomil 25000,Limba română
@@ -424,13 +442,19 @@ Comani,comani,2,44.1834250594421,24.4895892511513,Olt,Localitate,1284,,Comani,Ge
 D. Komani,comani,2,44.4910981580566,24.2175496748984,Olt,Deal,5809,,D. Komani,Austriacă,Limba română
 Comănița,comănița,3,44.5647898197045,24.3429686544402,Olt,Localitate,9346,,Comănița,Geomil 25000,Limba română,Comanița,PDT,Limba română
 La Dârmanu,dârmanu,3,44.7780575270242,24.3990714959436,Olt,Altele,11760,,La Dârmanu,ANCPI,Limba română
+Geamărtălui,geamărtălui,2,44.4052583228362,24.0311922605554,Olt,Vale,14376,,Geamărtălui,PDT,Limba română
 Horezu,horezu,3,44.4704819626867,23.9555449518022,Olt,Localitate,12234,,Horezu,Geomil 25000,Limba română
 Pârâu Horezu,horezu,3,44.4792374727159,23.9602995802168,Olt,Vale,12235,12234,Pârâu Horezu,Geomil 25000,Limba română
 Fântâna la Gura Iașului,iaș,3,44.4384284038421,24.1201800860404,Olt,Altele,4804,,Fântâna la Gura Iașului,PDT,Limba română
-Dealu Jugălia,jugalia,2,44.329178729182,24.2969172209382,Olt,Deal,1291,,Dealu Jugălia,Geomil 25000,Limba română
+Dealu Jugălia,jugalia,2,44.329178729182,24.2969172209382,Olt,Deal,1291,297,Dealu Jugălia,Geomil 25000,Limba română
 Valea Jugalia,jugalia,2,44.3781897657989,24.2320062007253,Olt,Vale,297,,Valea Jugalia,Geomil 25000,Limba română
 Valea Jugălia Mare,jugalia,2,44.2114659326703,24.5126569355704,Olt,Vale,5805,,Valea Jugălia Mare,Geomil 25000,Limba română,Jugalia mare,Austriacă,Limba română
 Valea Jugălia Mică,jugalia,2,44.2276412840403,24.5053112557865,Olt,Vale,5806,5805,Valea Jugălia Mică,Geomil 25000,Limba română,Jugalia mik,Austriacă,Limba română
+Valea Coada Surdului,surdului,2,44.6911634471011,24.3607735204688,Olt,Vale,14391,14390,Valea Coada Surdului,PDT,Limba română,Valea Coada Surdului,ANCPI,Limba română
+Valea Surdului,surdului,2,44.6893586620649,24.3377405021381,Olt,Vale,14390,,Valea Surdului,PDT,Limba română,Surduiu,ANCPI,Limba română
+Pârâul Teslui,teslui,2,44.534200330981,24.3830227459219,Olt,Vale,14387,,Pârâul Teslui,PDT,Limba română
+Teslui,teslui,2,44.5098128097063,24.3521795799974,Olt,Localitate,14388,14387,Teslui,PDT,Limba română
+Teslui,teslui,2,44.1784749247439,24.3306936104585,Olt,Vale,14389,,Teslui,ANCPI,Limba română,Pârâul Tasluiul,PDT,Limba română
 Valea Uștiubeu,uștubeu,3,44.0624350254562,24.3374649783184,Olt,Vale,3040,,Valea Uștiubeu,Geomil 25000,Limba română
 Valea Vaslui,vaslui,2,44.4040679016972,24.2406820757482,Olt,Vale,4807,,Valea Vaslui,PDT,Limba română,Pârâu Vaslui,Geomil 25000,Limba română
 Valea Vasluiețului,vaslui,2,44.4467289690567,24.1773784785067,Olt,Vale,279,4807,Valea Vasluiețului,Geomil 25000,Limba română
@@ -479,6 +503,7 @@ Dealul Coman,coman,3,47.7345224720725,25.859275795751,Suceava,Deal,2276,,Dealul 
 Dealul lui Coman,coman,3,47.295604867439,25.0520000993405,Suceava,Deal,6375,,Dealul lui Coman,Geomil 25000,Limba română
 Comănești,comănești,3,47.6696615494455,25.9886345558109,Suceava,Localitate,2274,,Comănești,Geomil 25000,Limba română,Comănești,PDT,Limba română,Komanestie,Bucovina (1773-1775),Limba română
 Pădurea Comănești,comănești,3,47.6629440697903,25.9754848742428,Suceava,Pădure,12065,2274,Pădurea Comănești,Geomil 25000,Limba română
+Dărmănești Putna,dărmănești,3,47.7212162851467,25.5820999194266,Suceava,Altele,14300,,Dărmănești Putna,ANCPI,Limba română
 Dealul Dermanul,derman,3,47.6604842682954,25.944705418388,Suceava,Deal,12064,,Dealul Dermanul,PDT,Limba română
 Dealul Șoldăneștilor,șoldănești,3,47.450241351065,26.3301797741267,Suceava,Deal,4929,4928,Dealul Șoldăneștilor,PDT,Limba română
 Pârâul Șoldăneștilor,șoldănești,3,47.4445664581879,26.3167906791362,Suceava,Vale,4930,4928,Pârâul Șoldăneștilor,PDT,Limba română
@@ -531,10 +556,12 @@ Berindei,berindei,3,44.7013833892729,23.9060601447199,Valcea,Altele,3090,,Berind
 Buzdugan,buzdugan,2,45.0588633259108,24.1366033507915,Valcea,Localitate,11377,,Buzdugan,Geomil 25000,Limba română
 Căzănești,cazan,2,44.6356923112944,23.8908664395815,Valcea,Localitate,4738,,Căzănești,Geomil 25000,Limba română
 Căzănești,căzănești,3,45.0546477602223,24.2837044178236,Valcea,Localitate,9369,,Căzănești,Geomil 25000,Limba română
+Pădurea Ciugui,ciugui,2,44.870597436112,24.3038244623756,Valcea,Pădure,14392,,Pădurea Ciugui,PDT,Limba română,Pădurea Ciuguiu,ANCPI,Limba română
 Ciulpani,ciulpani,3,44.6749818673753,23.9035228492956,Valcea,Altele,11345,,Ciulpani,Geomil 25000,Limba română
 Valea Comanca,coman,3,45.0216807176447,24.4666460225101,Valcea,Vale,335,,Valea Comanca,Geomil 25000,Limba română
 Comanca,comancă,3,45.2371541806485,24.2233151201954,Valcea,Localitate,2939,,Comanca,Geomil 25000,Limba română
 Horezu,horezu,3,45.145759071621,23.9903312898037,Valcea,Localitate,12848,,Horezu,Geomil 25000,Limba română
+Dealul Piscul Teslui,teslui,2,44.7130429713855,24.1862056803141,Valcea,Deal,14386,,Dealul Piscul Teslui,ANCPI,Limba română
 Balica,balica,2,46.6270053136882,27.4519643139583,Vaslui,Localitate,4630,,Balica,PDT,Limba română,Balica,Geomil 25000,Limba română
 Dealul Balica,balica,2,46.6287971948535,27.4446099710323,Vaslui,Deal,4622,4630,Dealul Balica,Geomil 25000,Limba română
 La Busdugan,buzdugan,2,46.6046163551881,28.0986497563482,Vaslui,Altele,10924,,La Busdugan,Moldova (1892-1898),Limba română,La Buzdugan,Geomil 25000,Limba română

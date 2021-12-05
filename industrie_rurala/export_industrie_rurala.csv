@@ -105,6 +105,7 @@ Valea Vărăriei,vărărie,3,46.2855135637181,27.3823682478217,Bacau,Vale,13644,
 Vărărie,vărărie,3,46.3098351803935,26.6789698945854,Bacau,Altele,5327,Vărărie,PDT,Limba română
 La Varniță,varniță,3,46.540957883335,27.0544882107673,Bacau,Altele,7856,La Varniță,Geomil 25000,Limba română
 Varnița,varniță,3,46.2490672156523,26.7127380335516,Bacau,Altele,5315,Varnița,Geomil 25000,Limba română
+Dealul Velniți,velniță,3,46.6159163377324,26.748197903539,Bacau,Deal,14323,Dealul Velniți,PDT,Limba română
 Pârâul Velnița,velniță,3,46.5253394809576,27.0044203729297,Bacau,Vale,9506,Pârâul Velnița,PDT,Limba română,Velnița,Geomil 25000,Limba română
 Cărbunari,cărbunari,3,47.1381472212476,22.1583346521693,Bihor,Altele,5920,Cărbunari,Geomil 25000,Limba română
 Cărbunari,cărbunari,3,46.6805694559806,22.4927558848784,Bihor,Localitate,9407,Cărbunari,PDT,Limba română
@@ -182,6 +183,7 @@ Valea Prisăcii,prisacă,3,47.6145646006594,26.8690139188975,Botosani,Vale,2420,
 Valea Prisăcii,prisacă,3,47.7016371251397,27.1940754414291,Botosani,Vale,2423,Valea Prisăcii,Geomil 25000,Limba română
 Valea Prisăcii,prisacă,3,47.7647213950219,26.7969452055976,Botosani,Vale,7757,Valea Prisăcii,Geomil 25000,Limba română
 Valea Prisăcii,prisacă,3,47.6303168723175,26.6716627498063,Botosani,Vale,11660,Valea Prisăcii,Geomil 25000,Limba română
+Drumul Stupăriei,stupărie,3,47.9739364444165,26.1387079559023,Botosani,Drum,14304,Drumul Stupăriei,ANCPI,Limba română
 Dealul Vărăriei,vărărie,3,47.5768711077554,26.8065886398287,Botosani,Deal,1756,Dealul Vărăriei,Geomil 25000,Limba română
 La Vărărie,vărărie,3,48.2395261929652,26.6369045119215,Botosani,Altele,2008,La Vărărie,Geomil 25000,Limba română,La Vărărie,PDT,Limba română
 Pădurea Varniței,varniță,3,47.6050845198451,26.8154405295779,Botosani,Pădure,1759,Pădurea Varniței,Geomil 25000,Limba română
@@ -254,7 +256,7 @@ Prisaca,prisacă,3,45.136803707137,22.1912159444001,Caras Severin,Altele,6129,Pr
 Prisaca,prisacă,3,45.4341653150932,22.5408896472316,Caras Severin,Altele,11580,Prisaca,ANCPI,Limba română
 Prisaca,prisacă,3,44.9777329134111,21.5867046003683,Caras Severin,Altele,12157,Prisaca,PDT,Limba română
 Prisaca,prisacă,3,44.8864454848167,21.7319202909538,Caras Severin,Altele,12158,Prisaca,PDT,Limba română
-Prisaka,prisacă,3,45.2615381119366,22.1875055226162,Caras Severin,Altele,10255,Prisaka,Ungară 1869,Limba română
+Prisaka,prisacă,3,45.2615381119366,22.1875055226162,Caras Severin,Altele,10255,Prisaka,Ungară 1869,Limba română,Poiana Prisaca,PDT,Limba română
 Vârful Prisăcii,prisacă,3,45.350358016933,22.5078651328831,Caras Severin,Înălțime,8663,Vârful Prisăcii,PDT,Limba română
 Pârâu Prisăcina,prisăcină,4,45.011896662288,22.5075255664449,Caras Severin,Vale,13081,Pârâu Prisăcina,Geomil 25000,Limba română
 Dealul Stuparului,stupar,3,45.3145967163208,21.7962938410885,Caras Severin,Deal,4321,Dealul Stuparului,PDT,Limba română,Dealul Stuoarului,Geomil 25000,Limba română
@@ -270,6 +272,7 @@ Stupini,stupină,3,45.0046931390795,22.4105652176865,Caras Severin,Altele,11788,
 Țiglăria Cocieș,țiglărie,2,44.8905145361075,21.6842140622078,Caras Severin,Altele,8521,Țiglăria Cocieș,PDT,Limba română
 Țiglăria Vitan,țiglărie,2,44.895580215364,21.6861405305007,Caras Severin,Altele,8520,Țiglăria Vitan,PDT,Limba română
 La Tău Varului,var,3,45.4329855554083,22.23355082737,Caras Severin,Altele,860,La Tău Varului,Geomil 25000,Limba română
+Cariera Varnița,varniță,3,45.0300003774762,21.7553156176478,Caras Severin,Altele,14354,Cariera Varnița,PDT,Limba română
 Dealu Varnița,varniță,3,45.6178628018006,22.3532487768091,Caras Severin,Deal,864,Dealu Varnița,Geomil 25000,Limba română
 La Varniță,varniță,3,44.656488355996,21.724019159442,Caras Severin,Altele,905,La Varniță,Geomil 25000,Limba română
 Ogașul Varniței,varniță,3,44.7715662782663,21.6838478355362,Caras Severin,Vale,11491,Ogașul Varniței,ANCPI,Limba română
@@ -617,6 +620,7 @@ Valea Stupina,stupină,3,45.6915177599068,22.223553498236,Timis,Vale,6070,Valea 
 La Varniță,varniță,3,45.8095167992862,22.4542645040074,Timis,Altele,12841,La Varniță,PDT,Limba română
 Varnița,varniță,3,45.8117378995467,21.9807600694995,Timis,Altele,6180,Varnița,PDT,Limba română
 Varnița,varniță,3,45.8024843530198,22.3081329314289,Timis,Altele,14246,Varnița,Geomil 25000,Limba română
+Valea Cărbunăriilor,cărbunari,3,44.9680627491297,28.6161828130489,Tulcea,Vale,14282,Valea Cărbunăriilor,PDT,Limba română
 Valea Cărbunarilor,cărbunari,3,44.9460530550714,28.6152643447572,Tulcea,Vale,9295,Valea Cărbunarilor,Geomil 25000,Limba română
 Valea Prisăcei,prisacă,3,45.3329748287693,28.1511203031486,Tulcea,Vale,6683,Valea Prisăcei,PDT,Limba română
 Dealul Stupăria,stupărie,3,45.0890439763262,28.5481737603661,Tulcea,Deal,2898,Dealul Stupăria,Geomil 25000,Limba română

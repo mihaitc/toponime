@@ -1,4 +1,5 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Pârâul Vulpăria,vulpărie,3,46.5889049815101,26.5724667106864,Bacau,Vale,14322,,Pârâul Vulpăria,PDT,Limba română
 Pârâul Vulpării,vulpărie,3,46.4551151881346,26.4051548571373,Bacau,Vale,6552,6550,Pârâul Vulpării,PDT,Limba română
 Piciorul Vulpării,vulpărie,3,46.4578473179567,26.4071044378811,Bacau,Înălțime,6550,,Piciorul Vulpării,PDT,Limba română
 Vârful Vulpăriei,vulpărie,3,46.647870504485,26.2083862563289,Bacau,Înălțime,9953,,Vârful Vulpăriei,Geomil 25000,Limba română

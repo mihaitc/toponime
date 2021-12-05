@@ -123,6 +123,7 @@
 <Placemark><LineString id="5465_5464"><tessellate>1</tessellate><coordinates>24.483756,46.813769,0.
 24.485347,46.819475,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Pârâul Sasului</name><description>Nume: Pârâul Sasului, Tip: sas, Nivel: 4, Județ: Mures, Formă: Vale, ID: 5522 <br /><b>Variante</b><br />Nume: Pârâul Sasului, Hartă: PDT, Limbă: Limba română<br />Nume: Sasul, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.737697,46.191600,0</coordinates></Point></Placemark>
+<Placemark><name>Tăetura Sasului</name><description>Nume: Tăetura Sasului, Tip: sas, Nivel: 4, Județ: Mures, Formă: Altele, ID: 14312 <br /><b>Variante</b><br />Nume: Tăetura Sasului, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>25.259119,46.933807,0</coordinates></Point></Placemark>
 <Placemark><name>Valea Sasului</name><description>Nume: Valea Sasului, Tip: sas, Nivel: 4, Județ: Mures, Formă: Localitate, ID: 5463, ID Părinte: 5464 <br /><b>Variante</b><br />Nume: Valea Sasului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.483338,46.822742,0</coordinates></Point></Placemark>
 <Placemark><LineString id="5463_5464"><tessellate>1</tessellate><coordinates>24.483338,46.822742,0.
 24.485347,46.819475,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealul Bărăguiului</name><description>Nume: Dealul Bărăguiului, Tip: bărăgui, Nivel: 3, Județ: Dolj, Formă: Deal, ID: 14367, ID Părinte: 14366 <br /><b>Variante</b><br />Nume: Dealul Bărăguiului, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>23.554572,44.160575,0</coordinates></Point></Placemark>
+<Placemark><LineString id="14367_14366"><tessellate>1</tessellate><coordinates>23.554572,44.160575,0.
+23.563954,44.164064,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

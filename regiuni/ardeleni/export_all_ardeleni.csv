@@ -2,6 +2,7 @@ Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă
 Valea Ardelenilor,ardeleni,2,46.0170480805194,21.2808333128852,Arad,Vale,7635,,Valea Ardelenilor,Geomil 25000,Limba română
 Plaiul Ardelencei,ardeleancă,3,45.2541099282367,24.6864830421796,Arges,Înălțime,4047,,Plaiul Ardelencei,PDT,Limba română
 Poiana Ardeleanului,ardelean,3,46.5415627745999,26.0946390340724,Bacau,Poiană,4550,,Poiana Ardeleanului,Geomil 25000,Limba română,Poiana Ardeleanului,PDT,Limba română
+Ardeleni,ardeleni,2,46.4628223474692,26.7241233507999,Bacau,Localitate,14320,,Ardeleni,PDT,Limba română
 Valea Ardeleni,ardeleni,2,46.4044865168199,26.694343877921,Bacau,Vale,13861,,Valea Ardeleni,PDT,Limba română,Valea Ardelenilor,Geomil 25000,Limba română
 Crucea Ardeleanului,ardelean,3,45.2849369151164,26.8870846733412,Buzau,Altele,8452,2087,Crucea Ardeleanului,PDT,Limba română
 Dealul Ardeleanului,ardelean,3,45.2745564707663,26.8841016264903,Buzau,Deal,2087,,Dealul Ardeleanului,Geomil 25000,Limba română
