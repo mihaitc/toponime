@@ -1,3 +1,4 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Valea Coada Surdului,surdului,2,44.6911634471011,24.3607735204688,Olt,Vale,14391,14390,Valea Coada Surdului,PDT,Limba română,Valea Coada Surdului,ANCPI,Limba română
 Valea Surdului,surdului,2,44.6893586620649,24.3377405021381,Olt,Vale,14390,,Valea Surdului,PDT,Limba română,Surduiu,ANCPI,Limba română
+Măgura Perii Surdului,surdului,2,44.0194886766133,24.9947671596879,Teleorman,Înălțime,14401,,Măgura Perii Surdului,PDT,Limba română

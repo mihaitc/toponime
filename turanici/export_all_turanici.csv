@@ -49,6 +49,7 @@ Valea Iașului,iaș,3,45.1747119672843,24.6844423474067,Arges,Vale,4054,4053,Val
 Culmea Pecineagului,pecineag,3,45.5451904386072,25.0828726823115,Arges,Înălțime,5006,5077,Culmea Pecineagului,Geomil 25000,Limba română
 Muntele Picineagu,pecineag,3,45.5566674994352,25.1015955682861,Arges,Înălțime,5077,,Muntele Picineagu,PDT,Limba română
 Talaba,talabă,2,45.119522920708,24.7068621289047,Arges,Altele,6906,,Talaba,Geomil 25000,Limba română
+Urlueni,urlueni,3,44.4817620560378,24.7724429199782,Arges,Localitate,14400,,Urlueni,PDT,Limba română
 Poiana Uștiubeiului,uștubeu,3,44.7733444600603,24.8195128432466,Arges,Poiană,14184,,Poiana Uștiubeiului,PDT,Limba română
 Piciorul lui Balic,balic,3,46.6131146419276,26.3362401442594,Bacau,Înălțime,9161,,Piciorul lui Balic,PDT,Limba română
 Bărcana,bărcana,3,46.4874787849294,27.361068429551,Bacau,Localitate,9600,,Bărcana,Moldova (1892-1898),Limba română
@@ -154,6 +155,7 @@ Hurez,hurez,2,45.8010466748323,24.951752340065,Brasov,Localitate,11935,,Hurez,Ge
 Iași,iași,2,45.7642557838083,24.9302808330096,Brasov,Localitate,4948,,Iași,Geomil 25000,Limba română
 Piscul Balabanului,balaban,2,45.578032569748,26.600260882322,Buzau,Înălțime,12264,,Piscul Balabanului,Geomil 25000,Limba română
 Crucea lui Barac,barac,2,45.1229721008561,26.5808570363673,Buzau,Altele,6023,,Crucea lui Barac,Geomil 25000,Limba română
+Puțul lui Bărăgan,bărăgan,2,45.2464344989826,27.0162227004475,Buzau,Altele,14405,,Puțul lui Bărăgan,PDT,Limba română
 Dealul Călmățuiu,călmățui,2,45.475956853582,26.3389598153182,Buzau,Deal,793,,Dealul Călmățuiu,Geomil 25000,Limba română
 Kelmeziu,călmățui,2,45.61736042536,26.5353816003827,Buzau,Înălțime,13778,,Kelmeziu,Austriacă,Limba română
 Pârâul Călmățuiu,călmățui,2,45.1534296881932,26.7186442315274,Buzau,Apă-deal-câmpie,69,,Pârâul Călmățuiu,PDT,Limba română
@@ -166,6 +168,7 @@ Coman,coman,3,45.2926731043218,27.2142099957757,Buzau,Altele,8721,,Coman,PDT,Lim
 Crucea lui Coman,coman,3,45.1051557451218,26.5557488393266,Buzau,Altele,3966,,Crucea lui Coman,Geomil 25000,Limba română,Crucea lui Coman,PDT,Limba română
 Movila Nohai,nohai,2,45.0114250131548,27.1704859887433,Buzau,Înălțime,3592,,Movila Nohai,Geomil 25000,Limba română,Movila Nohaiu,PDT,Limba română
 Pârâul Pecineaga,pecineaga,3,45.504136514912,26.7509538813844,Buzau,Vale,12269,,Pârâul Pecineaga,Geomil 25000,Limba română
+Sokariciu,șocariciu,2,45.269759604774,27.0859511303227,Buzau,Localitate,14404,,Sokariciu,Austriacă,Limba română
 Valea lui Asan,asan,2,44.4042779853689,27.3714525691298,Calarasi,Vale,3310,,Valea lui Asan,PDT,Limba română
 Privalul Balaban,balaban,2,44.2507345707207,27.6949317521502,Calarasi,Apă-deal-câmpie,3212,,Privalul Balaban,PDT,Limba română
 Bărăgan,bărăgan,2,44.3792845668846,27.1263072469284,Calarasi,Câmp,3439,,Bărăgan,PDT,Limba română
@@ -455,6 +458,7 @@ Valea Surdului,surdului,2,44.6893586620649,24.3377405021381,Olt,Vale,14390,,Vale
 Pârâul Teslui,teslui,2,44.534200330981,24.3830227459219,Olt,Vale,14387,,Pârâul Teslui,PDT,Limba română
 Teslui,teslui,2,44.5098128097063,24.3521795799974,Olt,Localitate,14388,14387,Teslui,PDT,Limba română
 Teslui,teslui,2,44.1784749247439,24.3306936104585,Olt,Vale,14389,,Teslui,ANCPI,Limba română,Pârâul Tasluiul,PDT,Limba română
+Urluiasca,urluiasca,3,44.665575554422,24.3800298492866,Olt,Localitate,14406,,Urluiasca,PDT,Limba română
 Valea Uștiubeu,uștubeu,3,44.0624350254562,24.3374649783184,Olt,Vale,3040,,Valea Uștiubeu,Geomil 25000,Limba română
 Valea Vaslui,vaslui,2,44.4040679016972,24.2406820757482,Olt,Vale,4807,,Valea Vaslui,PDT,Limba română,Pârâu Vaslui,Geomil 25000,Limba română
 Valea Vasluiețului,vaslui,2,44.4467289690567,24.1773784785067,Olt,Vale,279,4807,Valea Vasluiețului,Geomil 25000,Limba română
@@ -514,6 +518,7 @@ Valea Balacilor,balaci,2,44.3454380235804,24.913380237079,Teleorman,Vale,10982,1
 Valea lui Bărcan,bărcan,2,44.1590725078047,25.1420941171049,Teleorman,Vale,12205,,Valea lui Bărcan,Geomil 25000,Limba română
 Găvanu Basarabului,basarab,3,43.9153364905548,24.7573448364981,Teleorman,Înălțime,1355,,Găvanu Basarabului,Geomil 25000,Limba română,Găvanu Basarabului,PDT,Limba română
 Găvanul Basarabilor,basarabi,2,43.914996170913,24.7974128203698,Teleorman,Altele,9478,1355,Găvanul Basarabilor,PDT,Limba română
+Balta Bercelui,bercelui,2,43.7330495976689,24.9114901625262,Teleorman,Apă-deal-câmpie,14398,,Balta Bercelui,PDT,Limba română
 Pădurea Berindei,berindei,3,44.2707558008692,24.9497706986799,Teleorman,Pădure,10111,,Pădurea Berindei,Geomil 25000,Limba română
 Dealu Buciului,buciu,2,44.3199893418299,24.8973751455919,Teleorman,Deal,10981,,Dealu Buciului,Geomil 25000,Limba română
 Fântâna Buciului,buciu,2,44.3282068305378,24.9016077810366,Teleorman,Altele,10984,10981,Fântâna Buciului,PDT,Limba română
@@ -526,6 +531,9 @@ Movila lui Coman,coman,3,44.1688502495918,25.5396333075634,Teleorman,Înălțime
 Puțul lui Coman,coman,3,44.3250327975332,25.0760255211062,Teleorman,Altele,9038,,Puțul lui Coman,PDT,Limba română
 Valea Comanea,comancă,3,43.9786565209327,24.7929868048002,Teleorman,Vale,12214,,Valea Comanea,PDT,Limba română,Valea Comăncii,Geomil 25000,Limba română,Valje Komanka,Oltenia-Muntenia (1790),Limba română
 Uda Komâneanului,comănean,3,43.8750458064129,24.7282532514147,Teleorman,Localitate,5787,,Uda Komâneanului,Austriacă,Limba română
+Dealul Gurlui,gurlui,2,44.0329691962347,24.9814044187828,Teleorman,Deal,14403,14402,Dealul Gurlui,PDT,Limba română
+Valea Gurlui,gurlui,2,44.0373813138891,24.9803538570856,Teleorman,Vale,14402,,Valea Gurlui,PDT,Limba română
+Măgura Perii Surdului,surdului,2,44.0194886766133,24.9947671596879,Teleorman,Înălțime,14401,,Măgura Perii Surdului,PDT,Limba română
 Tecuci,tecuci,2,44.3444530074322,24.8572658855239,Teleorman,Localitate,10979,,Tecuci,Geomil 25000,Limba română
 Pârâu Urlui,urlui,2,43.8546788732893,25.1267360650083,Teleorman,Vale,4213,,Pârâu Urlui,Geomil 25000,Limba română
 La Ustibeu,uștubeu,3,43.8519873040712,25.117346635537,Teleorman,Altele,4212,,La Ustibeu,Austriacă,Limba română
