@@ -4,9 +4,11 @@ Cerchez,cerchez,3,46.0308134348342,23.2346063591189,Alba,Înălțime,9662,Cerche
 Vârfu Cherchezului,cerchez,3,46.07338515036,23.4152582822968,Alba,Înălțime,10671,Vârfu Cherchezului,Geomil 25000,Limba română
 Labu Grecilor,greci,2,46.1402838324351,23.8227156659159,Alba,Înălțime,2558,Labu Grecilor,Geomil 25000,Limba română
 Șilea-maghiară,maghiar,3,46.3249772411471,24.1120859927266,Alba,Localitate,10807,Șilea-maghiară,Imperiul Habsburgic (1887),Limba română
+Magyar-Bénye,magyar,4,46.2315620024321,24.0042407257414,Alba,Localitate,14496,Magyar-Bénye,Transilvania (1769-1773),Limba maghiară
 Dâmbu Neamțului,neamț,4,46.2231639904775,23.2880047461297,Alba,Înălțime,5579,Dâmbu Neamțului,Geomil 25000,Limba română
 Piatra Neamțului,neamț,4,46.4661201305344,23.15213011445,Alba,Înălțime,11528,Piatra Neamțului,Geomil 25000,Limba română
 Podu Neamțului,neamț,4,46.249026742483,23.9765097571379,Alba,Altele,7354,Podu Neamțului,Geomil 25000,Limba română
+Oláh-Bükkös,oláh,3,46.152978758006,24.1637410038172,Alba,Localitate,14495,Oláh-Bükkös,Transilvania (1769-1773),Limba maghiară
 Ollah Pian,oláh,3,45.8956597854392,23.4830393770612,Alba,Localitate,10459,Ollah Pian,Transilvania (1869-1870),Limba maghiară
 Daia Română,română,3,46.0061138755266,23.6673481622312,Alba,Localitate,10452,Daia Română,Geomil 25000,Limba română
 Bucerdea românească,românească,3,46.1664063403466,23.5218519841088,Alba,Localitate,10672,Bucerdea românească,Imperiul Habsburgic (1887),Limba română
@@ -128,6 +130,7 @@ Pădurea Turcului,turc,3,44.4985191944435,25.1563015346113,Arges,Pădure,3388,P�
 Piscul Turcului,turc,3,45.531831284852,24.7772559087802,Arges,Înălțime,10185,Piscul Turcului,Geomil 25000,Limba română
 Puțu Turcului,turc,3,44.4428145302628,25.1895886530011,Arges,Altele,8320,Puțu Turcului,PDT,Limba română
 Val. Turkului,turc,3,44.611710813434,24.7418268014337,Arges,Vale,5819,Val. Turkului,Austriacă,Limba română,Valea Turcului,PDT,Limba română
+Valea Turcului,turc,3,44.6264281733027,24.7376485661765,Arges,Vale,14422,Valea Turcului,PDT,Limba română
 Turcești,turcești,3,44.837922560765,24.8710055541931,Arges,Localitate,9358,Turcești,PDT,Limba română
 Plaiul Turcilor,turci,2,45.5332790805449,25.1548220988136,Arges,Altele,628,Plaiul Turcilor,Geomil 25000,Limba română
 Perii Ungurului,ungur,3,45.2145146636332,25.0742444884912,Arges,Altele,11124,Perii Ungurului,PDT,Limba română
@@ -225,6 +228,7 @@ Jidovul,jidov,3,47.4568134647668,25.0180667703827,Bistrita Nasaud,Vale,12893,Jid
 Dealul Neamțului,neamț,4,46.8693802426354,24.3987771119404,Bistrita Nasaud,Deal,5471,Dealul Neamțului,PDT,Limba română,Dealul Neamțului,Geomil 25000,Limba română
 Dealul Neamțului,neamț,4,47.3938557083363,24.8007230550124,Bistrita Nasaud,Deal,9916,Dealul Neamțului,Geomil 25000,Limba română
 Poiana Neamțului,neamț,4,47.4064797653777,24.4318538572054,Bistrita Nasaud,Poiană,1022,Poiana Neamțului,Geomil 25000,Limba română
+Olah Budak,oláh,3,47.0823641983006,24.5373234176995,Bistrita Nasaud,Localitate,14476,Olah Budak,Transilvania (1769-1773),Limba română
 Mințiu Român,român,3,47.2370328684359,24.3521644864669,Bistrita Nasaud,Localitate,7126,Mințiu Român,PDT,Limba română
 Nimigea română,română,3,47.2752326468731,24.3281192767744,Bistrita Nasaud,Localitate,10586,Nimigea română,Imperiul Habsburgic (1887),Limba română
 Valea Româneasa,româneasă,3,47.4099463603547,24.2290077545425,Bistrita Nasaud,Vale,11994,Valea Româneasa,ANCPI,Limba română
@@ -242,6 +246,9 @@ Dialu sasului,sas,4,47.2190000845513,24.209679559269,Bistrita Nasaud,Deal,10496,
 Moara Sasului,sas,4,47.3009056290404,24.2683768002958,Bistrita Nasaud,Altele,7112,Moara Sasului,PDT,Limba română,La Moara Sasului,Geomil 25000,Limba română
 Valea Sasului,sas,4,47.2603171219254,24.2553971229583,Bistrita Nasaud,Vale,4500,Valea Sasului,Geomil 25000,Limba română
 Szász Cegő,săsesc,4,47.0692463889004,24.3322630639926,Bistrita Nasaud,Localitate,10465,Szász Cegő,Transilvania (1869-1870),Limba maghiară
+Szasz Budak,szász,4,47.089699690906,24.5219057793753,Bistrita Nasaud,Localitate,14477,Szasz Budak,Transilvania (1769-1773),Limba română
+Szasz Uj Öss,szász,4,46.939108726924,24.2722229727359,Bistrita Nasaud,Localitate,14481,Szasz Uj Öss,Transilvania (1769-1773),Limba maghiară
+Szasz Ujfalu,szász,4,47.0214760793371,24.260647752462,Bistrita Nasaud,Localitate,14479,Szasz Ujfalu,Transilvania (1769-1773),Limba maghiară
 Szász-Bréte,szász,4,47.1239702679596,24.2427083463103,Bistrita Nasaud,Localitate,10467,Szász-Bréte,Transilvania (1869-1870),Limba maghiară
 Valea Tătarului,tătar,3,47.4071412025062,24.6270518644344,Bistrita Nasaud,Vale,4521,Valea Tătarului,Geomil 25000,Limba română
 Tătarca,tătarcă,4,47.1584956808968,24.8042409440114,Bistrita Nasaud,Înălțime,10642,Tătarca,Geomil 25000,Limba română
@@ -386,6 +393,7 @@ Mârâcine Grekului,grec,3,45.3501274388899,27.1141252905988,Buzau,Pădure,5261,
 Pârâul Grecu,grec,3,45.1949071079607,26.4807502721646,Buzau,Vale,13564,Pârâul Grecu,Geomil 25000,Limba română
 Valea Grecului,grec,3,45.1848879181344,26.6228393661579,Buzau,Vale,8735,Valea Grecului,PDT,Limba română
 Greci de Buzău,greci,2,45.1977803806493,26.7725595822225,Buzau,Localitate,8733,Greci de Buzău,PDT,Limba română
+Mov. Grecilor,greci,2,45.0415391052006,26.5791547231496,Buzau,Înălțime,14432,Mov. Grecilor,Austriacă,Limba română
 Movila Grecilor,greci,2,45.0705560214467,26.7380876681174,Buzau,Înălțime,67,Movila Grecilor,PDT,Limba română
 Movila Grecilor,greci,2,44.9573587590961,27.1123019259798,Buzau,Înălțime,3593,Movila Grecilor,Geomil 25000,Limba română,Movila Grecilor,PDT,Limba română
 Muntele Podul Grecilor,greci,2,45.5132178571834,26.3997575195492,Buzau,Înălțime,6115,Muntele Podul Grecilor,Geomil 25000,Limba română
@@ -515,7 +523,10 @@ Magyaros,magyaros,4,46.7938177420818,23.8547132060955,Cluj,Înălțime,10416,Mag
 Valea Moghioruș,moghioruș,4,46.7453707813919,23.8627601866044,Cluj,Vale,5875,Valea Moghioruș,Geomil 25000,Limba română
 Dealu Neamțului,neamț,4,46.6599169909685,23.0871615640349,Cluj,Deal,5895,Dealu Neamțului,Geomil 25000,Limba română
 Dealu Țapa Neamțului,neamț,4,46.8794647934336,23.4942731796005,Cluj,Deal,4387,Dealu Țapa Neamțului,Geomil 25000,Limba română
+Oláh Bogath,oláh,3,47.2038925602095,23.7031013661386,Cluj,Localitate,14488,Oláh Bogath,Transilvania (1769-1773),Limba maghiară
+Olah Fenes,oláh,3,46.6952575276892,23.4548835961306,Cluj,Localitate,14491,Olah Fenes,Transilvania (1769-1773),Limba maghiară
 Oláh Léta,oláh,3,46.6300234772624,23.465992023297,Cluj,Localitate,10437,Oláh Léta,Transilvania (1869-1870),Limba maghiară
+Oláh Vásárhely,oláh,3,46.9980156279586,24.0479940883972,Cluj,Localitate,14484,Oláh Vásárhely,Transilvania (1769-1773),Limba maghiară
 Ghirișu Român,român,3,46.8048261718957,23.9766549513795,Cluj,Localitate,5871,Ghirișu Român,Geomil 25000,Limba română,Oláh Gyéres,Transilvania (1869-1870),Limba maghiară
 Pârâul Român,român,3,46.8210510065342,22.9456857343198,Cluj,Vale,10428,Pârâul Român,PDT,Limba română
 Mănășturu Românesc,românesc,3,46.7766306794,23.0864379907,Cluj,Localitate,7025,Mănășturu Românesc,Geomil 25000,Limba română
@@ -527,6 +538,8 @@ Dealu Sârbului,sârb,3,46.8915076773326,22.8594097618178,Cluj,Deal,14219,Dealu 
 Dealul Sasului,sas,4,47.368781218938,23.8628969345349,Cluj,Deal,4399,Dealul Sasului,Geomil 25000,Limba română
 Dealul Sasului,sas,4,46.689402083285,23.334608293382,Cluj,Deal,8963,Dealul Sasului,PDT,Limba română
 Sas,sas,4,46.5161099902372,23.6126368954287,Cluj,Înălțime,13712,Sas,Imperiul Habsburgic (1887),Limba română,Muntie Sas,Transilvania (1869-1870),Limba română
+Szász Fenes,szász,4,46.7458740204976,23.4834465650124,Cluj,Localitate,14489,Szász Fenes,Transilvania (1769-1773),Limba maghiară
+Szász Lona,szász,4,46.742830416309,23.4313475956112,Cluj,Localitate,14490,Szász Lona,Transilvania (1769-1773),Limba maghiară
 Tăuți,tăuți,3,46.7110291295377,23.5069342115353,Cluj,Localitate,5885,Tăuți,Geomil 25000,Limba română
 Tótfalu,tót,3,47.0806270984152,23.7180271355178,Cluj,Localitate,12153,Tótfalu,Transilvania (1869-1870),Limba maghiară
 Colnicu Turcului,turc,3,46.6221900039109,22.8366997449337,Cluj,Înălțime,12541,Colnicu Turcului,Geomil 25000,Limba română
@@ -593,6 +606,7 @@ Băleni-Sârbi,sârbi,2,44.8193324419927,25.6358517274445,Dambovita,Localitate,3
 Dealu Sârbi,sârbi,2,44.641776801203,25.2977142349839,Dambovita,Deal,1397,Dealu Sârbi,Geomil 25000,Limba română
 Dealu Sârbilor,sârbi,2,44.6203014054107,25.3192175984171,Dambovita,Deal,3383,Dealu Sârbilor,Geomil 25000,Limba română
 Mahalaua Sârbilor,sârbi,2,44.912590289042,25.4910848295862,Dambovita,Localitate,10080,Mahalaua Sârbilor,PDT,Limba română
+Odaia Sârbilor,sârbi,2,44.9118273847193,25.4199171915914,Dambovita,Altele,14529,Odaia Sârbilor,ANCPI,Limba română
 Srbi de Gratia,sârbi,2,44.4312072493862,25.4236061320282,Dambovita,Localitate,8480,Srbi de Gratia,Austriacă,Limba română
 Pădurea Sasu,sas,4,44.7080475819311,25.6648911731605,Dambovita,Pădure,11154,Pădurea Sasu,PDT,Limba română
 Valea Sasului,sas,4,44.9616168520686,25.479239977035,Dambovita,Vale,1533,Valea Sasului,Geomil 25000,Limba română
@@ -676,6 +690,7 @@ Dealul Greaca,greaca,3,45.5211572227461,27.8900630425225,Galati,Deal,8710,Dealul
 Valea Grecului,grec,3,45.8171551942954,27.5468725243417,Galati,Vale,742,Valea Grecului,Geomil 25000,Limba română
 Valea Grecului,grec,3,46.0642752892,27.7606996068,Galati,Vale,7369,Valea Grecului,Geomil 25000,Limba română
 Pădurea Grecilor,greci,2,45.9843146075596,27.4200374655269,Galati,Pădure,3939,Pădurea Grecilor,PDT,Limba română
+Balta la Jidănie,jidănie,4,45.5107522951617,27.5544667005573,Galati,Apă-deal-câmpie,14545,Balta la Jidănie,PDT,Limba română
 Balta Leahului,leah,3,46.0145295105585,28.0892796436525,Galati,Apă-deal-câmpie,9498,Balta Leahului,Geomil 25000,Limba română
 Dealul Românești,românești,3,46.100649680819,27.6987024882106,Galati,Deal,7374,Dealul Românești,Geomil 25000,Limba română
 Cotul Rusului,rus,3,46.1051647247049,28.1122906929877,Galati,Apă-deal-câmpie,3510,Cotul Rusului,Geomil 25000,Limba română
@@ -686,6 +701,7 @@ Sârbi,sârbi,2,45.9278148483304,27.3264356129646,Galati,Localitate,9492,Sârbi,
 Valea Sârbilor,sârbi,2,46.1114568802283,27.649247630791,Galati,Vale,9754,Valea Sârbilor,Geomil 25000,Limba română,Valea Sârbilor,Moldova (1892-1898),Limba română
 Săseni,săseni,4,46.1259273616705,27.9345675037667,Galati,Localitate,13946,Săseni,Geomil 25000,Limba română
 Grindul Tătarului,tătar,3,45.6656781789735,28.0819089465951,Galati,Înălțime,703,Grindul Tătarului,Geomil 25000,Limba română
+Japșa Tătarului,tătar,3,45.5642282552033,28.142425535943,Galati,Apă-deal-câmpie,14547,Japșa Tătarului,PDT,Limba română
 Mormântul Tătarului,tătar,3,45.4761985805023,27.8360053948902,Galati,Altele,3530,Mormântul Tătarului,PDT,Limba română
 Rediul Tătarului,tătar,3,46.0120428066529,27.9450158527711,Galati,Altele,712,Rediul Tătarului,Geomil 25000,Limba română
 Tătarca,tătarcă,4,45.5985450207461,28.050333183277,Galati,Localitate,10905,Tătarca,Geomil 25000,Limba română,Tătarca,Moldova (1892-1898),Limba română
@@ -966,6 +982,7 @@ Magyar-Régen,magyar,4,46.7859848816805,24.7117540009528,Mures,Localitate,10470,
 Dealul Groapa Neamțului,neamț,4,46.5360512621273,24.6511566636152,Mures,Deal,4345,Dealul Groapa Neamțului,Geomil 25000,Limba română
 Dealul Neamțului,neamț,4,46.9616198444363,24.9571251904316,Mures,Deal,5403,Dealul Neamțului,Geomil 25000,Limba română
 Dealul Neamțului,neamț,4,46.9127117026004,25.0510142243967,Mures,Deal,10007,Dealul Neamțului,PDT,Limba română
+La Padura Neamzului,neamț,4,46.5346528449941,24.0743408983565,Mures,Pădure,14493,La Padura Neamzului,Transilvania (1769-1773),Limba română
 Piatra Neamțului,neamț,4,47.0176189696775,25.032045369068,Mures,Înălțime,11747,Piatra Neamțului,PDT,Limba română
 Dileulu romunu,român,3,46.4725758021231,24.3066784632206,Mures,Localitate,10545,Dileulu romunu,Imperiul Habsburgic (1887),Limba română
 Laslăul român,român,3,46.3872336379602,24.5391691230958,Mures,Localitate,10811,Laslăul român,Imperiul Habsburgic (1887),Limba română
@@ -988,7 +1005,9 @@ Laslăul săsesc,săsesc,4,46.3677690683546,24.5538100494993,Mures,Localitate,10
 Pădurea Bisericii Săsești,săsesc,4,46.72377786796,24.7169461123822,Mures,Pădure,4336,Pădurea Bisericii Săsești,Geomil 25000,Limba română
 Pârâul Săsesc,săsesc,4,46.3002795634296,24.3989102172032,Mures,Vale,8647,Pârâul Săsesc,PDT,Limba română
 Pășunea Sașilor,sași,3,46.369087593976,24.5204322474221,Mures,Altele,1910,Pășunea Sașilor,Geomil 25000,Limba română
+Szász Csávás,szász,4,46.3425121774761,24.4417240742999,Mures,Localitate,14497,Szász Csávás,Transilvania (1769-1773),Limba maghiară
 Szász Patak (Valea Sasului),szász,4,46.6308529862567,24.6629837662679,Mures,Vale,12814,Szász Patak (Valea Sasului),PDT,Limba română
+Szász Sz Ivan,szász,4,46.2841389575947,24.5635683535,Mures,Localitate,14498,Szász Sz Ivan,Transilvania (1769-1773),Limba maghiară
 Szász-Régen,szász,4,46.7801736283242,24.7003841749707,Mures,Localitate,10469,Szász-Régen,Transilvania (1869-1870),Limba maghiară
 Dealul Tătarului,tătar,3,47.0243499903316,24.8282768860846,Mures,Deal,11611,Dealul Tătarului,Geomil 25000,Limba română
 Vârful Tătarului,tătar,3,47.0741955563154,25.1119962188826,Mures,Înălțime,5424,Vârful Tătarului,Geomil 25000,Limba română
@@ -1068,6 +1087,7 @@ Greci,greci,2,44.2798699558636,24.3511300155452,Olt,Localitate,3011,Greci,Geomil
 Cimitirul Israelit,israelit,3,44.1227748569658,24.3300536303277,Olt,Altele,3042,Cimitirul Israelit,PDT,Limba română
 Conacul Neamțului,neamț,4,44.1113735533809,24.2155559228172,Olt,Altele,7738,Conacul Neamțului,PDT,Limba română
 Dealul Neamțului,neamț,4,43.8945963751444,24.4086366306693,Olt,Deal,3033,Dealul Neamțului,Geomil 25000,Limba română
+Valea Leasa Ovreiului,ovrei,4,44.3599138554552,24.7329504367384,Olt,Vale,14428,Valea Leasa Ovreiului,PDT,Limba română
 Brebeni romîn,român,3,44.3737055450907,24.4445479385148,Olt,Localitate,5798,Brebeni romîn,Austriacă,Limba română
 Ipotești romîn,român,3,44.312933133862,24.3941759823782,Olt,Localitate,5802,Ipotești romîn,Austriacă,Limba română
 Valea Apa Românei,română,3,44.4218557530392,24.0475178007556,Olt,Vale,2968,Valea Apa Românei,Geomil 25000,Limba română
@@ -1146,6 +1166,7 @@ Pădurea Ungurasca,ungureasca,3,47.3769595144363,22.9140659789939,Salaj,Pădure,
 Vf. Greku,grec,3,47.8492671217861,23.5677480268596,Satu Mare,Înălțime,10320,Vf. Greku,Ungară 1869,Limba română
 Dosu Neamțului,neamț,4,47.6066782826359,23.1781568106933,Satu Mare,Înălțime,4422,Dosu Neamțului,Geomil 25000,Limba română
 Valea Nemților,nemți,3,48.0449291838004,23.108813372364,Satu Mare,Vale,5975,Valea Nemților,Geomil 25000,Limba română
+Oláh Keszi,oláh,3,47.4730016852281,22.445741485265,Satu Mare,Localitate,14507,Oláh Keszi,Imperiul Habsburgic (1887),Limba maghiară
 Oláh szőlő (Viile românilor),oláh,3,47.3618009176917,23.0583084862149,Satu Mare,Altele,12746,Oláh szőlő (Viile românilor),Imperiul Habsburgic (1887),Limba maghiară
 Cehalul Românesc,românesc,3,47.3832138900637,22.5922970371454,Satu Mare,Localitate,8208,Cehalul Românesc,PDT,Limba română
 Românești,românești,3,47.7923896042501,23.1127513222428,Satu Mare,Localitate,4473,Românești,Geomil 25000,Limba română
@@ -1463,6 +1484,7 @@ Cimitirul Evreesc,evreiesc,3,45.7173869290288,27.2090482266956,Vrancea,Altele,35
 La Crama Grecului,grec,3,45.8845479317827,27.1058921952925,Vrancea,Altele,3560,La Crama Grecului,PDT,Limba română
 Pârâul Grecului,grec,3,45.8942977069906,26.7790824646211,Vrancea,Vale,5355,Pârâul Grecului,PDT,Limba română
 Pădurea Lunca Grecilor,greci,2,45.8958141483835,27.249324655123,Vrancea,Pădure,3561,Pădurea Lunca Grecilor,PDT,Limba română
+Stâna Grecilor,greci,2,45.5692175029664,27.1955278638467,Vrancea,Altele,14544,Stâna Grecilor,PDT,Limba română
 Movila Muscalu,muscal,3,45.7343325404494,27.1556281155485,Vrancea,Înălțime,765,Movila Muscalu,Geomil 25000,Limba română,Movila Muscalu,PDT,Limba română
 La Momâia Neamțului,neamț,4,45.7583019184067,27.0148769366401,Vrancea,Înălțime,9236,La Momâia Neamțului,PDT,Limba română
 Momâia Neamțului,neamț,4,45.572852342734,26.9211324676414,Vrancea,Înălțime,12996,Momâia Neamțului,Geomil 25000,Limba română

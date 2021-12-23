@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Valea Iușului</name><description>Nume: Valea Iușului, Tip: iuș, Nivel: 4, Județ: Bistrita Nasaud, Formă: Vale, ID: 14483, ID Părinte: 14482 <br /><b>Variante</b><br />Nume: Valea Iușului, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>24.260272,46.946084,0</coordinates></Point></Placemark>
+<Placemark><LineString id="14483_14482"><tessellate>1</tessellate><coordinates>24.260272,46.946084,0.
+24.281589,46.950333,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

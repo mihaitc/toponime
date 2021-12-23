@@ -1,4 +1,5 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Oláh-Bükkös,oláh,3,46.152978758006,24.1637410038172,Alba,Localitate,14495,Oláh-Bükkös,Transilvania (1769-1773),Limba maghiară
 Ollah Pian,oláh,3,45.8956597854392,23.4830393770612,Alba,Localitate,10459,Ollah Pian,Transilvania (1869-1870),Limba maghiară
 Daia Română,română,3,46.0061138755266,23.6673481622312,Alba,Localitate,10452,Daia Română,Geomil 25000,Limba română
 Bucerdea românească,românească,3,46.1664063403466,23.5218519841088,Alba,Localitate,10672,Bucerdea românească,Imperiul Habsburgic (1887),Limba română
@@ -17,6 +18,7 @@ Oláh Gyantha,oláh,3,46.7406868277635,22.0973827460088,Bihor,Localitate,12138,O
 Oláh hegy (Dealul Românului),oláh,3,47.3259894619043,22.1917604338889,Bihor,Deal,11866,Oláh hegy (Dealul Românului),Imperiul Habsburgic (1887),Limba maghiară
 Româneasa,româneasă,3,46.5946424524993,22.5961419722501,Bihor,Înălțime,5622,Româneasa,PDT,Limba română,Rumâneasa,Geomil 25000,Limba română
 Viile Românești,românești,3,47.1050876872288,22.1141879150875,Bihor,Altele,4183,Viile Românești,PDT,Limba română
+Olah Budak,oláh,3,47.0823641983006,24.5373234176995,Bistrita Nasaud,Localitate,14476,Olah Budak,Transilvania (1769-1773),Limba română
 Mințiu Român,român,3,47.2370328684359,24.3521644864669,Bistrita Nasaud,Localitate,7126,Mințiu Român,PDT,Limba română
 Nimigea română,română,3,47.2752326468731,24.3281192767744,Bistrita Nasaud,Localitate,10586,Nimigea română,Imperiul Habsburgic (1887),Limba română
 Valea Româneasa,româneasă,3,47.4099463603547,24.2290077545425,Bistrita Nasaud,Vale,11994,Valea Româneasa,ANCPI,Limba română
@@ -37,7 +39,10 @@ Poiana Românului,român,3,45.1071377668942,22.3644254812555,Caras Severin,Poian
 Ciclova-Română,română,3,45.0077577225287,21.7011339822202,Caras Severin,Localitate,8541,Ciclova-Română,PDT,Limba română,Ciclova Română,Geomil 25000,Limba română
 Sasca Română,română,3,44.8893396477904,21.7208997480472,Caras Severin,Localitate,8517,Sasca Română,PDT,Limba română,Sasca Română,Geomil 25000,Limba română
 Dealu Românata,românata,3,45.3654487966659,22.2892970829025,Caras Severin,Deal,1209,Dealu Românata,Geomil 25000,Limba română
+Oláh Bogath,oláh,3,47.2038925602095,23.7031013661386,Cluj,Localitate,14488,Oláh Bogath,Transilvania (1769-1773),Limba maghiară
+Olah Fenes,oláh,3,46.6952575276892,23.4548835961306,Cluj,Localitate,14491,Olah Fenes,Transilvania (1769-1773),Limba maghiară
 Oláh Léta,oláh,3,46.6300234772624,23.465992023297,Cluj,Localitate,10437,Oláh Léta,Transilvania (1869-1870),Limba maghiară
+Oláh Vásárhely,oláh,3,46.9980156279586,24.0479940883972,Cluj,Localitate,14484,Oláh Vásárhely,Transilvania (1769-1773),Limba maghiară
 Ghirișu Român,român,3,46.8048261718957,23.9766549513795,Cluj,Localitate,5871,Ghirișu Român,Geomil 25000,Limba română,Oláh Gyéres,Transilvania (1869-1870),Limba maghiară
 Pârâul Român,român,3,46.8210510065342,22.9456857343198,Cluj,Vale,10428,Pârâul Român,PDT,Limba română
 Mănășturu Românesc,românesc,3,46.7766306794,23.0864379907,Cluj,Localitate,7025,Mănășturu Românesc,Geomil 25000,Limba română
@@ -92,6 +97,7 @@ Românași,românași,3,47.1140398477123,23.1799217709224,Salaj,Localitate,5933,
 Călălăul Românesc,românesc,3,47.1284646163855,22.9823690155291,Salaj,Localitate,7539,Călălăul Românesc,PDT,Limba română
 D. Rumuniesce,românești,3,46.9143016908704,22.9686941252418,Salaj,Deal,10426,D. Rumuniesce,Transilvania (1869-1870),Limba română
 Rumâneasa,rumâneasa,3,47.1034061172944,23.4432950387077,Salaj,Altele,13428,Rumâneasa,Imperiul Habsburgic (1887),Limba română
+Oláh Keszi,oláh,3,47.4730016852281,22.445741485265,Satu Mare,Localitate,14507,Oláh Keszi,Imperiul Habsburgic (1887),Limba maghiară
 Oláh szőlő (Viile românilor),oláh,3,47.3618009176917,23.0583084862149,Satu Mare,Altele,12746,Oláh szőlő (Viile românilor),Imperiul Habsburgic (1887),Limba maghiară
 Cehalul Românesc,românesc,3,47.3832138900637,22.5922970371454,Satu Mare,Localitate,8208,Cehalul Românesc,PDT,Limba română
 Românești,românești,3,47.7923896042501,23.1127513222428,Satu Mare,Localitate,4473,Românești,Geomil 25000,Limba română

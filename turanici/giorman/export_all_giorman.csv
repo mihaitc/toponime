@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Adunatzi Giormani,giorman,2,44.151483196051,23.9115553544538,Dolj,Localitate,14417,14416,Adunatzi Giormani,Austriacă,Limba română
+Giormani,giorman,2,44.144919323281,23.8804572488997,Dolj,Localitate,14416,,Giormani,Austriacă,Limba română
+Lacul Giormanul Mare,giorman,2,44.1471141262298,23.9073044405253,Dolj,Lac,14418,,Lacul Giormanul Mare,PDT,Limba română
+Lacul Giormanul Mic,giorman,2,44.1563451030881,23.8918184104225,Dolj,Lac,14419,14416,Lacul Giormanul Mic,PDT,Limba română,Lacu Giormani,Austriacă,Limba română
+Lacul Giormănelul,giormănel,3,44.1679935004241,23.879175908998,Dolj,Lac,14421,14416,Lacul Giormănelul,PDT,Limba română

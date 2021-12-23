@@ -35,6 +35,9 @@ Dialu sasului,sas,4,47.2190000845513,24.209679559269,Bistrita Nasaud,Deal,10496,
 Moara Sasului,sas,4,47.3009056290404,24.2683768002958,Bistrita Nasaud,Altele,7112,Moara Sasului,PDT,Limba română,La Moara Sasului,Geomil 25000,Limba română
 Valea Sasului,sas,4,47.2603171219254,24.2553971229583,Bistrita Nasaud,Vale,4500,Valea Sasului,Geomil 25000,Limba română
 Szász Cegő,săsesc,4,47.0692463889004,24.3322630639926,Bistrita Nasaud,Localitate,10465,Szász Cegő,Transilvania (1869-1870),Limba maghiară
+Szasz Budak,szász,4,47.089699690906,24.5219057793753,Bistrita Nasaud,Localitate,14477,Szasz Budak,Transilvania (1769-1773),Limba română
+Szasz Uj Öss,szász,4,46.939108726924,24.2722229727359,Bistrita Nasaud,Localitate,14481,Szasz Uj Öss,Transilvania (1769-1773),Limba maghiară
+Szasz Ujfalu,szász,4,47.0214760793371,24.260647752462,Bistrita Nasaud,Localitate,14479,Szasz Ujfalu,Transilvania (1769-1773),Limba maghiară
 Szász-Bréte,szász,4,47.1239702679596,24.2427083463103,Bistrita Nasaud,Localitate,10467,Szász-Bréte,Transilvania (1869-1870),Limba maghiară
 Târla Sasul,sas,4,45.230706026156,27.5561497560106,Braila,Localitate,12617,Târla Sasul,PDT,Limba română
 Movila Sașilor,sași,3,44.8160753962395,27.7593008819936,Braila,Înălțime,3470,Movila Sașilor,PDT,Limba română
@@ -53,6 +56,8 @@ Buza Sasului,sas,4,45.2282970557704,22.1480815296701,Caras Severin,Înălțime,4
 Dealul Sasului,sas,4,47.368781218938,23.8628969345349,Cluj,Deal,4399,Dealul Sasului,Geomil 25000,Limba română
 Dealul Sasului,sas,4,46.689402083285,23.334608293382,Cluj,Deal,8963,Dealul Sasului,PDT,Limba română
 Sas,sas,4,46.5161099902372,23.6126368954287,Cluj,Înălțime,13712,Sas,Imperiul Habsburgic (1887),Limba română,Muntie Sas,Transilvania (1869-1870),Limba română
+Szász Fenes,szász,4,46.7458740204976,23.4834465650124,Cluj,Localitate,14489,Szász Fenes,Transilvania (1769-1773),Limba maghiară
+Szász Lona,szász,4,46.742830416309,23.4313475956112,Cluj,Localitate,14490,Szász Lona,Transilvania (1769-1773),Limba maghiară
 Culmea Sasului,sas,4,46.0571854648413,25.7730992172595,Covasna,Înălțime,2750,Culmea Sasului,Geomil 25000,Limba română
 Dealul Sașilor,sași,3,45.637580290082,26.1253439314296,Covasna,Deal,12881,Dealul Sașilor,Imperiul Habsburgic (1887),Limba română
 Pădurea Sasu,sas,4,44.7080475819311,25.6648911731605,Dambovita,Pădure,11154,Pădurea Sasu,PDT,Limba română
@@ -88,7 +93,9 @@ Laslăul săsesc,săsesc,4,46.3677690683546,24.5538100494993,Mures,Localitate,10
 Pădurea Bisericii Săsești,săsesc,4,46.72377786796,24.7169461123822,Mures,Pădure,4336,Pădurea Bisericii Săsești,Geomil 25000,Limba română
 Pârâul Săsesc,săsesc,4,46.3002795634296,24.3989102172032,Mures,Vale,8647,Pârâul Săsesc,PDT,Limba română
 Pășunea Sașilor,sași,3,46.369087593976,24.5204322474221,Mures,Altele,1910,Pășunea Sașilor,Geomil 25000,Limba română
+Szász Csávás,szász,4,46.3425121774761,24.4417240742999,Mures,Localitate,14497,Szász Csávás,Transilvania (1769-1773),Limba maghiară
 Szász Patak (Valea Sasului),szász,4,46.6308529862567,24.6629837662679,Mures,Vale,12814,Szász Patak (Valea Sasului),PDT,Limba română
+Szász Sz Ivan,szász,4,46.2841389575947,24.5635683535,Mures,Localitate,14498,Szász Sz Ivan,Transilvania (1769-1773),Limba maghiară
 Szász-Régen,szász,4,46.7801736283242,24.7003841749707,Mures,Localitate,10469,Szász-Régen,Transilvania (1869-1870),Limba maghiară
 Muntele Arșița Sasului,sas,4,47.223962893734,25.8888845551726,Neamt,Înălțime,2068,Muntele Arșița Sasului,Geomil 25000,Limba română
 Plaiul Sasului,sas,4,47.1022075436531,26.1495031105972,Neamt,Înălțime,9124,Plaiul Sasului,PDT,Limba română

@@ -2,6 +2,10 @@
 <Placemark><name>Valea Iașului</name><description>Nume: Valea Iașului, Tip: iaș, Nivel: 3, Județ: Arges, Formă: Vale, ID: 4054, ID Părinte: 4053 <br /><b>Variante</b><br />Nume: Valea Iașului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.684442,45.174712,0</coordinates></Point></Placemark>
 <Placemark><LineString id="4054_4053"><tessellate>1</tessellate><coordinates>24.684442,45.174712,0.
 24.710441,45.186099,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Dial Iasului</name><description>Nume: Dial Iasului, Tip: iaș, Nivel: 3, Județ: Bistrita Nasaud, Formă: Deal, ID: 14482 <br /><b>Variante</b><br />Nume: Dial Iasului, Hartă: Transilvania (1769-1773), Limbă: Limba română</description><Point><coordinates>24.281589,46.950333,0</coordinates></Point></Placemark>
+<Placemark><name>Valea Iușului</name><description>Nume: Valea Iușului, Tip: iuș, Nivel: 4, Județ: Bistrita Nasaud, Formă: Vale, ID: 14483, ID Părinte: 14482 <br /><b>Variante</b><br />Nume: Valea Iușului, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>24.260272,46.946084,0</coordinates></Point></Placemark>
+<Placemark><LineString id="14483_14482"><tessellate>1</tessellate><coordinates>24.260272,46.946084,0.
+24.281589,46.950333,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Laku Ias</name><description>Nume: Laku Ias, Tip: iași, Nivel: 2, Județ: Braila, Formă: Lac, ID: 3606, ID Părinte: 3605 <br /><b>Variante</b><br />Nume: Laku Ias, Hartă: Austriacă, Limbă: Limba română</description><Point><coordinates>27.645805,45.223894,0</coordinates></Point></Placemark>
 <Placemark><LineString id="3606_3605"><tessellate>1</tessellate><coordinates>27.645805,45.223894,0.
 27.628114,45.225944,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
@@ -16,4 +20,5 @@
 <Placemark><name>Valle Iasului</name><description>Nume: Valle Iasului, Tip: iaș, Nivel: 3, Județ: Salaj, Formă: Vale, ID: 12821, ID Părinte: 11911 <br /><b>Variante</b><br />Nume: Valle Iasului, Hartă: Transilvania (1769-1773), Limbă: Limba română</description><Point><coordinates>22.706621,47.126577,0</coordinates></Point></Placemark>
 <Placemark><LineString id="12821_11911"><tessellate>1</tessellate><coordinates>22.706621,47.126577,0.
 22.691174,47.120735,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
-<Placemark><name>Jáz</name><description>Nume: Jáz, Tip: jáz, Nivel: 3, Județ: Salaj, Formă: Localitate, ID: 11911 <br /><b>Variante</b><br />Nume: Jáz, Hartă: Ungară 1869, Limbă: Limba maghiară</description><Point><coordinates>22.691174,47.120735,0</coordinates></Point></Placemark></Document></kml>
+<Placemark><name>Jáz</name><description>Nume: Jáz, Tip: jáz, Nivel: 3, Județ: Salaj, Formă: Localitate, ID: 11911 <br /><b>Variante</b><br />Nume: Jáz, Hartă: Ungară 1869, Limbă: Limba maghiară</description><Point><coordinates>22.691174,47.120735,0</coordinates></Point></Placemark>
+<Placemark><name>Jasztrabszky tn.</name><description>Nume: Jasztrabszky tn., Tip: jász, Nivel: 4, Județ: Satu Mare, Formă: Altele, ID: 14506 <br /><b>Variante</b><br />Nume: Jasztrabszky tn., Hartă: Imperiul Habsburgic (1887), Limbă: Limba maghiară</description><Point><coordinates>22.363302,47.546229,0</coordinates></Point></Placemark></Document></kml>

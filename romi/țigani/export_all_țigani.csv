@@ -286,7 +286,7 @@ La Balta Țigăniei,țigănie,3,44.671659995197,25.4952835230126,Dambovita,Apă-
 Valea Ursarului,ursar,4,45.0876727224112,25.370828495955,Dambovita,Vale,8821,,Valea Ursarului,PDT,Limba română
 La Argintărie,argintar,3,44.1773557717837,23.3587603233801,Dolj,Altele,146,,La Argintărie,Geomil 25000,Limba română,La Argintaru,PDT,Limba română
 Balta Țiganului,țigan,3,43.8729408185319,23.4083592290579,Dolj,Apă-deal-câmpie,10516,,Balta Țiganului,PDT,Limba română
-Câmpul Țiganului,țigan,3,44.1926250237462,23.2783975173083,Dolj,Câmp,5191,,Câmpul Țiganului,Geomil 25000,Limba română
+Câmpul Țiganului,țigan,3,44.1926250237462,23.2783975173083,Dolj,Câmp,5191,147,Câmpul Țiganului,Geomil 25000,Limba română
 Câmpul Țiganului,țigan,3,44.4396972019875,23.2069207713532,Dolj,Câmp,14190,,Câmpul Țiganului,PDT,Limba română
 Dealul Țiganului,țigan,3,44.1865747399087,23.3499360030076,Dolj,Deal,147,,Dealul Țiganului,Geomil 25000,Limba română
 Dealul Țiganului,țigan,3,44.1986368662304,23.3270413252523,Dolj,Deal,149,147,Dealul Țiganului,Geomil 25000,Limba română
@@ -299,6 +299,7 @@ Lacul Țiganului,țigan,3,44.1873020732229,23.6635348645776,Dolj,Lac,3350,,Lacul
 Lacul Țiganului,țigan,3,44.2533621911554,23.6135669693889,Dolj,Lac,3360,,Lacul Țiganului,PDT,Limba română
 Măgura Țiganului,țigan,3,43.9261870831925,23.7286180509262,Dolj,Înălțime,8108,,Măgura Țiganului,PDT,Limba română
 Măgura Țiganului,țigan,3,44.2124596248551,24.0687472589214,Dolj,Înălțime,11161,,Măgura Țiganului,PDT,Limba română
+Măgura Țiganului,țigan,3,43.873814577233,23.7401339639148,Dolj,Înălțime,14410,,Măgura Țiganului,ANCPI,Limba română
 Valea Câmpul Țiganului,țigan,3,44.1892553462357,23.3193026314415,Dolj,Vale,148,147,Valea Câmpul Țiganului,Geomil 25000,Limba română
 Valea Țiganului,țigan,3,44.5476704723143,23.8990358232862,Dolj,Vale,382,381,Valea Țiganului,Geomil 25000,Limba română
 Valea Țiganului,țigan,3,44.374649550969,23.806941732011,Dolj,Vale,403,,Valea Țiganului,Geomil 25000,Limba română
@@ -310,6 +311,7 @@ Grindul Țigancei,țigancă,3,43.8241844417789,23.7090223637362,Dolj,Apă-deal-c
 Măgura Țigăncii,țigancă,3,43.89406540567,23.2726493889256,Dolj,Înălțime,10348,,Măgura Țigăncii,Geomil 25000,Limba română
 Pădurea Țigăncii,țigancă,3,44.2336423870333,23.3549323054806,Dolj,Pădure,11372,,Pădurea Țigăncii,Geomil 25000,Limba română
 Valea Țiganca,țigancă,3,44.2887555678392,23.6216590619224,Dolj,Vale,3367,,Valea Țiganca,PDT,Limba română
+Valea Țigăncei,țigancă,3,44.4228482101434,23.5110068232916,Dolj,Vale,14539,,Valea Țigăncei,PDT,Limba română
 Valea Țigăncii,țigancă,3,44.3926631472866,23.5814277777124,Dolj,Vale,4707,,Valea Țigăncii,Geomil 25000,Limba română
 Valea Țigăncii,țigancă,3,44.2546339442746,23.2145809526479,Dolj,Vale,8094,,Valea Țigăncii,PDT,Limba română
 Drumul la Țigani,țigani,2,43.8748313666256,23.839291206971,Dolj,Drum,13616,,Drumul la Țigani,PDT,Limba română

@@ -11,4 +11,5 @@
 <Placemark><LineString id="13013_13012"><tessellate>1</tessellate><coordinates>23.514719,44.719749,0.
 23.539463,44.742606,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Valea Turburea</name><description>Nume: Valea Turburea, Tip: turburea, Nivel: 3, Județ: Gorj, Formă: Vale, ID: 13012 <br /><b>Variante</b><br />Nume: Valea Turburea, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.539463,44.742606,0</coordinates></Point></Placemark>
+<Placemark><name>Valea Turbure</name><description>Nume: Valea Turbure, Tip: turburea, Nivel: 3, Județ: Maramures, Formă: Vale, ID: 14451 <br /><b>Variante</b><br />Nume: Valea Turbure, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>23.717913,47.688246,0</coordinates></Point></Placemark>
 <Placemark><name>Turburea</name><description>Nume: Turburea, Tip: turburea, Nivel: 3, Județ: Valcea, Formă: Localitate, ID: 13014 <br /><b>Variante</b><br />Nume: Turburea, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.857123,44.882310,0</coordinates></Point></Placemark></Document></kml>

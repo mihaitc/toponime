@@ -1,5 +1,5 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Pădurea Cocorului,cocor,2,44.7290827784985,24.5879124744704,Arges,Pădure,4784,,Pădurea Cocorului,PDT,Limba română,Pădurea Cocorului,Geomil 25000,Limba română
+Pădurea Cocorului,cocor,2,44.7290827784985,24.5879124744704,Arges,Pădure,4784,14553,Pădurea Cocorului,PDT,Limba română,Pădurea Cocorului,Geomil 25000,Limba română
 Dealul Cocorilor,cocor,2,46.2798446672178,26.7214521282832,Bacau,Deal,5331,,Dealul Cocorilor,Geomil 25000,Limba română
 Lacul Cocorului,cocor,2,44.3691598848297,26.7174838984474,Calarasi,Lac,3281,,Lacul Cocorului,PDT,Limba română
 Lacul Cocorului,cocor,2,44.2894523814502,26.5764584060386,Calarasi,Lac,9986,,Lacul Cocorului,PDT,Limba română
@@ -21,6 +21,7 @@ Pârâul Cocorilor,cocor,2,47.0542140548221,25.2060883619159,Mures,Vale,12866,,P
 Gârla Cocorului,cocor,2,43.7358937414577,24.1399743935961,Olt,Apă-deal-câmpie,3330,3329,Gârla Cocorului,PDT,Limba română
 Grindul Cocorului,cocor,2,43.7233036105267,24.1507601976801,Olt,Apă-deal-câmpie,3329,,Grindul Cocorului,PDT,Limba română
 Prundul Cocorilor,cocor,2,43.7116881371765,24.6884314570336,Olt,Apă-deal-câmpie,3334,,Prundul Cocorilor,PDT,Limba română
+Valea Cocorului,cocor,2,44.6942526880767,24.5926302019342,Olt,Vale,14553,,Valea Cocorului,ANCPI,Limba română
 Măgura Cocor,cocor,2,43.7330227398578,25.168461140293,Teleorman,Înălțime,321,,Măgura Cocor,Geomil 25000,Limba română
 Valea Cocorul,cocor,2,43.7855594484711,25.5438807735542,Teleorman,Vale,3416,,Valea Cocorul,PDT,Limba română
 Dealu Cocor,cocor,2,45.9065923380335,21.2679641897004,Timis,Deal,5653,,Dealu Cocor,Geomil 25000,Limba română

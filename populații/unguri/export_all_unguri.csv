@@ -1,5 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Șilea-maghiară,maghiar,3,46.3249772411471,24.1120859927266,Alba,Localitate,10807,,Șilea-maghiară,Imperiul Habsburgic (1887),Limba română
+Magyar-Bénye,magyar,4,46.2315620024321,24.0042407257414,Alba,Localitate,14496,,Magyar-Bénye,Transilvania (1769-1773),Limba maghiară
 Colțu Ungurului,ungur,3,46.488820663077,23.2900158970647,Alba,Înălțime,2584,,Colțu Ungurului,Geomil 25000,Limba română
 Pârâul Ungurului,ungur,3,46.3415985167911,23.3334379073093,Alba,Vale,13694,,Pârâul Ungurului,Imperiul Habsburgic (1887),Limba română
 Peatra Ungurului,ungur,3,46.508942212659,23.2919248429251,Alba,Înălțime,13714,2584,Peatra Ungurului,Imperiul Habsburgic (1887),Limba română

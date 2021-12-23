@@ -1,3 +1,4 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
 Movila Scheaua,scheaua,2,45.0954756674205,27.6304772393629,Braila,Înălțime,8725,,Movila Scheaua,PDT,Limba română
 Valea Scheaua,scheaua,2,45.1000691527186,27.6347086066608,Braila,Vale,8724,8725,Valea Scheaua,PDT,Limba română
+Pârâul Scheaua,scheaua,2,44.823195931634,25.7312035436105,Dambovita,Vale,14530,,Pârâul Scheaua,PDT,Limba română

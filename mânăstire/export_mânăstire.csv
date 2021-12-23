@@ -14,7 +14,7 @@ Valea Remete,remete,3,46.320919602974,23.5826212825631,Alba,Vale,11832,Valea Rem
 Remetea,remetea,2,46.1203743956138,23.4295001190658,Alba,Localitate,5576,Remetea,Geomil 25000,Limba română
 Rimetea,remetea,2,46.4534330209952,23.567647273985,Alba,Localitate,7062,Rimetea,Geomil 25000,Limba română
 Bezdin Klastrom,mânăstire,1,46.1401165446067,21.0272638691422,Arad,Mănăstire,12654,Bezdin Klastrom,Ungară 1869,Limba maghiară,Pestiner Closter,Banat (1769-1772),Limba germană
-Pădurea Mânăstirii,mânăstire,1,46.1470600983734,21.1528740991645,Arad,Pădure,5640,Pădurea Mânăstirii,PDT,Limba română
+Hodos Klastrom,mânăstire,1,46.1350935611569,21.1827972785422,Arad,Mănăstire,14466,Hodos Klastrom,Ungară 1869,Limba germană
 Mănăstur,mănăștur,2,46.0263373446056,21.1124036179671,Arad,Altele,5647,Mănăstur,PDT,Limba română
 Pădurea Remeteag,remeteag,3,46.1542628527785,21.0315090959487,Arad,Pădure,5644,Pădurea Remeteag,PDT,Limba română
 Chilii,chilii,2,45.239280442387,25.0533827332025,Arges,Localitate,4963,Chilii,Geomil 25000,Limba română,Chilii,PDT,Limba română
@@ -79,6 +79,7 @@ Dealul Mănăstirii,mânăstire,1,47.288022928353,24.0764666552068,Bistrita Nasa
 Deasupra Mânăstirii,mânăstire,1,46.8999706446445,24.3997749855752,Bistrita Nasaud,Altele,5472,Deasupra Mânăstirii,PDT,Limba română
 Fața Mănăstirii,mânăstire,1,47.3842816154763,24.4806495518485,Bistrita Nasaud,Înălțime,4493,Fața Mănăstirii,Geomil 25000,Limba română
 Mânăstirea,mânăstire,1,47.2307950845112,24.3027257953594,Bistrita Nasaud,Vale,7119,Mânăstirea,Geomil 25000,Limba română,Pârâul Mâmăstirii,PDT,Limba română
+Monasterium,mânăstire,1,46.8197125945836,24.3977685799232,Bistrita Nasaud,Mănăstire,14474,Monasterium,Transilvania (1769-1773),Limba română
 Pădurea Dosul Mănăstirii,mânăstire,1,47.3699568272416,24.2619389375506,Bistrita Nasaud,Pădure,1018,Pădurea Dosul Mănăstirii,Geomil 25000,Limba română
 Pădurea Mănăstirii,mânăstire,1,46.7823516733211,24.31652024952,Bistrita Nasaud,Pădure,13101,Pădurea Mănăstirii,ANCPI,Limba română
 Runcul Mănăstirei,mânăstire,1,47.4183621951664,24.6895089092415,Bistrita Nasaud,Altele,10779,Runcul Mănăstirei,Imperiul Habsburgic (1887),Limba română
@@ -123,6 +124,7 @@ Mon Barbu,mânăstire,1,45.1845904086744,26.5845860114415,Buzau,Altele,12114,Mon
 Mon. Bradu,mânăstire,1,45.184889186636,26.5506810208004,Buzau,Altele,12113,Mon. Bradu,Austriacă,Limba română,Mon. Bradu,Oltenia-Muntenia (1790),Limba română
 Mon. Ciolan,mânăstire,1,45.2347817125052,26.5507720263756,Buzau,Mănăstire,13348,Mon. Ciolan,Austriacă,Limba română
 Mon. Nifon,mânăstire,1,45.2624963329773,26.554180713358,Buzau,Mănăstire,13566,Mon. Nifon,Austriacă,Limba română
+Mon. Retești,mânăstire,1,45.3070655805535,26.6334807940474,Buzau,Mănăstire,14542,Mon. Retești,Austriacă,Limba română
 Monastir Krnu,mânăstire,1,45.2783485745337,26.4013898524368,Buzau,Mănăstire,12601,Monastir Krnu,Austriacă,Limba română
 La Skit,schit,2,45.1190003844468,26.4893244802399,Buzau,Mănăstire,13807,La Skit,Austriacă,Limba română
 Piciorul Schitululi,schit,2,45.4358760458136,26.4517120246633,Buzau,Înălțime,6116,Piciorul Schitululi,Geomil 25000,Limba română,Piciorul Schitululi,PDT,Limba română
@@ -279,7 +281,6 @@ Valea Mănăstirii,mânăstire,1,44.8659593887897,22.7160948776693,Mehedinti,Val
 Chilie,chilii,2,46.4527130743924,24.4844298438164,Mures,Altele,7337,Chilie,Geomil 25000,Limba română
 Dealu Monastirii,mânăstire,1,46.8021962267878,24.9171375609575,Mures,Deal,10005,Dealu Monastirii,PDT,Limba română
 Dealul Mănăstirii,mânăstire,1,46.2149000460448,24.8397036313625,Mures,Deal,2468,Dealul Mănăstirii,Geomil 25000,Limba română
-Dealul Mânăstirii,mânăstire,1,46.8241298988235,24.406451247274,Mures,Deal,5469,Dealul Mânăstirii,Geomil 25000,Limba română,Dealul Mânăstirei,PDT,Limba română
 La Mânăstire,mânăstire,1,46.6807918053431,24.3854194264133,Mures,Altele,5371,La Mânăstire,Geomil 25000,Limba română
 La Mânăstire,mânăstire,1,46.724810562372,24.4264562808178,Mures,Altele,5389,La Mânăstire,Geomil 25000,Limba română
 Monaster,mânăstire,1,46.4293639008346,24.1170256474075,Mures,Mănăstire,13245,Monaster,Transilvania (1769-1773),Limba română
@@ -441,6 +442,7 @@ Mon Kozia,mânăstire,1,45.2718557418616,24.3156525359998,Valcea,Altele,12093,Mo
 Mon Orezu,mânăstire,1,45.1700106961099,24.0070941600232,Valcea,Altele,12099,Mon Orezu,Valahia-Moldova (1773-1774),Limba română
 Mon Szeretsinest,mânăstire,1,45.1444297804643,24.2424078365909,Valcea,Altele,12096,Mon Szeretsinest,Valahia-Moldova (1773-1774),Limba română
 Mon Turna,mânăstire,1,45.2883197515785,24.3079624238883,Valcea,Altele,12094,Mon Turna,Valahia-Moldova (1773-1774),Limba română
+Monaster Kornet,mânăstire,1,45.3891248016,24.3068966349891,Valcea,Mănăstire,14551,Monaster Kornet,Valahia-Moldova (1773-1774),Limba română,Mânâstir Kornet,Austriacă,Limba română
 Monastir,mânăstire,1,45.2457655524116,24.343981520569,Valcea,Altele,12092,Monastir,Valahia-Moldova (1773-1774),Limba română
 Monastir,mânăstire,1,45.3856095129102,23.6877289390307,Valcea,Mănăstire,12691,Monastir,Valahia-Moldova (1773-1774),Limba română
 Monastir Berislâvești,mânăstire,1,45.2560382254327,24.41475087612,Valcea,Altele,12091,Monastir Berislâvești,Austriacă,Limba română,Mon Braszlavest,Valahia-Moldova (1773-1774),Limba română
@@ -453,6 +455,7 @@ Dealul Chiliei,chilii,2,46.6329082055773,27.4823549640847,Vaslui,Deal,4620,Dealu
 Dealul Chiliei,chilii,2,46.4109320749427,27.9005165244834,Vaslui,Deal,13945,Dealul Chiliei,Moldova (1892-1898),Limba română
 La Chiliuțe,chilii,2,46.526357067922,27.914785223955,Vaslui,Altele,1687,La Chiliuțe,Geomil 25000,Limba română
 Coasta Mănăstirii,mânăstire,1,46.864159442689,27.378491249666,Vaslui,Înălțime,12933,Coasta Mănăstirii,Geomil 25000,Limba română
+Dealul Mânăstirea,mânăstire,1,46.3876783547422,27.8821772265973,Vaslui,Deal,14424,Dealul Mânăstirea,ANCPI,Limba română
 Dealul Mănăstirii,mânăstire,1,46.7622509382506,27.8127953382807,Vaslui,Deal,2448,Dealul Mănăstirii,Geomil 25000,Limba română
 Dealul Mănăstirii,mânăstire,1,46.5133366762604,27.6638614495655,Vaslui,Deal,7284,Dealul Mănăstirii,Geomil 25000,Limba română
 Dealul Mănăstirii,mânăstire,1,46.720849463101,27.3163048593072,Vaslui,Deal,7289,Dealul Mănăstirii,Geomil 25000,Limba română
@@ -477,6 +480,7 @@ Valea Chiliei,chilii,2,46.0084886951561,26.9788178757704,Vrancea,Vale,13332,Vale
 Valea Chiliilor,chilii,2,45.7295686870885,26.9443265244627,Vrancea,Vale,9238,Valea Chiliilor,PDT,Limba română
 Dealul Mănăstioara,mânăstire,1,45.9991024788618,26.8519112336195,Vrancea,Deal,9189,Dealul Mănăstioara,PDT,Limba română
 Dealul Mănăstirii,mânăstire,1,46.0064021245209,26.6535642428262,Vrancea,Deal,696,Dealul Mănăstirii,Geomil 25000,Limba română
+Kloster,mânăstire,1,45.5466316161714,27.03532500009,Vrancea,Mănăstire,14549,Kloster,Austriacă,Limba germană
 Kloster (Mănăstire),mânăstire,1,45.8042288884597,27.0044724023663,Vrancea,Altele,12334,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
 Kloster (Mănăstire),mânăstire,1,45.9849092315416,27.0957554188374,Vrancea,Altele,12337,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
 Kloster Kassaki,mânăstire,1,45.7645241029971,27.0826931424551,Vrancea,Altele,12335,Kloster Kassaki,Moldova (1788-1790),Limba germană

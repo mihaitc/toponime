@@ -34,6 +34,7 @@ Drumu Vingii,drumuri,1,46.0346588066491,21.4351036467992,Arad,Drum,14252,,Drumu 
 Drumul Cioloșului,drumuri,1,46.4519944438841,21.8502788803403,Arad,Drum,7595,,Drumul Cioloșului,PDT,Limba română
 Drumul Feldioarei,drumuri,1,46.279126654457,21.5675862205802,Arad,Drum,5635,,Drumul Feldioarei,PDT,Limba română
 Drumul Glimeiului,drumuri,1,46.4585116328586,22.1408167944192,Arad,Drum,7660,,Drumul Glimeiului,PDT,Limba română,Drumu Glimeiului,Geomil 25000,Limba română
+Drumul Izvor,drumuri,1,46.1327553854439,20.8635421358807,Arad,Drum,14465,,Drumul Izvor,ANCPI,Limba română
 Drumul Morilor,drumuri,1,46.1046170538741,21.1837152616736,Arad,Drum,5642,,Drumul Morilor,PDT,Limba română,Drumu Morii,Geomil 25000,Limba română
 Drumul Nucilor,drumuri,1,46.4508142435688,21.8426125616403,Arad,Drum,7596,,Drumul Nucilor,PDT,Limba română
 Drumul Țăranului,drumuri,1,46.5861819306954,21.8508892601652,Arad,Drum,8043,,Drumul Țăranului,PDT,Limba română
@@ -46,6 +47,7 @@ Drumu Mare,drumul Mare,2,44.4506215200024,24.9200797429116,Arges,Drum,3396,,Drum
 Drumu mare,drumul Mare,2,44.5947873418703,25.0841759738083,Arges,Drum,8308,,Drumu mare,Austriacă,Limba română
 Drumul Mare,drumul Mare,2,44.912442719482,25.0123175197172,Arges,Drum,8359,,Drumul Mare,PDT,Limba română
 Drumul Oiei,Drumul Oii,2,44.8222252565916,24.8552982973032,Arges,Drum,9356,,Drumul Oiei,PDT,Limba română,Drumu Oii,Geomil 25000,Limba română
+Drumul Sărăriilor,drumul Sării,2,44.5079096202728,24.9901270906783,Arges,Drum,14531,,Drumul Sărăriilor,PDT,Limba română
 Drumul Sărei,drumul Sării,2,44.5901102379127,25.222878695399,Arges,Drum,11063,,Drumul Sărei,PDT,Limba română
 Dealul cu Drumul Bogaților,drumuri,1,45.0147097124087,25.1774780854496,Arges,Deal,1512,11175,Dealul cu Drumul Bogaților,Geomil 25000,Limba română
 Dealul Drumul Olarului,drumuri,1,45.0268543262052,24.6108460215264,Arges,Deal,1419,,Dealul Drumul Olarului,Geomil 25000,Limba română
@@ -113,6 +115,7 @@ Drumul Romanilor,drumuri,1,47.2373216268771,24.940204297165,Bistrita Nasaud,Drum
 Drumul Romanilor,drumuri,1,47.2532021803695,24.9925740338717,Bistrita Nasaud,Drum,14309,,Drumul Romanilor,PDT,Limba română
 Drumul Romanilor,drumuri,1,47.2433076804604,24.9679702678034,Bistrita Nasaud,Drum,14310,,Drumul Romanilor,PDT,Limba română
 Drumul vireagului,drumuri,1,47.2444180065139,24.2860989572521,Bistrita Nasaud,Drum,10497,,Drumul vireagului,Transilvania (1869-1870),Limba română
+La trei drumuri,drumuri,1,46.9875362986385,24.1637445947563,Bistrita Nasaud,Drum,14485,,La trei drumuri,PDT,Limba română
 Drumu Corni,drumuri,1,47.6547832862741,26.631574530188,Botosani,Drum,14267,,Drumu Corni,Moldova (1892-1898),Limba română
 Drumu Furilor,drumuri,1,47.6413160970702,27.2051140643011,Botosani,Drum,4872,,Drumu Furilor,PDT,Limba română
 Drumu Vaciniței,drumuri,1,48.1856072013277,26.4407689095426,Botosani,Drum,9574,,Drumu Vaciniței,Moldova (1892-1898),Limba română
@@ -313,7 +316,9 @@ Drumul Jiului,drumuri,1,43.9653978749274,23.6504430366005,Dolj,Altele,8102,,Drum
 Drumul Lânii,drumuri,1,44.1225711597086,23.2794811646646,Dolj,Drum,4651,,Drumul Lânii,Geomil 25000,Limba română,Drumul Lânii,PDT,Limba română
 Drumul Măceșului,drumuri,1,43.9692488581964,23.6996069155054,Dolj,Drum,8101,,Drumul Măceșului,PDT,Limba română
 Drumul Morei,drumuri,1,44.124402999407,23.3851549899755,Dolj,Drum,4647,,Drumul Morei,PDT,Limba română
+Drumul Morei,drumuri,1,44.0763986322241,24.0418947249911,Dolj,Drum,14517,,Drumul Morei,PDT,Limba română
 Drumul Morilor,drumuri,1,44.0999874108041,23.9847327263372,Dolj,Drum,7692,,Drumul Morilor,PDT,Limba română
+Drumul Morilor,drumuri,1,44.0847791016549,24.0286678460587,Dolj,Drum,14518,,Drumul Morilor,PDT,Limba română
 Drumul Mueri,drumuri,1,44.3623779021638,23.9958946419189,Dolj,Drum,9339,,Drumul Mueri,PDT,Limba română
 Drumul Muntenilor,drumuri,1,44.3227970093632,23.8455977931864,Dolj,Drum,12181,,Drumul Muntenilor,PDT,Limba română
 Drumul Năuiului,drumuri,1,44.1312282939838,24.0861285366161,Dolj,Drum,11165,,Drumul Năuiului,PDT,Limba română
@@ -324,6 +329,7 @@ Drumul Pădurei,drumuri,1,44.1245355612237,23.3321905954398,Dolj,Drum,4648,,Drum
 Drumul Pădurii,drumuri,1,44.107520303732,23.3196957242438,Dolj,Drum,4650,,Drumul Pădurii,PDT,Limba română
 Drumul Poienilor,drumuri,1,44.4314142739033,23.5830917476076,Dolj,Drum,12723,,Drumul Poienilor,Geomil 25000,Limba română
 Drumul Rojiștea Apele Vii,drumuri,1,44.065617426709,23.9949742340241,Dolj,Drum,4672,,Drumul Rojiștea Apele Vii,PDT,Limba română
+Drumul Rojiștea Cacaleț,drumuri,1,44.0741376895514,23.9630967897799,Dolj,Drum,14413,,Drumul Rojiștea Cacaleț,PDT,Limba română
 Drumul Roșu,drumuri,1,44.1570728577867,23.8263389134523,Dolj,Drum,7713,,Drumul Roșu,PDT,Limba română
 Drumul Schelei,drumuri,1,43.869543824214,23.2083242127625,Dolj,Drum,3808,,Drumul Schelei,PDT,Limba română
 Drumul Schelei,drumuri,1,43.8531752842448,23.2276038130473,Dolj,Drum,3809,,Drumul Schelei,PDT,Limba română
@@ -510,6 +516,7 @@ Drumu Roșiorilor,drumuri,1,44.0970414345725,24.7795854340555,Olt,Drum,1364,,Dru
 Drumu Rusăneștilor,drumuri,1,43.929648958005,24.5518117024119,Olt,Drum,1263,,Drumu Rusăneștilor,Geomil 25000,Limba română
 Drumu Turcului,drumuri,1,44.2093199213994,24.6101488941548,Olt,Drum,1287,,Drumu Turcului,Geomil 25000,Limba română
 Drumul Bucinișului,drumuri,1,43.8778081729135,24.3956586281096,Olt,Drum,3032,,Drumul Bucinișului,Geomil 25000,Limba română
+Drumul Bucinișului,drumuri,1,44.0157022865688,24.2622150353315,Olt,Drum,14519,,Drumul Bucinișului,PDT,Limba română
 Drumul Buților,drumuri,1,43.8678395331744,24.5060278767005,Olt,Drum,11960,,Drumul Buților,PDT,Limba română
 Drumul Buților,drumuri,1,43.923481275161,24.5155177217049,Olt,Drum,12221,,Drumul Buților,PDT,Limba română
 Drumul Căluiului,drumuri,1,44.4450582303569,24.0336659733338,Olt,Drum,9334,,Drumul Căluiului,PDT,Limba română

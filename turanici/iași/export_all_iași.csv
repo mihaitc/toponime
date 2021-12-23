@@ -1,6 +1,8 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Valea Iașului,iaș,3,45.1860993135447,24.710440645992,Arges,Localitate,4053,,Valea Iașului,Geomil 25000,Limba română,Valea Iașului,PDT,Limba română
 Valea Iașului,iaș,3,45.1747119672843,24.6844423474067,Arges,Vale,4054,4053,Valea Iașului,Geomil 25000,Limba română
+Dial Iasului,iaș,3,46.9503333513911,24.2815888550472,Bistrita Nasaud,Deal,14482,,Dial Iasului,Transilvania (1769-1773),Limba română
+Valea Iușului,iuș,4,46.946083884497,24.2602724650323,Bistrita Nasaud,Vale,14483,14482,Valea Iușului,ANCPI,Limba română
 Laku Ias,iași,2,45.223893673133,27.6458050272225,Braila,Lac,3606,3605,Laku Ias,Austriacă,Limba română
 Od. Iassu,iași,2,45.2259437859069,27.6281138202395,Braila,Localitate,3605,,Od. Iassu,Austriacă,Limba română
 Iași,iași,2,45.7642557838083,24.9302808330096,Brasov,Localitate,4948,,Iași,Geomil 25000,Limba română
@@ -12,3 +14,4 @@ Iași,iași,2,47.1618334907986,27.5863749567538,Iasi,Localitate,4825,,Iași,Geom
 Fântâna la Gura Iașului,iaș,3,44.4384284038421,24.1201800860404,Olt,Altele,4804,,Fântâna la Gura Iașului,PDT,Limba română
 Valle Iasului,iaș,3,47.1265771929145,22.7066210726408,Salaj,Vale,12821,11911,Valle Iasului,Transilvania (1769-1773),Limba română
 Jáz,jáz,3,47.1207354068398,22.6911744326996,Salaj,Localitate,11911,,Jáz,Ungară 1869,Limba maghiară
+Jasztrabszky tn.,jász,4,47.5462291045394,22.3633021929472,Satu Mare,Altele,14506,,Jasztrabszky tn.,Imperiul Habsburgic (1887),Limba maghiară

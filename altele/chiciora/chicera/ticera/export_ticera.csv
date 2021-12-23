@@ -1,9 +1,12 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Tycsera B,ticera,4,46.3922935223951,23.0995296333891,Alba,Deal,14044,Tycsera B,Transilvania (1769-1773),Limba română
 Ticera Nitulii,ticera,4,46.6318251853806,23.3807961243545,Cluj,Înălțime,13708,Ticera Nitulii,PDT,Limba română
+Titcera lui German,ticera,4,46.6503138790168,23.3989871084099,Cluj,Înălțime,14492,Titcera lui German,Transilvania (1769-1773),Limba română
 Munte Ticerau,ticerau,5,46.633336460853,23.4212333968588,Cluj,Înălțime,13711,Munte Ticerau,Transilvania (1869-1870),Limba română
 Ticera,ticera,4,45.5135911189409,23.1727855133504,Hunedoara,Înălțime,14362,Ticera,PDT,Limba română,Chicera,ANCPI,Limba română
 Ticera Pinului,ticera,4,45.5145063278718,23.2033417496472,Hunedoara,Înălțime,13433,Ticera Pinului,Geomil 25000,Limba română
 Ticera Rusesti,ticera,4,45.4421248274658,23.253091195094,Hunedoara,Înălțime,14364,Ticera Rusesti,PDT,Limba română
 V. Ticera,ticera,4,46.2981511763744,22.7895372722627,Hunedoara,Înălțime,13673,V. Ticera,Ungară 1869,Limba română
 Vârful Chicera Răchiții,ticera,4,45.446492718446,23.2233854525733,Hunedoara,Înălțime,14363,Chicera Răchiții,ANCPI,Limba română,Vârful Ticera Retița,PDT,Limba română
+Vârful Ticera,ticera,4,47.6822087800408,24.0842436081564,Maramures,Înălțime,14443,Vârful Ticera,ANCPI,Limba română
+Vârful Ticerii,ticera,4,47.7796935087913,23.7991756535103,Maramures,Înălțime,14448,Vârful Ticerii,ANCPI,Limba română,Vr. Ticsere,Ungară 1869,Limba română
