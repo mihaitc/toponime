@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Valea Ardzisellului,arghișel,3,44.9804279783065,25.0010451697184,Arges,Vale,14527,,Valea Ardzisellului,Austriacă,Limba română,Arzicsel,Oltenia-Muntenia (1790),Limba română
+Arghișu,arghiș,2,46.9392406991085,23.2383632428979,Cluj,Localitate,14560,,Arghișu,ANCPI,Limba română,Argyas,Transilvania (1769-1773),Limba română,Argisiu,Transilvania (1869-1870),Limba română
+Valea Arghiș,arghiș,2,46.9485931257655,23.2305021269,Cluj,Vale,14561,14560,Valea Arghiș,ANCPI,Limba română
+Arghișel,arghișel,3,45.6553659106479,24.2928436285822,Sibiu,Vale,14524,,Arghișel,PDT,Limba română

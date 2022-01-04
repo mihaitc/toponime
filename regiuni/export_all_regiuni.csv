@@ -84,6 +84,7 @@ Plaiul Mocanului,mocan,3,46.3155255284608,26.3266455038247,Bacau,Înălțime,189
 Poiana Mocanului,mocan,3,46.0925711126,26.9084057171,Bacau,Poiană,5287,,Poiana Mocanului,Geomil 25000,Limba română
 Valea Mocanului,mocan,3,46.3584305969713,26.9635144828219,Bacau,Vale,7821,,Valea Mocanului,Geomil 25000,Limba română
 Mocani,mocani,2,46.7343648112695,26.7072733989937,Bacau,Localitate,3900,,Mocani,PDT,Limba română
+Preschesty Mokany,mocani,2,46.6648907550653,26.9676946645938,Bacau,Localitate,14599,,Preschesty Mokany,Moldova (1788-1790),Limba română
 Valea Mocanilor,mocani,2,46.6712692444382,26.6359836748695,Bacau,Vale,9152,,Valea Mocanilor,PDT,Limba română
 Moldoveni,moldoveni,2,46.6459736864417,26.9837534227012,Bacau,Localitate,3901,,Moldoveni,PDT,Limba română
 Poiana Munteanului,muntean,3,46.3897014457926,26.4410223306115,Bacau,Poiană,4590,,Poiana Munteanului,PDT,Limba română
@@ -101,6 +102,7 @@ Piscul Oltencei,olteancă,3,46.0918098384,26.888642139,Bacau,Altele,5291,5290,Pi
 Poiana Oltencei,olteancă,3,46.0947289452,26.8992971625,Bacau,Poiană,5289,5290,Poiana Oltencei,Geomil 25000,Limba română
 Grindul Săcuiului,săcui,3,46.3511616930661,26.6674875629466,Bacau,Înălțime,4585,,Grindul Săcuiului,Geomil 25000,Limba română
 Secuieni,secui,2,46.6426284804446,27.1053610647582,Bacau,Localitate,1595,,Secuieni,Geomil 25000,Limba română,Secueni,PDT,Limba română
+Sekui ot Walerea,secui,2,46.4117009973081,26.7447780614528,Bacau,Localitate,14600,,Sekui ot Walerea,Moldova (1788-1790),Limba română
 Poiana Țuțuianu,țuțuian,4,46.4457908578586,26.1142637738786,Bacau,Poiană,10794,,Poiana Țuțuianu,Moldova (1892-1898),Limba română
 Dealul Ungureanului,ungurean,3,46.4709670126389,27.3907647294788,Bacau,Deal,9512,,Dealul Ungureanului,PDT,Limba română
 Ungureanu,ungurean,3,46.2114552935431,26.5351500021632,Bacau,Vale,690,689,Ungureanu,Geomil 25000,Limba română
@@ -325,7 +327,7 @@ Dealul Secuiului,secui (singular),3,46.3915341527427,24.7780914651413,Mures,Deal
 Secuieul,secuieu,3,46.7172472506345,25.246250060026,Mures,Vale,5397,,Secuieul,Geomil 25000,Limba română
 Coasta Ungurenilor,ungureni,2,46.735087405696,24.4394966145022,Mures,Înălțime,5386,,Coasta Ungurenilor,Geomil 25000,Limba română
 Dealul Ungurenilor,ungureni,2,46.309461186111,24.6956307044888,Mures,Deal,8655,,Dealul Ungurenilor,Geomil 25000,Limba română
-Ardeleanul,ardelean,3,46.9595270304811,26.1650597816616,Neamt,Vale,13265,,Ardeleanul,Geomil 25000,Limba română
+Ardeleanul,ardelean,3,46.9595270304811,26.1650597816616,Neamt,Vale,13265,,Ardeleanul,Geomil 25000,Limba română,Pârâul Ardeleanului	,PDT,Limba română
 Fântâna Ardeleanului,ardelean,3,46.9476959789993,26.9608162543016,Neamt,Altele,3891,,Fântâna Ardeleanului,PDT,Limba română
 Dealul Mocanului,mocan,3,47.0089639926728,27.1405309078323,Neamt,Deal,7299,,Dealul Mocanului,Geomil 25000,Limba română
 La Mocan,mocan,3,46.9821684649593,26.2620398529282,Neamt,Altele,9134,,La Mocan,Geomil 25000,Limba română
@@ -343,6 +345,7 @@ Munteni,munteni,2,46.9089613884765,26.7069431128594,Neamt,Localitate,9626,,Munte
 Plaiu Muntenilor,munteni,2,47.2804294234001,25.9646782189393,Neamt,Înălțime,9705,,Plaiu Muntenilor,Moldova (1892-1898),Limba română
 Dealul Curătura Olteanului,oltean,3,47.1554975217886,26.4872655983914,Neamt,Deal,9142,,Dealul Curătura Olteanului,PDT,Limba română
 Livezile Olteanului,oltean,3,46.9522726425908,26.0610166517275,Neamt,Altele,6476,,Livezile Olteanului,PDT,Limba română
+Pârâul Olteanului,oltean,3,46.9181861896077,26.1097383947491,Neamt,Vale,14564,,Pârâul Olteanului,PDT,Limba română
 Plaiu Olteanului,oltean,3,47.2704546088292,26.0985516223764,Neamt,Înălțime,9704,,Plaiu Olteanului,Moldova (1892-1898),Limba română
 Dealul Secuienilor,secui,2,46.8402895631174,26.8478452102117,Neamt,Deal,2033,2032,Dealul Secuienilor,Geomil 25000,Limba română
 Piciorul Secuilor,secui,2,47.1774711572677,25.8901116259262,Neamt,Înălțime,6432,,Piciorul Secuilor,PDT,Limba română
@@ -353,6 +356,7 @@ Poiana Vârfului Secuesc,secuiesc,3,46.9176035953972,26.0051893446282,Neamt,Poia
 Vârful Secuesc,secuiesc,3,46.9214109992743,25.99809657202,Neamt,Înălțime,6510,,Vârful Secuesc,PDT,Limba română,Vârful Secuesc,Geomil 25000,Limba română
 Bâtca Țuțuianu,țuțuian,4,46.7835507004922,26.0940807281154,Neamt,Înălțime,6518,,Bâtca Țuțuianu,Geomil 25000,Limba română
 Mormântu Țuțuianului,țuțuian,4,47.0948887056465,25.7628342283183,Neamt,Altele,6442,,Mormântu Țuțuianului,PDT,Limba română
+Pârâul Țuțuianului,țuțuian,4,46.9618735000734,26.1270560642457,Neamt,Vale,14566,,Pârâul Țuțuianului,PDT,Limba română
 Fântâna Ungureanului,ungurean,3,47.2614124619104,26.4872725355604,Neamt,Altele,3888,,Fântâna Ungureanului,PDT,Limba română
 Pârâul Ungureanului,ungurean,3,47.1947437758674,26.42772576509,Neamt,Vale,3882,,Pârâul Ungureanului,PDT,Limba română
 Plaiul Piatra Ungureanului,ungurean,3,46.7624356248483,26.0376317036938,Neamt,Altele,680,,Plaiul Piatra Ungureanului,Geomil 25000,Limba română,Plaiul Peatra Ungureanului,PDT,Limba română

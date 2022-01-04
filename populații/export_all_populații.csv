@@ -307,6 +307,7 @@ Valea Armeanului,armean,3,48.0661565137961,26.6482956146386,Botosani,Vale,1813,,
 Valea Armeanului,armean,3,47.789390079227,26.5967511660959,Botosani,Vale,2352,3563,Valea Armeanului,Geomil 25000,Limba română
 Valea Armeanului,armean,3,47.7808604103302,26.7379736141107,Botosani,Vale,2353,,Valea Armeanului,Geomil 25000,Limba română,Valea Armeanului,PDT,Limba română
 Fântâna Armencei,armeancă,3,48.1474182180059,26.61104198933,Botosani,Altele,1810,,Fântâna Armencei,Geomil 25000,Limba română
+Valea Armeanca,armeancă,3,47.621568707989,26.9221796507099,Botosani,Vale,14590,,Valea Armeanca,PDT,Limba română
 Valea Armencei,armeancă,3,48.1693929232516,26.7514106959217,Botosani,Vale,2401,,Valea Armencei,Geomil 25000,Limba română
 Valea Armenilor,armeni,2,47.5171039175206,26.7930955551938,Botosani,Vale,9591,,Valea Armenilor,Moldova (1892-1898),Limba română
 Valea Arnăutului,arnăut,3,47.4900564071022,26.7120580699086,Botosani,Vale,1743,,Valea Arnăutului,Geomil 25000,Limba română
@@ -326,6 +327,7 @@ Mori Grecilor,greci,2,47.542466744575,26.7543086931814,Botosani,Altele,9588,,Mor
 Valea Grecilor,greci,2,47.5331731489888,27.1672418263641,Botosani,Vale,12384,,Valea Grecilor,Geomil 25000,Limba română
 Dealul Jidanului,jidan,3,47.8913109257079,26.624949731881,Botosani,Deal,2338,,Dealul Jidanului,Geomil 25000,Limba română
 Movila Jidanului,jidan,3,47.8920733123524,26.4996785189638,Botosani,Înălțime,9581,,Movila Jidanului,Moldova (1892-1898),Limba română
+Poeana Jidanului,jidan,3,47.6441425146304,26.6598642630277,Botosani,Poiană,14639,,Poeana Jidanului,PDT,Limba română
 Valea Jidanului,jidan,3,47.8879842437369,26.6282569014136,Botosani,Vale,2339,2338,Valea Jidanului,Geomil 25000,Limba română
 Valea Jidanului,jidan,3,47.8699835025895,26.5325708542284,Botosani,Vale,2349,,Valea Jidanului,Geomil 25000,Limba română
 Dealul Leahului,leah,3,48.019249777988,26.4017852370539,Botosani,Deal,2314,,Dealul Leahului,Geomil 25000,Limba română
@@ -361,6 +363,7 @@ Valea Rusului,rus,3,47.9661607545208,26.2497407049484,Botosani,Vale,4905,,Valea 
 Cotu Rușilor,ruși,2,47.6006820177056,26.8570806470357,Botosani,Localitate,13933,,Cotu Rușilor,Moldova (1892-1898),Limba română
 Ruși,ruși,2,47.9355980858407,26.2951463703272,Botosani,Localitate,4907,,Ruși,PDT,Limba română
 Rușii,ruși,2,47.5010724128065,26.6241271072039,Botosani,Localitate,7788,,Rușii,PDT,Limba română
+Lacul Sârbului,sârb,3,47.8712607075908,27.0147098502078,Botosani,Lac,14605,,Lacul Sârbului,PDT,Limba română
 Sârbi,sârbi,2,47.9418630316067,26.9148708200012,Botosani,Localitate,2408,,Sârbi,Geomil 25000,Limba română
 Dealul Tătarcei,tătarcă,4,47.9309187527539,26.4545691297512,Botosani,Deal,2312,,Dealul Tătarcei,Geomil 25000,Limba română
 Crucea Tăutu,tăut,4,48.1414428637201,26.9267618818647,Botosani,Altele,4881,,Crucea Tăutu,PDT,Limba română
@@ -563,6 +566,7 @@ Vârful Rusului,rus,3,45.1070921276564,21.9557210617251,Caras Severin,Înălțim
 Dealu Sârbu,sârb,3,45.2160223933502,21.6958677691784,Caras Severin,Deal,11500,,Dealu Sârbu,Geomil 25000,Limba română
 Dealu Sârbului,sârb,3,45.1742664453127,21.5998747066996,Caras Severin,Deal,5701,,Dealu Sârbului,Geomil 25000,Limba română
 Dealul Coliba Sârbului,sârb,3,44.782514741385,21.7026126872319,Caras Severin,Deal,10868,,Dealul Coliba Sârbului,Geomil 25000,Limba română
+Fața Sârbului,sârb,3,45.2858478219607,22.3272900779757,Caras Severin,Înălțime,14613,,Fața Sârbului,PDT,Limba română
 Pădurea Sârbului,sârb,3,45.3806553937171,21.9908407958446,Caras Severin,Pădure,1237,1236,Pădurea Sârbului,Geomil 25000,Limba română
 Pârâu Cleanțu Sârbului,sârb,3,45.2450321125854,22.0539502046625,Caras Severin,Vale,6126,,Pârâu Cleanțu Sârbului,Geomil 25000,Limba română
 Pârâu Sârbu,sârb,3,45.2104868751733,21.6077102965692,Caras Severin,Vale,5700,5701,Pârâu Sârbu,Geomil 25000,Limba română
@@ -976,6 +980,7 @@ Dealul Cazacului,cazac,4,47.2993353304296,27.4548298765071,Iasi,Deal,9722,,Dealu
 Valea Cerchezoaia,cerchezoaia,3,47.4511351555781,27.4753170029318,Iasi,Vale,4868,,Valea Cerchezoaia,PDT,Limba română
 Frâncești,frâncești,3,47.2198706260715,27.2152147830277,Iasi,Localitate,9569,,Frâncești,Moldova (1892-1898),Limba română
 Dealul Grecei,greaca,3,47.3127507064319,27.3800392799176,Iasi,Deal,4856,,Dealul Grecei,PDT,Limba română,Dealul Greaca,Geomil 25000,Limba română
+La Greaca,greaca,3,46.9522130044324,27.3958444473845,Iasi,Altele,14640,,La Greaca,PDT,Limba română
 Dealul Grecului,grec,3,47.2795984714699,26.7853941599979,Iasi,Deal,8901,,Dealul Grecului,Geomil 25000,Limba română
 Grecul,grec,3,47.2788292194269,26.7919687636314,Iasi,Vale,8902,8901,Grecul,Geomil 25000,Limba română
 Valea Grecilor,greci,2,47.0804317074789,27.4924213149514,Iasi,Vale,8895,,Valea Grecilor,Geomil 25000,Limba română
@@ -1465,6 +1470,7 @@ Valea Leahului,leah,3,47.4773051644817,26.5129694414529,Suceava,Vale,14062,,Vale
 Pădurea Cabana Lipoveanului,lipovean,3,47.6563950221202,25.8148956019943,Suceava,Pădure,2275,,Pădurea Cabana Lipoveanului,Geomil 25000,Limba română
 Pârâul Lipovanului,lipovean,3,47.8267817906978,26.2658005285097,Suceava,Vale,7267,,Pârâul Lipovanului,PDT,Limba română
 Lipoveni,lipoveni,2,47.7233676201977,26.2240937397073,Suceava,Localitate,2299,,Lipoveni,Geomil 25000,Limba română,Lipoveni,PDT,Limba română
+Manoli Lippoweny,lipoveni,2,47.3992028713631,26.463858934651,Suceava,Localitate,14573,,Manoli Lippoweny,Moldova (1788-1790),Limba română
 Piciorul Muscalului,muscal,3,47.3926874971309,25.9070482937188,Suceava,Înălțime,13033,,Piciorul Muscalului,Geomil 25000,Limba română
 Dealul Neamțului,neamț,4,47.7116481472633,26.4214898841677,Suceava,Deal,1796,,Dealul Neamțului,Geomil 25000,Limba română
 Gorapa Neamțului,neamț,4,47.7989383408716,25.7680443441722,Suceava,Altele,6316,,Gorapa Neamțului,Geomil 25000,Limba română
@@ -1737,6 +1743,7 @@ Mahalaua Lipovenilor,lipoveni,2,46.6452627941487,27.7356586223196,Vaslui,Localit
 Coasta Neamțului,neamț,4,46.2392523681393,27.8307936433902,Vaslui,Înălțime,11435,,Coasta Neamțului,Geomil 25000,Limba română
 Valea Podul Neamțului,neamț,4,46.5770780304167,27.6390604820194,Vaslui,Vale,1673,,Valea Podul Neamțului,Geomil 25000,Limba română,Valea Podul Neamțului,PDT,Limba română
 Valea Româneasa,româneasă,3,46.1715261274882,27.9321079762479,Vaslui,Vale,9501,,Valea Româneasa,Geomil 25000,Limba română
+Barcu Rusului,rus,3,46.5133865119106,28.1983562080734,Vaslui,Apă-deal-câmpie,14634,,Barcu Rusului,PDT,Limba română
 Chircești-Ruși,ruși,2,46.8449255320945,27.8520179293109,Vaslui,Localitate,6578,,Chircești-Ruși,PDT,Limba română
 Dealul Rușilor,ruși,2,46.4727001182833,27.4831383382188,Vaslui,Deal,8862,8863,Dealul Rușilor,PDT,Limba română
 Dealul Rușilor,ruși,2,46.6629705056319,28.016927999607,Vaslui,Deal,13574,,Dealul Rușilor,Geomil 25000,Limba română

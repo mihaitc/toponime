@@ -69,6 +69,7 @@ Valea Cicera,cicera,3,46.0859738459528,22.3381117381538,Arad,Vale,13184,Valea Ci
 Dealul Chicioara,chicioara,3,45.1513247056835,24.5410808554077,Arges,Deal,13208,Dealul Chicioara,Geomil 25000,Limba română
 Chiciura,chiciura,3,45.2978377869656,24.7091345225057,Arges,Înălțime,12953,Chiciura,Geomil 25000,Limba română
 Dealul Chiciura,chiciura,3,45.1787947635927,24.6487162429039,Arges,Deal,13974,Dealul Chiciura,PDT,Limba română
+Chicera,chicera,3,46.3543311826202,27.3388750388348,Bacau,Înălțime,14596,Chicera,PDT,Limba română
 Chicera Mare,chicera,3,46.6299505132237,26.7684784711437,Bacau,Înălțime,13548,Chicera Mare,Geomil 25000,Limba română
 Dealul Chicera,chicera,3,46.3995734027256,26.70188853518,Bacau,Deal,13859,Dealul Chicera,Moldova (1892-1898),Limba română
 Dealul Chicerei,chicera,3,46.230429442474,26.6602322445682,Bacau,Deal,13601,Dealul Chicerei,Geomil 25000,Limba română
@@ -127,14 +128,17 @@ Chiciora,chiciora,2,45.7158972036332,25.1006279559266,Brasov,Înălțime,13473,C
 Pârâul Chiciora,chiciora,2,45.6024166891825,25.2883455969922,Brasov,Vale,14164,Pârâul Chiciora,PDT,Limba română
 Dealul Chiciurii,chiciura,3,45.9398385597959,25.1349483647229,Brasov,Deal,13805,Dealul Chiciurii,Geomil 25000,Limba română
 Vârful Chiciurii,chiciura,3,45.7849391273723,25.2419242766006,Brasov,Înălțime,13967,Vârful Chiciurii,Geomil 25000,Limba română
+Chițișoara,chițișoara,3,45.8359522907898,24.7981481598216,Brasov,Înălțime,14633,Chițișoara,PDT,Limba română,Jyczora,Transilvania (1869-1870),Limba română
 Dealul Chiciura,chiciura,3,45.3155238305879,26.5093555990474,Buzau,Deal,13568,Dealul Chiciura,Geomil 25000,Limba română
 Dealul Chiciurei,chiciura,3,45.4455621612025,26.8222480485451,Buzau,Deal,13459,Dealul Chiciurei,Geomil 25000,Limba română
 Izvorul Chiciura,chiciura,3,45.2281971605404,26.578592925641,Buzau,Vale,13567,Izvorul Chiciura,PDT,Limba română
 Chicera Mică,chicera,3,45.2271859806207,21.9273234158267,Caras Severin,Înălțime,13820,Chicera Mică,Geomil 25000,Limba română
 Drumul Chicerei,chicera,3,45.2516295791112,22.2387770720545,Caras Severin,Drum,14349,Drumul Chicerei,PDT,Limba română
 Kikcjora,chiciora,2,45.3756426832342,21.8101260093031,Caras Severin,Înălțime,14108,Kikcjora,Imperiul Habsburgic (1887),Limba română,Kicera B.,Ungară 1869,Limba română
+Vârful Chiciora,chiciora,2,45.539253989668,22.3848086963197,Caras Severin,Înălțime,14606,Vârful Chiciora,PDT,Limba română
 Chiciura,chiciura,3,45.3255867941239,22.3635334837134,Caras Severin,Înălțime,13080,Chiciura,Geomil 25000,Limba română
 Dealul Chiciura,chiciura,3,45.2577097381537,22.2665290706481,Caras Severin,Deal,14347,Dealul Chiciura,PDT,Limba română
+Poiana Cicereva,cicereva,4,45.2099867870088,22.3846982927539,Caras Severin,Poiană,14612,Poiana Cicereva,PDT,Limba română
 Chicera,chicera,3,46.9970339473744,23.9732217308864,Cluj,Înălțime,13097,Chicera,Geomil 25000,Limba română
 Chicera,chicera,3,47.1006589366279,23.7657695045107,Cluj,Înălțime,13312,Chicera,Transilvania (1869-1870),Limba română
 Chicera Comorii,chicera,3,46.609056783664,23.0892402592314,Cluj,Înălțime,13715,Chicera Comorii,Geomil 25000,Limba română
@@ -169,6 +173,7 @@ Dealul Chicera,chicera,3,45.8277072929134,27.5261970474891,Galati,Deal,13551,Dea
 Dealul Chicirei,chicira,4,46.0425210100604,27.9800994021216,Galati,Deal,13536,Dealul Chicirei,PDT,Limba română,Dealul Chicirei,Geomil 25000,Limba română
 Chicera Târbanu,chicera,3,45.2773260772206,23.0974830560835,Gorj,Înălțime,13684,Chicera Târbanu,Geomil 25000,Limba română
 Chiciora,chiciora,2,44.6222043709025,23.5727386389627,Gorj,Localitate,13049,Chiciora,Geomil 25000,Limba română
+Dealul Chiciora,chiciora,2,44.6890860595835,23.657759261329,Gorj,Deal,14626,Dealul Chiciora,PDT,Limba română,Dealul Chiciora,ANCPI,Limba română
 Chiciura Mocirlii,chiciura,3,45.2247154310812,23.4723945117047,Gorj,Înălțime,13808,Chiciura Mocirlii,Geomil 25000,Limba română
 Vârful Chiciurii,chiciura,3,45.1957079682424,23.2816551028185,Gorj,Înălțime,13166,Vârful Chiciurii,Geomil 25000,Limba română
 Chicera,chicera,3,46.3032283290995,22.815107841592,Hunedoara,Înălțime,13220,Chicera,Geomil 25000,Limba română
@@ -274,11 +279,13 @@ Chicera Mare,chicera,3,48.0115554953133,23.2314734937846,Satu Mare,Înălțime,1
 Chicera Mică,chicera,3,48.0057841179381,23.232671197672,Satu Mare,Înălțime,13380,Chicera Mică,Geomil 25000,Limba română
 Valea Chicera,chicera,3,48.0795401296111,23.2327177862376,Satu Mare,Vale,13381,Valea Chicera,Geomil 25000,Limba română
 Chicera,chicera,3,46.0404323260477,24.0858815015397,Sibiu,Înălțime,13161,Chicerei,Geomil 25000,Limba română
+Chicera,chicera,3,45.8025644226416,24.6239390025595,Sibiu,Înălțime,14632,Chicera,PDT,Limba română,Kitsera,Transilvania (1869-1870),Limba română
 Chicera Amnaș,chicera,3,45.8684972113837,23.9247063825137,Sibiu,Înălțime,13204,Chicera Amnaș,Geomil 25000,Limba română
 Chicera Veștem,chicera,3,45.6921767787665,24.2886297679627,Sibiu,Înălțime,13814,Chicera Veștem,Geomil 25000,Limba română
 Culmea Chicerii,chicera,3,45.5566344951924,24.2224847692551,Sibiu,Înălțime,13207,Culmea Chicerii,Geomil 25000,Limba română
 Dealul Chicera Bradului,chicera,3,45.6976209645962,24.2902269623766,Sibiu,Deal,13815,Dealul Chicera Bradului,Geomil 25000,Limba română
 Dealul Chicerii,chicera,3,45.9080973936416,24.5059164342805,Sibiu,Deal,13803,Dealul Chicerii,Geomil 25000,Limba română
+Kitsero,chicera,3,45.8055259407389,24.4858174137528,Sibiu,Înălțime,14631,Kitsero,Transilvania (1869-1870),Limba română
 Chiciora,chiciora,2,45.7586244140165,24.3446301332536,Sibiu,Înălțime,14525,Chiciora,PDT,Limba română
 Chiciora,chiciora,2,45.7926116964239,24.4165511158405,Sibiu,Înălțime,14526,Chiciora,PDT,Limba română
 La Chiciora,chiciora,2,45.9216702311744,23.8085885781769,Sibiu,Altele,12978,La Chiciora,Geomil 25000,Limba română
@@ -309,6 +316,7 @@ Chicioara,chicioara,3,45.1347688076803,24.2356846255526,Valcea,Localitate,13663,
 Chiciura,chiciura,3,45.107885653835,24.4564006108719,Valcea,Înălțime,13583,Chiciura,Geomil 25000,Limba română
 Dealul Chiciura,chiciura,3,45.0474295843592,24.2600122054866,Valcea,Deal,13543,Dealul Chiciura,Geomil 25000,Limba română
 Chicera,chicera,3,46.4876551368481,27.4292614508664,Vaslui,Înălțime,14119,Chicera,Geomil 25000,Limba română
+Dealul Chicera,chicera,3,46.6820593627935,27.911699551844,Vaslui,Deal,14557,Dealul Chicera,ANCPI,Limba română
 Dealul Chicerei,chicera,3,46.3503495374483,27.58598630165,Vaslui,Deal,14120,Dealul Chicerei,Geomil 25000,Limba română
 Chicerla,chicerla,4,46.3169324332349,27.5330499549588,Vaslui,Înălțime,13559,Chicerla,Geomil 25000,Limba română
 Dealul Chicirii,chicira,4,46.5321064801103,27.7817575663008,Vaslui,Deal,13942,Dealul Chicirii,Moldova (1892-1898),Limba română

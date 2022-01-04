@@ -58,6 +58,7 @@ Kloster (Mănăstire),mânăstire,1,46.2687275949475,26.9687878857071,Bacau,Alte
 Kloster (Mănăstire),mânăstire,1,46.748262368846,26.7441437808282,Bacau,Altele,12339,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
 Kloster (Mănăstire),mânăstire,1,46.2263156534222,27.1646996220917,Bacau,Mănăstire,12637,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
 Kloster (Mănăstire),mânăstire,1,46.6482691837527,26.7760131572096,Bacau,Mănăstire,13865,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Kloster Buzdugony,mânăstire,1,46.3063560662429,27.2417869614679,Bacau,Mănăstire,14597,Kloster Buzdugony,Moldova (1788-1790),Limba română
 Kloster Dialu Mare,mânăstire,1,46.7043548957906,27.1612808190945,Bacau,Altele,12340,Kloster Dialu Mare,Moldova (1788-1790),Limba germană
 Mănăstirea,mânăstire,1,46.3762426981223,26.3972534767334,Bacau,Vale,684,Mănăstirea,Geomil 25000,Limba română
 Mănăstirea,mânăstire,1,46.4858468668206,26.1697939094724,Bacau,Vale,4552,Mănăstirea,Geomil 25000,Limba română
@@ -140,6 +141,7 @@ Kloster Slatica,mânăstire,1,44.8651841127363,21.4438974794248,Caras Severin,Al
 Monosteru,mânăstire,1,44.6905701970217,21.6907667570024,Caras Severin,Mănăstire,12706,Monosteru,Banat (1769-1772),Limba română
 Vârful Remecioara,remecioara,3,45.5206646982973,22.6408903613904,Caras Severin,Înălțime,13234,Vârful Remecioara,Imperiul Habsburgic (1887),Limba română,Vurfu Remetu,Transilvania (1769-1773),Limba română
 Valea Remetei,remetea,2,45.5042656024963,21.8952922856983,Caras Severin,Vale,5684,Valea Remetei,Geomil 25000,Limba română,Valea Remetea,PDT,Limba română
+Crucea la Locul Mânăstirii Vechi,mânăstire,1,46.918187718176,23.290590444686,Cluj,Altele,14562,Crucea la Locul Mânăstirii Vechi,PDT,Limba română
 Mânăstire,mânăstire,1,46.654934313244,23.447735170636,Cluj,Altele,8965,Mânăstire,PDT,Limba română
 Mănăstirea,mânăstire,1,47.1203747535804,23.9215715832065,Cluj,Localitate,7050,Mănăstirea,Geomil 25000,Limba română
 Mănăstireni,mânăstire,1,46.7820173457812,23.0824563829653,Cluj,Localitate,7024,Mănăstireni,Geomil 25000,Limba română
@@ -240,8 +242,10 @@ Slobozia Mănăstire,mânăstire,1,44.5961722066696,27.3419463786381,Ialomita,Al
 Zidurile Mânăstirei Flămânda,mânăstire,1,44.6679409626423,27.8241572332492,Ialomita,Altele,12492,Zidurile Mânăstirei Flămânda,PDT,Limba română
 La Schit,schit,2,44.7280824204755,26.4552259137815,Ialomita,Altele,3287,La Schit,PDT,Limba română
 Movila Schitul,schit,2,44.5984008270678,27.5241727140714,Ialomita,Înălțime,3442,Movila Schitul,PDT,Limba română
+Capul Pietrii la Chilii,chilii,2,47.4800018462891,26.7996232711783,Iasi,Înălțime,14579,Capul Pietrii la Chilii,PDT,Limba română
 Dealul Chiliei,chilii,2,47.3005335883626,26.8117278604632,Iasi,Deal,11398,Dealul Chiliei,Geomil 25000,Limba română
 Poiana Chiliei,chilii,2,47.1611498851678,26.71177285835,Iasi,Poiană,14148,Poiana Chiliei,Moldova (1892-1898),Limba română
+Valea Chiliilor,chilii,2,47.4944114271052,26.7389229134775,Iasi,Vale,14582,Valea Chiliilor,PDT,Limba română
 Dealul Mănăstioarei,mânăstire,1,47.123926853905,27.0392899237021,Iasi,Deal,2232,Dealul Mănăstioarei,Geomil 25000,Limba română
 Dealul Mănăstirii,mânăstire,1,47.3486133922897,26.6126851373178,Iasi,Deal,8920,Dealul Mănăstirii,Geomil 25000,Limba română
 Dealul Monastirei,mânăstire,1,47.2892265651092,27.5621406937309,Iasi,Deal,4847,Dealul Monastirei,PDT,Limba română
@@ -311,7 +315,10 @@ Kloster (Mănăstire),mânăstire,1,46.7250043558352,26.463617353169,Neamt,Altel
 Kloster (Mănăstire),mânăstire,1,47.0630571922342,26.4030607006157,Neamt,Mănăstire,13867,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
 Kloster (Mănăstire),mânăstire,1,47.2565011409867,26.2080430093729,Neamt,Mănăstire,14053,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
 Kloster (Mănăstire),mânăstire,1,47.2425899936471,26.1856641595494,Neamt,Mănăstire,14054,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Kloster (Mănăstire),mânăstire,1,47.0161116743268,26.3352880218799,Neamt,Mănăstire,14572,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
 Kloster Agapia,mânăstire,1,47.1705135034156,26.2350963930978,Neamt,Mănăstire,14131,Kloster Agapia,Moldova (1788-1790),Limba germană
+Kloster Beserikan,mânăstire,1,46.9603475250616,26.2420746828073,Neamt,Mănăstire,14569,Kloster Beserikan,Moldova (1788-1790),Limba germană
+Kloster Gertschina,mânăstire,1,46.9823041378867,26.3515244588135,Neamt,Mănăstire,14571,Kloster Gertschina,Moldova (1788-1790),Limba germană
 Kloster Horaitza,mânăstire,1,47.0586700739433,26.2798792972172,Neamt,Mănăstire,12627,Kloster Horaitza,Moldova (1788-1790),Limba germană
 Kloster Niamz,mânăstire,1,47.2634017286169,26.2087711307895,Neamt,Mănăstire,14052,Kloster Niamz,Moldova (1788-1790),Limba germană
 Kloster Wenetory,mânăstire,1,46.901892570225,26.3882906574109,Neamt,Mănăstire,12628,Kloster Wenetory,Moldova (1788-1790),Limba germană
@@ -319,6 +326,7 @@ Kloster Wernali,mânăstire,1,46.8231929776536,26.9432489730388,Neamt,Mănăstir
 Kloster Zuskany,mânăstire,1,46.7981633440701,26.7706979552033,Neamt,Mănăstire,13866,Kloster Zuskany,Moldova (1788-1790),Limba germană
 La Iazul Mănăstirii,mânăstire,1,47.0246800667134,26.9941773371153,Neamt,Apă-deal-câmpie,11639,La Iazul Mănăstirii,Geomil 25000,Limba română
 Lunca Monastire,mânăstire,1,46.7950498048283,26.5825091171468,Neamt,Apă-deal-câmpie,3850,Lunca Monastire,PDT,Limba română
+Monaster Bistritza,mânăstire,1,46.961288068981,26.2958231236179,Neamt,Mănăstire,14570,Monaster Bistritza,Moldova (1788-1790),Limba română
 Monaster Waratek,mânăstire,1,47.1396638497767,26.2678913223564,Neamt,Mănăstire,14128,Monaster Waratek,Moldova (1788-1790),Limba română
 Piciorul Stâna Mănăstirii,mânăstire,1,47.2314529934846,25.9723106555478,Neamt,Înălțime,11656,Piciorul Stâna Mănăstirii,Geomil 25000,Limba română
 Poiana Stâna Mănăstirii,mânăstire,1,47.1978058064035,26.1297572908587,Neamt,Poiană,2058,Poiana Stâna Mănăstirii,Geomil 25000,Limba română
@@ -397,6 +405,7 @@ Coasta Mănăstioarei,mânăstire,1,47.5330349566211,26.4574754817349,Suceava,Î
 Dealul Mănăstirii,mânăstire,1,47.6708948397135,26.3005860048802,Suceava,Deal,1789,Dealul Mănăstirii,Geomil 25000,Limba română,Dealul Mănăstirii,PDT,Limba română
 Dealul Mănăstirii,mânăstire,1,47.6792021058943,25.573429748852,Suceava,Deal,1853,Dealul Mănăstirii,Geomil 25000,Limba română
 Kloster (Mănăstire),mânăstire,1,47.3535379553115,26.2100459515596,Suceava,Mănăstire,13272,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
+Kloster Bobrata,mânăstire,1,47.3747089118424,26.6234053861863,Suceava,Mănăstire,14574,Kloster Bobrata,Moldova (1788-1790),Limba germană
 Kloster Slatina,mânăstire,1,47.4337649932902,25.958122796061,Suceava,Mănăstire,13524,Kloster Slatina,Moldova (1788-1790),Limba germană
 Mănăstioara,mânăstire,1,47.9421176794071,26.0149589538265,Suceava,Înălțime,1838,Mănăstioara,Geomil 25000,Limba română
 Mănăstioara,mânăstire,1,47.5546056907334,26.3937957280569,Suceava,Localitate,2266,Mănăstioara,Geomil 25000,Limba română,Monăstioara,Imperiul Habsburgic (1887),Limba română
@@ -404,7 +413,7 @@ Mănăstioara,mânăstire,1,47.4796978912104,26.4013897059187,Suceava,Localitate
 Mânăstioara Rusească,mânăstire,1,47.5909931826165,26.3803424214388,Suceava,Localitate,4923,Mânăstioara Rusească,PDT,Limba română
 Mănăstirea,mânăstire,1,47.8847441328882,25.6010658389175,Suceava,Vale,10765,Mănăstirea,Geomil 25000,Limba română
 Mănăstirea,mânăstire,1,47.6894975165282,25.6652074078698,Suceava,Vale,13836,Mănăstirea,Geomil 25000,Limba română
-Piciorul Monăstirii,mânăstire,1,47.5042372657074,25.859750960514,Suceava,Înălțime,10746,Piciorul Monăstirii,Imperiul Habsburgic (1887),Limba română
+Monaster,mânăstire,1,47.5172566872662,25.8645358150381,Suceava,Mănăstire,14636,Monaster,Bucovina (1773-1775),Limba română
 Dealul la Schit,schit,2,47.7153136295889,26.3615321079544,Suceava,Deal,7272,Dealul la Schit,PDT,Limba română
 Gulea (Schit),schit,2,47.4127745286671,26.6049766812413,Suceava,Localitate,14048,Gulea (Schit),Moldova (1892-1898),Limba română
 Schitul,schit,2,47.7732725822897,26.2165056534025,Suceava,,2303,Schitul,Geomil 25000,Limba română
