@@ -476,6 +476,7 @@
 <Placemark><LineString id="3134_3133"><tessellate>1</tessellate><coordinates>23.469459,44.949574,0.
 23.476528,44.953757,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Valea Ursului</name><description>Nume: Valea Ursului, Tip: urs, Nivel: 2, Județ: Gorj, Formă: Vale, ID: 10698 <br /><b>Variante</b><br />Nume: Valea Ursului, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.089083,44.806740,0</coordinates></Point></Placemark>
+<Placemark><name>Valea Ursului</name><description>Nume: Valea Ursului, Tip: urs, Nivel: 2, Județ: Gorj, Formă: Vale, ID: 14739 <br /><b>Variante</b><br />Nume: Valea Ursului, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>23.698566,44.772538,0</coordinates></Point></Placemark>
 <Placemark><name>Balta Ursoaia</name><description>Nume: Balta Ursoaia, Tip: ursoaie, Nivel: 3, Județ: Gorj, Formă: Apă-deal-câmpie, ID: 11013, ID Părinte: 5087 <br /><b>Variante</b><br />Nume: Balta Ursoaia, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>23.529551,44.669949,0</coordinates></Point></Placemark>
 <Placemark><LineString id="11013_5087"><tessellate>1</tessellate><coordinates>23.529551,44.669949,0.
 23.536865,44.676789,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

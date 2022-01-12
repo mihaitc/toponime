@@ -122,6 +122,7 @@
 <Placemark><name>Pârâul Lupoaia Mare</name><description>Nume: Pârâul Lupoaia Mare, Tip: lupoaie, Nivel: 3, Județ: Sibiu, Formă: Vale, ID: 8624, ID Părinte: 1902 <br /><b>Variante</b><br />Nume: Pârâul Lupoaia Mare, Hartă: PDT, Limbă: Limba română<br />Nume: Lupoaia Mare, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.529907,46.188889,0</coordinates></Point></Placemark>
 <Placemark><LineString id="8624_1902"><tessellate>1</tessellate><coordinates>24.529907,46.188889,0.
 24.533721,46.195025,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Valea Lupoaiei</name><description>Nume: Valea Lupoaiei, Tip: lupoaie, Nivel: 3, Județ: Sibiu, Formă: Vale, ID: 14804 <br /><b>Variante</b><br />Nume: Valea Lupoaiei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>23.869612,45.749240,0</coordinates></Point></Placemark>
 <Placemark><name>Lupoaia</name><description>Nume: Lupoaia, Tip: lupoaie, Nivel: 3, Județ: Suceava, Formă: Vale, ID: 1852, ID Părinte: 1851 <br /><b>Variante</b><br />Nume: Lupoaia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.612431,47.674570,0</coordinates></Point></Placemark>
 <Placemark><LineString id="1852_1851"><tessellate>1</tessellate><coordinates>25.612431,47.674570,0.
 25.616868,47.678326,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

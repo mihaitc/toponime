@@ -1,6 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Galați,galați,2,46.0905566222449,23.2929136153191,Alba,Localitate,11778,,Galați,Geomil 25000,Limba română,Galatz,Transilvania (1869-1870),Limba română
 Valea Galați,galați,2,46.0635225064233,23.3054046956088,Alba,Vale,12823,11778,Valea Galați,Imperiul Habsburgic (1887),Limba română
+Gălățeanu,gălățeanu,3,44.8062208933541,24.6841021335076,Arges,Localitate,14687,,Gălățeanu,PDT,Limba română
 Galacza,galaț,3,46.9877411640061,22.4298188392918,Bihor,Localitate,12140,,Galacza,Ungaria (1782–1785),Limba maghiară
 Izvorul Gălațului,galaț,3,47.5464431042688,24.7700577398924,Bistrita Nasaud,Vale,6353,6352,Izvorul Gălațului,PDT,Limba română
 Vârful Galațului,galaț,3,47.5634024336749,24.8123925731446,Bistrita Nasaud,Înălțime,6352,,Vârful Galațului,PDT,Limba română

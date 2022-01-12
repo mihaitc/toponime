@@ -1411,6 +1411,7 @@
 <Placemark><name>Groapa Cocoșului</name><description>Nume: Groapa Cocoșului, Tip: cocoș, Nivel: 3, Județ: Sibiu, Formă: Altele, ID: 8593, ID Părinte: 2541 <br /><b>Variante</b><br />Nume: Groapa Cocoșului, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.159862,45.825807,0</coordinates></Point></Placemark>
 <Placemark><LineString id="8593_2541"><tessellate>1</tessellate><coordinates>24.159862,45.825807,0.
 24.204921,45.825714,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Pârâul Cocoșilor</name><description>Nume: Pârâul Cocoșilor, Tip: cocoș de munte, Nivel: 2, Județ: Sibiu, Formă: Vale, ID: 14722 <br /><b>Variante</b><br />Nume: Pârâul Cocoșilor, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>23.888554,45.574364,0</coordinates></Point></Placemark>
 <Placemark><name>Corbul Mare</name><description>Nume: Corbul Mare, Tip: corb, Nivel: 2, Județ: Sibiu, Formă: Înălțime, ID: 7351, ID Părinte: 1908 <br /><b>Variante</b><br />Nume: Corbul Mare, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.456983,46.237971,0</coordinates></Point></Placemark>
 <Placemark><LineString id="7351_1908"><tessellate>1</tessellate><coordinates>24.456983,46.237971,0.
 24.458164,46.233831,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

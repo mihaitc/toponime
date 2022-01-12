@@ -1,5 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
 Cânepele,cânepă,2,46.1579388393012,24.1063624851498,Alba,Altele,8633,,Cânepele,PDT,Limba română
+Valea Cânepei,cânepă,2,45.9676146051317,23.824440693758,Alba,Vale,14802,,Valea Cânepei,PDT,Limba română
 Cânepiști,cânepiște,3,46.1543407988598,23.5911439253832,Alba,Altele,6751,,Cânepiști,Geomil 25000,Limba română
 Cânepiști,cânepiște,3,46.2412597146634,24.1308355110235,Alba,Altele,11907,,Cânepiști,PDT,Limba română
 Cânepiștile,cânepiște,3,46.3913224962852,23.6844793654588,Alba,Altele,8144,,Cânepiștile,PDT,Limba română

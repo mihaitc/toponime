@@ -1,7 +1,8 @@
-Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Movila la Sultana,sultana,3,44.2619131509459,26.8559264199414,Calarasi,Înălțime,8460,Movila la Sultana,Austriacă,Limba română
 Sultanu,sultan,2,45.1136022698513,25.5854412635332,Dambovita,Localitate,7465,Sultanu,Geomil 25000,Limba română
 Dealul Sultanei,sultana,3,44.4067135937634,23.6354411811572,Dolj,Deal,11371,Dealul Sultanei,Geomil 25000,Limba română
 Valea Sultanul,sultan,2,45.5123289986258,28.0136878407512,Galati,Vale,11285,Valea Sultanul,Geomil 25000,Limba română
 La Sultana,sultana,3,44.5212515760999,25.6119888183907,Giurgiu,Altele,12012,La Sultana,PDT,Limba română
+Săltănești,săltănești,3,44.5256732396952,24.4312315484931,Olt,Localitate,14789,Săltănești,PDT,Limba română,Saltanești,Austriacă,Limba română
 La Casa lui Sultan,sultan,2,45.389718468633,25.9045152706371,Prahova,Altele,11450,La Casa lui Sultan,Geomil 25000,Limba română

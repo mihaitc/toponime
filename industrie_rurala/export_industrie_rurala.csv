@@ -170,6 +170,7 @@ La Prisacă,prisacă,3,47.6928442904363,27.1426326435666,Botosani,Altele,6664,La
 La Prisaca Popii,prisacă,3,47.8057713046423,26.5285789794069,Botosani,Altele,11404,La Prisaca Popii,Geomil 25000,Limba română
 Poeana la Prisaca,prisacă,3,47.6152854962153,26.654962814135,Botosani,Poiană,14587,Poeana la Prisaca,PDT,Limba română
 Poiana Prisăcei,prisacă,3,47.5258132739064,26.667849145428,Botosani,Poiană,14581,Poiana Prisăcei,PDT,Limba română
+Prisaca,prisacă,3,47.7065613905883,26.6462264297059,Botosani,Înălțime,14748,Prisaca,ANCPI,Limba română
 Prisaca Bădărăilor,prisacă,3,47.5801339010912,27.3413256405357,Botosani,Altele,8932,Prisaca Bădărăilor,PDT,Limba română
 Valea la Prisaca,prisacă,3,48.1730412702643,26.6733238017481,Botosani,Vale,14602,Valea la Prisacă,PDT,Limba română
 Valea Prisaca,prisacă,3,48.0058867382065,26.6660681859945,Botosani,Vale,3579,Valea Prisaca,PDT,Limba română
@@ -362,6 +363,7 @@ Pârâu Vărniții,varniță,3,45.7377866132494,22.5838853482343,Hunedoara,Vale,
 Vârfu Varnița,varniță,3,45.7770829953744,23.2683303271813,Hunedoara,Înălțime,11818,Vârfu Varnița,Geomil 25000,Limba română
 Varnița,varniță,3,45.5452685504342,23.1287971578757,Hunedoara,Localitate,10679,Varnița,Imperiul Habsburgic (1887),Limba română
 Mo. Stupului,stupi,3,44.6698721463094,26.4944331981836,Ialomita,Înălțime,5750,Mo. Stupului,Austriacă,Limba română
+Stupina Radulesku,stupină,3,44.759548533198,26.3195471882269,Ialomita,Altele,14712,Stupina Radulesku,Austriacă,Limba română
 Țiglărie,țiglărie,2,44.6544052205194,27.6063237854654,Ialomita,Înălțime,11274,Țiglărie,Geomil 25000,Limba română
 La Cărămidărie,cărămidărie,2,47.0275408313422,27.9491712838678,Iasi,Altele,9572,La Cărămidărie,Moldova (1892-1898),Limba română
 La Cărămidărie,cărămidărie,2,47.1120073651471,26.663220662165,Iasi,Altele,11637,La Cărămidărie,Geomil 25000,Limba română
@@ -512,6 +514,9 @@ Plaiul Cărămidari,cărămizari,3,45.1472015261723,25.8905493310516,Prahova,În
 Cărbunari,cărbunari,3,44.7581323981075,25.9842846497264,Prahova,Localitate,4247,Cărbunari,Geomil 25000,Limba română,Cărbunari,PDT,Limba română
 Kasaria,cășărie,2,45.4051141724001,25.9343130752773,Prahova,Altele,13447,Kasaria,Valahia-Moldova (1773-1774),Limba română
 Kasaria,cășărie,2,45.4301785335677,25.9374596797862,Prahova,Altele,13448,Kasaria,Valahia-Moldova (1773-1774),Limba română
+Kassaria,cășărie,2,45.3406016413481,25.822748189428,Prahova,Altele,14714,Kassaria,Valahia-Moldova (1773-1774),Limba română
+Kassaria,cășărie,2,45.4016569815087,25.7706744088425,Prahova,Altele,14715,Kassaria,Valahia-Moldova (1773-1774),Limba română
+Kassaria,cășărie,2,45.4044202304461,25.7654936506313,Prahova,Altele,14716,Kassaria,Valahia-Moldova (1773-1774),Limba română
 Plaiul Cășăriei,cășărie,2,45.3513802532868,25.5258834415719,Prahova,Înălțime,1541,Plaiul Cășăriei,Geomil 25000,Limba română
 Valea Cășăriei,cășărie,2,45.4500425592539,25.5750767586386,Prahova,Vale,581,Valea Cășăriei,Geomil 25000,Limba română
 Valea Cășăriei,cășărie,2,45.3668649515322,25.5569839287263,Prahova,Vale,9794,Valea Cășăriei,PDT,Limba română
@@ -547,6 +552,7 @@ Dealul Cărbunarilor,cărbunari,3,45.7142852220523,24.2728670445525,Sibiu,Deal,2
 Pădurea Cărbunarilor,cărbunari,3,45.8628618098628,24.7544722669795,Sibiu,Pădure,7977,Pădurea Cărbunarilor,Geomil 25000,Limba română
 Pârâul Cărbunarilor,cărbunari,3,45.6923200752695,24.4191593289794,Sibiu,Vale,1467,Pârâul Cărbunarilor,Geomil 25000,Limba română,Valea Cărbunarilor,PDT,Limba română
 Pârâul Cărbunarilor,cărbunari,3,45.6656521577728,24.2405313209408,Sibiu,Vale,2494,Pârâul Cărbunarilor,Geomil 25000,Limba română
+Valea Cărbunari,cărbunari,3,45.8279538674402,24.3596493160047,Sibiu,Vale,14799,Valea Cărbunari,PDT,Limba română
 Valea Cărbunarului,cărbunari,3,45.6966661958607,23.9365272175547,Sibiu,Vale,2507,Valea Cărbunarului,Geomil 25000,Limba română
 Dealul Cărbunăriei,cărbunărie,2,45.7419122926859,24.4891983393527,Sibiu,Deal,1471,Dealul Cărbunăriei,Geomil 25000,Limba română
 Dealul Cărbunăriei,cărbunărie,2,45.6290842899667,24.2442160015917,Sibiu,Deal,2497,Dealul Cărbunăriei,Geomil 25000,Limba română,D. Cărbunării,Imperiul Habsburgic (1887),Limba română

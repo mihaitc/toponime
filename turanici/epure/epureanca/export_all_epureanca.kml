@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealul Epureanca</name><description>Nume: Dealul Epureanca, Tip: epureanca, Nivel: 3, Județ: Teleorman, Formă: Deal, ID: 14793, ID Părinte: 14792 <br /><b>Variante</b><br />Nume: Dealul Epureanca, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.901581,44.052756,0</coordinates></Point></Placemark>
+<Placemark><LineString id="14793_14792"><tessellate>1</tessellate><coordinates>24.901581,44.052756,0.
+24.932400,44.043948,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Valea Epureanca</name><description>Nume: Valea Epureanca, Tip: epureanca, Nivel: 3, Județ: Teleorman, Formă: Vale, ID: 14792 <br /><b>Variante</b><br />Nume: Valea Epureanca, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.932400,44.043948,0</coordinates></Point></Placemark></Document></kml>

@@ -1,5 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
 Cânepele,cânepă,2,46.1579388393012,24.1063624851498,Alba,Altele,8633,,Cânepele,PDT,Limba română
+Valea Cânepei,cânepă,2,45.9676146051317,23.824440693758,Alba,Vale,14802,,Valea Cânepei,PDT,Limba română
 Cânepiști,cânepiște,3,46.1543407988598,23.5911439253832,Alba,Altele,6751,,Cânepiști,Geomil 25000,Limba română
 Cânepiști,cânepiște,3,46.2412597146634,24.1308355110235,Alba,Altele,11907,,Cânepiști,PDT,Limba română
 Cânepiștile,cânepiște,3,46.3913224962852,23.6844793654588,Alba,Altele,8144,,Cânepiștile,PDT,Limba română
@@ -21,6 +22,7 @@ Dealul Inului,in (plantă),2,45.1065209507276,25.1268841545475,Arges,Deal,546,,D
 Dealul Inului,in (plantă),2,45.0249337736496,25.0885813552017,Arges,Deal,14171,,Dealul Inului,PDT,Limba română
 Cânepăria,cânepărie,4,46.2441082705997,26.9181395791581,Bacau,Altele,7834,,Cânepăria,Geomil 25000,Limba română
 La Cânipiște,cânepiște,3,46.2557945531179,26.6518060248345,Bacau,Altele,4574,,La Cânipiște,PDT,Limba română
+Dealul Inului,in (plantă),2,46.5058637878171,26.5832351991606,Bacau,Deal,14796,,Dealul Inului,Moldova (1892-1898),Limba română
 La Inărie,inărie,2,46.4006181720888,27.0241025490158,Bacau,Altele,13554,,La Inărie,PDT,Limba română
 Valea Cânepei,cânepă,2,46.5661219145286,22.175566797829,Bihor,Vale,4084,,Valea Cânepei,PDT,Limba română
 Cânepiște,cânepiște,3,46.8261827130628,21.8498199583861,Bihor,Altele,2000,,Cânepiște,Geomil 25000,Limba română
@@ -117,6 +119,7 @@ Cânepiște,cânepiște,3,46.2272362940563,24.6042041475626,Sibiu,Altele,1903,,C
 Hotarului Inului,in (plantă),2,46.1316801797374,24.2547438623352,Sibiu,Altele,2621,,Hotarului Inului,Geomil 25000,Limba română
 În Inuri,in (plantă),2,46.092221728481,24.6424918248512,Sibiu,Altele,8622,,În Inuri,PDT,Limba română
 În Inuri,in (plantă),2,45.7885380528701,24.5504534883607,Sibiu,Altele,9683,,În Inuri,Geomil 25000,Limba română
+Inuri,in (plantă),2,45.7239546776084,24.3594281803111,Sibiu,Altele,14721,,Inuri,PDT,Limba română
 Valea Inului,in (plantă),2,46.0423336145172,24.469123396255,Sibiu,Vale,2651,,Valea Inului,Geomil 25000,Limba română
 Cânepiște,cânepiște,3,47.7567977871279,26.3875239806172,Suceava,Altele,1801,,Cânepiște,Geomil 25000,Limba română
 Cânepiștea,cânepiște,3,47.586389257215,26.4163133190963,Suceava,Vale,14266,,Cânepiștea,ANCPI,Limba română

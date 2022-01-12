@@ -146,6 +146,7 @@
 <Placemark><name>Poiana Cărbunari</name><description>Nume: Poiana Cărbunari, Tip: cărbunari, Nivel: 3, Județ: Sibiu, Formă: Poiană, ID: 4034, ID Părinte: 2525 <br /><b>Variante</b><br />Nume: Poiana Cărbunari, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.282794,45.709073,0</coordinates></Point></Placemark>
 <Placemark><LineString id="4034_2525"><tessellate>1</tessellate><coordinates>24.282794,45.709073,0.
 24.272867,45.714285,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Valea Cărbunari</name><description>Nume: Valea Cărbunari, Tip: cărbunari, Nivel: 3, Județ: Sibiu, Formă: Vale, ID: 14799 <br /><b>Variante</b><br />Nume: Valea Cărbunari, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.359649,45.827954,0</coordinates></Point></Placemark>
 <Placemark><name>Valea Cărbunarilor</name><description>Nume: Valea Cărbunarilor, Tip: cărbunari, Nivel: 3, Județ: Sibiu, Formă: Vale, ID: 2526, ID Părinte: 2525 <br /><b>Variante</b><br />Nume: Valea Cărbunarilor, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.282210,45.713211,0</coordinates></Point></Placemark>
 <Placemark><LineString id="2526_2525"><tessellate>1</tessellate><coordinates>24.282210,45.713211,0.
 24.272867,45.714285,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

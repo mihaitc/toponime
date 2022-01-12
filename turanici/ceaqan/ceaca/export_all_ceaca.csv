@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Ceaka,ceaca,3,44.2659496219045,27.2539452179708,Calarasi,Localitate,14694,,Ceaka,Austriacă,Limba română,Ceacu,PDT,Limba română
+Ceaca,ceaca,3,47.1941386468634,23.5601889184686,Salaj,Localitate,14692,,Ceaca,ANCPI,Limba română,Ciaca,PDT,Limba română
+Valea Ciachii,ceaca,3,47.1902833606058,23.5816636936436,Salaj,Vale,14693,14692,Valea Ciachii,PDT,Limba română

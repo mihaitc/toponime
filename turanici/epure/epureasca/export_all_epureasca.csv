@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Moara Epureasca,epureasca,3,44.1137909098324,23.9593244697495,Dolj,Altele,14516,,Moara Epureasca,PDT,Limba română
+Pădurea Epureasca,epureasca,3,44.2426529517261,25.8988725154252,Giurgiu,Pădure,464,14753,Pădurea Epureasca,PDT,Limba română,Pădurea Iepureasca,Geomil 25000,Limba română
+Pădurea Epureasca,epureasca,3,44.571701195712,23.240698203995,Mehedinti,Pădure,14537,,Pădurea Epureasca,ANCPI,Limba română

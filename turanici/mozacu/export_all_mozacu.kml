@@ -2,4 +2,5 @@
 <Placemark><name>Mozacu</name><description>Nume: Mozacu, Tip: mozacu, Nivel: 2, Județ: Arges, Formă: Localitate, ID: 14628 <br /><b>Variante</b><br />Nume: Mozacu, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>25.164135,44.608109,0</coordinates></Point></Placemark>
 <Placemark><name>Pârâul Mozacului</name><description>Nume: Pârâul Mozacului, Tip: mozacu, Nivel: 2, Județ: Arges, Formă: Vale, ID: 14629, ID Părinte: 14628 <br /><b>Variante</b><br />Nume: Pârâul Mozacului, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>25.176955,44.593049,0</coordinates></Point></Placemark>
 <Placemark><LineString id="14629_14628"><tessellate>1</tessellate><coordinates>25.176955,44.593049,0.
-25.164135,44.608109,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>
+25.164135,44.608109,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Târla Mosâcianka</name><description>Nume: Târla Mosâcianka, Tip: mozăcianca, Nivel: 3, Județ: Braila, Formă: Altele, ID: 14705 <br /><b>Variante</b><br />Nume: Târla Mosâcianka, Hartă: Austriacă, Limbă: Limba română</description><Point><coordinates>27.567977,44.884710,0</coordinates></Point></Placemark></Document></kml>
