@@ -265,6 +265,7 @@ Valea Ursu,urs,2,45.110343733715,23.7446207354031,Gorj,Vale,11038,Valea Ursu,Geo
 Valea Ursului,urs,2,44.9487183652529,22.9536177036695,Gorj,Vale,208,Valea Ursului,Geomil 25000,Limba română
 Valea Ursului,urs,2,44.8067402950252,23.089083179317,Gorj,Vale,10698,Valea Ursului,Geomil 25000,Limba română
 Valea Ursului,urs,2,44.7725376286588,23.6985660013406,Gorj,Vale,14739,Valea Ursului,ANCPI,Limba română
+Valea Ursului,urs,2,44.9349139676723,23.289855519358,Gorj,Vale,14976,Valea Ursului,PDT,Limba română
 Pădurea Ursoaiei,ursoaie,3,44.810362990371,23.1846640061151,Gorj,Pădure,3138,Pădurea Ursoaiei,Geomil 25000,Limba română
 Piscul Ursoaia,ursoaie,3,44.6446584644203,23.6278842198379,Gorj,Înălțime,8270,Piscul Ursoaia,PDT,Limba română
 Valea Ursa,ursoaie,3,44.9845336446764,23.0048263747878,Gorj,Vale,231,Valea Ursa,Geomil 25000,Limba română
@@ -312,7 +313,6 @@ Valea Ursului,urs,2,47.1281859751484,27.5094549161805,Iasi,Vale,2228,Valea Ursul
 Dealul Ursoaei,ursoaie,3,47.5375354944014,27.3338910618961,Iasi,Deal,6658,Dealul Ursoaei,PDT,Limba română
 Dealul Ursoii,ursoaie,3,46.9619177276068,27.9036526541532,Iasi,Deal,6583,Dealul Ursoii,Geomil 25000,Limba română
 Ursoaia,ursoaie,3,47.2726966336371,27.3858625920622,Iasi,Localitate,4838,Ursoaia,Geomil 25000,Limba română,Ursoaea,PDT,Limba română
-Valea Ursoaei,ursoaie,3,47.2609573584011,27.3931066331875,Iasi,Vale,4839,Valea Ursoaei,PDT,Limba română
 Dealul Ursoilor,ursoi,3,46.959230738343,27.8694500886051,Iasi,Deal,6582,Dealul Ursoilor,Geomil 25000,Limba română
 La Lacu Ursului,urs,2,44.7093016759441,26.1316560270004,Ilfov,Lac,1324,La Lacu Ursului,Geomil 25000,Limba română
 Pădurea Ursului,urs,2,44.6430973264205,26.0353931529833,Ilfov,Pădure,4254,Pădurea Ursului,PDT,Limba română
@@ -364,6 +364,7 @@ Vârful Groapa Ursului,urs,2,46.6048002469424,24.9253460491874,Mures,Înălțime
 Zăpodea Ursului,urs,2,46.9965922506588,24.8873864461365,Mures,Înălțime,11751,Zăpodea Ursului,PDT,Limba română
 Zăpodea Ursului,urs,2,47.0870425685722,24.9717372041505,Mures,Altele,13402,Zăpodea Ursului,Imperiul Habsburgic (1887),Limba română
 Zăpodia Ursului,urs,2,47.0060207425239,24.909260607531,Mures,Înălțime,5437,Zăpodia Ursului,Geomil 25000,Limba română,Zăpodea Ursului,PDT,Limba română
+Zigla Ursuluj,urs,2,46.710982293672,24.2011934463535,Mures,Înălțime,14888,Zigla Ursuluj,Transilvania (1769-1773),Limba română
 Ursoaia,ursoaie,3,46.7133294871699,24.3135677923171,Mures,Altele,5368,Ursoaia,Geomil 25000,Limba română
 Ursoaia,ursoaie,3,46.5499449793144,24.2244912806927,Mures,Localitate,5502,Ursoaia,Geomil 25000,Limba română
 Bradul Ursului,urs,2,46.906154361212,25.855722322143,Neamt,Altele,10608,Bradul Ursului,Imperiul Habsburgic (1887),Limba română

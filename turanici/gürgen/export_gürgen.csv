@@ -1,5 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
 Giurgeni,giurgeni,3,46.2375368390567,27.1959117202861,Bacau,Localitate,14773,Giurgeni,PDT,Limba română
+Giurgioana,giurgioana,3,46.1702336696569,27.3566509857953,Bacau,Localitate,14818,Giurgioana,PDT,Limba română
 Poiana Gurganului,gurgan,3,46.6616078838568,26.483678651974,Bacau,Poiană,14783,Poiana Gurganului,ANCPI,Limba română
 Ciceu-Giurgești,giurgești,3,47.2456089559768,24.0192974514917,Bistrita Nasaud,Localitate,14787,Ciceu-Giurgești,ANCPI,Limba română,Csicsó Györgyfalva,Transilvania (1869-1870),Limba maghiară,Csicso Györfalu,Transilvania (1769-1773),Limba maghiară
 Giurgesci,giurgești,3,46.3154944936828,22.7484168608037,Hunedoara,Localitate,14777,Giurgesci,Imperiul Habsburgic (1887),Limba română
@@ -12,4 +13,5 @@ Giurgeni,giurgeni,3,46.8216719832408,27.1105162864432,Neamt,Localitate,14775,Giu
 Giurgești,giurgești,3,47.5015841356718,26.4236382134514,Suceava,Localitate,14780,Giurgești,PDT,Limba română
 Giurgiuveni,giurgiuveni,3,45.1222643748316,24.4993500411073,Valcea,Localitate,14788,Giurgiuveni,ANCPI,Limba română,Giurgiueni,Austriacă,Limba română
 Giurgești,giurgești,3,46.7358628141969,27.9768071776247,Vaslui,Localitate,14781,Giurgești,PDT,Limba română
+Dealul Giurgiu,giurgiu,3,46.339550552012,27.0844939664157,Vaslui,Deal,14856,Dealul Giurgiu,PDT,Limba română
 Muntele Giurgiu,giurgiu,3,45.7559065464526,26.4443325524754,Vrancea,Înălțime,14776,Muntele Giurgiu,ANCPI,Limba română

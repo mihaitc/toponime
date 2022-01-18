@@ -1,0 +1,11 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Furduiești,furduești,3,46.3361543230606,23.0807508291548,Alba,Localitate,10666,,Furduiești,Geomil 25000,Limba română
+Furduiești,furduești,3,46.3129649849665,22.989105830628,Alba,Localitate,12506,,Furduiești,Geomil 25000,Limba română
+Furduești,furduești,3,44.722362825431,25.1048848211997,Arges,Localitate,10119,,Furduești,Geomil 25000,Limba română
+Dealul Furduiasa,furduiasa,3,46.2515531230187,27.0585302493886,Bacau,Deal,10889,,Dealul Furduiasa,Moldova (1892-1898),Limba română,Dealul Furduiasa,Geomil 25000,Limba română
+Dealul Furdui,furdui,2,47.2358936062424,24.7293384939434,Bistrita Nasaud,Deal,12714,,Dealul Furdui,Geomil 25000,Limba română
+Valea Furdoaia,furdoaia,3,47.8047429969319,26.7876970957811,Botosani,Vale,14745,,Valea Furdoaia,ANCPI,Limba română
+Valea Furdui,furdui,2,44.2148915102551,23.2380509918386,Dolj,Vale,8096,,Valea Furdui,PDT,Limba română
+Furduești,furduești,3,44.8836893744376,23.1748568573119,Gorj,Localitate,14974,,Furduești,PDT,Limba română
+Lunca Furdueștilor,furduești,3,44.8904243186741,23.1728524702341,Gorj,Apă-deal-câmpie,11005,14974,Lunca Furdueștilor,Geomil 25000,Limba română
+Furdesci,furdești,3,46.3225741660986,22.7704688915057,Hunedoara,Localitate,14778,,Furdesci,Imperiul Habsburgic (1887),Limba română

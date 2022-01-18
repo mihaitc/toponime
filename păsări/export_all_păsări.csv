@@ -142,6 +142,7 @@ Dealul Corbului,corb,2,46.5721364196673,27.2954492528355,Bacau,Deal,9504,9503,De
 Dealul Corbului,corb,2,46.5038624051402,27.0684741992685,Bacau,Deal,12248,,Dealul Corbului,Geomil 25000,Limba română
 Dealul Cuibul Corbului,corb,2,46.41004773557,26.5238753027234,Bacau,Deal,4587,,Dealul Cuibul Corbului,Geomil 25000,Limba română
 Dosul Corbului,corb,2,46.53923101734,26.1686866131316,Bacau,Înălțime,6539,6537,Dosul Corbului,Geomil 25000,Limba română
+Pârâul Corbu,corb,2,46.4665331320027,26.5432023235121,Bacau,Vale,14857,,Pârâul Corbu,PDT,Limba română
 Pârâul Corbului,corb,2,46.542102642396,26.1644256070927,Bacau,Vale,6536,6537,Pârâul Corbului,PDT,Limba română
 Pârâul Corbului,corb,2,46.4543678722673,26.4357834542051,Bacau,Vale,9541,,Pârâul Corbului,Moldova (1892-1898),Limba română
 Piatra Corbului,corb,2,46.5428281772615,26.4370992342064,Bacau,Înălțime,9163,,Piatra Corbului,PDT,Limba română
@@ -452,6 +453,7 @@ Dealul Cucului,cuc,2,46.621491083552,23.2939108926141,Cluj,Deal,10435,,Dealul Cu
 Dealu Găina,găină de munte,2,46.5995608299999,23.035682001854,Cluj,Deal,5903,,Dealu Găina,Geomil 25000,Limba română
 Dealu Găina,găini,2,46.7118029070669,23.9442278828939,Cluj,Deal,5876,,Dealu Găina,Geomil 25000,Limba română
 Pârâu Găinei,găini,2,46.7815870130305,23.1342682196572,Cluj,Vale,10433,,Pârâu Găinei,Geomil 25000,Limba română,V. Gaini,Transilvania (1869-1870),Limba română
+Poiana Găinei,găini,2,47.01678343831,23.5411542583145,Cluj,Poiană,14955,,Poiana Găinei,PDT,Limba română
 Colțu Șoimului,șoim,2,46.6008801395594,23.2681403355399,Cluj,Înălțime,5891,,Colțu Șoimului,Geomil 25000,Limba română
 Dealu Șoimu,șoim,2,46.7708496493195,23.038695234498,Cluj,Deal,11533,,Dealu Șoimu,Geomil 25000,Limba română
 Valea Șoimu,șoim,2,46.9572573718592,22.6781769039189,Cluj,Vale,10283,,Valea Șoimu,Geomil 25000,Limba română
@@ -579,7 +581,9 @@ Valea Cocoșului,cocoș,3,45.932243699611,28.0242382161182,Galati,Vale,2185,708,
 Dealul Corbului,corb,2,46.0179379577,27.765565568,Galati,Deal,7360,,Dealul Corbului,Geomil 25000,Limba română
 La Cotu Corbului,corb,2,45.4924014998184,27.6489873628695,Galati,Apă-deal-câmpie,3536,,La Cotu Corbului,Geomil 25000,Limba română
 Piscu Corbului,corb,2,45.9581776085187,27.2599454357262,Galati,Localitate,733,,Piscu Corbului,Geomil 25000,Limba română
+Valea Corbul,corb,2,46.0002604795926,27.6298598410104,Galati,Vale,14981,,Valea Corbul,PDT,Limba română
 Valea Corbului,corb,2,46.0194180634,27.7595263974,Galati,Vale,7361,7360,Valea Corbului,Geomil 25000,Limba română
+Valea Corbului,corb,2,46.083182923028,27.7396912924041,Galati,Vale,14986,,Valea Corbului,PDT,Limba română
 Valea Rediu Corbului,corb,2,45.7942250847694,27.9114260285509,Galati,Vale,10910,,Valea Rediu Corbului,Geomil 25000,Limba română
 Arcaciu Cucului,cuc,2,45.984756765179,27.974937882269,Galati,Altele,710,,Arcaciu Cucului,Geomil 25000,Limba română,Arcaciu Cucului,PDT,Limba română
 Poiana Cucului,cuc,2,46.0087899625364,27.8924545447057,Galati,Poiană,711,,Poiana Cucului,Geomil 25000,Limba română
@@ -622,6 +626,7 @@ Dealu Corbului,corb,2,44.7225108841045,23.151516501582,Gorj,Deal,10700,,Dealu Co
 Dealu Corbului,corb,2,44.8022823051608,23.0227601062999,Gorj,Deal,11791,,Dealu Corbului,Geomil 25000,Limba română
 Dealul Corbului,corb,2,44.6053347795424,23.6404178229931,Gorj,Deal,8277,,Dealul Corbului,PDT,Limba română
 Dealul Dosul Corbului,corb,2,44.8776101181249,23.0585339522688,Gorj,Deal,14330,,Dealul Dosul Corbului,PDT,Limba română
+Dealul Dosul Corbului,corb,2,44.9296342162916,23.2286814480253,Gorj,Deal,14978,3112,Dealul Dosul Corbului,PDT,Limba română
 Gura Corbului,corb,2,44.9369304341203,23.1812202440493,Gorj,Altele,3114,3112,Gura Corbului,Geomil 25000,Limba română
 În Corbu,corb,2,44.6610053793261,23.3035049670421,Gorj,Altele,7449,,În Corbu,PDT,Limba română
 Pădurea Corbu,corb,2,44.8191590330743,23.0114337104716,Gorj,Pădure,11790,11791,Pădurea Corbu,Geomil 25000,Limba română
@@ -720,6 +725,8 @@ Piscu Corbu,corb,2,47.1611689805784,26.9362536738091,Iasi,Înălțime,8880,,Pisc
 Poiana Corbului,corb,2,46.9669389810405,28.0098261745965,Iasi,Poiană,13615,,Poiana Corbului,Moldova (1892-1898),Limba română
 Valea Corbului,corb,2,47.1228795092452,27.0886194870728,Iasi,Vale,8886,,Valea Corbului,PDT,Limba română
 Dealul Cucului,cuc,2,47.0747044203318,27.474162194522,Iasi,Deal,8894,,Dealul Cucului,Geomil 25000,Limba română
+Balta Găinăria,găinărie,3,47.1944496310654,26.7547769787265,Iasi,Apă-deal-câmpie,14903,,Balta Găinăria,PDT,Limba română
+Iaz la Găinărie,găinărie,3,47.2794485376079,27.4098688522907,Iasi,Apă-deal-câmpie,14935,,Iaz la Găinărie,PDT,Limba română
 Dealul Coada Gâștei,gâscă,2,47.4214034444533,26.9599860923985,Iasi,Deal,1735,,Dealul Coada Gâștei,Geomil 25000,Limba română
 Pădurea Gâștei,gâscă,2,47.0443927481128,27.4722911982491,Iasi,Pădure,12932,8898,Pădurea Gâștei,Geomil 25000,Limba română
 Valea Gâsca,gâscă,2,47.0471100116984,27.4872900243826,Iasi,Vale,8898,,Valea Gâsca,PDT,Limba română
@@ -1162,6 +1169,7 @@ Dealul Cioarei,ciori,2,44.7271660976087,24.0337462957045,Valcea,Deal,8428,,Dealu
 Plaiul Cioroiului,cioroi,3,45.3405833727374,24.1361523562812,Valcea,Înălțime,2933,,Plaiul Cioroiului,Geomil 25000,Limba română
 Piscul Cocorului,cocor,2,44.9376807349548,23.9244875279339,Valcea,Înălțime,8438,,Piscul Cocorului,PDT,Limba română
 Creasta Cocoșului,cocoș de munte,2,45.2702454687182,24.2039107970349,Valcea,Înălțime,2935,,Creasta Cocoșului,Geomil 25000,Limba română
+Dealul Cocoșului,cocoș de munte,2,45.2237501348249,24.2509069687975,Valcea,Deal,14881,,Dealul Cocoșului,PDT,Limba română
 Corbu,corb,2,45.3532235969084,24.2623235347324,Valcea,Localitate,9825,,Corbu,Geomil 25000,Limba română
 Culmea Corbului,corb,2,45.5230596045507,24.2139872645585,Valcea,Înălțime,1169,,Culmea Corbului,Geomil 25000,Limba română
 Dealu Corbului,corb,2,44.9394611646252,24.3531602933553,Valcea,Deal,338,,Dealu Corbului,Geomil 25000,Limba română

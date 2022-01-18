@@ -242,4 +242,5 @@
 <Placemark><name>Râpa Caprei</name><description>Nume: Râpa Caprei, Tip: capră, Nivel: 3, Județ: Vrancea, Formă: Înălțime, ID: 2802 <br /><b>Variante</b><br />Nume: Râpa Caprei, Hartă: Geomil 25000, Limbă: Limba română<br />Nume: Râpa Caprei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.553977,45.919610,0</coordinates></Point></Placemark>
 <Placemark><name>Valea Caprei</name><description>Nume: Valea Caprei, Tip: capră, Nivel: 3, Județ: Vrancea, Formă: Vale, ID: 11433, ID Părinte: 11432 <br /><b>Variante</b><br />Nume: Valea Caprei, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>27.405082,46.138065,0</coordinates></Point></Placemark>
 <Placemark><LineString id="11433_11432"><tessellate>1</tessellate><coordinates>27.405082,46.138065,0.
-27.392689,46.137174,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>
+27.392689,46.137174,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Valea Caprei</name><description>Nume: Valea Caprei, Tip: capră, Nivel: 3, Județ: Vrancea, Formă: Vale, ID: 14849 <br /><b>Variante</b><br />Nume: Valea Caprei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>27.100804,45.702136,0</coordinates></Point></Placemark></Document></kml>

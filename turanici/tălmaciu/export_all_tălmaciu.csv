@@ -1,4 +1,5 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
 P. Talmacs,tălmaciu,2,46.6077818836217,21.8904745750806,Arad,Localitate,14514,,P. Talmacs,Ungară 1869,Limba română,Talmatsu Puszta,Ungaria (1782–1785),Limba română,Tălmaci,ANCPI,Limba română
 Walea de Talmacs,tălmaciu,2,46.6152188670969,21.8737859222297,Arad,Vale,14515,14514,Walea de Talmacs,Ungară 1869,Limba română
+Poiana Tălmaci Usturoi,tălmaci,3,47.067661384324,27.6969535158102,Iasi,Poiană,14926,,Poiana Tălmaci Usturoi,PDT,Limba română
 Tălmaciu,tălmaciu,2,45.6649794247578,24.2637732319201,Sibiu,Localitate,14522,,Tălmaciu,ANCPI,Limba română

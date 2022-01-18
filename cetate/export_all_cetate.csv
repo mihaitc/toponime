@@ -441,6 +441,7 @@ Valea Grădiștii,grădiște,2,44.453239038862,23.2440262929897,Dolj,Vale,118,12
 Coasta Cetății,cetate,2,46.010269179257,27.2556760540892,Galati,Înălțime,732,5340,Coasta Cetății,Geomil 25000,Limba română
 Cetățuia,cetățuie,2,46.0634169318791,27.3703617679017,Galati,Altele,11427,,Cetățuia,Geomil 25000,Limba română
 Cetățuia,cetățuie,2,45.7045979800365,28.0783683309634,Galati,Altele,13948,,Cetățuia,Moldova (1892-1898),Limba română
+Dealul Cetățuia,cetățuie,2,46.0897492511104,27.7390818355011,Galati,Deal,14983,,Dealul Cetățuia,PDT,Limba română
 Dealul Cetățuii,cetățuie,2,46.0620596130282,27.3757668395251,Galati,Deal,11428,11427,Dealul Cetățuii,Geomil 25000,Limba română
 Dealul Cetățuii,cetățuie,2,46.0038138948008,27.7184912627919,Galati,Deal,14144,,Dealul Cetățuii,Geomil 25000,Limba română
 Movila Cetățuea,cetățuie,2,46.0018204914289,27.2572034710339,Galati,,5340,,Movila Cetățuea,PDT,Limba română
@@ -563,6 +564,7 @@ Reduta la Silitrii,redută,2,47.1937229271538,26.8247000296069,Iasi,Altele,11772
 Grădiștea,grădiște,2,44.6549862710305,26.2979876599265,Ilfov,Înălțime,1320,,Grădiștea,Geomil 25000,Limba română
 Pădurea Grădiștea,grădiște,2,44.6407904786539,26.3001459538461,Ilfov,Pădure,10930,1320,Pădurea Grădiștea,Geomil 25000,Limba română
 Dealu Cetății,cetate,2,47.7633151614,23.3044497321,Maramures,Deal,5967,,Dealu Cetății,Geomil 25000,Limba română,Dealul Cetății,PDT,Limba română
+Valea Cetății,cetate,2,47.8671855019992,24.0001528934505,Maramures,Vale,14893,,Valea Cetății,PDT,Limba română
 Cetățele,cetățea,2,47.5967307811217,23.7354936344944,Maramures,Localitate,7210,7209,Cetățele,Geomil 25000,Limba română
 Dealul Cetățele,cetățea,2,47.6006944752206,23.7434206141165,Maramures,Deal,7209,,Dealul Cetățele,Geomil 25000,Limba română
 Dosul Cetățelei,cetățea,2,47.6533960829367,24.1996034823942,Maramures,Altele,7164,,Dosul Cetățelei,Geomil 25000,Limba română
@@ -571,6 +573,7 @@ Cetățelul,cetățel,2,47.6818035720217,24.3385710397808,Maramures,Înălțime,
 Valea Cetățeli,cetățel,2,47.6474088097072,24.2755886434932,Maramures,Vale,8257,,Valea Cetățeli,PDT,Limba română
 Vârful Cetățeli,cetățel,2,47.6878368983668,24.3247692699889,Maramures,Înălțime,8258,4528,Vârful Cetățeli,PDT,Limba română
 Cetățuie,cetățuie,2,47.6239638203434,24.1923163544982,Maramures,Altele,8254,,Cetățuie,Geomil 25000,Limba română,Cetățile,PDT,Limba română
+Horodiște,horodiște,2,47.9097030202225,23.9950079454239,Maramures,Altele,14949,,Horodiște,PDT,Limba română
 Rudera von Kővar,var (cetate),2,47.475955542694,23.5807110447051,Maramures,Altele,13912,,Rudera von Kővar,Transilvania (1769-1773),Limba maghiară,Ruine Chivoara,PDT,Limba română
 Vár hegy (Dealul Cetății),var (cetate),2,47.6915099195618,23.5205919823553,Maramures,Deal,13744,,Vár hegy (Dealul Cetății),Imperiul Habsburgic (1887),Limba maghiară, Vár hegy,Ungară 1869,Limba maghiară
 Várhegy (Dealul Cetății),var (cetate),2,47.9045223449075,23.871620529101,Maramures,Deal,10266,,Várhegy (Dealul Cetății),Ungară 1869,Limba română
@@ -578,6 +581,7 @@ Várallya,varalia,3,47.3865615898802,23.4473565441725,Maramures,Localitate,13384
 Dealu Cetate,cetate,2,44.4517718821434,22.8959711910622,Mehedinti,Deal,5201,,Dealu Cetate,Geomil 25000,Limba română
 Dealul Cetății,cetate,2,44.2950345744846,23.0889733202618,Mehedinti,Deal,11374,,Dealul Cetății,Geomil 25000,Limba română
 Dealul La Cetate,cetate,2,44.7444003753749,22.7369199903714,Mehedinti,Deal,8408,,Dealul La Cetate,Geomil 25000,Limba română
+La Cetate,cetate,2,44.2921995047974,23.0460443840069,Mehedinti,Altele,14866,,La Cetate,PDT,Limba română
 Cetățuia,cetățuie,2,44.2064397385656,23.0709149387431,Mehedinti,Altele,8090,,Cetățuia,PDT,Limba română
 Dealul Cetățuii,cetățuie,2,44.897657624225,22.8011295778346,Mehedinti,Deal,8415,,Dealul Cetățuii,PDT,Limba română
 La Cetățue,cetățuie,2,44.4926004795844,22.7205143459391,Mehedinti,Altele,8079,,La Cetățue,PDT,Limba română

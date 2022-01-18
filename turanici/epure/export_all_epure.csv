@@ -1,8 +1,10 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Epure,epure,2,46.1362889040967,23.145652064022,Alba,Deal,11822,,Epure,Transilvania (1869-1870),Limba română,Dealul Iepurelui,Geomil 25000,Limba română
 Epurești,epurești,3,46.7042408149258,22.2134265557492,Bihor,Altele,14663,,Epurești,PDT,Limba română
 Epureni,epureni,3,47.8648979502544,26.8287087912526,Botosani,Localitate,14555,,Epureni,PDT,Limba română
 Fântâna lui Epure,epure,2,45.0339978532294,21.6627429194538,Caras Severin,Altele,14616,,Fântâna lui Epure,PDT,Limba română
 Moara lui Epure,epure,2,45.1299743759839,21.6496843389664,Caras Severin,Altele,14617,,Moara lui Epure,PDT,Limba română
+Fântâna Epure,epure,2,44.2422738130383,24.0016949535169,Dolj,Altele,14971,,Fântâna Epure,PDT,Limba română
 Măgura lui Epure,epure,2,44.2118414289541,23.4548888453795,Dolj,Înălțime,14762,,Măgura lui Epure,PDT,Limba română
 Piscul lui Epure,epure,2,44.220062715788,23.6122373059337,Dolj,Înălțime,14731,,Piscul lui Epure,PDT,Limba română
 Poiana lui Epure,epure,2,44.793933066266,23.0205414905106,Dolj,Poiană,14764,,Poiana lui Epure,ANCPI,Limba română
@@ -16,9 +18,11 @@ Epureni,epureni,3,47.467972323159,27.3134857877122,Iasi,Localitate,14592,,Epuren
 Epureni,epureni,3,47.2960740787801,27.4321896610485,Iasi,Localitate,14751,,Epureni,PDT,Limba română
 Lunca Epuranilor,epurani,3,44.5966257195293,23.1194210620596,Mehedinti,Apă-deal-câmpie,211,14533,Lunca Epuranilor,Geomil 25000,Limba română,Lunca Epuranilor,PDT,Limba română
 Pădurea Epureasca,epureasca,3,44.571701195712,23.240698203995,Mehedinti,Pădure,14537,,Pădurea Epureasca,ANCPI,Limba română
+Dealul Epurenilor,epureni,3,44.7125920161896,22.6103177933146,Mehedinti,Deal,14837,,Dealul Epurenilor,ANCPI,Limba română,Dealul Iepurenilor,Austriacă,Limba română
 Epureni,epureni,3,44.5748573095964,23.1006630966849,Mehedinti,Localitate,14533,,Epureni,PDT,Limba română
 Epurani,epurani,3,44.6227650080398,24.520847955644,Olt,Localitate,14790,,Epurani,PDT,Limba română
 Puțul lui Epure,epure,2,44.6371904609658,24.5514594873577,Olt,Altele,14554,,Puțul lui Epure,PDT,Limba română
+La Lacul Epei,epa,3,44.33735317943,25.0969205509959,Teleorman,Lac,14821,,La Lacul Epei,PDT,Limba română
 Dealul Epureanca,epureanca,3,44.052755930589,24.9015811637349,Teleorman,Deal,14793,14792,Dealul Epureanca,PDT,Limba română
 Valea Epureanca,epureanca,3,44.0439484907003,24.9324004513281,Teleorman,Vale,14792,,Valea Epureanca,PDT,Limba română
 Dealul Epure,epure,2,46.2549996692438,27.5146508992394,Vaslui,Deal,14805,,Dealul Epure,Moldova (1892-1898),Limba română

@@ -612,4 +612,5 @@
 <Placemark><name>Podul Vacei</name><description>Nume: Podul Vacei, Tip: vaci, Nivel: 3, Județ: Vrancea, Formă: Altele, ID: 9249, ID Părinte: 2099 <br /><b>Variante</b><br />Nume: Podul Vacei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.819023,45.563930,0</coordinates></Point></Placemark>
 <Placemark><LineString id="9249_2099"><tessellate>1</tessellate><coordinates>26.819023,45.563930,0.
 26.807788,45.576459,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Valea Râpa Vacei</name><description>Nume: Valea Râpa Vacei, Tip: vaci, Nivel: 3, Județ: Vrancea, Formă: Vale, ID: 14850 <br /><b>Variante</b><br />Nume: Valea Râpa Vacei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.933008,45.694491,0</coordinates></Point></Placemark>
 <Placemark><name>Pârâul Vițelului</name><description>Nume: Pârâul Vițelului, Tip: vițel, Nivel: 3, Județ: Vrancea, Formă: Vale, ID: 5361 <br /><b>Variante</b><br />Nume: Pârâul Vițelului, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.902906,45.807706,0</coordinates></Point></Placemark></Document></kml>

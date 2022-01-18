@@ -1,0 +1,16 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Cârligului,cârlig,3,47.7971744062412,27.072942166328,Botosani,Vale,14942,,Valea Cârligului,ANCPI,Limba română
+Cârligul Mare,cârlig,3,44.8467939473589,26.7508362961219,Buzau,Localitate,14873,,Cârligul Mare,Geomil 25000,Limba română
+Cârligul Mic,cârlig,3,44.839238331738,26.765561971877,Buzau,Localitate,14874,14873,Cârligul Mic,PDT,Limba română
+Cârligei,cârligei,3,44.2831685975541,23.744742320154,Dolj,Localitate,14871,,Cârligei,PDT,Limba română
+Cârligei,cârligei,3,45.1192246652997,23.6843539086254,Gorj,Localitate,14872,,Cârligei,ANCPI,Limba română
+Cârligu,cârlig,3,47.2116554547002,27.5626137768457,Iasi,Localitate,14846,,Cârligu,PDT,Limba română
+Cârligu,cârlig,3,46.9907529098774,26.7506910389937,Neamt,Localitate,14845,,Cârligu,PDT,Limba română,Kerlidscy,Moldova (1788-1790),Limba română
+Cârligi,cârligi,3,47.0034274435698,26.5210124394567,Neamt,Localitate,14937,,Cârligi,PDT,Limba română,Kerlitschy,Moldova (1788-1790),Limba română
+Cârlig,cârlig,3,44.7540599324501,24.3318416095625,Olt,Înălțime,14884,,Cârlig,PDT,Limba română
+Cârlogani,cârlogani,3,44.5255152072522,24.1449443604216,Olt,Localitate,14843,,Cârlogani,PDT,Limba română,Kîrlogani,Austriacă,Limba română
+Valea Cârligăturii,cârligătura,3,47.5335608158341,25.3369441320141,Suceava,Vale,14940,,Valea Cârligăturii,PDT,Limba română
+Cârligați,cârligați,3,43.9687589183783,24.8680843326658,Teleorman,Localitate,14960,,Cârligați,PDT,Limba română
+Muntele Cârligul Mare,cârlig,3,45.312406693059,24.2807632679074,Valcea,Înălțime,14844,,Muntele Cârligul Mare,ANCPI,Limba română
+Dealul Cârlige,cârlige,3,45.0973230952635,24.1074004300181,Valcea,Deal,14852,,Dealul Cârlige,ANCPI,Limba română
+Cârlige,cârlige,3,45.6733722458062,27.0834015589825,Vrancea,Localitate,14847,,Cârlige,PDT,Limba română

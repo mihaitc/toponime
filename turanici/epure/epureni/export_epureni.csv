@@ -1,7 +1,8 @@
-Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Epureni,epureni,3,47.8648979502544,26.8287087912526,Botosani,Localitate,14555,Epureni,PDT,Limba română
 Epureni,epureni,3,47.467972323159,27.3134857877122,Iasi,Localitate,14592,Epureni,PDT,Limba română
 Epureni,epureni,3,47.2960740787801,27.4321896610485,Iasi,Localitate,14751,Epureni,PDT,Limba română
+Dealul Epurenilor,epureni,3,44.7125920161896,22.6103177933146,Mehedinti,Deal,14837,Dealul Epurenilor,ANCPI,Limba română,Dealul Iepurenilor,Austriacă,Limba română
 Epureni,epureni,3,44.5748573095964,23.1006630966849,Mehedinti,Localitate,14533,Epureni,PDT,Limba română
 Epureni,epureni,3,46.2476601283424,27.9101531558753,Vaslui,Localitate,14463,Epureni,ANCPI,Limba română
 Epureni,epureni,3,46.708172940589,28.0363542147447,Vaslui,Localitate,14556,Epureni,PDT,Limba română
