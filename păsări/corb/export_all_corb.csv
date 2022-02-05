@@ -129,6 +129,7 @@ Ogașu Corbului,corb,2,45.2439984255052,22.432108250187,Caras Severin,Vale,852,8
 Ogașu Corbului,corb,2,44.9287362927718,22.2462878675333,Caras Severin,Vale,5721,,Ogașu Corbului,Geomil 25000,Limba română
 Ogașul Corbul,corb,2,45.393924330729,21.7473171580155,Caras Severin,Altele,4318,,Ogașul Corbul,PDT,Limba română
 Padina Corbului,corb,2,45.0401504484077,21.7722884591136,Caras Severin,Înălțime,8540,,Padina Corbului,PDT,Limba română
+Pădurea Corbului,corb,2,45.1107721548652,21.8435015971108,Caras Severin,Pădure,15223,,Pădurea Corbului,Munții noștri,Limba română
 Pârâu Corbului,corb,2,45.2543537315803,22.4454416066572,Caras Severin,Vale,8669,853,Pârâu Corbului,Geomil 25000,Limba română
 Vârfu Corbului,corb,2,45.2449741195542,22.4422616781487,Caras Severin,Înălțime,853,,Vârfu Corbului,Geomil 25000,Limba română
 Corbu,corb,2,46.4874417369575,23.542601476853,Cluj,Înălțime,7061,,Corbu,Geomil 25000,Limba română
@@ -223,6 +224,7 @@ Piciorul Corbului,corb,2,47.3343969448516,26.8081817253373,Iasi,Înălțime,1139
 Piscu Corbu,corb,2,47.1611689805784,26.9362536738091,Iasi,Înălțime,8880,,Piscu Corbu,PDT,Limba română
 Poiana Corbului,corb,2,46.9669389810405,28.0098261745965,Iasi,Poiană,13615,,Poiana Corbului,Moldova (1892-1898),Limba română
 Valea Corbului,corb,2,47.1228795092452,27.0886194870728,Iasi,Vale,8886,,Valea Corbului,PDT,Limba română
+Corbu,corb,2,47.7825008634125,24.635816807747,Maramures,Vale,15141,,Corbu,Munții noștri,Limba română
 Corbul,corb,2,47.9298118086131,24.5333108141624,Maramures,Vale,7198,7196,Corbul,Geomil 25000,Limba română
 Dealul Corbului,corb,2,47.4373506506937,23.6798638247267,Maramures,Deal,1037,,Dealul Corbului,Geomil 25000,Limba română
 Dealul Corbului,corb,2,47.5035313134118,23.0616902343648,Maramures,Deal,8212,,Dealul Corbului,PDT,Limba română
@@ -256,6 +258,7 @@ Dealul Corbului,corb,2,46.7167637490973,24.8384024848466,Mures,Deal,5391,,Dealul
 Dealul Corbului,corb,2,46.3085046508149,24.8010339797131,Mures,Deal,10068,,Dealul Corbului,PDT,Limba română
 Pârâul Corbului,corb,2,46.9852690846467,24.9144750362074,Mures,Vale,5443,,Pârâul Corbului,PDT,Limba română
 Pârâul Corbului,corb,2,46.6180934124448,25.0199804901693,Mures,Vale,13800,,Pârâul Corbului,PDT,Limba română
+Părâul Corbului,corb,2,46.8858492472387,25.1835696754517,Mures,Vale,15289,,Părâul Corbului,PDT,Limba română
 Unghiul Corbului,corb,2,46.401790342343,24.5917382799704,Mures,Apă-deal-câmpie,4348,,Unghiul Corbului,Geomil 25000,Limba română
 Dealul Corbului,corb,2,47.0632981718217,26.4397826331047,Neamt,Deal,664,,Dealul Corbului,Geomil 25000,Limba română
 Piciorul Piatra Corbului,corb,2,46.9094322357491,26.0621368177827,Neamt,Înălțime,6504,,Piciorul Piatra Corbului,PDT,Limba română
@@ -282,12 +285,14 @@ Dealul Corbului,corb,2,45.1627653706339,26.1675748780293,Prahova,Deal,7479,7478,
 Dealul Râpa Corbului,corb,2,45.2729351249973,26.0423199525637,Prahova,Deal,814,,Dealul Râpa Corbului,Geomil 25000,Limba română
 Movila Corbului,corb,2,44.8895397041727,25.9014887667207,Prahova,Înălțime,51,,Movila Corbului,PDT,Limba română
 Pădurea Corbu,corb,2,45.0549693239902,26.286101776365,Prahova,Pădure,12,11,Pădurea Corbu,Geomil 25000,Limba română
+Piscul Corbului,corb,2,45.3431560530543,26.1877464709022,Prahova,Înălțime,15214,,Piscul Corbului,Munții noștri,Limba română
 Plaiul Corbilor,corb,2,45.1585499728416,26.1905509217661,Prahova,Înălțime,7480,7478,Plaiul Corbilor,Geomil 25000,Limba română
 Podu Corbului,corb,2,45.2237693628841,25.6503596169635,Prahova,Localitate,3989,,Podu Corbului,Geomil 25000,Limba română
 Valea Corbului,corb,2,45.0520580008878,26.2785803062602,Prahova,Vale,11,,Valea Corbului,Geomil 25000,Limba română,Valea Corbului,PDT,Limba română,дол. Корб (valea Corb),Sovietică,Limba română
 Valea Corbului,corb,2,45.0368199688484,26.1954111501848,Prahova,Vale,20,,Valea Corbului,PDT,Limba română
 Valea Corbului,corb,2,45.0358418499252,26.1094758394358,Prahova,Vale,825,,Valea Corbului,Geomil 25000,Limba română
 Valea Corbului,corb,2,45.1653515619041,26.1073692122045,Prahova,Vale,12458,,Valea Corbului,PDT,Limba română
+Valea Corbului,corb,2,45.218124364441,26.1019418575365,Prahova,Vale,15212,,Valea Corbului,Munții noștri,Limba română
 Vârful Corbu,corb,2,45.1595907420924,26.174683720021,Prahova,Înălțime,7478,,Vârful Corbu,Geomil 25000,Limba română
 Plaiul Corboaica,corboaică,3,45.3557480163801,26.1014396746379,Prahova,Înălțime,2822,,Plaiul Corboaica,Geomil 25000,Limba română
 Valea Corboaica,corboaică,3,45.3508685194007,26.1019550155609,Prahova,Vale,2823,2822,Valea Corboaica,Geomil 25000,Limba română

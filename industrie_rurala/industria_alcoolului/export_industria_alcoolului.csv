@@ -1,5 +1,4 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
-Pădurea Povernii,povarnă,3,46.2288115559534,22.9934302274686,Alba,Pădure,6252,Pădurea Povernii,Geomil 25000,Limba română
 Pârâul Povernei,povarnă,3,45.2918750859648,24.5085998673446,Arges,Vale,12583,Pârâul Povernei,British Maps (1944),Limba română
 Valea Povernei,povarnă,3,45.0018196205126,25.0016425992369,Arges,Vale,541,Valea Povernei,Geomil 25000,Limba română
 Valea Povernei,povarnă,3,45.2320013573221,24.715146875581,Arges,Vale,4062,Valea Povernei,PDT,Limba română
@@ -17,6 +16,7 @@ Valea Velniței,velniță,3,47.5600466297711,26.7430323261392,Botosani,Vale,1753
 Valea Velniței,velniță,3,47.8634634000078,26.4076375226507,Botosani,Vale,1802,Valea Velniței,Geomil 25000,Limba română
 Valea Velniței,velniță,3,48.1635129208009,26.6315339152632,Botosani,Vale,2327,Valea Velniței,Geomil 25000,Limba română
 Velnița Corni,velniță,3,47.6487225762395,26.5544434807548,Botosani,Altele,1836,Velnița Corni,Geomil 25000,Limba română
+Pârâul Povernii,povarnă,3,46.2320224477354,22.987546264755,Hunedoara,Vale,15180,Pârâul Povernii,Munții noștri,Limba română
 Dealul Velnișoarei,velnișoară,4,46.9913131856274,27.8037185640503,Iasi,Deal,2217,Dealul Velnișoarei,Geomil 25000,Limba română
 Dealul Velniței,velniță,3,47.2837138793349,26.7930958283219,Iasi,Deal,14901,Dealul Velniței,PDT,Limba română
 Șesul Velniței,velniță,3,46.9282774038248,27.7395624625719,Iasi,Câmp,2212,Șesul Velniței,Geomil 25000,Limba română

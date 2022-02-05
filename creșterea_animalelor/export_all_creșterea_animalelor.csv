@@ -65,12 +65,14 @@ La Bivolărie,bivolărie,2,45.0534145468726,26.9705378739831,Buzau,Altele,11264,
 Dealul Căprăria,căprărie,2,45.4927245236902,26.9528852138798,Buzau,Deal,2093,569,Dealul Căprăria,Geomil 25000,Limba română,Dealul Căprăria,PDT,Limba română
 Valea Căprăria,căprărie,2,45.5111813446574,26.950878850193,Buzau,Vale,569,,Valea Căprăria,Geomil 25000,Limba română
 Dealul Șoimăriei,șoimărie,2,45.5425429642659,26.5859107444795,Buzau,Deal,13780,,Dealul Șoimăriei,Geomil 25000,Limba română
+Văcărie,văcărie,2,45.5048627204283,26.3507909008681,Buzau,Altele,15220,,Văcărie,Munții noștri,Limba română
 Vacaria,văcărie,2,45.2680089500981,21.846978522419,Caras Severin,Altele,6198,,Vacaria,PDT,Limba română
 Vițelariște,vițelariște,3,46.9106225194355,23.4129508440868,Cluj,Altele,6915,,Vițelariște,Geomil 25000,Limba română
 Culmea Văcăriei,văcărie,2,46.1338373795326,26.0933750580447,Covasna,Înălțime,6776,,Culmea Văcăriei,Geomil 25000,Limba română
 La Bivolărie,bivolărie,2,44.6452454804169,25.4837722886216,Dambovita,Altele,9445,,La Bivolărie,PDT,Limba română
 La Văcărie,văcărie,2,45.2894618486535,25.3932270855843,Dambovita,Altele,10173,,La Văcărie,PDT,Limba română
 Muchia Văcăriei,văcărie,2,45.3979801569316,25.4643752395798,Dambovita,Înălțime,5220,,Muchia Văcăriei,Geomil 25000,Limba română
+Văcăria,văcărie,2,45.3686369842193,25.3819837305056,Dambovita,Vale,15174,,Văcăria,Munții noștri,Limba română
 Valea Văcăriei,văcărie,2,44.7703105581214,25.5676930920033,Dambovita,Vale,3707,,Valea Văcăriei,PDT,Limba română
 Balta Porcăriilor,porcărie,2,43.8299510732818,23.0613249787855,Dolj,Apă-deal-câmpie,3815,,Balta Porcăriilor,PDT,Limba română
 La Porcăria Satului,porcărie,2,43.8722495267784,23.2735602595239,Dolj,Altele,3805,,La Porcăria Satului,PDT,Limba română
@@ -123,6 +125,8 @@ Valea Văcăriei,văcărie,2,46.8922102786398,27.9754226467293,Iasi,Vale,6584,,V
 Valea Văcăriei,văcărie,2,47.3511200759176,26.880414058781,Iasi,Vale,6623,,Valea Văcăriei,Geomil 25000,Limba română
 Valea Văcăriei,văcărie,2,47.3766192359209,26.7685786960487,Iasi,Vale,14137,,Valea Văcăriei,Geomil 25000,Limba română
 La Bivolării,bivolărie,2,44.4501728965178,26.2793512831802,Ilfov,Altele,3760,,La Bivolării,PDT,Limba română
+Poiana Căprăria,căprărie,2,44.6825802206112,26.2550931813188,Ilfov,Poiană,15252,,Poiana Căprăria,PDT,Limba română
+Vakaria,văcărie,2,44.6648237105122,26.2477685736688,Ilfov,Altele,15251,,Vakaria,Austriacă,Limba română
 Vârful vacaria,văcărie,2,47.9005291583127,23.5436593133284,Maramures,Înălțime,10557,,Vârful vacaria,Imperiul Habsburgic (1887),Limba română
 Dealu Văcăriei,văcărie,2,44.8711148652202,22.5804258418886,Mehedinti,Deal,6151,,Dealu Văcăriei,Geomil 25000,Limba română
 Pârâul Porcăriei,porcărie,2,46.9840417087481,25.0866511457477,Mures,Vale,7962,,Pârâul Porcăriei,PDT,Limba română
@@ -172,6 +176,7 @@ Dealu Văcăriilor,văcărie,2,44.3297161598465,24.4141835141193,Olt,Deal,5801,,
 Valea Văcăria Veche,văcărie,2,44.2795195914672,24.7804275894115,Olt,Vale,10989,,Valea Văcăria Veche,PDT,Limba română
 Poiana Văcăria,văcărie,2,44.837195701649,26.0602072224187,Prahova,Poiană,8801,,Poiana Văcăria,PDT,Limba română
 Poiana Văcăriei,văcărie,2,45.36395509171,25.5271782728444,Prahova,Poiană,9793,,Poiana Văcăriei,PDT,Limba română
+Văcărie,văcărie,2,45.3873094046425,26.0765879102727,Prahova,Altele,15046,,Văcărie,Munții noștri,Limba română
 Valea Văcăriei,văcărie,2,45.3041893372344,26.0652735062906,Prahova,Vale,2819,,Valea Văcăriei,Geomil 25000,Limba română
 Valea Văcăriei,văcărie,2,45.0546323722989,25.9519675952019,Prahova,Vale,8835,,Valea Văcăriei,PDT,Limba română
 Valea Văcăriei,văcărie,2,45.0422964798508,26.1684526790669,Prahova,Vale,12007,,Valea Văcăriei,PDT,Limba română
@@ -218,6 +223,7 @@ Văcăria,văcărie,2,47.4656979478249,25.2070562115879,Suceava,Altele,11170,,V�
 Văcăria,văcărie,2,47.4846631368345,25.1974526711987,Suceava,Vale,12894,,Văcăria,Geomil 25000,Limba română
 Văcăria,văcărie,2,47.2955916834598,25.4339428180703,Suceava,Vale,13278,13277,Văcăria,Geomil 25000,Limba română
 Văcăria,văcărie,2,47.1503245667559,25.5020207350325,Suceava,Vale,13413,,Văcăria,Geomil 25000,Limba română
+Văcăria,văcărie,2,47.4033466493318,25.6188424890817,Suceava,,15003,,Văcăria,ANCPI,Limba română
 Văcăria Regelui,văcărie,2,47.1745273074379,25.6393199001381,Suceava,Altele,6450,,Văcăria Regelui,PDT,Limba română
 Văcărie,văcărie,2,47.5012532816071,25.9837093356451,Suceava,Altele,1783,,Văcărie,Geomil 25000,Limba română
 Valea Văcăriei,văcărie,2,47.5000813264574,26.5186700807325,Suceava,Vale,9062,,Valea Văcăriei,PDT,Limba română
@@ -245,6 +251,7 @@ La Porcărie,porcărie,2,46.0079456531548,26.598628086634,Vrancea,Altele,12260,,
 Valea Porcăriei,porcărie,2,45.8505577562207,26.5985106686322,Vrancea,Vale,2123,,Valea Porcăriei,Geomil 25000,Limba română
 Valea Porcăriei,porcărie,2,45.7079629248776,26.9323835352682,Vrancea,Vale,2159,,Valea Porcăriei,Geomil 25000,Limba română,Valea Porcăriei,PDT,Limba română
 Valea Porcăriei,porcărie,2,46.1040304016436,26.9643848216218,Vrancea,Vale,9675,,Valea Porcăriei,Moldova (1892-1898),Limba română
+Șoimăria,șoimărie,2,45.81836938945,26.4946191905183,Vrancea,Altele,15099,,Șoimăria,Munții noștri,Limba română
 Dealul Vâcâriei,văcărie,2,45.8626860308939,26.5475272557123,Vrancea,Deal,2120,,Dealul Vâcâriei,Geomil 25000,Limba română
 Dealul Văcăriei,văcărie,2,45.8366160680638,26.9982597869921,Vrancea,Deal,7902,,Dealul Văcăriei,PDT,Limba română
 Pârâul Văcăria,văcărie,2,45.9037718774338,26.5851451707917,Vrancea,Vale,12945,2801,Pârâul Văcăria,Geomil 25000,Limba română

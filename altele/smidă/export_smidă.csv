@@ -1,5 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Culmea Smida,smidă,2,46.4462291202812,23.1021866657525,Alba,Înălțime,13699,Culmea Smida,Geomil 25000,Limba română
+Smida Bucișenilor,smidă,2,46.4919021201023,23.1411890338104,Alba,Înălțime,15280,Smida Bucișenilor,Imperiul Habsburgic (1887),Limba română
+Smida din cale,smidă,2,46.4736663988869,23.1218656459364,Alba,Înălțime,15279,Smida din cale,Imperiul Habsburgic (1887),Limba română
 Smida Ivănișului,smidă,2,45.692006168205,23.5845766477341,Alba,Înălțime,11321,Smida Ivănișului,Geomil 25000,Limba română
 Smida Maguri,smidă,2,45.654345906515,23.5245186784723,Alba,Înălțime,11927,Smida Maguri,Transilvania (1769-1773),Limba română
 Smida Mare,smidă,2,45.5242138885126,23.5819894626273,Alba,Înălțime,11214,Smida Mare,Geomil 25000,Limba română
@@ -45,6 +47,7 @@ Smida Mălaiului,smidă,2,46.5542887817655,22.9482533098322,Cluj,Înălțime,125
 Smida Negrului,smidă,2,46.5980802444906,22.9742781940648,Cluj,Înălțime,5901,Smida Negrului,Geomil 25000,Limba română
 Vârfu Smidele,smide,3,46.5001687068463,23.1411989962668,Cluj,Înălțime,12728,Vârfu Smidele,Geomil 25000,Limba română
 Dealu Smida,smidă,2,44.8272362500475,23.256341096968,Gorj,Deal,12186,Dealu Smida,Geomil 25000,Limba română
+Szmida el Batrin,smidă,2,45.2367286156505,23.2582612028207,Gorj,Înălțime,15295,Szmida el Batrin,Valahia-Moldova (1773-1774),Limba română
 Pădurea Zmida,zmidă,3,45.1527134843928,23.6788054973215,Gorj,Pădure,14326,Pădurea Zmida,ANCPI,Limba română
 Dealul Simidei,simidă,3,46.8925953315934,25.3040951482804,Harghita,Deal,5413,Dealul Simidei,Geomil 25000,Limba română
 Câmpul Smidei,smidă,2,46.6714773038567,25.4213315542929,Harghita,Câmp,7974,Câmpul Smidei,Geomil 25000,Limba română,Câmpul Smizei,PDT,Limba română
@@ -88,6 +91,7 @@ Dealul Smida Mică,smidă,2,47.0850470740222,22.7635330179998,Salaj,Deal,11854,D
 Vrf. Smidei,simidă,3,45.6833066694477,24.5890457239779,Sibiu,Înălțime,10525,Vrf. Smidei,Imperiul Habsburgic (1887),Limba română
 Culmea Smidei,smidă,2,45.5262025751365,24.1762588405428,Sibiu,Înălțime,10207,Culmea Smidei,Geomil 25000,Limba română
 Dealul Smidii,smidă,2,45.6743731441747,24.5317952559431,Sibiu,Deal,7517,Dealul Smidii,PDT,Limba română
+Pârâul Smidii,smidă,2,45.619134209884,24.3355949965727,Sibiu,Vale,15233,Pârâul Smidii,PDT,Limba română
 Dealul Smidei,smidă,2,47.3923559957632,25.1794125495987,Suceava,Deal,9924,Dealul Smidei,Geomil 25000,Limba română
 La Smida Lată,smidă,2,47.3137341154867,25.6674055627467,Suceava,Vale,6397,La Smida Lată,PDT,Limba română
 Pădurea Smida,smidă,2,47.5228169788724,25.3095623697778,Suceava,Pădure,6340,Pădurea Smida,PDT,Limba română,Pădurea Smidei,Geomil 25000,Limba română

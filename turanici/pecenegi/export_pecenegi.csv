@@ -1,4 +1,4 @@
-Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Beșineu,beșineu,3,46.0944501533202,23.8087127434583,Alba,Localitate,10482,Beșineu,Transilvania (1869-1870),Limba română
 Beșineu,beșineu,3,46.3559014990899,21.5960314204669,Arad,Altele,11360,Beșineu,Geomil 25000,Limba română
 Beseny ér,beseny,3,47.3259094334733,22.0120698205986,Bihor,Vale,11867,Beseny ér,Imperiul Habsburgic (1887),Limba maghiară
@@ -6,9 +6,9 @@ Câmpia Beșineu,beșineu,3,47.0362106726846,21.840654073734,Bihor,Câmp,6973,C�
 Dealul Bejeneu,bejeneu,4,47.3363065568848,24.756823241633,Bistrita Nasaud,Deal,6362,Dealul Bejeneu,Geomil 25000,Limba română
 Bessenyő,besenyő,3,47.1020572722253,24.4466485973488,Bistrita Nasaud,Localitate,10581,Bessenyő,Imperiul Habsburgic (1887),Limba maghiară
 Beschenbach (Valea Pecinegilor),beschen,3,45.8022232258937,24.7638239472749,Brasov,Localitate,11776,Beschenbach (Valea Pecinegilor),Transilvania (1869-1870),Limba germană
-Beczinegy B.,beczinegy,3,46.8905119080087,23.435079163193,Cluj,Deal,11894,Beczinegy B.,Transilvania (1869-1870),Limba română
 Besenyő,besenyő,3,45.8856745626184,25.930317769964,Covasna,Localitate,10636,Besenyő,Imperiul Habsburgic (1887),Limba maghiară
 Eszenyő patak,eszenyő,4,46.8110573644854,25.433591001176,Harghita,Vale,14501,Eszenyő patak,Transilvania (1869-1870),Limba maghiară
+Beczinegy B.,beczinegy,3,46.8905119080087,23.435079163193,Maramures,Deal,11894,Beczinegy B.,Transilvania (1869-1870),Limba română,Dealul Piținidea,ANCPI,Limba română
 Beschendorf (Satul Pecenegilor),beschen,3,46.151008974916,24.7216033970238,Mures,Localitate,14499,Beschendorf (Satul Pecenegilor),Transilvania (1769-1773),Limba germană
 Bese,beșe,4,46.5756667180011,24.5109422812757,Mures,Localitate,14511,Bese,PDT,Limba română
 Beșineu,beșineu,3,46.4352915040942,24.3787954149079,Mures,Localitate,7340,Beșineu,PDT,Limba română

@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Poiana Găujoara,găujoara,3,45.6179778302917,23.7979586186534,Sibiu,Poiană,15305,,Poiana Găujoara,ANCPI,Limba română
+Valea Găujoarei,găujoara,3,45.6283865303964,23.8111865867921,Sibiu,Vale,15306,15305,Valea Găujoarei,ANCPI,Limba română

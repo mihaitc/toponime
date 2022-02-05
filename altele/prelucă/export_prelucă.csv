@@ -6,6 +6,7 @@ Preluca,prelucă,2,46.4715342729436,23.1402484647349,Alba,Înălțime,13700,Prel
 Preluca,prelucă,2,46.4751293670944,22.8554380871819,Alba,Altele,14043,Preluca,Transilvania (1869-1870),Limba română
 Preluca Groșilor,prelucă,2,45.6877039582613,23.484909779824,Alba,Înălțime,14200,Preluca Groșilor,Geomil 25000,Limba română
 Preluca Pensestilor,prelucă,2,46.4567444295683,23.0791432946874,Alba,Înălțime,14041,Preluca Pensestilor,Transilvania (1869-1870),Limba română
+Dealul Fața Prelucilor,preluci,3,46.130581784251,23.0352590981423,Alba,Deal,15226,Dealul Fața Prelucilor,ANCPI,Limba română
 Preluts B.,preluci,3,46.3792698639478,22.8675512235121,Alba,Vale,14725,Preluts B.,Transilvania (1769-1773),Limba română
 Dealul Preluca,prelucă,2,46.0719429194777,22.1181268517199,Arad,Deal,13499,Dealul Preluca,PDT,Limba română,Vârful Preluca,Geomil 25000,Limba română
 Preluca,prelucă,2,46.5749920397725,22.0792492665223,Arad,Altele,13366,Preluka,Ungară 1869,Limba română,Preluca,PDT,Limba română
@@ -20,13 +21,13 @@ Preluk,prelucă,2,46.556636597505,22.2200933609002,Bihor,Altele,13364,Preluk,Ung
 Valea Prelucii,prelucă,2,46.3905056288648,22.5280589028939,Bihor,Vale,14810,Valea Prelucii,PDT,Limba română
 Vârful Prelucei,prelucă,2,46.6962698533257,22.6198275469149,Bihor,Înălțime,13668,Vârful Prelucei,Imperiul Habsburgic (1887),Limba română
 Dealu Prelucilor,preluci,3,46.5554791585013,22.6042825417321,Bihor,Deal,13074,Dealu Prelucilor,Geomil 25000,Limba română
-Prelucele,preluci,3,46.9531773312501,22.7963435753241,Bihor,Localitate,13421,Prelucele,Geomil 25000,Limba română
 Valea Prelucilor,preluci,3,46.4206483908173,22.5641294765904,Bihor,Vale,14813,Valea Prelucilor,PDT,Limba română
 Valea Sodolu Prelucuței,prelucuță,3,46.5216238815127,22.5624816696795,Bihor,Vale,13075,Valea Sodolu Prelucuței,Geomil 25000,Limba română
 Părâul Prelucii,prelucă,2,47.2862369949257,24.2828304034682,Bistrita Nasaud,Vale,13386,Părâul Prelucii,Imperiul Habsburgic (1887),Limba română
 Preluca,prelucă,2,47.5430550492113,24.7931505630889,Bistrita Nasaud,Altele,13133,Preluca,Geomil 25000,Limba română
 Preluca Borta,prelucă,2,47.5780564163044,24.4605610741437,Bistrita Nasaud,Altele,13910,Preluca Borta,Geomil 25000,Limba română
 Preluca Frasinului,prelucă,2,47.5241150920488,24.345643779749,Bistrita Nasaud,Înălțime,14293,Preluca Frasinului,ANCPI,Limba română
+Preluca Tinei,prelucă,2,47.0846634967263,24.7956733324994,Bistrita Nasaud,Vale,15155,Preluca Tinei,Munții noștri,Limba română
 Vârful Prelucii,prelucă,2,47.4324260046851,24.7070635039596,Bistrita Nasaud,Înălțime,13134,Vârful Prelucii,Geomil 25000,Limba română
 Poeana Prelucilor,preluci,3,47.1633905242859,25.0009644394834,Bistrita Nasaud,Poiană,13393,Poeana Prelucilor,Imperiul Habsburgic (1887),Limba română
 Poiana Prelucilor,preluci,3,47.193235644017,25.0509704534443,Bistrita Nasaud,Poiană,13140,Poiana Prelucilor,Geomil 25000,Limba română
@@ -40,9 +41,14 @@ Poiana Preluca Craiovei,prelucă,2,45.1052537687494,22.0932989777012,Caras Sever
 Poiana Preluca Lungă,prelucă,2,45.4443570427743,22.4896548585226,Caras Severin,Poiană,14609,Poiana Preluca Lungă,PDT,Limba română
 Preluca,prelucă,2,45.2242327350747,22.1952631352873,Caras Severin,Altele,13350,Preluca,Geomil 25000,Limba română
 Preluca Sudoarei,prelucă,2,45.1464686017335,22.15992144933,Caras Severin,Altele,13479,Preluca Sudoarei,PDT,Limba română
+Stâna din Preluca Fântânei,prelucă,2,45.4658517184034,22.4982626546964,Caras Severin,Altele,15025,Stâna din Preluca Fântânei,PDT,Limba română
+La Preluci,preluci,3,45.3941711925404,22.565802650846,Caras Severin,Altele,15020,La Preluci,PDT,Limba română
 Dealu Preluca,prelucă,2,46.7268213527521,22.8905196498913,Cluj,Deal,13068,Dealu Preluca,Geomil 25000,Limba română
 Dealul Preluca,prelucă,2,46.6894270106401,22.9229775105135,Cluj,Deal,13424,Dealul Preluca,Geomil 25000,Limba română,Preluca culului,Transilvania (1869-1870),Limba română
+Prelucă,prelucă,2,46.7276298965779,23.1318362097128,Cluj,Înălțime,15195,Prelucă,PDT,Limba română
+Prelucă,prelucă,2,46.7246143266702,23.0877826746903,Cluj,Înălțime,15196,Prelucă,PDT,Limba română
 Preluca Pleș,prelucă,2,46.6554067487057,23.0160133016034,Cluj,Altele,13064,Preluca Pleș,Geomil 25000,Limba română
+Prelucele,preluci,3,46.9531773312501,22.7963435753241,Cluj,Localitate,13421,Prelucele,Geomil 25000,Limba română
 Valea Prelucilor,preluci,3,46.7537447742368,23.0532818063616,Cluj,Vale,13066,Valea Prelucilor,Geomil 25000,Limba română
 La Preluca Harlagiei,prelucă,2,47.0811979858335,25.5948113829805,Harghita,Altele,13408,La Preluca Harlagiei,Imperiul Habsburgic (1887),Limba română
 Părâul Preluca,prelucă,2,47.0398005400688,25.7446487894001,Harghita,Vale,13406,Părâul Preluca,Imperiul Habsburgic (1887),Limba română
@@ -57,24 +63,32 @@ Prelucile,preluci,3,45.5051334983775,23.2258782482874,Hunedoara,Înălțime,1343
 Prelucsi,preluci,3,45.3991926730077,22.7000663595914,Hunedoara,Înălțime,14360,Prelucsi,Transilvania (1769-1773),Limba română
 Vârful Prelucele,preluci,3,45.5133697954509,23.3376114230838,Hunedoara,Înălțime,13164,Vârful Prelucele,Geomil 25000,Limba română
 Dealul Prelucii,prelucă,2,47.3734417261994,26.7781538611026,Iasi,Deal,14136,Dealul Prelucii,Geomil 25000,Limba română
+Muntele Prelucii,prelucă,2,47.9064984969591,24.2564862706738,Maramures,Înălțime,15150,Muntele Prelucii,Munții noștri,Limba română
 Poiana Preluca Roșie,prelucă,2,47.6445115152867,24.7890208341799,Maramures,Poiană,13905,Poiana Preluca Roșie,Geomil 25000,Limba română
 Preluca,prelucă,2,47.8982783650285,23.7728325238434,Maramures,Altele,13016,Preluca,Geomil 25000,Limba română
 Preluca,prelucă,2,47.5003299792615,23.6360848597502,Maramures,Altele,13913,Preluca,PDT,Limba română
 Preluca,prelucă,2,47.9045413471454,24.1015628747067,Maramures,Înălțime,14436,Preluca,ANCPI,Limba română
 Preluca Aricioarele,prelucă,2,47.7674306053051,24.6815191349313,Maramures,Înălțime,13893,Preluca Aricioarele,PDT,Limba română
+Preluca Bătrână,prelucă,2,47.5824875270595,24.57635722187,Maramures,Înălțime,15151,Preluca Bătrână,Munții noștri,Limba română
+Preluca Bradului,prelucă,2,47.747242743997,24.5777102779117,Maramures,Înălțime,15139,Preluca Bradului,Munții noștri,Limba română
 Preluca Burloaia,prelucă,2,47.7028135440898,24.8150496167801,Maramures,Altele,13132,Preluca Burloaia,Geomil 25000,Limba română
 Preluca Căpriorii,prelucă,2,47.6586523929243,24.7871186699451,Maramures,Altele,13907,Preluca Căpriorii,Imperiul Habsburgic (1887),Limba română
 Preluca Cățele,prelucă,2,47.845875716876,23.7254258761543,Maramures,Înălțime,13825,Preluca Cățele,Geomil 25000,Limba română
 Preluca Cățelei,prelucă,2,47.7290915864128,24.9461120860354,Maramures,Înălțime,13324,Preluca Cățelei,Geomil 25000,Limba română
 Preluca Cereanț,prelucă,2,47.7524340469966,24.3378570295381,Maramures,Înălțime,14441,Preluca Cereanț,ANCPI,Limba română
+Preluca Chindric,prelucă,2,47.6788784696671,24.7477235711108,Maramures,Înălțime,15136,Preluca Chindric,Munții noștri,Limba română
 Preluca Dealul Gagu,prelucă,2,47.6990654313286,24.8448500436677,Maramures,Deal,13906,Preluca Dealul Gagu,Imperiul Habsburgic (1887),Limba română
 Preluca Deluțului,prelucă,2,47.5745707343952,24.1686706214516,Maramures,Înălțime,14291,Preluca Deluțului,ANCPI,Limba română
 Preluca Frumu,prelucă,2,47.6160808079229,24.6066463199517,Maramures,Înălțime,14943,Preluca Frumu,ANCPI,Limba română
+Preluca Hăjmărel,prelucă,2,47.6306925673842,24.8113640030962,Maramures,Înălțime,15133,Preluca Hăjmărel,Munții noștri,Limba română
 Preluca Între Izvoare,prelucă,2,47.6040074741719,24.5984850454464,Maramures,Altele,13179,Preluca Între Izvoare,Geomil 25000,Limba română
 Preluca între Izvoare,prelucă,2,47.5740023316884,24.1154745658403,Maramures,Înălțime,14456,Preluca între Izvoare,PDT,Limba română
+Preluca lui Glodean (Bistra),prelucă,2,47.8770486062764,24.2671567510106,Maramures,Altele,15149,Preluca lui Glodean (Bistra),Munții noștri,Limba română
+Preluca lui Ionaș,prelucă,2,47.8734998600975,24.2837872738078,Maramures,Altele,15148,Preluca lui Ionaș,Munții noștri,Limba română
 Preluca Lungă,prelucă,2,47.5986583552002,24.2254045217356,Maramures,Înălțime,13755,Preluca Lungă,Geomil 25000,Limba română,Preluca Lungă,Imperiul Habsburgic (1887),Limba română
 Preluca Luston,prelucă,2,47.8064173947284,24.7400052675442,Maramures,Altele,13323,Preluca Luston,Imperiul Habsburgic (1887),Limba română
 Preluca Mărului,prelucă,2,47.6459013533999,24.7636671801713,Maramures,Înălțime,14944,Preluca Mărului,PDT,Limba română
+Preluca Mărului,prelucă,2,47.6284454907503,24.7914248797886,Maramures,Înălțime,15132,Preluca Mărului,Munții noștri,Limba română
 Preluca Mihoaia,prelucă,2,47.7546156398124,24.7297985474996,Maramures,Altele,13891,Preluca Mihoaia,PDT,Limba română
 Preluca Muncelului,prelucă,2,47.7474540122939,24.8575196724581,Maramures,Altele,13896,Preluca Muncelului,PDT,Limba română
 Preluca Nouă,prelucă,2,47.467795093428,23.6509202394746,Maramures,Localitate,13175,Preluca Nouă,Geomil 25000,Limba română
@@ -86,6 +100,7 @@ Preluca Scurtului,prelucă,2,47.6218340095255,24.6737085476248,Maramures,Înăl�
 Preluca sub Măguri,prelucă,2,47.5879457530533,24.558439900492,Maramures,Înălțime,13177,Preluca sub Măguri,Geomil 25000,Limba română
 Preluca sub Obcină,prelucă,2,47.6095090592094,24.8031054173843,Maramures,Înălțime,14945,Preluca sub Obcină,PDT,Limba română
 Preluca sub Piatră,prelucă,2,47.6029690114698,24.5522424437646,Maramures,Altele,13178,Preluca sub Piatră,Geomil 25000,Limba română
+Preluca Tătarilor,prelucă,2,47.6196003506863,24.825978903925,Maramures,Înălțime,15128,Preluca Tătarilor,Munții noștri,Limba română
 Preluca Tipei,prelucă,2,47.7751476851513,24.6719825518742,Maramures,Altele,13180,Preluca Tipei,Geomil 25000,Limba română
 Preluca Ulmului,prelucă,2,47.6828754561331,24.5128116245128,Maramures,Altele,13131,Preluca Ulmului,Geomil 25000,Limba română
 Preluca Ursului,prelucă,2,47.7640593928997,24.6878412029842,Maramures,Înălțime,13892,Preluca Ursului,PDT,Limba română
@@ -94,11 +109,13 @@ Preluka Zamen,prelucă,2,47.605713160557,24.9390105856571,Maramures,Altele,13903
 La preluci,preluci,3,47.5601997330223,24.2722649109878,Maramures,Înălțime,14454,La preluci,Ungară 1869,Limba română
 La Prelucsi,preluci,3,47.5478110496302,24.2775290372577,Maramures,Înălțime,14455,La Prelucsi,Ungară 1869,Limba română
 Prelucile,preluci,3,47.6111413677464,24.6692071765377,Maramures,Altele,13021,Prelucile,Geomil 25000,Limba română
+Prelucile Cerbului,preluci,3,47.6264079871085,24.8595608811847,Maramures,Înălțime,15129,Prelucile Cerbului,Munții noștri,Limba română
 Vr. Prelucs,preluci,3,47.6957545817889,23.9499617734968,Maramures,Înălțime,14453,Vr. Prelucs,Ungară 1869,Limba română
 Poiana Prelocuța,prelucuță,3,47.5999589332042,23.8321158594785,Maramures,Poiană,13751,Poiana Prelocuța,Imperiul Habsburgic (1887),Limba română
 Dealul Preluca,prelucă,2,46.9410897608467,25.1555402248375,Mures,Deal,14314,Dealul Preluca,PDT,Limba română
 La Poiana Prelucii,prelucă,2,46.671364352292,25.1650174012265,Mures,Poiană,14317,La Poiana Prelucii,ANCPI,Limba română
 Preluca,prelucă,2,46.7282913030099,25.0030521916407,Mures,Altele,13322,Preluca,Imperiul Habsburgic (1887),Limba română
+Preluca,prelucă,2,46.9884716592782,25.2643610375969,Mures,Vale,15163,Preluca,Munții noștri,Limba română
 Preluca Diecilor,prelucă,2,47.0784089267999,25.0464156762374,Mures,Altele,13395,Preluca Diecilor,Imperiul Habsburgic (1887),Limba română
 Preluca Poeni Capul Sebeș,prelucă,2,46.7120729221134,25.2101572094362,Mures,Altele,13797,Preluca Poeni Capul Sebeș,PDT,Limba română
 Preluca Rogoz,prelucă,2,46.7958571213566,25.107685625422,Mures,Înălțime,14471,Preluca Rogoz,PDT,Limba română
@@ -119,6 +136,7 @@ Preluca,prelucă,2,47.0835324407438,22.9508347067789,Salaj,Altele,13375,Preluca,
 Vârful Prelucii,prelucă,2,47.2835856924611,23.6656164838463,Salaj,Înălțime,14031,Vârful Prelucii,PDT,Limba română
 Dealul Preluci,preluci,3,47.3251817126068,23.7561540708484,Salaj,Deal,14032,Dealul Preluci,PDT,Limba română
 Preluci,preluci,3,47.3101314263981,23.4657223855199,Salaj,Localitate,13170,Preluci,Geomil 25000,Limba română
+Preluca de Jos,prelucă,2,47.8088946903055,23.5288870885938,Satu Mare,Înălțime,15197,Preluca de Jos,Munții noștri,Limba română
 Preluka,prelucă,2,47.9366396570678,23.4158748192147,Satu Mare,Înălțime,14450,Preluka,Ungară 1869,Limba română
 Bâtca Prelucii,prelucă,2,47.4806012325768,25.5976394581869,Suceava,Înălțime,13510,Bâtca Prelucii,Geomil 25000,Limba română
 La Preluca,prelucă,2,47.5545300356852,25.1985082652261,Suceava,Altele,13326,La Preluca,Geomil 25000,Limba română

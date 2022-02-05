@@ -1,0 +1,9 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Bibarț,bibarţ,2,46.178105151931,23.8022649104907,Alba,Altele,12825,,Bibarț,Geomil 25000,Limba română
+Bibarcz,bibarţ,2,45.8033580715653,25.9746797981706,Covasna,Deal,12824,,Bibarcz,Transilvania (1869-1870),Limba română
+Biborțeni,bibarţ,2,46.0942084064138,25.6533025269913,Covasna,Localitate,12826,,Biborțeni,Geomil 25000,Limba română,Bivarczfalva (Satul lui Bibarț),Transilvania (1769-1773),Limba maghiară
+Dealul Ghibarțului,ghibarț,3,46.0409089585531,27.9432809910164,Galati,Deal,14994,14993,Dealul Ghibarțului,PDT,Limba română
+Ghibărțeni,ghibărțeni,3,46.0149413780005,27.9241108630705,Galati,Localitate,14993,,Ghibărțeni,PDT,Limba română
+Bibartzu B.,bibarţ,2,47.1616536203571,22.5473908759917,Salaj,Deal,12822,,Bibartzu B.,Transilvania (1769-1773),Limba germană
+Dealul Ghiborțului,ghiborț,4,46.7592233837244,27.9473456634732,Vaslui,Deal,14999,,Dealul Ghiborțului,ANCPI,Limba română
+Pădurea Ghiborțului,ghiborț,4,46.7898237848989,27.9110542889051,Vaslui,Pădure,15000,14999,Pădurea Ghiborțului,ANCPI,Limba română

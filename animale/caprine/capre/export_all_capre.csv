@@ -1,6 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
 Pârâul Caprelor,capre,3,46.3209760919822,26.4795521208582,Bacau,Vale,4570,,Pârâul Caprelor,Geomil 25000,Limba română
 Dealul Caprelor,capre,3,47.2015382869385,24.3673974689117,Bistrita Nasaud,Deal,4504,,Dealul Caprelor,Geomil 25000,Limba română
+Pârâul Caprelor,capre,3,47.1163862882911,24.7278912000867,Bistrita Nasaud,Vale,15164,,Pârâul Caprelor,Munții noștri,Limba română
 Valea Caprelor,capre,3,47.1994236549796,24.365891281606,Bistrita Nasaud,Vale,4505,4504,Valea Caprelor,Geomil 25000,Limba română
 Brâna Caprelor,capre,3,45.4630056641733,25.4550937405969,Brasov,Altele,595,,Brâna Caprelor,Geomil 25000,Limba română
 Dealul Caprelor,capre,3,45.9116638557095,24.7678841141321,Brasov,Deal,2670,,Dealul Caprelor,Geomil 25000,Limba română

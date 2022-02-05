@@ -40,7 +40,9 @@ Pârâul Repede,repede,3,45.2332850658552,23.3845977729968,Gorj,Vale,12673,Pâr�
 Valea Turburea,turburea,3,44.7426055555168,23.5394626885371,Gorj,Vale,13012,Valea Turburea,Geomil 25000,Limba română
 Călimănelul cel Tulbure,tulbure,3,47.0174063880486,25.340664198851,Harghita,Vale,13143,Călimănelul cel Tulbure,Geomil 25000,Limba română
 Valea Limpezii,limpede,2,45.6833280958261,22.8734266415245,Hunedoara,Vale,13437,Valea Limpezii,Imperiul Habsburgic (1887),Limba română
+Privalul Repedele,repedele,3,44.3791399123431,27.9041324559924,Ialomita,Apă-deal-câmpie,15010,Privalul Repedele,PDT,Limba română
 Repedele,repedele,3,44.6022260786008,27.9308613871267,Ialomita,Altele,11623,Repedele,Geomil 25000,Limba română
+Băile Repedea,repedea,2,47.0911682074162,27.6559627723038,Iasi,Altele,15236,Băile Repedea,PDT,Limba română
 Pârâul Limpede,limpede,2,47.7438978363394,23.5124935918027,Maramures,Vale,14105,Pârâul Limpede,Geomil 25000,Limba română
 Valea Limpede,limpede,2,47.6765572890311,23.730571609762,Maramures,Vale,14104,Valea Limpede,Geomil 25000,Limba română
 Valea Limpede,limpede,2,47.7080081457647,23.6513172502956,Maramures,Vale,14452,Valea Limpede,PDT,Limba română
@@ -53,12 +55,15 @@ Valea Tulburea,tulburea,2,47.8055347584577,23.8627974350867,Maramures,Vale,12999
 Valea Turbure,turburea,3,47.688245588657,23.7179134179876,Maramures,Vale,14451,Valea Turbure,PDT,Limba română
 Valea Limpedea,limpedea,3,44.913309494927,22.8380324109688,Mehedinti,Vale,13537,Valea Limpedea,Geomil 25000,Limba română
 Valea Repedea,repedea,2,44.4240023163476,23.2400388911462,Mehedinti,Vale,6159,Valea Repedea,Geomil 25000,Limba română
+Apa Tulbure,tulbure,3,44.5374224136383,22.7893537539045,Mehedinti,Vale,15245,Apa Tulbure,PDT,Limba română
 Pârâul Repede,repede,3,47.1081125190655,25.1815522707419,Mures,Vale,5422,Pârâul Repede,Geomil 25000,Limba română
 Pârâul Repede,repede,3,47.1714142108633,25.8662584708529,Neamt,Vale,6435,Pârâul Repede,PDT,Limba română
 Valea Tulrburelului,tulburel,3,46.6914781762553,26.3954772306272,Neamt,Vale,13037,Valea Tulrburelului,Geomil 25000,Limba română
 Izvorul Limpede,limpede,2,45.1271417339246,26.4349024995018,Prahova,Vale,13806,Izvorul Limpede,PDT,Limba română
 Pârâul Tulburea,tulburea,2,45.1520636344064,26.1158051992896,Prahova,Vale,14158,Pârâul Tulburea,Geomil 25000,Limba română
 Valea Tulburei,tulburea,2,45.1883635332275,26.1168530212014,Prahova,Vale,13007,Valea Tulburei,Geomil 25000,Limba română
+Izvorul Repezoi,repezoi,3,45.5723550887705,24.3067709906605,Sibiu,Vale,15031,Izvorul Repezoi,PDT,Limba română
+Pârâul Limpedea,limpedea,3,47.4831482553474,25.5850034095198,Suceava,Vale,15065,Pârâul Limpedea,Munții noștri,Limba română
 Valea Tulbure,tulbure,3,47.3951171494743,26.5681506123903,Suceava,Vale,14575,Valea Tulbure,PDT,Limba română
 Privalu Repedea,repedea,2,43.6760650315748,25.5449047635822,Teleorman,Apă-deal-câmpie,10688,Privalu Repedea,Geomil 25000,Limba română
 Lacul Repedea,repedea,2,45.3451707736608,29.2568895081263,Tulcea,Lac,12642,Lacul Repedea,Geomil 25000,Limba română

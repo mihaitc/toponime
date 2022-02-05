@@ -1,6 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Argintăria,argintărie,4,46.1317481953957,26.7611542705969,Bacau,Vale,12942,,Argintăria,Geomil 25000,Limba română
 Argintăria,argintărie,4,46.2683430727001,26.3427621848868,Bacau,Vale,14079,,Argintăria,Geomil 25000,Limba română
+La Argintărie,argintărie,4,46.2477267593411,26.3654220031964,Bacau,Altele,15205,,La Argintărie,Munții noștri,Limba română
 Pădurea Argintăriei,argintărie,4,46.5647855482536,26.308254858194,Bacau,Pădure,10941,,Pădurea Argintăriei,Geomil 25000,Limba română
 Valea Argintăriei,argintărie,4,46.3844078355393,26.5638305889224,Bacau,Vale,7929,,Valea Argintăriei,PDT,Limba română
 Pârâul Argintarilor,argintar,3,45.5854135489247,26.6866875370872,Buzau,Vale,8758,,Pârâul Argintarilor,PDT,Limba română
@@ -18,3 +19,4 @@ Bâtca Argintăriei,argintărie,4,47.0167140771275,25.7913968401823,Neamt,Înăl
 Pârâul Argintăriei,argintărie,4,47.0813235050884,25.7229331592367,Neamt,Vale,9946,,Pârâul Argintăriei,Moldova (1892-1898),Limba română
 Pârâul Argintăriei,argintărie,4,46.9831171131545,25.8136633009946,Neamt,Vale,11720,,Pârâul Argintăriei,PDT,Limba română
 Argintari,argintar,3,45.0976411023165,24.3443051480912,Valcea,Localitate,4767,,Argintari,PDT,Limba română
+Argintăria,argintărie,4,45.7339167171619,26.4719067780884,Vrancea,Altele,15057,,Argintăria,Munții noștri,Limba română

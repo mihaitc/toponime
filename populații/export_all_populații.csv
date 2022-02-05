@@ -471,9 +471,11 @@ Movila Jidanului,jidan,3,45.3158912383289,27.170905626115,Buzau,Înălțime,8722
 Râpa Muscalului,muscal,3,45.1204568506318,26.4966506975628,Buzau,Înălțime,7502,,Râpa Muscalului,PDT,Limba română
 Ciuha Neamțului,neamț,4,45.2682289288507,26.3334134228144,Buzau,Înălțime,9817,,Ciuha Neamțului,PDT,Limba română
 Valea Neamțului,neamț,4,45.2698415792605,26.3494920761102,Buzau,Vale,9818,9817,Valea Neamțului,PDT,Limba română
+Drumul Nemților (Tunurilor),nemți,3,45.4733374148268,26.1253410763155,Buzau,Drum,15094,,Drumul Nemților (Tunurilor),Munții noștri,Limba română
 Movila Ovreiului,ovrei,4,44.8842632762858,26.9491811953884,Buzau,Înălțime,8730,,Movila Ovreiului,PDT,Limba română
 Fint. Rumenești,rumânești,3,45.1484616822362,26.597105726635,Buzau,Altele,5757,,Fint. Rumenești,Austriacă,Limba română
 La Roata Sârbului,sârb,3,45.3742744070805,27.1655527002002,Buzau,Altele,11444,,La Roata Sârbului,Geomil 25000,Limba română
+Sârbu,sârb,3,45.7263729702346,26.3871014778403,Buzau,Vale,15056,,Sârbu,Munții noștri,Limba română
 Sârbești,sârbești,3,45.4773881540342,26.7027141001883,Buzau,Localitate,5233,,Sârbești,Geomil 25000,Limba română
 Cotul Sârbilor,sârbi,2,45.0721454983058,26.9533114256749,Buzau,Apă-deal-câmpie,11263,,Cotul Sârbilor,Geomil 25000,Limba română
 Plaiul Sârbilor,sârbi,2,45.4531001699448,26.0886043498557,Buzau,Înălțime,1575,,Plaiul Sârbilor,Geomil 25000,Limba română
@@ -532,6 +534,7 @@ Valea Cercheză,cercheză,3,45.1279833501871,22.2423886115201,Caras Severin,Vale
 Frâncu,frânc,3,45.4759003013531,22.1028410446666,Caras Severin,Înălțime,14343,,Frâncu,ANCPI,Limba română
 Frâncul,frânc,3,45.3114489476017,22.5195657840568,Caras Severin,Înălțime,14357,,Frâncul,ANCPI,Limba română
 Pârâu Frâncului,frânc,3,45.1823377540164,22.2879043873622,Caras Severin,Vale,6133,6134,Pârâu Frâncului,Geomil 25000,Limba română
+Pârâul Frâncului,frânc,3,45.3456774891503,22.6198520613824,Caras Severin,Vale,15074,,Pârâul Frâncului,Munții noștri,Limba română
 Poiana Stâna Frâncului,frânc,3,45.1631994881727,22.1567939527901,Caras Severin,Poiană,11497,,Poiana Stâna Frâncului,Geomil 25000,Limba română
 Tâlva Frâncului,frânc,3,45.1913069731092,22.2790721120441,Caras Severin,Înălțime,6134,,Tâlva Frâncului,Geomil 25000,Limba română
 Valea Frâncului,frânc,3,45.4827738080455,22.1088467156613,Caras Severin,Vale,14344,14343,Valea Frâncului,ANCPI,Limba română
@@ -584,6 +587,8 @@ Dealu Poienile Sârbești,sârbi,2,44.8571527346675,21.512661486909,Caras Severi
 Vârfu Sârbilor,sârbi,2,45.2387215309693,22.3769164455606,Caras Severin,Înălțime,1211,,Vârfu Sârbilor,Geomil 25000,Limba română
 Buza Sasului,sas,4,45.2282970557704,22.1480815296701,Caras Severin,Înălțime,4332,,Buza Sasului,PDT,Limba română,Pusta Sasului,Geomil 25000,Limba română
 Culmea Tătarului,tătar,3,45.4709916526297,22.3329511491736,Caras Severin,Înălțime,855,,Culmea Tătarului,Geomil 25000,Limba română
+Vârful Tătarului,tătar,3,45.2200519562285,22.5653425666527,Caras Severin,Înălțime,15071,,Vârful Tătarului,Munții noștri,Limba română
+Peștera Grota Tatarții,tatarța,4,44.875173886682,22.4224239621174,Caras Severin,Altele,15311,,Peștera Grota Tatarții,ANCPI,Limba română
 Buza Turcului,turc,3,45.3898080701539,21.741894424263,Caras Severin,Înălțime,4315,,Buza Turcului,Geomil 25000,Limba română,Buza Turcului,PDT,Limba română
 Cetatea Turcului,turc,3,45.2109807708949,21.8935438974539,Caras Severin,Altele,13875,,Cetatea Turcului,Geomil 25000,Limba română
 Conveiul Turcului,turc,3,45.0291970536587,21.7822240175969,Caras Severin,Altele,12160,,Conveiul Turcului,PDT,Limba română
@@ -592,6 +597,7 @@ Cracul Turcului,turc,3,44.8500263038215,21.5932239632109,Caras Severin,Înălți
 Dealul Turcului,turc,3,44.8755760295445,21.5966128231918,Caras Severin,Deal,8524,,Dealul Turcului,PDT,Limba română
 Lacu Turcului,turc,3,45.0170203683429,22.3486606207106,Caras Severin,Lac,1218,,Lacu Turcului,Geomil 25000,Limba română
 Ogașu Turcului,turc,3,45.5886417812287,21.5905913078481,Caras Severin,Vale,11503,,Ogașu Turcului,Geomil 25000,Limba română
+Peștera Gaura Turcului,turc,3,45.2525528118556,21.9556797101942,Caras Severin,Altele,15069,,Peștera Gaura Turcului,Munții noștri,Limba română
 Poiana Preluca Turcului,turc,3,45.0960188373247,22.1069303626927,Caras Severin,Poiană,9431,,Poiana Preluca Turcului,PDT,Limba română
 Tâlva Turcului,turc,3,45.4715163548601,21.7703979044057,Caras Severin,Altele,6194,,Tâlva Turcului,PDT,Limba română
 Tâlva Turcului,turc,3,45.262965614826,22.2669317918261,Caras Severin,Vale,14348,,Tâlva Turcului,PDT,Limba română
@@ -644,6 +650,7 @@ Unguraș,unguraș,3,47.1124958994019,24.0496988204956,Cluj,Localitate,5854,5855,
 Ungurașul,unguraș,3,47.103729177116,24.0914934429944,Cluj,Înălțime,5855,,Ungurașul,Geomil 25000,Limba română
 Valea Ungurașului,unguraș,3,47.0771718305213,24.1138589799329,Cluj,Vale,5857,5854,Valea Ungurașului,Geomil 25000,Limba română
 Valea Ungurașului,unguraș,3,47.0876099848698,24.0864274861608,Cluj,Vale,5858,5854,Valea Ungurașului,Geomil 25000,Limba română
+Peștera Ungurească,ungureasca,3,46.5611843758758,23.6789588024025,Cluj,Altele,15231,,Peștera Ungurească,Munții noștri,Limba română
 Dealul Unguresc,unguresc,3,47.1674203290413,23.6165054249022,Cluj,Deal,8950,,Dealul Unguresc,PDT,Limba română
 Petridul Unguresc,unguresc,3,46.5797057883125,23.6533600637385,Cluj,Localitate,10541,,Petridul Unguresc,Imperiul Habsburgic (1887),Limba română
 Vâlcăul-Unguresc,unguresc,3,46.7789217844347,23.0285269954327,Cluj,Localitate,10430,,Vâlcăul-Unguresc,PDT,Limba română,Magyarvalkó,Transilvania (1869-1870),Limba maghiară
@@ -816,6 +823,7 @@ Cotul Rusului,rus,3,46.1051647247049,28.1122906929877,Galati,Apă-deal-câmpie,3
 Dealul Rusu,rus,3,45.6309729113719,27.9456601372093,Galati,Deal,11439,,Dealul Rusu,Geomil 25000,Limba română
 Rusu,rus,3,46.0274002977424,27.7073847855352,Galati,Localitate,9613,,Rusu,Moldova (1892-1898),Limba română
 La Coliba Rușilor,ruși,2,45.6507933826171,28.1102301659175,Galati,Altele,3501,,La Coliba Rușilor,PDT,Limba română
+Dealul Sârbului,sârb,3,45.8620952975647,27.9729612011886,Galati,Deal,14991,,Dealul Sârbului,PDT,Limba română
 Sârbi,sârbi,2,45.9278148483304,27.3264356129646,Galati,Localitate,9492,,Sârbi,PDT,Limba română,Sârbi,Geomil 25000,Limba română
 Valea Sârbilor,sârbi,2,46.1114568802283,27.649247630791,Galati,Vale,9754,,Valea Sârbilor,Geomil 25000,Limba română,Valea Sârbilor,Moldova (1892-1898),Limba română
 Săseni,săseni,4,46.1259273616705,27.9345675037667,Galati,Localitate,13946,,Săseni,Geomil 25000,Limba română
@@ -848,6 +856,7 @@ Drumul Tătarului,tătar,3,44.4247550265151,25.666907384764,Giurgiu,Drum,3741,,D
 Măgura Tătarului,tătar,3,44.1041493706672,26.1885722727649,Giurgiu,Înălțime,3770,,Măgura Tătarului,PDT,Limba română
 Padina Tătarului,tătar,3,44.1073512542163,26.1952932293376,Giurgiu,Înălțime,3771,3770,Padina Tătarului,PDT,Limba română
 Valea Tătăroica,tătăroiacă,3,44.4163286428145,25.4677721861436,Giurgiu,Vale,8318,,Valea Tătăroica,PDT,Limba română
+Foișorul Turcului,turc,3,43.8018121562491,25.8075040239235,Giurgiu,Altele,15241,,Foișorul Turcului,PDT,Limba română
 La Fântâna Turcului,turc,3,44.4031555484261,25.8201233907478,Giurgiu,Altele,12444,,La Fântâna Turcului,PDT,Limba română
 Mâgura Turk,turc,3,43.9913057232963,26.0922235691655,Giurgiu,Înălțime,5743,,Mâgura Turk,Austriacă,Limba română
 Movila Turcului,turc,3,43.7687538385929,25.7275463476542,Giurgiu,Înălțime,3342,,Movila Turcului,PDT,Limba română
@@ -903,6 +912,7 @@ Sârbeni,sârbeni,3,46.9546280007052,25.3852698438193,Harghita,Localitate,7965,,
 Tăetura Sasului,sas,4,46.7871820952009,25.4040026257582,Harghita,Înălțime,10037,,Tăetura Sasului,PDT,Limba română
 Satul Săsesc,săsesc,4,46.6726139032041,25.4996608956396,Harghita,Localitate,10044,,Satul Săsesc,PDT,Limba română
 Grădina Sașilor,sași,3,46.2798872893972,25.3463729021447,Harghita,Altele,7953,,Grădina Sașilor,Geomil 25000,Limba română
+Poiana Sașilor,sași,3,47.072245926701,25.3194049628282,Harghita,Poiană,15158,,Poiana Sașilor,Munții noștri,Limba română
 Tabăra Sașilor,sași,3,46.3054147310591,25.316556117554,Harghita,Altele,4268,,Tabăra Sașilor,Geomil 25000,Limba română
 Pădurea Tătarului,tătar,3,46.4889083628474,25.3268366476061,Harghita,Pădure,11484,,Pădurea Tătarului,Geomil 25000,Limba română
 Tatár szállás (Sălașul Tătarului),tătar,3,46.7282749025854,25.5458377289517,Harghita,Altele,10835,,Tatár szállás (Sălașul Tătarului),Imperiul Habsburgic (1887),Limba maghiară
@@ -963,6 +973,7 @@ Movila Nemților,nemți,3,44.5598899168978,27.5224111542923,Ialomita,Înălțime
 Movila Ovrei,ovrei,4,44.6275650669765,27.1149894754177,Ialomita,Înălțime,9325,,Movila Ovrei,Austriacă,Limba română
 Mov. Sirbuli,sârb,3,44.7572703375339,27.2257805489159,Ialomita,Înălțime,12410,,Mov. Sirbuli,Austriacă,Limba română
 Movila Sârbilor,sârbi,2,44.7182752887871,26.6932907901304,Ialomita,Înălțime,3181,,Movila Sârbilor,Geomil 25000,Limba română
+Movila Sârboaia,sârboaia,3,44.4634591773703,27.7724794817354,Ialomita,Înălțime,15011,,Movila Sârboaia,PDT,Limba română
 Valea Tătarului,tătar,3,44.5367858294849,26.4522768304149,Ialomita,Vale,3285,,Valea Tătarului,PDT,Limba română
 La Movila Tătarilor,tătari,2,44.6110428095845,26.7703418305484,Ialomita,Înălțime,6743,,La Movila Tătarilor,PDT,Limba română
 Crucea Turcului,turc,3,44.5515577803617,26.9959118686816,Ialomita,Altele,496,,Crucea Turcului,Geomil 25000,Limba română,Crucea Turcului,PDT,Limba română
@@ -1070,6 +1081,7 @@ Lerodeni srbi,sârbi,2,44.3765186492512,26.2105450427035,Ilfov,Localitate,8468,,
 Lacul Tatarului,tătar,3,44.6412332496549,26.1453862635728,Ilfov,Lac,8786,,Lacul Tatarului,PDT,Limba română
 Tatareni,tătăreni,3,44.4988419163873,26.1362249743902,Ilfov,Localitate,4260,,Tatareni,Austriacă,Limba română
 Lacul Turcului,turc,3,44.6494390724999,26.1690285400795,Ilfov,Lac,12127,,Lacul Turcului,PDT,Limba română
+Drumu Ungurului,ungur,3,44.6542901902253,26.0998957663153,Ilfov,Drum,15254,,Drumu Ungurului,PDT,Limba română
 Piatra Armenilor,armeni,2,47.6890326411509,23.8505077922316,Maramures,Înălțime,8232,,Piatra Armenilor,PDT,Limba română
 Dealul Cerchezului,cerchez,3,47.6337707478633,24.3235611195794,Maramures,Deal,4485,,Dealul Cerchezului,Geomil 25000,Limba română
 Dealul Cerchezului,cerchez,3,47.817059305852,24.3875698273196,Maramures,Deal,4533,,Dealul Cerchezului,Geomil 25000,Limba română
@@ -1099,6 +1111,7 @@ Valea Sasului,sas,4,47.6350677941171,24.381911415457,Maramures,Vale,7150,,Valea 
 Câmpul Tătaru,tătar,3,47.8065836816,23.7523079277,Maramures,Câmp,4469,,Câmpul Tătaru,Geomil 25000,Limba română,Poiana Tătarul,PDT,Limba română
 Dealul Tătarului,tătar,3,47.644092306994,24.3722367678639,Maramures,Deal,14948,,Dealul Tătarului,PDT,Limba română
 Pădurea Tătaru,tătar,3,47.3929121502087,23.5620690605118,Maramures,Pădure,4434,,Pădurea Tătaru,Geomil 25000,Limba română
+Preluca Tătarilor,tătari,2,47.6210677824039,24.8278540680507,Maramures,Înălțime,15130,,Preluca Tătarilor,Munții noștri,Limba română
 Tăuții de Sus,tăuți,3,47.6569021988538,23.6560016503384,Maramures,Localitate,7204,,Tăuții de Sus,Geomil 25000,Limba română,Tăuții de Sus,PDT,Limba română
 Tăuții Măgherăuș,tăuți,3,47.6679615010961,23.4686042852153,Maramures,Localitate,7205,,Tăuții Măgherăuș,Geomil 25000,Limba română
 Preluca Turcului,turc,3,47.4303433918145,24.0912764953049,Maramures,Altele,7094,,Preluca Turcului,Geomil 25000,Limba română
@@ -1329,6 +1342,8 @@ Pădurea Cazacu,cazac,4,45.1616564028681,26.0030762913543,Prahova,Pădure,3992,,
 Vârful Cazacu,cazac,4,45.4182074194847,25.6189946291659,Prahova,Înălțime,805,579,Vârful Cazacu,Geomil 25000,Limba română
 Muntele Cazacu,cazaci,3,45.4404216863295,25.6248599554245,Prahova,Înălțime,579,,Muntele Cazacu,Geomil 25000,Limba română
 Valea Cazacu,cazaci,3,45.4434146638813,25.6182676111924,Prahova,Vale,580,579,Valea Cazacu,Geomil 25000,Limba română
+Frânca,frânca,3,45.4019485560391,25.7064847133983,Prahova,Vale,15092,15091,Frânca,Munții noștri,Limba română
+Plaiul Frânca,frânca,3,45.3975175166054,25.7040789302035,Prahova,Înălțime,15091,,Plaiul Frânca,Munții noștri,Limba română
 Valea Grecului,grec,3,45.1561559636391,26.1085847931424,Prahova,Vale,7477,,Valea Grecului,Geomil 25000,Limba română
 Valea Grecilor,greci,2,45.2343434605667,25.7549827144635,Prahova,Vale,807,,Valea Grecilor,Geomil 25000,Limba română,Valea Grecilor,PDT,Limba română
 Valea Grecului,greci,2,45.4536899231521,25.5424774319859,Prahova,Vale,583,582,Valea Grecului,Geomil 25000,Limba română
@@ -1452,6 +1467,7 @@ Dosul Sașilor,sași,3,45.8130252741988,24.6338110196574,Sibiu,Înălțime,7979,
 Lunca Sașilor,sași,3,46.1807347664653,24.4156217586602,Sibiu,Apă-deal-câmpie,11242,,Lunca Sașilor,ANCPI,Limba română
 Pitsora Sassilor,sași,3,45.6894988493076,24.2989036746156,Sibiu,Înălțime,10446,,Pitsora Sassilor,Transilvania (1869-1870),Limba română
 Sachsenhausen,sași,3,45.8485849801747,24.6031677980949,Sibiu,Localitate,10450,,Sachsenhausen,Transilvania (1869-1870),Limba germană
+Șuvara Sașilor,sași,3,45.6719638712867,24.2276452154316,Sibiu,Altele,15030,,Șuvara Sașilor,ANCPI,Limba română
 Muchia Tătarului,tătar,3,45.6171689564864,24.3803879296656,Sibiu,Înălțime,1460,1455,Muchia Tătarului,Geomil 25000,Limba română,Plaiul Tătarul,PDT,Limba română
 Vârful Tătarului,tătar,3,45.5838798570186,24.3948648997925,Sibiu,Înălțime,1455,,Vârful Tătarului,Geomil 25000,Limba română
 Dealu Tătărcii,tătarcă,4,46.0138974818399,23.9457506912177,Sibiu,Deal,11703,,Dealu Tătărcii,Geomil 25000,Limba română
@@ -1662,6 +1678,7 @@ Bunea Ungurească,ungureasca,3,45.9241003043565,22.0915056536846,Timis,Localitat
 Jzlazu Unguresc,unguresc,3,45.7302481342333,21.3390589279018,Timis,Altele,10538,,Jzlazu Unguresc,Imperiul Habsburgic (1887),Limba română
 Valea Ungurești,ungurești,3,45.7841402177384,22.134316346868,Timis,Vale,10237,,Valea Ungurești,Geomil 25000,Limba română
 Unguroaica,unguroaică,3,45.7578649201547,21.9850576812986,Timis,Deal,6178,,Unguroaica,PDT,Limba română
+Valea Bulgaru,bulgar,3,45.2705301928041,28.1196071629443,Tulcea,Vale,15210,,Valea Bulgaru,Munții noștri,Limba română
 Valea la podu Bulgarului,bulgar,3,45.151397892284,28.7266208846524,Tulcea,Vale,9286,,Valea la podu Bulgarului,PDT,Limba română
 Movila Cazacului,cazac,4,44.9948227700709,28.1565938081889,Tulcea,Înălțime,6698,,Movila Cazacului,Geomil 25000,Limba română,Movila Cazacului,PDT,Limba română
 Drumul Cazacilor,cazaci,3,44.7551056473712,28.7690783517236,Tulcea,Drum,12909,,Drumul Cazacilor,Geomil 25000,Limba română
@@ -1697,6 +1714,7 @@ Turcoaia,turcoaia,3,45.1137494368135,28.1903773516886,Tulcea,Localitate,7687,,Tu
 Armeanul,armean,3,45.3806128284678,24.1171263213929,Valcea,Înălțime,1173,,Armeanul,Geomil 25000,Limba română
 Dealul Armeanului,armean,3,45.4069884505641,24.0804935460769,Valcea,Deal,12562,,Dealul Armeanului,Geomil 25000,Limba română
 Plaiul Armeanului,armean,3,45.3673090535329,24.1325582955657,Valcea,Înălțime,1171,1173,Plaiul Armeanului,Geomil 25000,Limba română
+Peștera Arnăuților,arnăut,3,45.2883741265903,24.1303895867745,Valcea,Altele,15170,,Peștera Arnăuților,Munții noștri,Limba română
 Valea Cazacului,cazac,4,44.7236256938738,24.217314944801,Valcea,Vale,4790,,Valea Cazacului,PDT,Limba română,Valea Cazacului,Geomil 25000,Limba română
 La Păru Cazacului,cazaci,3,44.9991402083582,23.8950786617312,Valcea,Altele,247,,La Păru Cazacului,Geomil 25000,Limba română
 Valea Frâncului,frânc,3,44.6536519674103,23.8980789769172,Valcea,Vale,12178,,Valea Frâncului,Geomil 25000,Limba română
@@ -1806,6 +1824,7 @@ Sârbi,sârbi,2,45.8704197604365,27.0627512955592,Vrancea,Localitate,5277,,Sârb
 Sasu,sas,4,45.7096198723531,27.3302824564198,Vrancea,Localitate,9529,,Sasu,Moldova (1892-1898),Limba română
 Tătaru,tătar,3,45.4996513510639,27.4741340492992,Vrancea,Localitate,3538,,Tătaru,PDT,Limba română,Tătaru,Geomil 25000,Limba română
 Tătaru,tătar,3,45.495861432746,27.4647212578016,Vrancea,Înălțime,3539,3538,Tătaru,PDT,Limba română
+Tătăranu,tătăran,3,45.514149730767,27.3183944671921,Vrancea,Localitate,15348,,Tătăranu,ANCPI,Limba română
 Dealul Turcului,turc,3,46.0120751327116,26.688114902784,Vrancea,Deal,9965,,Dealul Turcului,Moldova (1892-1898),Limba română
 Movila Turcului,turc,3,45.6790288654891,27.2055067015917,Vrancea,Înălțime,3549,,Movila Turcului,PDT,Limba română
 Pârâul Turcului,turc,3,45.7464102122573,26.563929411841,Vrancea,Vale,787,782,Pârâul Turcului,Geomil 25000,Limba română,Pârâul Turcului,PDT,Limba română

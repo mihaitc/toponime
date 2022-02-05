@@ -1,4 +1,7 @@
-Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3,Nume 4,Hartă 4,Limbă 4
+Valea Cărmăzanului,cărmăzan,3,45.4145381749277,25.130225487,Arges,Vale,15172,,Valea Cărmăzanului,ANCPI,Limba română
+Valea Cărmăzănelului,cărmăzănel,3,45.4104738218813,25.1227794508769,Arges,Vale,15171,15172,Valea Cărmăzănelului,Munții noștri,Limba română
 Carmozanul,cărmăzan,3,46.8972418454724,22.4781600319055,Bihor,Localitate,14814,,Carmozanul,PDT,Limba română
 Dealul Carmozanul,cărmăzan,3,46.9065489117575,22.477599036174,Bihor,Deal,14815,14814,Dealul Carmozanul,PDT,Limba română,Dealul Cărmăzanului,ANCPI,Limba română
+Cărmăzănești,cărmăzănești,3,46.0232106180265,22.6121312268096,Hunedoara,Localitate,15026,,Cărmăzănești,ANCPI,Limba română,Cărmăzinești,PDT,Limba română,Carmazenești,Transilvania (1869-1870),Limba română,Komarczenyesd,Transilvania (1769-1773),Limba română
 Ogașul Cărmăzanului,cărmăzan,3,44.9564812943738,22.576804795852,Mehedinti,Vale,14838,,Ogașul Cărmazanului,ANCPI,Limba română

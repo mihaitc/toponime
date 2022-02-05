@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Valea Cărmăzănelului</name><description>Nume: Valea Cărmăzănelului, Tip: cărmăzănel, Nivel: 3, Județ: Arges, Formă: Vale, ID: 15171, ID Părinte: 15172 <br /><b>Variante</b><br />Nume: Valea Cărmăzănelului, Hartă: Munții noștri, Limbă: Limba română</description><Point><coordinates>25.122779,45.410474,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15171_15172"><tessellate>1</tessellate><coordinates>25.122779,45.410474,0.
+25.130225,45.414538,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

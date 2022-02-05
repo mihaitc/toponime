@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Dealul Cărămidarului,cărămizari,3,44.3993497548233,23.5199986385132,Dolj,Deal,4712,,Dealul Cărămidarului,PDT,Limba română,Dealul Cărămidarului,Geomil 25000,Limba română
+Cărămizari,cărămizari,3,43.7957731135158,25.8119343759661,Giurgiu,Altele,444,3341,Cărămizari,Geomil 25000,Limba română
+Grindul Cărămidari,cărămizari,3,43.7826563630185,25.8093922026017,Giurgiu,Apă-deal-câmpie,3341,,Grindul Cărămidari,PDT,Limba română
+Karamidar,cărămizari,3,44.5172314181115,25.6248286473696,Giurgiu,Altele,12013,,Karamidar,Oltenia-Muntenia (1790),Limba română
+Plaiul Cărămidari,cărămizari,3,45.1472015261723,25.8905493310516,Prahova,Înălțime,8838,,Plaiul Cărămidari,PDT,Limba română,Plaiul Cărămidari,Geomil 25000,Limba română

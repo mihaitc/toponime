@@ -1,8 +1,11 @@
-Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Cicănești,cicănești,3,45.2475184463037,24.6093133646721,Arges,Localitate,15315,Cicănești,PDT,Limba română,Ciokanești,Austriacă,Limba română,Czekanesti,Oltenia-Muntenia (1790),Limba română
 Ciocanu,ciocan,3,45.4554214795932,25.2368785217982,Arges,Localitate,14696,Ciocanu,ANCPI,Limba română
+Ciocanu,ciocan,3,45.510285440557,24.6166047523005,Arges,Înălțime,15038,Ciocanu,ANCPI,Limba română
 Dealul Ciocanu,ciocan,3,44.6998927498784,24.7013899145728,Arges,Deal,14791,Dealul Ciocanu,PDT,Limba română
 Vârful Ciocanului,ciocan,3,45.2622655548431,24.9686022796952,Arges,Înălțime,14719,Vârful Ciocanului,ANCPI,Limba română
 Ciokanești,ciocănești,3,44.8517400665376,24.9641048695394,Arges,Localitate,14697,Ciokanești,Austriacă,Limba română,Ciocănești,ANCPI,Limba română
+Dealul lui Ciocan,ciocan,3,47.3521957307235,24.6815193194995,Bistrita Nasaud,Deal,15154,Dealul lui Ciocan,Munții noștri,Limba română
 Dealul Balta lui Ciocan,ciocan,3,47.7766892746482,26.7740392743695,Botosani,Deal,14746,Dealul Balta lui Ciocan,ANCPI,Limba română
 Dealul Ciocanului,ciocan,3,47.590888147046,26.8235192771173,Botosani,Deal,14723,Dealul Ciocanului,ANCPI,Limba română
 La Ciocan,ciocan,3,47.7614105696166,26.6010321428563,Botosani,Altele,14770,La Ciocan,ANCPI,Limba română
@@ -11,10 +14,17 @@ Ciocănești,ciocănești,3,45.3208236475817,26.5112369023486,Buzau,Localitate,1
 Ceaka,ceaca,3,44.2659496219045,27.2539452179708,Calarasi,Localitate,14694,Ceaka,Austriacă,Limba română,Ceacu,PDT,Limba română
 Grindul lui Ciocan,ciocan,3,44.3138594238663,27.5090758626099,Calarasi,Apă-deal-câmpie,14755,Grindul lui Ciocan,PDT,Limba română
 Ciokanești,ciocănești,3,44.1974419085622,27.0677028694327,Calarasi,Localitate,14695,Ciokanești,Austriacă,Limba română,Ciocănești,PDT,Limba română
+Ciocani Cosâmbești,ciocani,3,44.4804663225205,27.4421704261997,Calarasi,Altele,15009,Ciocani Cosâmbești,PDT,Limba română
+Vârful Ciocănașu,ciocănașu,3,45.234479180676,22.5767459031702,Caras Severin,Înălțime,15073,Vârful Ciocănașu,Munții noștri,Limba română
 Valea Ciocăneasa,ciocăneasa,3,44.9394331023707,25.7318571683357,Dambovita,Vale,14708,Valea Ciocăneasa,PDT,Limba română
+Ciocănești,ciocănești,3,44.6009395679881,25.8774873318214,Dambovita,Localitate,15265,Ciocănești,PDT,Limba română
+Poiana Ciocanul,ciocan,3,44.0049612806075,23.8975021682775,Dolj,Poiană,15294,Poiana Ciocanul,PDT,Limba română
 Ciocănești,ciocănești,3,44.1581308052027,24.1620801643207,Dolj,Localitate,14700,Ciocănești,PDT,Limba română
+Ciocane,ciocane,3,45.2785520790283,22.8739752543433,Hunedoara,Înălțime,15168,Ciocane,Munții noștri,Limba română
 Pădurea Ciocanu,ciocan,3,44.7091724261392,26.5434191566883,Ialomita,Pădure,14752,Pădurea Ciocanu,ANCPI,Limba română
+Ciocănari,ciocănari,3,44.697325349063,25.9808027311366,Ilfov,Localitate,15267,Ciocănari,PDT,Limba română
 Dealul Pinii lui Ciocan,ciocan,3,44.9154254441066,22.5587331735847,Mehedinti,Deal,14786,Dealul Pinii lui Ciocan,ANCPI,Limba română
+Valea Ciocanului,ciocan,3,44.5718546416079,22.7943967129752,Mehedinti,Vale,15247,Valea Ciocanului,PDT,Limba română
 Pădurea Ciocana,ciocana,3,44.3107339794246,24.7270494662312,Olt,Pădure,14967,Pădurea Ciocana,PDT,Limba română
 Ciocănești,ciocănești,3,44.6896215502939,24.655548653858,Olt,Localitate,14699,Ciocănești,PDT,Limba română
 Piscul lui Ciocan,ciocan,3,45.2835529770398,26.0537764726062,Prahova,Înălțime,14717,Piscul lui Ciocan,ANCPI,Limba română

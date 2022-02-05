@@ -238,6 +238,7 @@ Valea Turnului,turn,2,45.5024022506014,25.4623315164459,Brasov,Vale,1545,1544,Va
 Földvár,var (cetate),2,45.8190556086805,25.5962982182203,Brasov,Localitate,10499,,Földvár,Transilvania (1869-1870),Limba maghiară
 Cetățuia,cetățuie,2,45.2468002725886,26.5426284423982,Buzau,Altele,4008,,Cetățuia,Geomil 25000,Limba română
 Cetățuia,cetățuie,2,45.4448230227735,27.005776210898,Buzau,Altele,8743,,Cetățuia,PDT,Limba română
+Cetățuia,cetățuie,2,45.3257006731463,26.3493438274515,Buzau,Altele,15218,,Cetățuia,Munții noștri,Limba română
 Vârful Cetățuiei,cetățuie,2,45.2846889587522,26.2744230665509,Buzau,Înălțime,1581,,Vârful Cetățuiei,Geomil 25000,Limba română,Vârful Cetățuia,PDT,Limba română
 Pălanca,palancă,2,45.2780216313447,26.6542921796389,Buzau,Altele,4009,,Pălanca,Geomil 25000,Limba română
 Cetatea Fetei,cetate,2,44.4163684263926,26.8609005727416,Calarasi,,3434,,Cetatea Fetei,PDT,Limba română
@@ -353,6 +354,7 @@ Cetatea,cetate,2,44.1948362932155,27.600562353143,Constanta,Altele,3215,,Cetatea
 Cetatea Ulmetului,cetate,2,44.5478627610378,28.3417574626463,Constanta,Altele,2874,,Cetatea Ulmetului,Geomil 25000,Limba română
 Coada Cetății,cetate,2,44.7399480533571,27.8944524108527,Constanta,Altele,3198,3200,Coada Cetății,Geomil 25000,Limba română
 Dealu Cetatea,cetate,2,44.1893277437637,27.5979580519281,Constanta,Deal,3217,3215,Dealu Cetatea,PDT,Limba română
+Dealul dela Cetate,cetate,2,44.2302653339492,27.9081440126172,Constanta,Deal,15015,,Dealul dela Cetate,PDT,Limba română
 La Cetate,cetate,2,44.7297445384737,27.8800495661018,Constanta,Altele,3200,,La Cetate,Geomil 25000,Limba română
 La Cetate,cetate,2,44.2453654683628,28.217375430867,Constanta,Altele,11090,,La Cetate,Geomil 25000,Limba română
 La Cetate,cetate,2,43.9821080282895,28.1900284508418,Constanta,Altele,13639,,La Cetate,Geomil 25000,Limba română
@@ -765,6 +767,7 @@ Cetățuia,cetățuie,2,45.726965421061,24.4340654058036,Sibiu,Altele,1472,,Cet�
 Cetățuia,cetățuie,2,45.730240243252,24.625012050641,Sibiu,Înălțime,7519,,Cetățuia,Geomil 25000,Limba română
 Cetățuie,cetățuie,2,45.8994499471797,24.2173132086875,Sibiu,Înălțime,11841,,Cetățuie,ANCPI,Limba română
 Czetezuia,cetățuie,2,45.9973375156993,24.1886167347026,Sibiu,Înălțime,10965,,Czetezuia,Transilvania (1869-1870),Limba română
+Masa Jidovului,jidov (uriaș),2,45.7099372102076,23.6019886865177,Sibiu,Altele,15033,,Masa Jidovului,ANCPI,Limba română
 La Redute,redută,2,45.691471148233,24.2278616160322,Sibiu,Altele,4033,,La Redute,PDT,Limba română
 Reduta,redută,2,45.902955469895,23.8387616851316,Sibiu,Altele,11839,,Reduta,Geomil 25000,Limba română
 Turnul Ceasului,turn,2,45.6507524684949,24.3283391281145,Sibiu,Altele,11381,,Turnul Ceasului,Geomil 25000,Limba română
@@ -831,10 +834,13 @@ Dealul Cetățuii,cetățuie,2,45.0984653722749,29.0501258703829,Tulcea,Deal,290
 Ruinele Cetățuei Ghermea,cetățuie,2,45.3148686973719,28.1528339493657,Tulcea,Altele,6682,,Ruinele Cetățuei Ghermea,PDT,Limba română
 Grădiștea,grădiște,2,44.9031092020065,28.8624063363409,Tulcea,Înălțime,11079,,Grădiștea,Geomil 25000,Limba română
 Redută,redută,2,45.1743118560853,28.7725321165522,Tulcea,Altele,9285,,Redută,PDT,Limba română
+Tabia,tabie,2,45.2751879079105,28.1189081919035,Tulcea,Înălțime,15211,,Tabia,Munții noștri,Limba română
 La Castel,castel,2,45.470111963685,23.9245266568228,Valcea,Altele,7422,,La Castel,Geomil 25000,Limba română
 Pârâul Castelu,castel,2,45.4622538093044,23.9284176261655,Valcea,Vale,7423,7422,Pârâul Castelu,Geomil 25000,Limba română
 Dealu La Cetate,cetate,2,44.9013658399578,23.7669291092721,Valcea,Deal,3096,,Dealu La Cetate,Geomil 25000,Limba română
 Dealul Cetate,cetate,2,45.1252262584506,24.4062522903243,Valcea,Deal,1444,,Dealul Cetate,Geomil 25000,Limba română
+Muchia Cetâții,cetate,2,45.3142903585838,24.3656956602907,Valcea,Înălțime,15041,,Muchia Cetâții,Munții noștri,Limba română
+Pârâul Cetății,cetate,2,45.3152068914146,24.3633873043462,Valcea,Vale,15042,15041,Pârâul Cetății,Munții noștri,Limba română
 Cetățeaua,cetățuie,2,44.7650903339502,24.1965842836222,Valcea,Localitate,370,369,Cetățeaua,Geomil 25000,Limba română,Cetățeaua,PDT,Limba română
 Cetățuia,cetățuie,2,45.1211092032539,24.3644258068404,Valcea,Altele,4766,,Cetățuia,PDT,Limba română
 Dealu Cetățelei,cetățuie,2,44.7708516894741,24.1830942259491,Valcea,Deal,369,,Dealu Cetățelei,Geomil 25000,Limba română

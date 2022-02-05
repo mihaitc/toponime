@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Dealul Urdașului</name><description>Nume: Dealul Urdașului, Tip: urdașu, Nivel: 3, Județ: Alba, Formă: Deal, ID: 15228, ID Părinte: 15227 <br /><b>Variante</b><br />Nume: Dealul Urdașului, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>23.109076,46.087706,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15228_15227"><tessellate>1</tessellate><coordinates>23.109076,46.087706,0.
+23.073745,46.082450,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

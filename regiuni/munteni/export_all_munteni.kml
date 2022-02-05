@@ -59,6 +59,7 @@
 <Placemark><name>Muntenești</name><description>Nume: Muntenești, Tip: muntenesc, Nivel: 3, Județ: Vaslui, Formă: Localitate, ID: 1669, ID Părinte: 1668 <br /><b>Variante</b><br />Nume: Muntenești, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>27.530995,46.758628,0</coordinates></Point></Placemark>
 <Placemark><LineString id="1669_1668"><tessellate>1</tessellate><coordinates>27.530995,46.758628,0.
 27.517869,46.759351,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Dealul Munteni</name><description>Nume: Dealul Munteni, Tip: munteni, Nivel: 2, Județ: Vaslui, Formă: Deal, ID: 15002 <br /><b>Variante</b><br />Nume: Dealul Munteni, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>27.580948,46.343459,0</coordinates></Point></Placemark>
 <Placemark><name>Dealul Muntenilor</name><description>Nume: Dealul Muntenilor, Tip: munteni, Nivel: 2, Județ: Vaslui, Formă: Deal, ID: 2196, ID Părinte: 2195 <br /><b>Variante</b><br />Nume: Dealul Muntenilor, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>27.778924,46.601088,0</coordinates></Point></Placemark>
 <Placemark><LineString id="2196_2195"><tessellate>1</tessellate><coordinates>27.778924,46.601088,0.
 27.779507,46.613602,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

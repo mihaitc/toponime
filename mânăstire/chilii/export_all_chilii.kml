@@ -118,6 +118,7 @@
 <Placemark><name>La Chilii</name><description>Nume: La Chilii, Tip: chilii, Nivel: 2, Județ: Vrancea, Formă: Altele, ID: 5356, ID Părinte: 2134 <br /><b>Variante</b><br />Nume: La Chilii, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.767413,45.869917,0</coordinates></Point></Placemark>
 <Placemark><LineString id="5356_2134"><tessellate>1</tessellate><coordinates>26.767413,45.869917,0.
 26.770832,45.876333,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Pârâul Chilia</name><description>Nume: Pârâul Chilia, Tip: chilii, Nivel: 2, Județ: Vrancea, Formă: Vale, ID: 15239 <br /><b>Variante</b><br />Nume: Pârâul Chilia, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.647585,45.958493,0</coordinates></Point></Placemark>
 <Placemark><name>Pârâul Chiliei</name><description>Nume: Pârâul Chiliei, Tip: chilii, Nivel: 2, Județ: Vrancea, Formă: Vale, ID: 5359 <br /><b>Variante</b><br />Nume: Pârâul Chiliei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.934416,45.839982,0</coordinates></Point></Placemark>
 <Placemark><name>Pârâul Chiliilor</name><description>Nume: Pârâul Chiliilor, Tip: chilii, Nivel: 2, Județ: Vrancea, Formă: Vale, ID: 2135, ID Părinte: 2134 <br /><b>Variante</b><br />Nume: Pârâul Chiliilor, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.778023,45.874363,0</coordinates></Point></Placemark>
 <Placemark><LineString id="2135_2134"><tessellate>1</tessellate><coordinates>26.778023,45.874363,0.

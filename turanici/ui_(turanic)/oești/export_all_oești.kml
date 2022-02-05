@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Oești-Pământeni</name><description>Nume: Oești-Pământeni, Tip: oești, Nivel: 3, Județ: Arges, Formă: Localitate, ID: 15317 <br /><b>Variante</b><br />Nume: Oești-Pământeni, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.656303,45.250306,0</coordinates></Point></Placemark>
+<Placemark><name>Pârâul Oeștilor</name><description>Nume: Pârâul Oeștilor, Tip: oești, Nivel: 3, Județ: Arges, Formă: Vale, ID: 15318, ID Părinte: 15317 <br /><b>Variante</b><br />Nume: Pârâul Oeștilor, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.670738,45.255304,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15318_15317"><tessellate>1</tessellate><coordinates>24.670738,45.255304,0.
+24.656303,45.250306,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

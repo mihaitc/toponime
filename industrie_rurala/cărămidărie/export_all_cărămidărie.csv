@@ -1,0 +1,31 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Cărămidărie,cărămidărie,2,46.6031049566084,21.5631550977341,Arad,Altele,11669,,Cărămidărie,ANCPI,Limba română
+Cărămidărie,cărămidărie,2,46.3523018450153,21.2082906263353,Arad,Altele,11682,,Cărămidărie,Geomil 25000,Limba română
+Cărămidării,cărămidărie,2,46.5075376982879,21.6163249750369,Arad,Altele,1090,,Cărămidării,Geomil 25000,Limba română
+La Cărămidărie,cărămidărie,2,46.4351388635765,26.9160276943213,Bacau,Altele,7868,,La Cărămidărie,Geomil 25000,Limba română
+Cărămidăria,cărămidărie,2,47.7415598547387,26.6880964078358,Botosani,Altele,7767,,Cărămidăria,PDT,Limba română
+Dealul Cărămidării,cărămidărie,2,48.0383826161245,26.3320688783519,Botosani,Deal,4893,,Dealul Cărămidării,PDT,Limba română
+Podu la Cărămidărie,cărămidărie,2,47.6520264419338,26.5467336461297,Botosani,Altele,7782,,Podu la Cărămidărie,PDT,Limba română
+Șesul Cărămidăriei,cărămidărie,2,47.6437494783366,27.2566522354513,Botosani,Câmp,4871,,Șesul Cărămidăriei,PDT,Limba română
+Valea Cărămidării,cărămidărie,2,47.7425767312677,26.6393526434303,Botosani,Vale,7768,,Valea Cărămidării,PDT,Limba română
+Valea la Cărămidăria,cărămidărie,2,47.9939460433769,26.6503746993325,Botosani,Vale,3580,,Valea la Cărămidăria,PDT,Limba română
+La Cărămidării,cărămidărie,2,44.4212473713906,26.1918395564482,Bucuresti,Altele,3759,,La Cărămidării,PDT,Limba română
+Dealul Cărămidarului,cărămizari,3,44.3993497548233,23.5199986385132,Dolj,Deal,4712,,Dealul Cărămidarului,PDT,Limba română,Dealul Cărămidarului,Geomil 25000,Limba română
+Cărămizari,cărămizari,3,43.7957731135158,25.8119343759661,Giurgiu,Altele,444,3341,Cărămizari,Geomil 25000,Limba română
+Grindul Cărămidari,cărămizari,3,43.7826563630185,25.8093922026017,Giurgiu,Apă-deal-câmpie,3341,,Grindul Cărămidari,PDT,Limba română
+Karamidar,cărămizari,3,44.5172314181115,25.6248286473696,Giurgiu,Altele,12013,,Karamidar,Oltenia-Muntenia (1790),Limba română
+La Cărămidărie,cărămidărie,2,47.0275408313422,27.9491712838678,Iasi,Altele,9572,,La Cărămidărie,Moldova (1892-1898),Limba română
+La Cărămidărie,cărămidărie,2,47.1120073651471,26.663220662165,Iasi,Altele,11637,,La Cărămidărie,Geomil 25000,Limba română
+Pârâul la Cărămidărie,cărămidărie,2,47.0422180996201,27.7126773895171,Iasi,Vale,6588,,Pârâul la Cărămidărie,PDT,Limba română
+Valea Cărămidării,cărămidărie,2,47.1277198855391,26.8854436406661,Iasi,Vale,7795,,Valea Cărămidării,PDT,Limba română,Valea Cărămidăriei,Geomil 25000,Limba română
+Cărămidărie,cărămidărie,2,46.2582136414055,24.3449656096086,Mures,Altele,1916,,Cărămidărie,Geomil 25000,Limba română
+Dealul Cărămidărie,cărămidărie,2,46.7114607547538,26.4916344218745,Neamt,Deal,3845,,Dealul Cărămidărie,PDT,Limba română
+Pârâul Cărămidăriei,cărămidărie,2,46.9479262025887,26.3117006927208,Neamt,Vale,12626,,Pârâul Cărămidăriei,PDT,Limba română
+Cărămidărie,cărămidărie,2,44.2269975604166,24.8115955116115,Olt,Altele,314,,Cărămidărie,Geomil 25000,Limba română
+Plaiul Cărămidari,cărămizari,3,45.1472015261723,25.8905493310516,Prahova,Înălțime,8838,,Plaiul Cărămidari,PDT,Limba română,Plaiul Cărămidari,Geomil 25000,Limba română
+La Cărămidărie,cărămidărie,2,47.3321320167419,22.8376904778892,Salaj,Altele,8183,,La Cărămidărie,PDT,Limba română
+Cărămidărie,cărămidărie,2,46.0981354867494,24.2203742623788,Sibiu,Altele,8168,,Cărămidărie,PDT,Limba română
+Cărămidărie,cărămidărie,2,47.5578245056768,25.8601650190143,Suceava,Înălțime,10771,,Cărămidărie,Imperiul Habsburgic (1887),Limba română
+La Cărămidărie,cărămidărie,2,47.3809491894709,26.2664085700003,Suceava,Altele,2258,,La Cărămidărie,Geomil 25000,Limba română
+Cărămidărie,cărămidărie,2,45.7374200321198,20.8222450088278,Timis,Altele,1970,,Cărămidărie,Geomil 25000,Limba română
+Cotul Cărămidăriei,cărămidărie,2,46.5037977806733,28.2086628891595,Vaslui,Apă-deal-câmpie,6562,,Cotul Cărămidăriei,PDT,Limba română

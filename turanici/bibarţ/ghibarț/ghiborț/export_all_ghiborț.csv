@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Ghiborțului,ghiborț,4,46.7592233837244,27.9473456634732,Vaslui,Deal,14999,,Dealul Ghiborțului,ANCPI,Limba română
+Pădurea Ghiborțului,ghiborț,4,46.7898237848989,27.9110542889051,Vaslui,Pădure,15000,14999,Pădurea Ghiborțului,ANCPI,Limba română

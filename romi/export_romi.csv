@@ -28,6 +28,7 @@ Valea Țiganilor,țigani,2,46.2348726738503,22.6563806451169,Arad,Vale,12508,Val
 Zigeunerdf. (Satul Țiganilor),țigani,2,46.189378146283,21.2958228562315,Arad,Localitate,10537,Zigeunerdf. (Satul Țiganilor),Imperiul Habsburgic (1887),Limba germană
 La Țigănie,țigănie,3,46.1259868610188,21.1417071958556,Arad,Altele,5641,La Țigănie,PDT,Limba română
 Fântâna la Țigăniște,țigăniște,4,46.583136457301,21.836926340221,Arad,Altele,8044,Fântâna la Țigăniște,PDT,Limba română
+Pârâul Țigăniște,țigăniște,4,46.5274027703475,22.043592963893,Arad,Vale,15262,Pârâul Țigăniște,PDT,Limba română
 Dealu Țiganului,țigan,3,44.994522597674,25.0991083413115,Arges,Deal,538,Dealu Țiganului,Geomil 25000,Limba română
 Dealu Țiganului,țigan,3,44.9124462935371,24.9160769165893,Arges,Deal,547,Dealu Țiganului,Geomil 25000,Limba română
 Gâlma Țiganului,țigan,3,45.4549780474544,25.2533329557675,Arges,Înălțime,9801,Gâlma Țiganului,PDT,Limba română
@@ -56,6 +57,7 @@ Valea Țiganilor,țigani,2,45.0105454465384,25.0244907638206,Arges,Vale,14173,Va
 Valea Țigăniei,țigănie,3,45.1904513147777,24.9474787382695,Arges,Vale,562,Valea Țigăniei,Geomil 25000,Limba română,Valea Țigăniei,PDT,Limba română
 Argintăria,argintărie,4,46.1317481953957,26.7611542705969,Bacau,Vale,12942,Argintăria,Geomil 25000,Limba română
 Argintăria,argintărie,4,46.2683430727001,26.3427621848868,Bacau,Vale,14079,Argintăria,Geomil 25000,Limba română
+La Argintărie,argintărie,4,46.2477267593411,26.3654220031964,Bacau,Altele,15205,La Argintărie,Munții noștri,Limba română
 Pădurea Argintăriei,argintărie,4,46.5647855482536,26.308254858194,Bacau,Pădure,10941,Pădurea Argintăriei,Geomil 25000,Limba română
 Valea Argintăriei,argintărie,4,46.3844078355393,26.5638305889224,Bacau,Vale,7929,Valea Argintăriei,PDT,Limba română
 Lingurari,lingurari,3,46.2358342120521,26.9948888893695,Bacau,Localitate,7832,Lingurari,Geomil 25000,Limba română
@@ -108,6 +110,7 @@ Valea Țiganilor,țigani,2,46.7773079188666,22.3894354092214,Bihor,Vale,14037,Va
 Vârfu Țigănoiu,țigănoiu,4,46.75803574674,22.416549551209,Bihor,Înălțime,13419,Vârfu Țigănoiu,Geomil 25000,Limba română,Vurvu Tziganoi,Ungară 1869,Limba română
 Groapa Țiganului,țigan,3,46.8924339386103,24.5431248205485,Bistrita Nasaud,Altele,9054,Groapa Țiganului,PDT,Limba română
 Plaiul Țiganului,țigan,3,47.5325660165679,24.3954019350093,Bistrita Nasaud,Înălțime,4488,Plaiul Țiganului,Geomil 25000,Limba română
+Valea Țiganului,țigan,3,47.2243881236951,24.0770145010425,Bistrita Nasaud,Vale,15275,Valea Țiganului,PDT,Limba română
 Vârful Țigăncii,țigancă,3,47.1201591386497,24.9624630546028,Bistrita Nasaud,Înălțime,5431,Vârful Țigăncii,Geomil 25000,Limba română
 Vârful Țigăneasca,țigănească,3,47.0200223531954,24.3473173296738,Bistrita Nasaud,Înălțime,5486,Vârful Țigăneasca,Geomil 25000,Limba română,Vârful Țigăneasca,PDT,Limba română
 La Țigani,țigani,2,47.2938172131147,24.3910347361101,Bistrita Nasaud,Altele,7114,La Țigani,PDT,Limba română
@@ -297,6 +300,7 @@ Dealul Țiganca,țigancă,3,45.7285414083899,27.7090711839562,Galati,Deal,1588,D
 Țigănești,țigani,2,45.9020410928906,27.4335787873712,Galati,Localitate,737,Țigănești,Geomil 25000,Limba română
 La Șatra,șatră,3,44.50574667872,25.7240088640885,Giurgiu,Altele,4236,La Șatra,PDT,Limba română
 Lacu Țiganului,țigan,3,44.2113222631166,25.6725231001878,Giurgiu,Lac,4227,Lacu Țiganului,PDT,Limba română
+Movila Țiganului,țigan,3,43.8087806142923,25.8024492884448,Giurgiu,Înălțime,15240,Movila Țiganului,PDT,Limba română
 La Țigăneasca,țigancă,3,44.2150323360194,25.9443997492114,Giurgiu,Altele,463,La Țigăneasca,Geomil 25000,Limba română
 Lacul Țigăneasca,țigănească,3,44.4672550284077,25.5905180717073,Giurgiu,Lac,10095,Lacul Țigăneasca,PDT,Limba română
 Podu Cziganestilor,țigănești,3,44.0751853106469,25.6653876828656,Giurgiu,Altele,12016,Podu Cziganestilor,Oltenia-Muntenia (1790),Limba română
@@ -330,6 +334,7 @@ Dealu Țiganului,țigan,3,45.7396432422555,22.5284689309425,Hunedoara,Deal,9016,
 Grunu Țiganului,țigan,3,45.7524300549958,22.8232827943943,Hunedoara,Altele,11235,Grunu Țiganului,Geomil 25000,Limba română
 Pârâul Țiganului,țigan,3,45.4060820014478,23.5421334674227,Hunedoara,Vale,12974,Pârâul Țiganului,Geomil 25000,Limba română
 Vârful Țiganului,țigan,3,45.6335877482728,22.7888838623018,Hunedoara,Înălțime,10802,Vârful Țiganului,Imperiul Habsburgic (1887),Limba română
+Țigănești,țigănești,3,45.325724136502,22.9754938844646,Hunedoara,Altele,15076,Țigănești,Munții noștri,Limba română
 Valea Țiganilor,țigani,2,45.9797604316677,22.3844520258745,Hunedoara,Vale,873,Valea Țiganilor,Geomil 25000,Limba română
 Valea Țiganilor,țigani,2,46.1563395741067,22.5211101560359,Hunedoara,Vale,9668,Valea Țiganilor,Geomil 25000,Limba română
 Zigeuner Col. (Colonie de Țigani),țigani,2,45.8750378162563,22.64928174095,Hunedoara,Localitate,12494,Zigeuner Col. (Colonie de Țigani),Imperiul Habsburgic (1887),Limba germană
@@ -369,6 +374,7 @@ Pădurea Țiganca,țigancă,3,44.5969062514178,26.2034367123339,Ilfov,Înălțim
 Pădurea Țigănești,țigănești,3,44.726219978,26.1241897484,Ilfov,Pădure,8803,Pădurea Țigănești,PDT,Limba română
 Țigănești,țigani,2,44.7396151475473,26.1168268150615,Ilfov,Localitate,44,Țigănești,PDT,Limba română,Tzigânești,Austriacă,Limba română,Цигэнешти (Țigănești),Sovietică,Limba română
 Zigeunerhütten (Colibele țiganilor),țigani,2,44.5001894354868,26.1513172352724,Ilfov,Localitate,4261,Zigeunerhütten (Colibele țiganilor),Austriacă,Limba germană
+Coada Țigăniei,țigănie,3,44.7319704385309,26.1673652290402,Ilfov,Apă-deal-câmpie,15256,Coada Țigăniei,PDT,Limba română
 Sub Șatră,șatră,3,47.5752434756511,23.8364787367965,Maramures,Altele,8233,Sub Șatră,PDT,Limba română
 Dealul Țiganului,țigan,3,47.5097828169073,23.21257147551,Maramures,Deal,8217,Dealul Țiganului,PDT,Limba română,Dealul Țiganului,Geomil 25000,Limba română
 Lazul Țiganului,țigan,3,47.7311629026708,24.1622136021677,Maramures,Altele,7180,Lazul Țiganului,PDT,Limba română
@@ -488,6 +494,7 @@ Pârâul Țiganului,țigan,3,45.8713165905177,24.3765437995959,Sibiu,Vale,14800,
 Piscul Țiganului,țigan,3,45.5936281853691,24.310037817688,Sibiu,Înălțime,1459,Piscul Țiganului,Geomil 25000,Limba română
 Piscul Țiganului,țigan,3,45.7622241319957,24.3248433451362,Sibiu,Înălțime,2527,Piscul Țiganului,Geomil 25000,Limba română
 Valea Țiganului,țigan,3,45.5714687926626,23.9890664862237,Sibiu,Vale,1162,Valea Țiganului,Geomil 25000,Limba română
+Valea Țiganului,țigan,3,45.5426569843004,23.9696515568282,Sibiu,Vale,15209,Valea Țiganului,Munții noștri,Limba română
 Gruiul Țigăncii,țigancă,3,45.7767429216645,24.4319148161476,Sibiu,Altele,8003,Gruiul Țigăncii,PDT,Limba română
 Dealul Țiganilor,țigani,2,46.0312124751878,24.4616848207024,Sibiu,Deal,2652,Dealul Țiganilor,Geomil 25000,Limba română,Dealul Țiganilor,PDT,Limba română
 La Țigani,țigani,2,46.2509842101196,24.3975208594535,Sibiu,Altele,5513,La Țigani,Geomil 25000,Limba română
@@ -590,12 +597,14 @@ Lingurari,lingurari,3,46.8196389263996,27.7580179913797,Vaslui,Localitate,9545,L
 Lingurari din Tăetură,lingurari,3,46.5235825598225,27.9408918936081,Vaslui,Localitate,9617,Lingurari din Tăetură,Moldova (1892-1898),Limba română
 Obârșenii Lingurari,lingurari,3,46.5953623358555,27.4366354092139,Vaslui,Localitate,7286,Obârșenii Lingurari,Geomil 25000,Limba română,Obârșeni Lingurari,PDT,Limba română
 Râpa Țiganului,țigan,3,46.6069311622048,27.8491349462117,Vaslui,Înălțime,8855,Râpa Țiganului,PDT,Limba română
+Dealul Țigancei,țigancă,3,46.7827216393011,27.8632624813907,Vaslui,Deal,14996,Dealul Țigancei,PDT,Limba română
 Dealul Țigăncii,țigancă,3,46.1578634048616,27.6328207569493,Vaslui,Deal,721,Dealul Țigăncii,Geomil 25000,Limba română
 Dealul Țiganilor,țigani,2,46.7970774153015,27.411803161213,Vaslui,Deal,1665,Dealul Țiganilor,Geomil 25000,Limba română
 Fântâna Ursarului,ursar,4,46.7835645343359,27.4585756121384,Vaslui,Altele,8870,Fântâna Ursarului,PDT,Limba română
 Pârâul Ursarului,ursar,4,46.6593815392658,27.5150271417841,Vaslui,Vale,14921,Pârâul Ursarului,PDT,Limba română
 Dealul Ursarilor,ursari,3,46.3721486087248,27.5353993055688,Vaslui,Deal,9647,Dealul Ursarilor,Geomil 25000,Limba română
 La Cărarea Ursarilor,ursari,3,46.5582073116523,27.6552123045926,Vaslui,Altele,8858,La Cărarea Ursarilor,PDT,Limba română
+Argintăria,argintărie,4,45.7339167171619,26.4719067780884,Vrancea,Altele,15057,Argintăria,Munții noștri,Limba română
 Cotul Țiganului,țigan,3,45.6556737217231,27.3239172833869,Vrancea,Apă-deal-câmpie,9253,Cotul Țiganului,PDT,Limba română
 Grădina Țiganului,țigan,3,45.5659360979034,26.7473753636931,Vrancea,Altele,8755,Grădina Țiganului,PDT,Limba română
 Pârâul Țiganului,țigan,3,46.0227020229023,26.7521472227445,Vrancea,Vale,9199,Pârâul Țiganului,PDT,Limba română

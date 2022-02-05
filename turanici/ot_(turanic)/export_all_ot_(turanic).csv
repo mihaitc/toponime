@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Culmea Oticului,oticul,3,45.51729476074,24.9459760011057,Arges,Înălțime,15285,15286,Culmea Oticului,ANCPI,Limba română
+Golul Oticului,oticul,3,45.5019636780532,24.9323596214269,Arges,Înălțime,15287,15286,Golul Oticului,ANCPI,Limba română
+Muntele Oticului,oticul,3,45.5078288726251,24.9298586236435,Arges,Înălțime,15286,,Muntele Oticului,ANCPI,Limba română

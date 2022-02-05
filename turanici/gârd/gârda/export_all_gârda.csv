@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Gârda,gârda,3,46.1098998117443,22.8888458115674,Alba,Deal,15224,,Dealul Gârda,ANCPI,Limba română
+Gârda Seacă,gârda,3,46.5518571703424,22.7654062209734,Alba,Vale,15185,,Gârda Seacă,ANCPI,Limba română
+Gârda Seacă,gârda,3,46.4778657345926,22.8073795899925,Alba,Localitate,15186,15185,Gârda Seacă,ANCPI,Limba română

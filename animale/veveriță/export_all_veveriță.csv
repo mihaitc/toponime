@@ -2,6 +2,7 @@ Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă
 Dealul Veveriței,veveriță,2,45.5116926997122,26.7593632481749,Buzau,Deal,9247,,Dealul Veveriței,PDT,Limba română
 Isvoru Veveriței,veveriță,2,45.1828910470467,26.5059952245227,Buzau,Vale,13617,,Isvoru Veveriței,PDT,Limba română
 Valea Veverițele,veveriță,2,45.5073269661429,26.7568544554408,Buzau,Vale,12268,9247,Valea Veverițele,Geomil 25000,Limba română
+Veverița,veveriță,2,45.6807258138099,26.3933216648483,Buzau,Vale,15055,,Veverița,Munții noștri,Limba română
 Plaiul Veveriței,veveriță,2,44.9769597095243,25.6052391323164,Dambovita,Înălțime,12402,,Plaiul Veveriței,PDT,Limba română
 Dealul Veverița,veveriță,2,45.8026319941419,27.8203917322526,Galati,Deal,2189,,Dealul Veverița,Geomil 25000,Limba română,Dealul Veverița,PDT,Limba română
 Culmea Veveriței,veveriță,2,45.2853742742897,23.4516646531069,Gorj,Înălțime,2918,,Culmea Veveriței,Geomil 25000,Limba română

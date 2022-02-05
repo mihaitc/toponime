@@ -1,4 +1,5 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3,Nume 4,Hartă 4,Limbă 4
+Comul Berbecului,berbec,2,46.4989707554768,22.6829955703925,Alba,Înălțime,15188,Comul Berbecului,Munții noștri,Limba română
 Dealu Boului,bou,3,46.3507813259761,23.5747223201855,Alba,Deal,1923,Dealu Boului,Geomil 25000,Limba română
 Dealu Boului,bou,3,46.4074878904984,22.7379591622821,Alba,Deal,5614,Dealu Boului,Geomil 25000,Limba română
 Dealul Boului,bou,3,46.1923975023374,24.0179577471556,Alba,Deal,5508,Dealul Boului,Geomil 25000,Limba română
@@ -168,6 +169,7 @@ Fântâna Vacilor,vaci,3,46.4106473880129,21.8472887612047,Arad,Altele,6289,Fân
 Fântâna Vacilor,vaci,3,46.3939088707766,21.7182961668737,Arad,Altele,6290,Fântâna Vacilor,PDT,Limba română
 Fântâna Vacilor,vaci,3,46.5306276898614,21.5838733829345,Arad,Altele,8028,Fântâna Vacilor,PDT,Limba română
 Fântâna Vacilor,vaci,3,46.4208220819774,22.0391309822188,Arad,Altele,12538,Fântâna Vacilor,Geomil 25000,Limba română
+Fântâna Vacilor,vaci,3,46.301770056886,21.6683431104226,Arad,Altele,15291,Fântâna Vacilor,PDT,Limba română
 Podu Vacilor,vaci,3,46.6531702689333,21.8541773704133,Arad,Altele,11670,Podu Vacilor,Geomil 25000,Limba română
 Valea Vacii,vaci,3,46.2111420335605,22.4265555493039,Arad,Vale,12327,Valea Vacii,Imperiul Habsburgic (1887),Limba română
 Vidra,vidră,2,46.324686083856,22.510827680317,Arad,Localitate,5597,Vidra,Geomil 25000,Limba română
@@ -229,6 +231,7 @@ Valea Căprioarei,căprioară,3,45.4875400616735,25.201173404492,Arges,Vale,601,
 Valea Căprioarei,căprioară,3,45.3481359962919,24.7924653252214,Arges,Vale,5075,Valea Căprioarei,PDT,Limba română
 Valea Căprioarei,căprioară,3,45.20795259295,25.0740108649106,Arges,Vale,8828,Valea Căprioarei,PDT,Limba română
 Cerbu,cerb,2,44.7578985329973,24.8197074977007,Arges,,4779,Cerbu,Geomil 25000,Limba română,Cerbu,PDT,Limba română
+Cerbul,cerb,2,45.5211527489532,24.5805755865366,Arges,Vale,15115,Cerbul,Munții noștri,Limba română
 Dealu Cerbului,cerb,2,44.9024567062296,24.7389554320047,Arges,Deal,3071,Dealu Cerbului,Geomil 25000,Limba română
 Dealu Cerbului,cerb,2,44.799205649345,24.870235693358,Arges,Deal,11697,Dealu Cerbului,Geomil 25000,Limba română
 Dealul Cerbului,cerb,2,45.0626958494093,25.1128481202571,Arges,Deal,10163,Dealul Cerbului,Geomil 25000,Limba română
@@ -240,6 +243,7 @@ Valea Cerbului,cerb,2,44.8572769615888,24.7584117382114,Arges,Vale,81,Valea Cerb
 Valea Cerbului,cerb,2,44.7785387476273,24.8011242450723,Arges,Vale,1409,Valea Cerbului,Geomil 25000,Limba română
 Valea Cerbului,cerb,2,44.9171644412836,24.6956459674577,Arges,Vale,9365,Valea Cerbului,PDT,Limba română
 Valea Cerbului,cerb,2,45.450992187915,24.5564864788589,Arges,Vale,10195,Valea Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,44.8997210601055,24.754209280288,Arges,Vale,15322,Valea Cerbului,PDT,Limba română
 Culmea Dihorului,dihor,2,45.4080686192984,24.7296940595494,Arges,Înălțime,635,Culmea Dihorului,Geomil 25000,Limba română
 Dealul Botul Iepei,iapă,3,44.9639232211153,24.6650422659132,Arges,Deal,91,Dealul Botul Iepei,PDT,Limba română
 Piscul Iepei,iapă,3,44.967491935509,25.0548481834845,Arges,Înălțime,8350,Piscul Iepei,PDT,Limba română
@@ -292,6 +296,7 @@ Plaiul Oii,oi (ovine),3,44.9166400985231,24.7388408526965,Arges,Înălțime,9698
 Plaiul Oii,oi (ovine),3,45.2147699787413,24.5794990613612,Arges,Înălțime,12646,Plaiul Oii,Geomil 25000,Limba română
 Plaju Oji,oi (ovine),3,45.5218369066366,24.5455793123633,Arges,Înălțime,12088,Plaju Oji,Valahia-Moldova (1773-1774),Limba română
 Plaju Oji,oi (ovine),3,45.4656992450768,24.5329143825683,Arges,Înălțime,12089,Plaju Oji,Valahia-Moldova (1773-1774),Limba română
+Valea Oilor,oi (ovine),3,45.2843774990489,25.0016089942035,Arges,Vale,15328,Valea Oilor,PDT,Limba română
 Culmea Pisicii,pisică de munte,2,45.497394131505,24.8860384022425,Arges,Înălțime,623,Culmea Pisicii,Geomil 25000,Limba română
 Culmea Porcului,porc,2,45.4957274862176,24.9217540019643,Arges,Înălțime,624,Culmea Porcului,Geomil 25000,Limba română
 Eleșteul Porcului,porc,2,44.6467083564146,25.0159784146663,Arges,Apă-deal-câmpie,3720,Eleșteul Porcului,PDT,Limba română
@@ -308,6 +313,7 @@ Traga Șerpilor,șerpi,2,44.5353601647136,24.9917887316257,Arges,Altele,10114,Tr
 Valea Gaura Șarpelui,șerpi,2,44.4284688093095,24.8967976714803,Arges,Vale,3395,Valea Gaura Șarpelui,Geomil 25000,Limba română
 Culmea Țapului,țap al caprei negre,3,45.3880372779206,24.9143709318951,Arges,Înălțime,4997,Culmea Țapului,Geomil 25000,Limba română
 Culmea Ursului,urs,2,45.3719209931451,25.0429317526597,Arges,Înălțime,12913,Culmea Ursului,Geomil 25000,Limba română
+Curmătura Ursului,urs,2,45.366809007686,24.6660141603715,Arges,Înălțime,15064,Curmătura Ursului,Munții noștri,Limba română
 Dealu Cotu Ursului,urs,2,44.9653314228932,24.6474467868211,Arges,Deal,89,Dealu Cotu Ursului,Geomil 25000,Limba română,Dealu Cotul Ursului,PDT,Limba română,ур. Дялул-Котул-Урсулуй (Dealul Cotu Ursului),Sovietică,Limba română
 Dealu Ursului,urs,2,44.8067558312565,24.5895163433737,Arges,Deal,4771,Dealu Ursului,Geomil 25000,Limba română
 Dealul Ursu,urs,2,45.1262179469394,24.7706441152433,Arges,Deal,6899,Dealul Ursu,Geomil 25000,Limba română
@@ -366,6 +372,7 @@ Poiana Boului,bou,3,46.610940168124,26.6694358193294,Bacau,Poiană,3831,Poiana B
 Poiana Boului,bou,3,46.5457390902874,26.662265119581,Bacau,Localitate,12345,Poiana Boului,PDT,Limba română
 Dealul Bourului,bour,3,46.3953983612831,26.8206165744312,Bacau,Deal,7825,Dealul Bourului,Geomil 25000,Limba română
 La Bour,bour,3,46.6037101643497,26.8159952578539,Bacau,Altele,7870,La Bour,Geomil 25000,Limba română,La Bour,Moldova (1892-1898),Limba română
+Pădurea Bour,bour,3,46.6631588279399,27.1023480135701,Bacau,Pădure,15336,Pădurea Bour,ANCPI,Limba română
 Vârful Bourului,bour,3,46.1267707424746,26.7948154894755,Bacau,Înălțime,12943,Vârful Bourului,Geomil 25000,Limba română
 Pârâul Boureilor,bourei,4,46.1649633273446,26.8485001460602,Bacau,Vale,5334,Pârâul Boureilor,PDT,Limba română
 Poiana Bursucilor,bursuc,2,46.6153643031541,26.6480826192688,Bacau,Poiană,3832,Poiana Bursucilor,Geomil 25000,Limba română,Poiana Bursuci,PDT,Limba română
@@ -379,6 +386,7 @@ Piciorul Arșița Caprei,capră,3,46.5544481984378,26.2985234013535,Bacau,Înăl
 Piciorul Caprei,capră,3,46.4283960113594,26.1655484969947,Bacau,Altele,4554,Piciorul Caprei,Geomil 25000,Limba română
 Plaiul Caprei,capră,3,46.3698519786441,26.3262499823656,Bacau,Înălțime,9961,Plaiul Caprei,Moldova (1892-1898),Limba română,Plaiul Caprei,Geomil 25000,Limba română
 Pârâul Caprelor,capre,3,46.3209760919822,26.4795521208582,Bacau,Vale,4570,Pârâul Caprelor,Geomil 25000,Limba română
+Vârful Capra,capre negre,2,46.2037877179934,26.3539507026364,Bacau,Înălțime,15204,Vârful Capra,Munții noștri,Limba română
 Dealul Cerbului,cerb,2,46.2581378790488,26.9509202135045,Bacau,Deal,9673,Dealul Cerbului,Moldova (1892-1898),Limba română
 Dealul Cerbului,cerb,2,46.4087054761483,26.7160908484346,Bacau,Deal,13862,Dealul Cerbului,PDT,Limba română
 Vârful Cerbului,cerb,2,46.2010928272759,26.4489570124754,Bacau,Înălțime,688,Vârful Cerbului,Geomil 25000,Limba română
@@ -414,6 +422,7 @@ Coama Porcului,porc,2,46.5818482894556,26.4013581366757,Bacau,Înălțime,9955,C
 Dealul Porcului,porc,2,46.49098875104,26.2228002881504,Bacau,Deal,4593,Dealul Porcului,PDT,Limba română
 Dealul Porcului,porc,2,46.5742974009429,27.2164119217236,Bacau,Deal,7858,Dealul Porcului,Geomil 25000,Limba română,Dealul Porcului,PDT,Limba română
 Dealul Porcului,porc,2,46.5049106349833,26.2368789935314,Bacau,Deal,7878,Dealul Porcului,Geomil 25000,Limba română
+Lacul Porcului,porc,2,46.4537251879188,27.2333426056694,Bacau,Lac,15338,Lacul Porcului,Moldova (1892-1898),Limba română
 Pârâul Porcului,porc,2,46.3997813849324,26.2666410490097,Bacau,Vale,4591,Pârâul Porcului,PDT,Limba română
 Pârâul Porcului,porc,2,46.1199697916615,26.7419183807503,Bacau,Vale,5302,Pârâul Porcului,PDT,Limba română
 Pârâul Porcului,porc,2,46.1923031871263,26.450229252061,Bacau,Vale,12394,Pârâul Porcului,PDT,Limba română
@@ -479,11 +488,13 @@ Piatra Calului,cai,2,46.7168017229818,22.6583642838377,Bihor,Înălțime,7008,Pi
 Valea Cailor,cai,2,47.0326004085485,22.5817052520022,Bihor,Vale,12354,Valea Cailor,Geomil 25000,Limba română
 Valea Calului,cai,2,46.4837548931109,22.6381754736106,Bihor,Vale,1001,Valea Calului,Geomil 25000,Limba română
 Valea Calului,cai,2,46.5256723956316,22.3306959564033,Bihor,Vale,7000,Valea Calului,Geomil 25000,Limba română
+Valea Calului,cai,2,46.4869772397287,22.6153773981207,Bihor,Vale,15182,Valea Calului,Munții noștri,Limba română
 Piatra Câinilor,câini,2,46.6036405771968,22.6691626752942,Bihor,Înălțime,5620,Piatra Câinilor,Geomil 25000,Limba română
 Cornu Caprei,capră,3,46.7570908681734,22.6960375627094,Bihor,Înălțime,1117,Cornu Caprei,Geomil 25000,Limba română
 Dealu Caprei,capră,3,47.1933312774477,22.4413245145219,Bihor,Deal,8196,Dealu Caprei,Geomil 25000,Limba română
 Dealu Caprei,capră,3,47.2868041449107,22.1912047661651,Bihor,Deal,11510,Dealu Caprei,Geomil 25000,Limba română
 Hijul Caprei,capră,3,47.1006746228181,22.1157711896414,Bihor,Altele,4185,Hijul Caprei,PDT,Limba română
+Pârâul Caprei,capră,3,46.84203715433,22.4939189352404,Bihor,Vale,15190,Pârâul Caprei,Munții noștri,Limba română
 Vârfu Caprei,capră,3,46.4730202256014,22.3648574886407,Bihor,Înălțime,13190,Vârfu Caprei,Geomil 25000,Limba română
 Căprioara,căprioară,3,47.0921365031876,22.3509019210924,Bihor,Altele,8204,Căprioara,PDT,Limba română
 Dealu Căprioarei,căprioară,3,46.8863963895645,22.0105901225335,Bihor,Deal,5983,Dealu Căprioarei,Geomil 25000,Limba română
@@ -593,6 +604,7 @@ Vârful Câinelui,câini,2,47.514637375252,24.4618326819501,Bistrita Nasaud,În�
 Valea Caprei,capră,3,47.351896361692,24.2511925100995,Bistrita Nasaud,Vale,1016,Valea Caprei,Geomil 25000,Limba română,Valea Caprei,PDT,Limba română
 Valea Caprei,capră,3,47.137552388163,24.5371075029809,Bistrita Nasaud,Vale,4510,Valea Caprei,Geomil 25000,Limba română
 Dealul Caprelor,capre,3,47.2015382869385,24.3673974689117,Bistrita Nasaud,Deal,4504,Dealul Caprelor,Geomil 25000,Limba română
+Pârâul Caprelor,capre,3,47.1163862882911,24.7278912000867,Bistrita Nasaud,Vale,15164,Pârâul Caprelor,Munții noștri,Limba română
 Căprioara,căprioară,3,47.4525417711405,24.4887473271211,Bistrita Nasaud,Vale,12891,Căprioara,Geomil 25000,Limba română
 Pășunea Căprioara,căprioară,3,46.8803010003868,24.2877878324354,Bistrita Nasaud,Altele,13736,Pășunea Căprioara,PDT,Limba română
 Dealul Cățelei,cățea,3,47.3450230662387,24.8218640905716,Bistrita Nasaud,Deal,6364,Dealul Cățelei,Geomil 25000,Limba română
@@ -613,6 +625,7 @@ Culmea Lupoaiei,lupoaie,3,47.3235209301535,24.9725530206115,Bistrita Nasaud,În�
 Valea Mielului,miei,3,47.2847920876799,24.5679161048159,Bistrita Nasaud,Vale,9862,Valea Mielului,PDT,Limba română
 Dealul Oii,oi (ovine),3,47.2553828633211,24.6501058115432,Bistrita Nasaud,Deal,4518,Dealul Oii,Geomil 25000,Limba română
 Dealul Oilor,oi (ovine),3,47.3447149813801,24.0667055581569,Bistrita Nasaud,Deal,7097,Dealul Oilor,Geomil 25000,Limba română
+Izvorul Oii,oi (ovine),3,47.5113219455664,24.9256030202347,Bistrita Nasaud,Vale,15126,Izvorul Oii,Munții noștri,Limba română
 Măgura Porcului,porc,2,47.5599958370094,24.3748403341978,Bistrita Nasaud,Înălțime,4487,Măgura Porcului,Geomil 25000,Limba română
 Măgura Porcului,porc,2,47.4103155555001,24.7145543261476,Bistrita Nasaud,Înălțime,6360,Măgura Porcului,Geomil 25000,Limba română
 Porcul,porc,2,47.2700493947716,24.9997928036695,Bistrita Nasaud,Vale,9910,Porcul,Geomil 25000,Limba română
@@ -639,13 +652,13 @@ Muntele Ursului,urs,2,47.3864085910965,25.00855525167,Bistrita Nasaud,Înălțim
 Piatra Ursului,urs,2,47.5147441752596,24.6704136946323,Bistrita Nasaud,Înălțime,10780,Piatra Ursului,Imperiul Habsburgic (1887),Limba română
 Priporul Ursului,urs,2,47.1571499232943,24.9739592470703,Bistrita Nasaud,Înălțime,10025,Priporul Ursului,PDT,Limba română
 Ursul,urs,2,47.2617625888072,24.838886582038,Bistrita Nasaud,Altele,9886,Ursul,Geomil 25000,Limba română
-Valea Izvorul Ursului,urs,2,47.4422390416567,24.6078794953042,Bistrita Nasaud,Vale,4522,Valea Izvorul Ursului,Geomil 25000,Limba română
 Valea Ursului,urs,2,47.0890491277439,24.1741025202829,Bistrita Nasaud,Vale,4394,Valea Ursului,Geomil 25000,Limba română
 Valea Ursului,urs,2,47.3205896228401,24.3172004316707,Bistrita Nasaud,Vale,7087,Valea Ursului,Geomil 25000,Limba română
 Valea Ursului,urs,2,47.2609603059014,24.4251903361861,Bistrita Nasaud,Vale,7124,Valea Ursului,PDT,Limba română
 Valea Ursului,urs,2,47.2856385036813,24.5238066010241,Bistrita Nasaud,Vale,9871,Valea Ursului,PDT,Limba română
 Valea Ursului,urs,2,47.0749390086254,24.2645428799986,Bistrita Nasaud,Vale,10492,Valea Ursului,Transilvania (1869-1870),Limba română
 Valea Ursului,urs,2,47.3065315224798,24.7148766636126,Bistrita Nasaud,Vale,13390,Valea Ursului,Imperiul Habsburgic (1887),Limba română,Valea Ursului,Geomil 25000,Limba română
+Valea Ursului,urs,2,47.4292277770471,24.5925019057628,Bistrita Nasaud,Vale,15152,Valea Ursului,Munții noștri,Limba română
 Vârful Ursului,urs,2,47.3420985157674,24.2138389748859,Bistrita Nasaud,Înălțime,1015,Vârful Ursului,Geomil 25000,Limba română,Vârful Ursului,PDT,Limba română
 Vârful Ursului,urs,2,47.327980964243,24.2040675824352,Bistrita Nasaud,Înălțime,7108,Vârful Ursului,PDT,Limba română
 Valea Ursoii,ursoaie,3,47.3837626208722,24.9732960907428,Bistrita Nasaud,Vale,9914,Valea Ursoii,Geomil 25000,Limba română
@@ -780,10 +793,13 @@ Lunca Cailor,cai,2,46.0972200077857,25.2803996632537,Brasov,Apă-deal-câmpie,27
 Muntele Cailor,cai,2,45.4717270982425,25.8706188427665,Brasov,Înălțime,802,Muntele Cailor,Geomil 25000,Limba română
 Muntele Calului,cai,2,45.4717172843473,25.3881437549939,Brasov,Înălțime,596,Muntele Calului,Geomil 25000,Limba română
 Padina Calului,cai,2,45.566060639892,25.253014611483,Brasov,Altele,606,Padina Calului,Geomil 25000,Limba română
+Pârâul Calului,cai,2,45.6457669030626,24.7407225931438,Brasov,Vale,15106,Pârâul Calului,Munții noștri,Limba română
+Pârâul Calului,cai,2,45.6247212809976,24.7027733398687,Brasov,Vale,15110,Pârâul Calului,Munții noștri,Limba română
 Piscul Calului,cai,2,45.8330371749414,25.2334196069977,Brasov,Înălțime,2691,Piscul Calului,Geomil 25000,Limba română
 Valea Calului,cai,2,45.5473396137292,25.5730791278797,Brasov,Vale,1549,Valea Calului,Geomil 25000,Limba română
 Valea Calului,cai,2,45.7736195752727,25.4157026689073,Brasov,Vale,6819,Valea Calului,Geomil 25000,Limba română
 Vârful Calului,cai,2,45.8763442051344,25.2683030210943,Brasov,Înălțime,6810,Vârful Calului,PDT,Limba română
+Câinele,câini,2,45.641993141849,25.0194420502188,Brasov,Vale,15101,Câinele,Munții noștri,Limba română
 Dealul Câinelui,câini,2,45.7304130221736,25.4502186451253,Brasov,Deal,8550,Dealul Câinelui,Geomil 25000,Limba română
 Pârâul Cânelui,câini,2,45.9111708178432,25.3169655392218,Brasov,Vale,6804,Pârâul Cânelui,PDT,Limba română
 Spinarea Câinelui,câini,2,45.6139659379728,25.429963701406,Brasov,Altele,2785,Spinarea Câinelui,Geomil 25000,Limba română
@@ -825,8 +841,10 @@ Valea Lupului,lup,3,45.6089632060341,25.2394333781933,Brasov,Vale,10531,Valea Lu
 Dealul Lupilor,lupi,2,46.0941692117277,25.2937591402718,Brasov,Deal,2727,Dealul Lupilor,Geomil 25000,Limba română
 Gardul Lupilor,lupi,2,46.234308310717,24.9920487130456,Brasov,Altele,7950,Gardul Lupilor,Geomil 25000,Limba română
 Valea Lupilor,lupi,2,45.9125829636222,25.329045891734,Brasov,Vale,6807,Valea Lupilor,PDT,Limba română
+Valea Lupilor,lupi,2,45.4924036549669,25.491730690215,Brasov,Vale,15082,Valea Lupilor,Munții noștri,Limba română
 Valea Lupoaei,lupoaie,3,45.6010384218325,25.2497529730265,Brasov,Vale,8555,Valea Lupoaei,PDT,Limba română
 Báránykút (Puțul Mielului),miei,3,46.002535187165,24.9238279050241,Brasov,Localitate,10634,Báránykút (Puțul Mielului),Imperiul Habsburgic (1887),Limba maghiară
+Valea Mielului,miei,3,45.5018689178524,25.341091170881,Brasov,Vale,15062,Valea Mielului,Munții noștri,Limba română
 La Muchia Oii,oi (ovine),3,45.5382845776525,25.5451806537516,Brasov,Înălțime,2789,La Muchia Oii,Geomil 25000,Limba română
 Cotul Pisicii,pisică de munte,2,45.5330826666022,25.2701106037726,Brasov,Altele,604,Cotul Pisicii,Geomil 25000,Limba română
 Culmea Părul Porcului,porc,2,45.6726885291421,24.6961428575878,Brasov,Înălțime,4955,Culmea Părul Porcului,Geomil 25000,Limba română
@@ -835,6 +853,7 @@ Dealul Porcilor,porc,2,45.9288625526444,24.8231753326011,Brasov,Deal,11247,Dealu
 Dealul Porcilor,porc,2,45.9329423038847,24.911195149728,Brasov,Deal,14733,Dealul Porcilor,PDT,Limba română
 Groapa Porcilor,porc,2,46.0729285956381,25.0028013837547,Brasov,Altele,2484,Groapa Porcilor,Geomil 25000,Limba română
 La Fântîna Porcului,porc,2,45.9383518080684,25.1099658273518,Brasov,Altele,2686,La Fântîna Porcului,Geomil 25000,Limba română
+La Păru Porcului,porc,2,45.6587782909056,24.7307505621508,Brasov,Altele,15107,La Păru Porcului,Munții noștri,Limba română
 Livada Porcilor,porc,2,45.6690887019956,25.5273794062164,Brasov,Altele,6836,Livada Porcilor,PDT,Limba română
 Păr. Porcului,porc,2,45.6476157422151,24.9428070968166,Brasov,Vale,10528,Păr. Porcului,Imperiul Habsburgic (1887),Limba română
 Pârâul Porcior,porc,2,45.7249432223301,25.1916740576171,Brasov,Vale,12886,Pârâul Porcior,Imperiul Habsburgic (1887),Limba română
@@ -845,15 +864,18 @@ Valea Scroafei,scroafă,3,46.1211619130164,25.1396649880976,Brasov,Vale,7947,Val
 Groapa Șerpilor,șerpi,2,45.6772628815785,25.8157127455244,Brasov,Altele,4934,Groapa Șerpilor,Geomil 25000,Limba română
 Pârâul Șerpilor,șerpi,2,45.6062453711053,25.3736506892732,Brasov,Vale,8563,Pârâul Șerpilor,PDT,Limba română
 Poiana Țapului,țap al caprei negre,3,45.4227686778632,25.4080077553985,Brasov,Poiană,9797,Poiana Țapului,Geomil 25000,Limba română
+Căldarea Hârtopu Ursului,urs,2,45.6105933112369,24.7518826366059,Brasov,Înălțime,15112,Căldarea Hârtopu Ursului,Munții noștri,Limba română
 La Podul Ursului,urs,2,45.6068161090329,25.4239855605615,Brasov,Altele,8569,La Podul Ursului,PDT,Limba română
 Muchia Ursului,urs,2,45.5581947107696,25.1618931238331,Brasov,Înălțime,5038,Muchia Ursului,Geomil 25000,Limba română
 Pădurea Ursului,urs,2,45.6779646051509,25.1494810366005,Brasov,Pădure,2492,Pădurea Ursului,Geomil 25000,Limba română
 Pădurea Ursului,urs,2,45.8121984757094,24.6673585446684,Brasov,Pădure,2677,Pădurea Ursului,Geomil 25000,Limba română
 Pădurea Ursului,urs,2,45.9313970864554,24.8509668594347,Brasov,Pădure,4946,Pădurea Ursului,Geomil 25000,Limba română
 Pârâul Ursului,urs,2,45.9113432382625,25.3228495745337,Brasov,Vale,6805,Pârâul Ursului,PDT,Limba română
+Peștera Bârlogul Ursului,urs,2,45.9890121835984,25.4698409376881,Brasov,Altele,15100,Peștera Bârlogul Ursului,Munții noștri,Limba română
 Piatra Ursului,urs,2,45.6952789391871,25.903422856165,Brasov,Înălțime,10878,Piatra Ursului,Imperiul Habsburgic (1887),Limba română
 Piciorul Ursului,urs,2,45.4682707893649,25.5714694625436,Brasov,Înălțime,1550,Piciorul Ursului,Geomil 25000,Limba română
 Poiana Gaura Ursului,urs,2,45.6875717349884,25.4026667554767,Brasov,Poiană,2705,Poiana Gaura Ursului,Geomil 25000,Limba română
+Poiana Ursului,urs,2,45.5775972762087,25.539158063381,Brasov,Poiană,15090,Poiana Ursului,Munții noștri,Limba română
 Ursul,urs,2,45.6755868472438,24.9265103278484,Brasov,Vale,11883,Ursul,Geomil 25000,Limba română
 Valea Ursuiului,urs,2,45.5888038307319,25.7207255795254,Brasov,Vale,2776,Valea Ursuiului,Geomil 25000,Limba română
 Valea Ursului,urs,2,45.5103423543404,25.328330549549,Brasov,Vale,597,Valea Ursului,Geomil 25000,Limba română
@@ -864,9 +886,11 @@ Valea Ursului,urs,2,45.5379077586104,24.9678164577733,Brasov,Vale,8581,Valea Urs
 Valea Ursului,urs,2,45.6278066601599,25.1417017306141,Brasov,Vale,10530,Valea Ursului,Imperiul Habsburgic (1887),Limba română
 Valea Ursului,urs,2,45.8540997039549,24.850222738067,Brasov,Vale,12283,Valea Ursului,Geomil 25000,Limba română
 Vârful Ursului,urs,2,45.4282933273405,25.3056567577225,Brasov,Înălțime,5034,Vârful Ursului,Geomil 25000,Limba română
+Culmea Urșilor,urși,3,45.5417920356449,25.4831720568473,Brasov,Înălțime,15089,Culmea Urșilor,Munții noștri,Limba română
 Ursoaia,ursoaie,3,45.7691849244462,25.3432404648297,Brasov,Altele,6815,Ursoaia,Geomil 25000,Limba română
 Valea Ursoaia,ursoaie,3,45.7184205088898,25.2936997468326,Brasov,Vale,6826,Valea Ursoaia,PDT,Limba română,Ursoaia,Geomil 25000,Limba română
 Dealul Vacilor,vaci,3,45.9511529573323,24.7746585979142,Brasov,Deal,2668,Dealul Vacilor,Geomil 25000,Limba română
+Pârâul Vidra,vidră,2,45.6522096436981,25.0501171205058,Brasov,Vale,15102,Pârâul Vidra,Munții noștri,Limba română
 Fundul Vițelului,vițel,3,45.7512575396356,25.6797259610344,Brasov,Înălțime,8549,Fundul Vițelului,Geomil 25000,Limba română
 Dealul Vulpilor,vulpi,2,46.0209799702712,24.8999574640696,Brasov,Deal,2481,Dealul Vulpilor,Geomil 25000,Limba română
 Găurile Vulpilor,vulpi,2,45.6122685989182,25.4027972735136,Brasov,Altele,2708,Găurile Vulpilor,Geomil 25000,Limba română,Găurile Vulpilor,PDT,Limba română
@@ -890,6 +914,7 @@ La Brebu,breb,2,44.9517414199522,26.7759942190895,Buzau,Altele,10932,La Brebu,Ge
 Pârâul Brebu,breb,2,45.5872813516683,26.4577478530081,Buzau,Vale,2807,Pârâul Brebu,Geomil 25000,Limba română
 Pârâul Brebu,breb,2,45.5795549129317,26.5040703739823,Buzau,Vale,7919,Pârâul Brebu,Geomil 25000,Limba română
 Broscărie,broscărie,3,45.0626290305776,26.8927692716165,Buzau,Apă-deal-câmpie,11262,Broscărie,Geomil 25000,Limba română
+Izvorul Bursucul,bursuc,2,45.6780508953229,26.3588886364178,Buzau,Vale,15050,Izvorul Bursucul,Munții noștri,Limba română
 Curmătura Calului,cai,2,45.6232813577245,26.4593362456628,Buzau,Înălțime,13783,Curmătura Calului,Geomil 25000,Limba română
 Movila Cailor,cai,2,45.0726351075334,26.7199071162266,Buzau,Înălțime,68,Movila Cailor,Geomil 25000,Limba română,кург. Каи (mov. Cai),Sovietică,Limba română,Movila Cailor,PDT,Limba română
 Muntele Podul Calului,cai,2,45.5285701933378,26.3564882089971,Buzau,Înălțime,794,Muntele Podul Calului,Geomil 25000,Limba română
@@ -911,8 +936,10 @@ Pârâul Cerbului,cerb,2,45.4420419993275,26.4898910555736,Buzau,Vale,13340,Pâr
 Vârful Cerbului,cerb,2,45.2533553179114,26.6177584998261,Buzau,Înălțime,78,Vârful Cerbului,Geomil 25000,Limba română,г. Черб (Cerb),Sovietică,Limba română
 V. Iepe,iapă,3,45.354193054517,26.4209801415497,Buzau,Vale,5761,V. Iepe,Austriacă,Limba română
 Valea Iepei,iapă,3,45.3526651515535,26.4629707629425,Buzau,Vale,12991,Valea Iepei,Geomil 25000,Limba română
+Izvorul Lupul,lup,3,45.6734875048586,26.3578771825101,Buzau,Vale,15051,Izvorul Lupul,Munții noștri,Limba română
 P. Lupului,lup,3,45.2267122903129,26.5219820345975,Buzau,Poiană,13347,P. Lupului,Austriacă,Limba română
 Plaiul Lupului,lup,3,45.1887709382946,26.3579415919418,Buzau,Înălțime,6036,Plaiul Lupului,Geomil 25000,Limba română,Plaiul Lupului,PDT,Limba română
+Râpa Lupului,lup,3,45.3862586989788,26.2616367325946,Buzau,Înălțime,15217,Râpa Lupului,Munții noștri,Limba română
 Seciu Lupului,lup,3,45.5059022125938,26.2622841177971,Buzau,Altele,2814,Seciu Lupului,Geomil 25000,Limba română
 Valea Lupului,lup,3,45.3317341700386,26.2181658196584,Buzau,Vale,2817,Valea Lupului,Geomil 25000,Limba română
 Valea Lupului,lup,3,45.3539482490324,26.3389317375586,Buzau,Localitate,4000,Valea Lupului,Geomil 25000,Limba română,Valea Lupului,Austriacă,Limba română
@@ -929,6 +956,7 @@ Pârâul Porcului,porc,2,45.6184422020496,26.3789311101815,Buzau,Vale,7918,Pâr�
 Podul Porcului,porc,2,45.4619405823886,26.381180832844,Buzau,Altele,2813,Podul Porcului,Geomil 25000,Limba română
 Valea Porcului,porc,2,45.4794909252352,26.6536959976571,Buzau,Vale,11199,Valea Porcului,ANCPI,Limba română
 Muchia Racului,raci,2,45.4233965091612,26.9205533178196,Buzau,Înălțime,566,Muchia Racului,Geomil 25000,Limba română,D. Fîntăna Turkului,Austriacă,Limba română
+Râsul,râs,2,45.6844227277434,26.3970411257144,Buzau,Vale,15052,Râsul,Munții noștri,Limba română
 Movila Țapului,țap,3,44.9404802921014,26.8473477012966,Buzau,Înălțime,64,Movila Țapului,Geomil 25000,Limba română,Movila Țapului,PDT,Limba română,кург. Цап (mov. Țap),Sovietică,Limba română
 Pădurea Crângul Ursului,urs,2,45.4143753856532,27.1332373732815,Buzau,Pădure,756,Pădurea Crângul Ursului,Geomil 25000,Limba română
 Valea Ursului,urs,2,45.4715061520486,26.6670555613203,Buzau,Vale,5230,Valea Ursului,Geomil 25000,Limba română
@@ -937,16 +965,19 @@ Pârâul Ursoaia,ursoaie,3,45.3719454203585,26.3437555521886,Buzau,Vale,9651,Pâ
 Ursoaia Mică,ursoaie,3,45.4232736820485,26.6451155887164,Buzau,Înălțime,5228,Ursoaia Mică,Geomil 25000,Limba română
 Dealul Vacii Rele,vaci,3,45.5493323118655,26.7525585379289,Buzau,Deal,2094,Dealul Vacii Rele,Geomil 25000,Limba română
 Dealul Vacilor,vaci,3,45.4881298104155,26.6951764210835,Buzau,Deal,5234,Dealul Vacilor,Geomil 25000,Limba română
+Pârâul Vacii,vaci,3,45.6641356480572,26.3365417106627,Buzau,Vale,15049,Pârâul Vacii,Munții noștri,Limba română
 Râtâtura Vacei,vaci,3,45.1043122845538,26.4822445743606,Buzau,Altele,7503,Râtâtura Vacei,PDT,Limba română,Bătătura Vacii,Geomil 25000,Limba română
 Valea Vacii,vaci,3,45.3872969732464,26.7753304299408,Buzau,Vale,11561,Valea Vacii,Geomil 25000,Limba română
 Valea Vacii Mari,vaci,3,45.4818565907866,26.2152022274786,Buzau,Vale,9652,Valea Vacii Mari,Geomil 25000,Limba română
 Dealul Veveriței,veveriță,2,45.5116926997122,26.7593632481749,Buzau,Deal,9247,Dealul Veveriței,PDT,Limba română
 Isvoru Veveriței,veveriță,2,45.1828910470467,26.5059952245227,Buzau,Vale,13617,Isvoru Veveriței,PDT,Limba română
+Veverița,veveriță,2,45.6807258138099,26.3933216648483,Buzau,Vale,15055,Veverița,Munții noștri,Limba română
 Izvorul Vidrelor,vidre,2,45.6012745148169,26.2340460200767,Buzau,Altele,797,Izvorul Vidrelor,Geomil 25000,Limba română
 Valea Vițelului,vițel,3,45.2474205192358,26.9257034867124,Buzau,Vale,2088,Valea Vițelului,Geomil 25000,Limba română
 La Vulpărie,vulpărie,3,45.4287623388722,26.5578221354158,Buzau,Altele,13341,La Vulpărie,Geomil 25000,Limba română
 Poiana Vulpăriei,vulpărie,3,45.4687945208917,26.9459005617567,Buzau,Poiană,2091,Poiana Vulpăriei,Geomil 25000,Limba română
 La Vulpi,vulpi,2,45.2959042777967,26.684502989119,Buzau,Altele,12270,La Vulpi,Geomil 25000,Limba română
+Vulpea,vulpi,2,45.6916513287172,26.396286489595,Buzau,Vale,15054,Vulpea,Munții noștri,Limba română
 Privalul Armăsaru,armăsari,3,44.2046932099271,26.9184601694607,Calarasi,Apă-deal-câmpie,3278,Privalul Armăsaru,PDT,Limba română
 Japșa Bivolului,bivol,3,44.3001495223091,27.7124432087925,Calarasi,Apă-deal-câmpie,12485,Japșa Bivolului,PDT,Limba română
 Lacul Bivolița,bivoliță,4,44.1000269234707,26.7694552610304,Calarasi,Lac,3267,Lacul Bivolița,PDT,Limba română
@@ -1011,9 +1042,11 @@ Piatra Cerbului,cerb,2,45.0043489437708,22.4724289622287,Caras Severin,Înălți
 Poiana Balta Cerbului,cerb,2,44.9462504711316,22.487120420081,Caras Severin,Poiană,843,Poiana Balta Cerbului,Geomil 25000,Limba română
 Poiana Cerbilor,cerb,2,45.0370944400491,21.8171183588336,Caras Severin,Poiană,12163,Poiana Cerbilor,PDT,Limba română
 Poiana Cerbului,cerb,2,45.0244419396593,22.1344568531987,Caras Severin,Poiană,5725,Poiana Cerbului,Geomil 25000,Limba română
+Poiana Cerbului,cerb,2,45.5857904349,22.3655252437716,Caras Severin,Poiană,15023,Poiana Cerbului,PDT,Limba română
 Tâlva Cerbului,cerb,2,44.8374508514145,21.7205169915179,Caras Severin,Înălțime,8509,Tâlva Cerbului,Geomil 25000,Limba română,Tâlva Cerbului,PDT,Limba română
 Tâlva Cerbului,cerb,2,45.0433456684316,21.986231025879,Caras Severin,Înălțime,13483,Tâlva Cerbului,PDT,Limba română
 Valea Cerbului,cerb,2,45.4686247932494,22.5427266337127,Caras Severin,Vale,6096,Valea Cerbului,Geomil 25000,Limba română
+Cerboaia,cerboaie,3,45.3946963035623,22.6424324756581,Caras Severin,Vale,15075,Cerboaia,Munții noștri,Limba română
 Poiana Ciutei,ciută,3,45.1815279910275,22.1716184047784,Caras Severin,Poiană,13478,Poiana Ciutei,PDT,Limba română
 Tâlva Ciutii,ciută,3,44.7516251737923,22.012499839974,Caras Severin,Înălțime,8501,Tâlva Ciutii,PDT,Limba română,Tâlva Ciutii,Geomil 25000,Limba română
 Groapa Iepii,iapă,3,45.2030518778002,21.9208451230971,Caras Severin,Altele,11498,Groapa Iepii,ANCPI,Limba română
@@ -1069,6 +1102,8 @@ La Porcu,porc,2,45.3692016802961,21.926257982204,Caras Severin,Altele,4311,La Po
 Ogașul Porcului,porc,2,44.856764743173,21.7906904782489,Caras Severin,Vale,8512,Ogașul Porcului,PDT,Limba română
 Pârâu Porcului,porc,2,45.6036275426939,22.4160450950549,Caras Severin,Vale,863,Pârâu Porcului,Geomil 25000,Limba română
 Poiana Colul Porcului,porc,2,45.0116131754834,21.8260233242146,Caras Severin,Poiană,12162,Poiana Colul Porcului,PDT,Limba română
+Porcul,porc,2,45.2838529780555,22.3888927521901,Caras Severin,Vale,15166,Porcul,Munții noștri,Limba română
+Pusta Porcului,porc,2,44.9921464000383,21.4120438522958,Caras Severin,Câmp,15035,Pusta Porcului,PDT,Limba română
 Ogașul Scroafa,scroafă,3,45.1811975231645,22.3685634620605,Caras Severin,Vale,14614,Ogașul Scroafa,PDT,Limba română
 Cracul Șerpilor,șerpi,2,45.041757164135,22.0004564682471,Caras Severin,Înălțime,8686,Cracul Șerpilor,PDT,Limba română,Cracu Șerpilor,PDT,Limba română
 Ogașu Șerpilor,șerpi,2,45.0392078891482,22.0060290069231,Caras Severin,Vale,8687,Ogașu Șerpilor,PDT,Limba română
@@ -1089,6 +1124,7 @@ Ogașu Ursului,urs,2,45.1743826982308,22.4819544708814,Caras Severin,Înălțime
 Ogașu Ursului,urs,2,45.2851669845439,21.7745143341037,Caras Severin,Înălțime,4322,Ogașu Ursului,Geomil 25000,Limba română
 Ogașul Ursului,urs,2,44.9519170410305,21.8781972560921,Caras Severin,Vale,13490,Ogașul Ursului,PDT,Limba română
 Pârâu Ursu,urs,2,44.9169313478056,22.4297815377702,Caras Severin,Vale,12647,Pârâu Ursu,Geomil 25000,Limba română
+Pârâul Ursu,urs,2,45.2589090145441,22.5819441275817,Caras Severin,Vale,15072,Pârâul Ursu,Munții noștri,Limba română
 Poiana Ursului,urs,2,45.1083704810512,22.3651804261433,Caras Severin,Poiană,6137,Poiana Ursului,Geomil 25000,Limba română
 Tâlva Ursului,urs,2,45.2744921311521,22.2509381046841,Caras Severin,Vale,6122,Tâlva Ursului,Geomil 25000,Limba română,Tîlva Ursului,Ungară 1869,Limba română
 Valea Ursului,urs,2,45.127611343771,21.5465966417046,Caras Severin,Vale,5703,Valea Ursului,Geomil 25000,Limba română
@@ -1129,7 +1165,6 @@ Vârfu Caprei,capră,3,46.5522886469492,23.538848802687,Cluj,Înălțime,1110,V�
 Căprioara,căprioară,3,47.1027278574404,23.5280032936089,Cluj,Localitate,1106,Căprioara,Geomil 25000,Limba română
 Pleșa Căprioarei,căprioară,3,47.0959732754895,23.5433650856893,Cluj,Înălțime,1105,Pleșa Căprioarei,Geomil 25000,Limba română
 Valea Căprioarei,căprioară,3,46.6972078935433,23.603942175275,Cluj,Vale,7055,Valea Căprioarei,Geomil 25000,Limba română
-Moara Căpriței,căpriță,4,46.6659170454752,23.2415696594056,Cluj,Altele,2592,Moara Căpriței,Geomil 25000,Limba română
 Pârâu Căprița,căpriță,4,46.6508999355852,23.2354204385979,Cluj,Vale,5889,Pârâu Căprița,Geomil 25000,Limba română
 Dâmbul Tăul Cerbului,cerb,2,46.9726308114735,22.6955656482138,Cluj,Înălțime,12351,Dâmbul Tăul Cerbului,PDT,Limba română
 Valea Cerbului,cerb,2,46.7257608521831,22.7398963238901,Cluj,Vale,1116,Valea Cerbului,Geomil 25000,Limba română
@@ -1184,6 +1219,7 @@ Coasta Urșilor,urși,3,46.7106804530042,23.4919256617657,Cluj,Înălțime,1111,
 Dâmbu Urșilor,urși,3,46.7052214641823,23.0077025157832,Cluj,Înălțime,13065,Dâmbu Urșilor,Geomil 25000,Limba română
 Dealu Ursoaia,ursoaie,3,46.6736083175621,23.3768702197576,Cluj,Deal,10816,Dealu Ursoaia,Geomil 25000,Limba română
 La Gura Ursoii,ursoaie,3,46.6405771941408,23.4055194322269,Cluj,Altele,5888,La Gura Ursoii,Geomil 25000,Limba română
+Șaua Ursoaia,ursoaie,3,46.538020440187,22.8874700790949,Cluj,Înălțime,15121,Șaua Ursoaia,Munții noștri,Limba română
 Dealul Ursoiu,ursoi,3,46.9035274685776,22.8711153847848,Cluj,Deal,7023,Dealul Ursoiu,Geomil 25000,Limba română
 Chicera Vacii,vaci,3,46.451904619735,22.4359938794794,Cluj,Altele,4198,Chicera Vacii,PDT,Limba română,Cicera Vaci,Ungară 1869,Limba română
 Valea Fâneața Vacilor,vaci,3,46.6297012104023,23.7851983267203,Cluj,Deal,1109,Valea Fâneața Vacilor,Geomil 25000,Limba română
@@ -1191,6 +1227,7 @@ Pădurea Vulpei,vulpi,2,47.1710329335711,23.7930754029551,Cluj,Pădure,1098,Păd
 Valea Vulpii,vulpi,2,46.7336686858866,23.4462855204873,Cluj,Vale,1113,Valea Vulpii,Geomil 25000,Limba română
 Izlazul Boilor,bou,3,44.549125302829,28.3826654329518,Constanta,Altele,11624,Izlazul Boilor,Geomil 25000,Limba română
 Movila Cailor,cai,2,44.5338626545172,28.0575001492036,Constanta,Înălțime,2837,Movila Cailor,Geomil 25000,Limba română
+Valea Oborul Cailor,cai,2,44.2118969954689,27.9694990608938,Constanta,Vale,15016,Valea Oborul Cailor,PDT,Limba română
 Valea Caprei,capră,3,44.2339347310608,27.9376111224001,Constanta,Vale,480,Valea Caprei,Geomil 25000,Limba română
 Ostrovu Iepurașu,iepuri,2,44.1971940477181,27.6607474783161,Constanta,Apă-deal-câmpie,479,Ostrovu Iepurașu,Geomil 25000,Limba română
 Movila cu Lilieci,lilieci,2,44.1429123839179,28.0630679901454,Constanta,Înălțime,2846,Movila cu Lilieci,Geomil 25000,Limba română
@@ -1219,12 +1256,14 @@ Dealul Capu Caprei,capră,3,45.7701356073924,26.2619496027711,Covasna,Deal,12880
 Vârful Caprei,capră,3,45.9611424936771,25.7908628792561,Covasna,Înălțime,2745,Vârful Caprei,Geomil 25000,Limba română
 Dealul Ocolul Caprelor,capre,3,46.075497951767,25.9414270517695,Covasna,Deal,4377,Dealul Ocolul Caprelor,Geomil 25000,Limba română
 Dealul Săritura Cerbului,cerb,2,46.0505389659341,25.7830638405873,Covasna,Deal,6060,Dealul Săritura Cerbului,Geomil 25000,Limba română
+Valea Cerbului,cerb,2,45.5719412956272,26.1721577127854,Covasna,Vale,15047,Valea Cerbului,Munții noștri,Limba română
 Culmea Lupului,lup,3,46.0873814681284,26.0645426104972,Covasna,Înălțime,11460,Culmea Lupului,Geomil 25000,Limba română
 Dealul Gura Lupului,lup,3,45.984053329077,25.6594576121913,Covasna,Deal,11458,Dealul Gura Lupului,Geomil 25000,Limba română
 Dealul Lupului,lup,3,45.758827509866,26.1264712219722,Covasna,Deal,2790,Dealul Lupului,Geomil 25000,Limba română
 Groapa Lupului,lup,3,45.7778684881949,26.1543819081216,Covasna,Altele,2791,Groapa Lupului,Geomil 25000,Limba română
 Groapa Lupului,lup,3,45.8524774510317,26.0486793146198,Covasna,Altele,7922,Groapa Lupului,Geomil 25000,Limba română
 Pârâul Lupului,lup,3,45.7142967165368,25.8630073523142,Covasna,Vale,12882,Pârâul Lupului,Imperiul Habsburgic (1887),Limba română
+Pârâul Lupului,lup,3,45.6106833970184,26.3086551272821,Covasna,Vale,15048,Pârâul Lupului,Munții noștri,Limba română
 Poiana Lupul Mic,lup,3,46.2409729944926,25.6563470420272,Covasna,Poiană,4370,Poiana Lupul Mic,Geomil 25000,Limba română
 Dealul Lupilor,lupi,2,45.9260803413722,25.6775838616931,Covasna,Deal,2743,Dealul Lupilor,Geomil 25000,Limba română
 Culmea Porcilor,porc,2,46.1746442977928,26.2744635633874,Covasna,Înălțime,5318,Culmea Porcilor,Geomil 25000,Limba română
@@ -1240,15 +1279,18 @@ Dealul Gura Ursului,urs,2,45.9897315748099,25.6637659721294,Covasna,Deal,11459,D
 Dealul Ursului,urs,2,45.6394172112281,26.1192833699135,Covasna,Deal,791,Dealul Ursului,Geomil 25000,Limba română
 Dealul Ursului,urs,2,45.9341479174985,25.9051197817355,Covasna,Deal,2747,Dealul Ursului,Geomil 25000,Limba română
 Dealul Vizuina Ursului,urs,2,45.9859720572501,25.9511502115105,Covasna,Deal,4384,Dealul Vizuina Ursului,PDT,Limba română
+Izvorul Ursul,urs,2,45.6760542823729,26.2913961365673,Covasna,Vale,15058,Izvorul Ursul,Munții noștri,Limba română
 Pârâul Poarta Ursului,urs,2,46.0429786047534,25.9866999734178,Covasna,Vale,12391,Pârâul Poarta Ursului,PDT,Limba română
 Piscul Ursului,urs,2,45.7541348861496,26.3388903614808,Covasna,Înălțime,2114,Piscul Ursului,Geomil 25000,Limba română
 Poiana de la Vârful Ursului,urs,2,46.0338882522542,25.8852322682481,Covasna,Poiană,2748,Poiana de la Vârful Ursului,Geomil 25000,Limba română
 Valea Culcușului de Urs,urs,2,45.7697253370347,25.9633311437085,Covasna,Vale,2765,Valea Culcușului de Urs,Geomil 25000,Limba română
+Culmea Vulpe,vulpi,2,45.7399633703358,26.3153367285251,Covasna,Înălțime,15097,Culmea Vulpe,Munții noștri,Limba română
 Vârful Zimbrul Mare,zimbru,3,45.5951466951631,26.1773672956863,Covasna,Înălțime,798,Vârful Zimbrul Mare,Geomil 25000,Limba română
 Valea Bivolului,bivol,3,45.0317188648669,25.5559823780888,Dambovita,Vale,7463,Valea Bivolului,Geomil 25000,Limba română
 Plaiul Râpa Boului,bou,3,45.1275898537787,25.261978632146,Dambovita,Înălțime,8826,Plaiul Râpa Boului,PDT,Limba română
 Valea Boului,bou,3,44.8596763664709,25.2082335425841,Dambovita,Vale,10136,Valea Boului,PDT,Limba română
 Valea Boului,bou,3,44.7566884174587,25.3555755211944,Dambovita,Vale,11700,Valea Boului,Geomil 25000,Limba română
+Valea Boului,bou,3,44.7719535308218,25.2836251210129,Dambovita,Vale,15039,Valea Boului,PDT,Limba română
 Brebu,breb,2,45.1927568722377,25.3393941932768,Dambovita,Localitate,1495,Brebu,Geomil 25000,Limba română
 Vurvu Brebului,breb,2,45.26382591679,25.2810240844304,Dambovita,Înălțime,11931,Vurvu Brebului,Valahia-Moldova (1773-1774),Limba română
 Pârâul Brebina,brebină,3,44.7381702415743,25.2548269819639,Dambovita,Vale,11075,Pârâul Brebina,PDT,Limba română
@@ -1472,6 +1514,7 @@ Valea Lupului,lup,3,45.968728384209,27.8976066196139,Galati,Vale,9745,Valea Lupu
 La Lupărie,lupărie,3,45.728329042891,27.3874874785052,Galati,Altele,9255,La Lupărie,PDT,Limba română,La Lupărie,Geomil 25000,Limba română
 Rediu Oiei,oi (ovine),3,45.9770585581099,27.9632509756079,Galati,Altele,9644,Rediu Oiei,Moldova (1892-1898),Limba română,Rediu Oii,Geomil 25000,Limba română
 Valea Oii,oi (ovine),3,45.5202442760849,28.0017264620485,Galati,Vale,3498,Valea Oii,Geomil 25000,Limba română
+Valea Oilor,oi (ovine),3,45.900566000075,27.964543465583,Galati,Vale,14992,Valea Oilor,PDT,Limba română
 Dealul Movila Porcului,porc,2,46.0609134085607,27.6290507713367,Galati,Deal,9495,Dealul Movila Porcului,PDT,Limba română
 Dealul Piciorul Porcului,porc,2,46.0292957437801,27.2592526418152,Galati,Deal,2165,Dealul Piciorul Porcului,Geomil 25000,Limba română
 Dealul Porcului,porc,2,46.0661163848148,27.8928451756044,Galati,Deal,11290,Dealul Porcului,Geomil 25000,Limba română
@@ -1480,6 +1523,7 @@ Piscul Porcului,porc,2,45.9525501378943,27.9546900840537,Galati,Înălțime,1143
 Dealul Piscu Scroafi,scroafă,3,46.041207224165,27.7166645691246,Galati,Deal,9753,Dealul Piscu Scroafi,Moldova (1892-1898),Limba română
 Dealul Scroafei,scroafă,3,45.9854636560867,27.9093901379847,Galati,Deal,9746,Dealul Scroafei,Geomil 25000,Limba română
 Valea Scroafei,scroafă,3,46.0852911435824,27.7100405422978,Galati,Vale,14987,Valea Scroafei,PDT,Limba română
+Râpa Șerpilor,șerpi,2,45.7625309758495,28.0218198977442,Galati,Altele,14990,Râpa Șerpilor,PDT,Limba română
 Valea Șerpoaicei,șerpi,2,45.6947742480383,28.033049245552,Galati,Vale,3503,Valea Șerpoaicei,PDT,Limba română
 Dealul Țapului,țap,3,46.102925484254,27.4940872807577,Galati,Deal,727,Dealul Țapului,Geomil 25000,Limba română
 Dealul Ursoaiei,ursoaie,3,45.5908994736228,27.7510699088814,Galati,Deal,748,Dealul Ursoaiei,Geomil 25000,Limba română
@@ -1535,6 +1579,7 @@ Valea Boului,bou,3,44.6042342495416,23.6295385031576,Gorj,Vale,8279,Valea Boului
 Dealu Calului,cai,2,45.0739538834062,22.8123597511747,Gorj,Deal,222,Dealu Calului,Geomil 25000,Limba română
 Dealul Calului,cai,2,44.6862232315705,23.6871785698872,Gorj,Deal,5156,Dealul Calului,Geomil 25000,Limba română
 La Lacul Calului,cai,2,45.0296320305199,23.4509487127874,Gorj,Lac,9792,La Lacul Calului,PDT,Limba română
+Pârâul Calului,cai,2,45.2670470360924,23.6403997088271,Gorj,Vale,15116,Pârâul Calului,Munții noștri,Limba română
 Poiana Calului,cai,2,44.9742827091775,23.5647529027462,Gorj,Poiană,3135,Poiana Calului,Geomil 25000,Limba română,Poiana Calului,PDT,Limba română
 Valea Calului,cai,2,45.0331763801942,23.2080676274214,Gorj,Vale,3110,Valea Calului,Geomil 25000,Limba română
 Valea Calului,cai,2,44.7201475593143,23.5313670866461,Gorj,Vale,5089,Valea Calului,Geomil 25000,Limba română,Valea Calului,PDT,Limba română
@@ -1549,6 +1594,7 @@ Valea Caprei,capră,3,44.7619718817011,23.5984382008091,Gorj,Vale,5143,Valea Cap
 Valea Caprei,capră,3,44.5769629702113,23.6562998559956,Gorj,Vale,5165,Valea Caprei,Geomil 25000,Limba română,Valea Caprei,PDT,Limba română
 D. Kâprioaele,căprioară,3,45.016154323075,23.7768065513105,Gorj,Deal,5097,D. Kâprioaele,Austriacă,Limba română
 Valea Căprioara,căprioară,3,44.7333844355547,23.676263641953,Gorj,Vale,10693,Valea Căprioara,Geomil 25000,Limba română
+Cerbu,cerb,2,45.2495900642261,23.7025634068256,Gorj,Înălțime,11349,Cerbu,ANCPI,Limba română
 Dealu Cerbu,cerb,2,45.0512766962939,22.8419746832229,Gorj,Deal,221,Dealu Cerbu,Geomil 25000,Limba română
 Piscul Cerbului,cerb,2,44.9921967858047,23.6231134029898,Gorj,Înălțime,8401,Piscul Cerbului,PDT,Limba română
 Poiana Cerbu,cerb,2,45.2048135933552,23.7045752398292,Gorj,Poiană,11576,Poiana Cerbu,Geomil 25000,Limba română
@@ -1582,6 +1628,7 @@ Dealul Mieilor,miei,3,45.0473047911077,23.7425689283529,Gorj,Deal,3104,Dealul Mi
 Valea Mieilor,miei,3,44.7450660849253,23.5361631573838,Gorj,Vale,11816,Valea Mieilor,PDT,Limba română
 Valea Ogarului,ogari,3,44.8497737761261,23.130666312901,Gorj,Vale,8390,Valea Ogarului,PDT,Limba română
 Dealul Oilor,oi (ovine),3,45.1627567569396,23.6863289361901,Gorj,Deal,240,Dealul Oilor,Geomil 25000,Limba română
+Șaua Fântâna Oii,oi (ovine),3,45.2077616124345,23.4559483882442,Gorj,Înălțime,15059,Șaua Fântâna Oii,Munții noștri,Limba română
 Scursoarea Oilor,oi (ovine),3,45.0157714445472,23.059720047349,Gorj,Vale,9788,Scursoarea Oilor,Geomil 25000,Limba română
 Dealu Porcului,porc,2,45.1464810477884,22.8119717212641,Gorj,Deal,5126,Dealu Porcului,Geomil 25000,Limba română
 Dealul Porcului,porc,2,44.9633191989965,23.7347812776902,Gorj,Deal,5096,Dealul Porcului,Austriacă,Limba română
@@ -1774,6 +1821,7 @@ Valea Ursoiței,ursoiță,3,46.1856663757001,22.5594985528242,Hunedoara,Vale,900
 Gruiu Vacii,vaci,3,46.1540483167242,22.6492144129431,Hunedoara,Înălțime,6267,Gruiu Vacii,Geomil 25000,Limba română
 Spinare Vatsilor,vaci,3,45.74326199587,23.2770058872922,Hunedoara,Înălțime,12320,Spinare Vatsilor,Transilvania (1769-1773),Limba română
 Valea Vacii,vaci,3,46.1635365584382,22.7776196670251,Hunedoara,Vale,6255,Valea Vacii,Geomil 25000,Limba română
+Pârâul Viezurelui,viezure,3,45.7949702612955,23.3074206564479,Hunedoara,Vale,15118,Pârâul Viezurelui,Munții noștri,Limba română
 Dealu Viezurinii,viezurină,4,46.1034295338855,22.8418062069432,Hunedoara,Deal,6235,Dealu Viezurinii,Geomil 25000,Limba română
 Pârâu Vezurin,viezurină,4,45.9644682167834,22.3804267824597,Hunedoara,Vale,6201,Pârâu Vezurin,PDT,Limba română
 Vârfu Viezurinii,viezurină,4,45.8582867002308,22.6078307537044,Hunedoara,Înălțime,10232,Vârfu Viezurinii,Geomil 25000,Limba română
@@ -1793,6 +1841,7 @@ Movila Lupoaielor,lupoaie,3,44.6271811491897,27.2808788517104,Ialomita,Înălți
 Japșa Mistreața,mistreț,3,44.4037074331778,27.9772293112051,Ialomita,Apă-deal-câmpie,9976,Japșa Mistreața,PDT,Limba română
 Lacul Porcului,porc,2,44.7033086270552,27.8462068401297,Ialomita,Lac,12493,Lacul Porcului,PDT,Limba română
 Lacul Porcului,porc,2,44.5581471824326,27.2233803310296,Ialomita,Lac,12661,Lacul Porcului,PDT,Limba română
+Privalul Vaca,vaci,3,44.7651282781111,27.8491958899291,Ialomita,Apă-deal-câmpie,15005,Privalul Vaca,PDT,Limba română
 Vadul Vacilor,vaci,3,44.7078594108757,27.3576996649627,Ialomita,Altele,3182,Vadul Vacilor,Geomil 25000,Limba română
 La Vulpe,vulpi,2,44.6690700771314,27.4220851479353,Ialomita,Altele,501,La Vulpe,Geomil 25000,Limba română
 Dealul Aricilor,arici,2,47.3946777968361,27.1271541821557,Iasi,Deal,2438,Dealul Aricilor,Geomil 25000,Limba română
@@ -1830,6 +1879,7 @@ Dealul Lupului,lup,3,47.2987152228873,26.9507874820983,Iasi,Deal,8876,Dealul Lup
 Lupul,lup,3,47.2064309064571,27.4808032312473,Iasi,Vale,4829,Lupul,Geomil 25000,Limba română
 Pădurea la Lup,lup,3,47.0218481232484,27.4232620211234,Iasi,Pădure,1652,Pădurea la Lup,Geomil 25000,Limba română
 Piciorul Lupului,lup,3,47.0368442431323,27.5765691069238,Iasi,Localitate,8892,Piciorul Lupului,PDT,Limba română
+Poiana Lupului,lup,3,46.9717094239221,27.1544251915876,Iasi,Poiană,15296,Poiana Lupului,PDT,Limba română
 Valea Lupului,lup,3,47.1197729687388,27.6977069248143,Iasi,Vale,6599,Valea Lupului,PDT,Limba română
 Valea Lupului,lup,3,47.0678840321174,27.3653354661794,Iasi,Vale,8890,Valea Lupului,PDT,Limba română
 La Lupărie,lupărie,3,47.114946070592,27.2479423669647,Iasi,Altele,8889,La Lupărie,PDT,Limba română
@@ -1892,8 +1942,10 @@ Poiana Preluca Caprei,capră,3,47.6563541548711,24.801925670082,Maramures,Poian�
 Valea Caprei,capră,3,47.4641060792108,23.3448404699276,Maramures,Vale,9929,Valea Caprei,Geomil 25000,Limba română
 Vîrful Caprei,capră,3,47.5015610702318,23.8061802929742,Maramures,Înălțime,8234,Vîrful Caprei,PDT,Limba română
 Izvorul Caprelor,capre,3,47.8441714081699,24.656157306836,Maramures,Vale,11157,Izvorul Caprelor,Geomil 25000,Limba română
+Pârâul Caprii,capre negre,2,47.7446866168104,24.6421279176683,Maramures,Vale,15140,Pârâul Caprii,Munții noștri,Limba română
 Culmea Cerbului,cerb,2,47.7906906136422,24.8268950387854,Maramures,Înălțime,7194,Culmea Cerbului,Geomil 25000,Limba română
 Poiana Cerbului,cerb,2,47.8172328865088,24.6751740756248,Maramures,Poiană,11158,Poiana Cerbului,Geomil 25000,Limba română
+Prelucile Cerbului,cerb,2,47.6280916221489,24.8577301634656,Maramures,Înălțime,15131,Prelucile Cerbului,Munții noștri,Limba română
 Valea Cerbului,cerb,2,47.4547363044466,23.442357849114,Maramures,Vale,1043,Valea Cerbului,Geomil 25000,Limba română
 Valea Cerbului,cerb,2,47.4682335494704,24.0040041107846,Maramures,Vale,8248,Valea Cerbului,Geomil 25000,Limba română
 Dealu Cerboaia,cerboaie,3,47.4131705476935,23.3804135995031,Maramures,Deal,9928,Dealu Cerboaia,Geomil 25000,Limba română
@@ -1902,6 +1954,7 @@ Dealul Iepei,iapă,3,47.739693369708,24.3191616618693,Maramures,Deal,4529,Dealul
 Balta Iepurească,iepuri,2,47.7823105293048,23.8605248572717,Maramures,Apă-deal-câmpie,13000,Balta Iepurească,Geomil 25000,Limba română
 Dealul Iepurelui,iepuri,2,47.4613291076071,24.1123937208754,Maramures,Deal,7093,Dealul Iepurelui,Geomil 25000,Limba română
 Culmea Iedului,iezi,3,47.7748305704933,24.818328894978,Maramures,Înălțime,7193,Culmea Iedului,Geomil 25000,Limba română
+Pârâul Jderului,jder,3,47.8068302947342,24.6221090214942,Maramures,Vale,15142,Pârâul Jderului,Munții noștri,Limba română
 Dâmburile Lupului,lup,3,47.6213816966914,23.789161723127,Maramures,Înălțime,7218,Dâmburile Lupului,PDT,Limba română
 Dealul Lupului,lup,3,47.4231086698099,23.7935117881812,Maramures,Deal,4435,Dealul Lupului,Geomil 25000,Limba română
 Dealul Lupului,lup,3,47.7528307697815,24.2346732193668,Maramures,Deal,7181,Dealul Lupului,PDT,Limba română
@@ -1911,6 +1964,8 @@ Pojana Lupului,lup,3,47.5917459176847,23.8311706245197,Maramures,Poiană,10262,P
 Vadul Lupului,lup,3,47.4673386452248,23.5603730752446,Maramures,Altele,1038,Vadul Lupului,Geomil 25000,Limba română
 Valea Lupului,lup,3,47.7082067779787,23.6559839481204,Maramures,Vale,4445,Valea Lupului,Geomil 25000,Limba română,Valea Lupului,PDT,Limba română
 Valea Lupului,lup,3,47.7313898853295,23.3804017687994,Maramures,Vale,4450,Valea Lupului,Geomil 25000,Limba română
+Vârful Lupului,lup,3,47.7302956022359,23.6140393491358,Maramures,Înălțime,15198,Vârful Lupului,Munții noștri,Limba română
+Groapa Lupilor,lupi,2,47.8999356348554,24.482544180944,Maramures,Înălțime,15146,Groapa Lupilor,Munții noștri,Limba română
 Obcina Lupoaiei,lupoaie,3,47.4297279921599,23.9468116634222,Maramures,Înălțime,4441,Obcina Lupoaiei,Geomil 25000,Limba română,Obcina Lupoaiei,PDT,Limba română
 Fața Mielului,miei,3,47.6975091693472,24.0410813861907,Maramures,Înălțime,7167,Fața Mielului,Geomil 25000,Limba română
 Valea Mistrețu,mistreț,3,47.7765354016814,23.7265137575226,Maramures,Vale,4470,Valea Mistrețu,Geomil 25000,Limba română
@@ -1936,6 +1991,7 @@ Dealul Ursului,urs,2,47.4456801320824,23.7618548621349,Maramures,Deal,13172,Deal
 Dosul Ursului,urs,2,47.6602929714611,23.9547399227757,Maramures,Înălțime,12659,Dosul Ursului,British Maps (1944),Limba română
 Gruiul Ursul Mare,urs,2,47.5790083907466,24.3523746800723,Maramures,Înălțime,4486,Gruiul Ursul Mare,Geomil 25000,Limba română
 Obcina Ursului,urs,2,47.5251673949344,24.1467601671075,Maramures,Înălțime,1032,Obcina Ursului,Geomil 25000,Limba română
+Pârâul Ursului,urs,2,47.8367125041557,24.6735914826324,Maramures,Vale,15143,Pârâul Ursului,Munții noștri,Limba română
 Piciorul Ursului,urs,2,47.7541263837439,24.6755881760476,Maramures,Înălțime,8263,Piciorul Ursului,PDT,Limba română
 Poiana Ursului,urs,2,47.8731842804,24.0279474711805,Maramures,Poiană,907,Poiana Ursului,Geomil 25000,Limba română
 Poiana Ursului,urs,2,47.86862960398,24.0207553197387,Maramures,Poiană,7171,Poiana Ursului,PDT,Limba română
@@ -1956,6 +2012,7 @@ Dealul Ursoii,ursoaie,3,47.6586251574696,24.4558703966564,Maramures,Deal,7154,De
 Izvorul Ursoaiei,ursoaie,3,47.6126388039602,24.1987368671169,Maramures,Vale,8252,Izvorul Ursoaiei,PDT,Limba română
 Valea Ursoii,ursoaie,3,47.6757535935473,24.7327283317795,Maramures,Vale,12900,Valea Ursoii,Geomil 25000,Limba română
 Dealul Ursoiului,ursoi,3,47.6538227346535,24.4182149775759,Maramures,Deal,7153,Dealul Ursoiului,Geomil 25000,Limba română
+Ursoi,ursoi,3,47.6626608459545,24.6511218993026,Maramures,Altele,15137,Ursoi,Munții noștri,Limba română
 Valea Ursoiului,ursoi,3,47.6051624314679,24.2578636869187,Maramures,Vale,11521,Valea Ursoiului,Geomil 25000,Limba română
 Vârful Ursoiului,ursoi,3,47.4916572778661,24.0210750355254,Maramures,Înălțime,8249,Vârful Ursoiului,PDT,Limba română
 Dealul Vacii,vaci,3,47.3773443683327,24.0140158964603,Maramures,Deal,8245,Dealul Vacii,PDT,Limba română
@@ -1992,6 +2049,7 @@ Piscul Lupului,lup,3,44.6329688274,23.3095707119513,Mehedinti,Înălțime,7446,P
 Ștubeiul Lupului,lup,3,44.6894286636569,22.6509309094238,Mehedinti,Altele,4023,Ștubeiul Lupului,PDT,Limba română
 Valea Lupului,lup,3,44.6877137815895,23.0023313889176,Mehedinti,Vale,13475,Valea Lupului,PDT,Limba română
 La Groapa de Lupi,lupi,2,44.6617425804311,22.8076301161904,Mehedinti,Altele,182,La Groapa de Lupi,Geomil 25000,Limba română
+Ogașul cu Lupi,lupi,2,44.5526654338577,22.8257053172383,Mehedinti,Vale,15246,Ogașul cu Lupi,PDT,Limba română
 Dealul Lupoaiei,lupoaie,3,44.9333436431217,22.8693246573524,Mehedinti,Deal,202,Dealul Lupoaiei,Geomil 25000,Limba română
 Ciocu Măgarului,măgar,2,44.4137232333833,23.0475980349565,Mehedinti,Altele,138,Ciocu Măgarului,Geomil 25000,Limba română
 Valea Mânzului,mânz,3,44.347465507441,22.9128479030769,Mehedinti,Vale,14194,Valea Mânzului,Geomil 25000,Limba română
@@ -2045,6 +2103,7 @@ Gaura Lupului,lup,3,46.6738243685793,24.8153832971006,Mures,Altele,5390,Gaura Lu
 Gaura Lupului,lup,3,46.3609616924042,23.8821942123534,Mures,Altele,13247,Gaura Lupului,Transilvania (1769-1773),Limba română
 Groapa Lupului,lup,3,46.2765069961243,24.2067809073954,Mures,Altele,1919,Groapa Lupului,Geomil 25000,Limba română
 Groapa Lupului,lup,3,46.7555927710472,24.3934227694058,Mures,Altele,5388,Groapa Lupului,Geomil 25000,Limba română
+Lupul,lup,3,46.9955923167119,25.0370522302507,Mures,Vale,15156,Lupul,Munții noștri,Limba română
 Mărul Lupului,lup,3,46.8221277101144,24.8282086173243,Mures,Altele,7307,Mărul Lupului,Geomil 25000,Limba română
 Pădurea Lupului,lup,3,46.3048919638465,24.5594046565946,Mures,Pădure,14338,Pădurea Lupului,PDT,Limba română
 Pârâul Groapa Lupului,lup,3,46.9535966905255,25.0655241657266,Mures,Vale,7961,Pârâul Groapa Lupului,PDT,Limba română
@@ -2087,7 +2146,10 @@ Lacul Ursului,urs,2,46.6040546215217,25.0848308437891,Mures,Lac,6774,Lacul Ursul
 Părâul Cărarea Ursului,urs,2,46.6941661783665,24.8814782069269,Mures,Vale,12080,Părâul Cărarea Ursului,PDT,Limba română
 Pârâul Ursului,urs,2,46.6313128898877,25.0958388442867,Mures,Vale,13798,Pârâul Ursului,PDT,Limba română
 Pârâul Ursului,urs,2,46.9105453531305,25.227687344601,Mures,Vale,14313,Pârâul Ursului,PDT,Limba română
+Pârâul Ursului,urs,2,46.9434926421707,25.0456395355114,Mures,Vale,15290,Pârâul Ursului,Imperiul Habsburgic (1887),Limba română
+Pârâul Ursului,urs,2,46.1286407949723,24.7392530428788,Mures,Vale,15299,Pârâul Ursului,PDT,Limba română
 Ursul,urs,2,46.1079338124724,24.7906154150744,Mures,Vale,14085,Ursul,Geomil 25000,Limba română
+Ursul Mare,urs,2,47.0178234150903,25.1620815038811,Mures,Vale,15157,Ursul Mare,Munții noștri,Limba română
 Valea Ursui,urs,2,46.7179390517191,24.9692191603348,Mures,Vale,10850,Valea Ursui,Transilvania (1869-1870),Limba română
 Vârful Groapa Ursului,urs,2,46.6048002469424,24.9253460491874,Mures,Înălțime,6772,Vârful Groapa Ursului,Geomil 25000,Limba română
 Zăpodea Ursului,urs,2,46.9965922506588,24.8873864461365,Mures,Înălțime,11751,Zăpodea Ursului,PDT,Limba română
@@ -2285,7 +2347,9 @@ Plaiul Calului,cai,2,45.0960471898774,25.6531057885714,Prahova,Înălțime,11136
 Piscul Câinelui,câini,2,45.3463658856335,25.7760782669678,Prahova,Înălțime,806,Piscul Câinelui,Geomil 25000,Limba română
 Vâful Câinelui,câini,2,45.3440267578466,25.6156940954499,Prahova,Înălțime,574,Vâful Câinelui,Geomil 25000,Limba română,Vârful Cânelui,PDT,Limba română
 Valea Câinelui,câini,2,45.2078986094801,26.3310687880205,Prahova,Vale,6037,Valea Câinelui,Geomil 25000,Limba română
+Fața Caprei,capră,3,45.2166105438267,26.2008770473074,Prahova,Înălțime,15213,Fața Caprei,Munții noștri,Limba română
 Vârful Capra,capră,3,45.0590989774883,26.3791473000903,Prahova,Înălțime,3970,Vârful Capra,PDT,Limba română
+Valea Caprelor,capre negre,2,45.4364984598966,25.4820092541271,Prahova,Vale,15088,Valea Caprelor,ANCPI,Limba română
 Poiana Căprioarei,căprioară,3,45.1224406897423,26.4040893596278,Prahova,Poiană,3974,Poiana Căprioarei,Geomil 25000,Limba română,Poiana Căprioarei,PDT,Limba română
 Piscul Cățelei,cățea,3,45.2039760411859,25.926708085799,Prahova,Înălțime,809,Piscul Cățelei,Geomil 25000,Limba română
 Dealul Cerbului,cerb,2,45.1273310168565,26.242455378537,Prahova,Deal,12455,Dealul Cerbului,PDT,Limba română
@@ -2317,8 +2381,10 @@ Dealul Șerpilor,șerpi,2,45.1189128258041,25.9617303991157,Prahova,Deal,2826,De
 Poiana Țapului,țap,3,45.3941044868348,25.537691750855,Prahova,Localitate,9796,Poiana Țapului,Geomil 25000,Limba română
 Clăbucetul Taurului,taur,3,45.462456510365,25.5889951892681,Prahova,Înălțime,2773,Clăbucetul Taurului,Geomil 25000,Limba română
 La Crucea Ursului,urs,2,45.2671482284968,25.6087485986511,Prahova,Altele,7471,La Crucea Ursului,PDT,Limba română
+Pârâui Ursului,urs,2,45.4631206246688,25.9673882228507,Prahova,Vale,15044,Pârâui Ursului,Munții noștri,Limba română
 Plaiul Ursului,urs,2,45.3110194973496,25.9195284165093,Prahova,Înălțime,1571,Plaiul Ursului,Geomil 25000,Limba română
 Podu Ursului,urs,2,45.1735201109597,25.9240880379144,Prahova,Localitate,2829,Podu Ursului,Geomil 25000,Limba română
+La Măsurătoarea Urșilor,urși,3,45.4269105224059,25.512028682656,Prahova,Altele,15085,La Măsurătoarea Urșilor,Munții noștri,Limba română
 Pârâul Urșilor,urși,3,45.3386708910148,25.7691533465259,Prahova,Vale,13345,Pârâul Urșilor,Geomil 25000,Limba română
 Dealul Ursoaia,ursoaie,3,45.1185118446273,26.2647753215618,Prahova,Deal,31,Dealul Ursoaia,Geomil 25000,Limba română,Dealul Ursoaia,PDT,Limba română
 Dealul Ursoaia,ursoaie,3,45.1730144200849,26.220918280079,Prahova,Deal,7488,Dealul Ursoaia,Geomil 25000,Limba română
@@ -2424,6 +2490,7 @@ Valea Cailor,cai,2,47.6055976435139,22.9551658596011,Satu Mare,Vale,5956,Valea C
 Valea Câinelui,câini,2,47.6213934340529,23.0905393272935,Satu Mare,Vale,4418,Valea Câinelui,Geomil 25000,Limba română
 Coasta Caprei,capră,3,47.7934058781679,23.4194210205669,Satu Mare,Înălțime,4475,Coasta Caprei,Geomil 25000,Limba română
 Sâcu Caprelor,capre,3,47.67493644075,22.5227067967354,Satu Mare,Altele,5976,Sâcu Caprelor,Geomil 25000,Limba română
+Piatra Cerbului,cerb,2,48.0252626497233,23.1032783451123,Satu Mare,Înălțime,15199,Piatra Cerbului,Munții noștri,Limba română
 Câmpu Iepurelui,iepuri,2,47.6925306490624,22.339836947135,Satu Mare,Câmp,2607,Câmpu Iepurelui,Geomil 25000,Limba română
 La Iepuriște,iepuriște,3,47.6813922068471,22.4937563554477,Satu Mare,Altele,11977,La Iepuriște,Geomil 25000,Limba română
 Valea Iedului,iezi,3,47.4221242929562,22.7342141023902,Satu Mare,Vale,14035,Valea Iedului,Geomil 25000,Limba română,Valea Iedului,PDT,Limba română
@@ -2510,6 +2577,7 @@ Valea Lupului,lup,3,45.7637992827106,24.0400905263317,Sibiu,Vale,4067,Valea Lupu
 Culmea Lupilor,lupi,2,45.6556889939775,23.804985879531,Sibiu,Înălțime,13087,Culmea Lupilor,Geomil 25000,Limba română
 Curmătura Lupilor,lupi,2,45.596450101124,23.8239362097946,Sibiu,Altele,1160,Curmătura Lupilor,Geomil 25000,Limba română
 La Lupi,lupi,2,45.7601515870641,24.1542781566683,Sibiu,Altele,11207,La Lupi,ANCPI,Limba română
+Poiana Lupilor,lupi,2,45.6411201295941,23.9613679638279,Sibiu,Poiană,15302,Poiana Lupilor,Munții noștri,Limba română
 Lupoaia,lupoaie,3,45.6766234917294,24.6073518523396,Sibiu,Vale,11881,Lupoaia,Geomil 25000,Limba română
 Valea Lupoaiei,lupoaie,3,45.7492403297947,23.8696120516171,Sibiu,Vale,14804,Valea Lupoaiei,PDT,Limba română
 Dealul Lupoiului,lupoi,4,46.1950247965303,24.5337208087665,Sibiu,Deal,1902,Dealul Lupoiului,Geomil 25000,Limba română
@@ -2602,12 +2670,14 @@ Ciungiul Lupului,lup,3,47.7742086265236,25.6757649805647,Suceava,Înălțime,228
 Curmătura Lupului,lup,3,47.2603903193828,26.1696179207651,Suceava,Înălțime,13837,Curmătura Lupului,Geomil 25000,Limba română
 Dealul Lupului,lup,3,47.693909018637,25.8539544261828,Suceava,Deal,648,Dealul Lupului,Geomil 25000,Limba română
 Dealul Lupului,lup,3,47.7079801603299,25.8895082295821,Suceava,Deal,6319,Dealul Lupului,Geomil 25000,Limba română,Dealul Lupului,PDT,Limba română
+Pârâul Lupului,lup,3,47.5441546813424,25.060591275315,Suceava,Vale,15125,Pârâul Lupului,Munții noștri,Limba română
 Piciorul Lupului,lup,3,47.6986130414477,26.3241313460506,Suceava,Înălțime,1791,Piciorul Lupului,Geomil 25000,Limba română
 Piciorul Lupului,lup,3,47.3568203916642,26.0756601785977,Suceava,Înălțime,9074,Piciorul Lupului,PDT,Limba română,Piciorul Lupului,Geomil 25000,Limba română
 Valea Lupului,lup,3,47.3507152909959,26.4499963978038,Suceava,Vale,9560,Valea Lupului,Geomil 25000,Limba română
 Dealul Lupăriei,lupărie,3,47.5698390524513,26.0307032951266,Suceava,Deal,10754,Dealul Lupăriei,Imperiul Habsburgic (1887),Limba română
 Lupăria,lupărie,3,47.117302408274,25.5517370782879,Suceava,Vale,13409,Lupăria,Geomil 25000,Limba română
 Pârâul la Lupărie,lupărie,3,47.4310442170994,25.6128638162479,Suceava,Vale,9090,Pârâul la Lupărie,PDT,Limba română
+Scurtătura Lupilor,lupi,2,47.4594801654835,25.549965846266,Suceava,Altele,15068,Scurtătura Lupilor,Munții noștri,Limba română
 Valea Lupilor,lupi,2,47.4085044503496,26.695034340632,Suceava,Vale,11401,Valea Lupilor,Geomil 25000,Limba română
 Lupoaia,lupoaie,3,47.6891871377518,25.6196714333021,Suceava,Înălțime,2281,Lupoaia,Geomil 25000,Limba română
 Pârâul Lupoae,lupoaie,3,47.4314813513672,25.9975683401844,Suceava,Vale,9072,Pârâul Lupoae,PDT,Limba română
@@ -2638,12 +2708,14 @@ Pe Deal la Urs,urs,2,47.6635513030207,26.3524732216312,Suceava,Deal,7787,Pe Deal
 Piciorul Ursului,urs,2,47.3484050608126,25.8443122051482,Suceava,Înălțime,1781,Piciorul Ursului,Geomil 25000,Limba română
 Poiana Smidu Ursului,urs,2,47.5343949482158,25.3291090649738,Suceava,Poiană,1856,Poiana Smidu Ursului,Geomil 25000,Limba română
 Poiana Ursului,urs,2,47.7545653062109,25.6249418995973,Suceava,Poiană,645,Poiana Ursului,Geomil 25000,Limba română,Poeana Ursului,Imperiul Habsburgic (1887),Limba română
+Poiana Ursului,urs,2,47.140781982665,25.3297115713395,Suceava,Poiană,15162,Poiana Ursului,Munții noștri,Limba română
 Ursul,urs,2,47.4496727121715,25.0837212888079,Suceava,Vale,6379,Ursul,Geomil 25000,Limba română
 Ursul,urs,2,47.5533844261584,25.2134888116412,Suceava,Vale,13325,Ursul,Geomil 25000,Limba română
 Ursul,urs,2,47.1387063639224,25.5241561766736,Suceava,Vale,13412,Ursul,Geomil 25000,Limba română
 Ursul,urs,2,47.4567444740244,25.6440360487858,Suceava,Vale,13523,Ursul,Geomil 25000,Limba română
 Valea Ursului,urs,2,47.5181835704714,25.0653765382352,Suceava,Vale,9921,Valea Ursului,Geomil 25000,Limba română
 Dealul Ursăriei,ursărie,3,47.3033781897927,25.3949519536541,Suceava,Deal,9094,Dealul Ursăriei,PDT,Limba română,Dealul Ursăriei,Geomil 25000,Limba română
+Ursărie,ursărie,3,47.3901025192263,25.6741096162603,Suceava,Altele,15124,Ursărie,Munții noștri,Limba română
 Pârâul Ursoaicei,ursoaică,3,47.8949186988055,26.1200821551595,Suceava,Vale,7259,Pârâul Ursoaicei,PDT,Limba română
 Capul Ursoaia Mare,ursoaie,3,47.7433860416818,25.7434101564371,Suceava,Înălțime,1844,Capul Ursoaia Mare,Geomil 25000,Limba română
 Dealul Ursoii,ursoaie,3,47.8635906517239,25.5495445048757,Suceava,Deal,2285,Dealul Ursoii,Geomil 25000,Limba română
@@ -2661,6 +2733,7 @@ Preluca Vulpăriei,vulpărie,3,47.4451172029086,25.7303639620956,Suceava,Vale,13
 Valea Vulpăriei,vulpărie,3,47.4931093603171,26.3025616409489,Suceava,Vale,4927,Valea Vulpăriei,PDT,Limba română
 Șesul Zâmbroia,zâmbroaia,3,47.4522938161228,26.6066953939164,Suceava,Câmp,7790,Șesul Zâmbroia,Geomil 25000,Limba română,Șesu Zâmbroia,PDT,Limba română
 Zîmbroaia,zâmbroaia,3,47.4372307880628,25.0628971310853,Suceava,Înălțime,6380,Zîmbroaia,Geomil 25000,Limba română
+Piatra Zimbrului,zimbru,3,47.4464948354444,25.577885639769,Suceava,Înălțime,15066,Piatra Zimbrului,Munții noștri,Limba română
 Poeana Zimbrului,zimbru,3,47.3002863000726,25.0676660532945,Suceava,Poiană,11171,Poeana Zimbrului,Imperiul Habsburgic (1887),Limba română
 Valea Berbecilor,berbec,2,44.3920783732946,25.3195538202392,Teleorman,Vale,3749,Valea Berbecilor,PDT,Limba română
 Bivolitza,bivoliță,4,44.1386862043103,25.2195391947608,Teleorman,Localitate,5782,Bivolitza,Austriacă,Limba română
@@ -2835,7 +2908,6 @@ V. Kaprioara,căprioară,3,44.5670975242614,24.0771994337026,Valcea,Vale,5831,V.
 Valea Căprioarei,căprioară,3,44.603229825447,24.0650108955379,Valcea,Vale,2958,Valea Căprioarei,Geomil 25000,Limba română,Valea Căprioarei,PDT,Limba română
 Valea Căprioarei,căprioară,3,44.7015674542868,23.8822817436816,Valcea,Vale,3089,Valea Căprioarei,Geomil 25000,Limba română,Valea Căprioarei,PDT,Limba română
 Cățelul,cățel,3,44.8261378468854,23.9566288895937,Valcea,Localitate,4755,Cățelul,PDT,Limba română
-Cerbu,cerb,2,45.2495900642261,23.7025634068256,Valcea,Înălțime,11349,Cerbu,ANCPI,Limba română
 Cerbul,cerb,2,45.4650689552684,24.3606382166987,Valcea,Vale,7508,Cerbul,Geomil 25000,Limba română
 Coasta Cerbului,cerb,2,45.144079032443,23.920316937217,Valcea,Înălțime,3100,Coasta Cerbului,Geomil 25000,Limba română
 Dealul Cerbu,cerb,2,45.2494619359399,24.4430889052061,Valcea,Deal,1449,Dealul Cerbu,Geomil 25000,Limba română
@@ -2843,6 +2915,7 @@ Dealul Cerbului,cerb,2,45.479068394821,24.3624956940637,Valcea,Deal,10188,Dealul
 Dealul la Cerbul Cocoșat,cerb,2,44.6332656724167,24.010552566722,Valcea,Deal,12573,Dealul la Cerbul Cocoșat,PDT,Limba română
 Dealul Malul Cerbului,cerb,2,45.0817575308392,24.2067246334731,Valcea,Deal,354,Dealul Malul Cerbului,Geomil 25000,Limba română
 Malul Cerbului,cerb,2,45.0871721044668,24.20762235572,Valcea,Altele,355,Malul Cerbului,Geomil 25000,Limba română
+Pârâul Cerbului,cerb,2,45.3928831359261,23.63339057621,Valcea,Vale,15208,Pârâul Cerbului,Munții noștri,Limba română
 Piscul Cerbului,cerb,2,44.7987900837309,23.8777312551859,Valcea,Înălțime,8422,Piscul Cerbului,PDT,Limba română
 Piscul Cerbului,cerb,2,45.4486495975305,24.1494516672318,Valcea,Înălțime,12561,Piscul Cerbului,Geomil 25000,Limba română
 Poiana Cerbului,cerb,2,45.5203793148621,24.4026801501988,Valcea,Poiană,10187,Poiana Cerbului,Geomil 25000,Limba română
@@ -3030,6 +3103,7 @@ Valea Cerbului,cerb,2,45.9232569504519,27.1157292960955,Vrancea,Vale,5342,Valea 
 Piatra Ciutei,ciută,3,45.9477694244209,26.59599990908,Vrancea,Înălțime,2794,Piatra Ciutei,Geomil 25000,Limba română
 Piscul Ciutei,ciută,3,46.0533807412119,26.804067784099,Vrancea,Înălțime,11306,Piscul Ciutei,Geomil 25000,Limba română
 Poiana Coada Iepei,iapă,3,45.7421594208589,26.577026643998,Vrancea,Poiană,783,Poiana Coada Iepei,Geomil 25000,Limba română
+Jderul,jder,3,45.6887617782899,26.3924598159574,Vrancea,Vale,15203,Jderul,Munții noștri,Limba română
 Dealul Budăru Lupului,lup,3,45.8666573240705,26.6702799835208,Vrancea,Deal,9535,Dealul Budăru Lupului,Moldova (1892-1898),Limba română
 Dealul Colțul Lupului,lup,3,46.0536404309442,26.7772555623988,Vrancea,Deal,9207,Dealul Colțul Lupului,PDT,Limba română
 Dealul Groapa Lupului,lup,3,45.7540796638838,26.889771827749,Vrancea,Deal,772,Dealul Groapa Lupului,Geomil 25000,Limba română
@@ -3049,6 +3123,7 @@ Pădurea Crângul Mieilor,miei,3,45.522832668065,27.2260710418493,Vrancea,Pădur
 Culmea Mioarei,mioare,4,45.833731956955,26.5947166776697,Vrancea,Înălțime,2128,Culmea Mioarei,Geomil 25000,Limba română
 Dealul Oei,oi (ovine),3,45.6963665988015,26.8074613494862,Vrancea,Deal,9243,Dealul Oei,PDT,Limba română
 Dealul Oilor,oi (ovine),3,45.6689337098402,26.8048221230212,Vrancea,Deal,5249,Dealul Oilor,Geomil 25000,Limba română
+Pârâul Oii,oi (ovine),3,45.6894571103391,26.3851414435389,Vrancea,Vale,15202,Pârâul Oii,Munții noștri,Limba română
 Plaiul Oilor,oi (ovine),3,45.7283819963722,26.6763645648549,Vrancea,Înălțime,778,Plaiul Oilor,Geomil 25000,Limba română
 Poiana Oii,oi (ovine),3,45.6355785762822,26.8840106819109,Vrancea,Poiană,2152,Poiana Oii,Geomil 25000,Limba română
 Piocul Pisicei,pisică de munte,2,45.5828696672545,26.9301551096812,Vrancea,Altele,8754,Piocul Pisicei,PDT,Limba română

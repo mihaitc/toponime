@@ -17,12 +17,14 @@ Plaiul Oii,oi (ovine),3,44.9166400985231,24.7388408526965,Arges,Înălțime,9698
 Plaiul Oii,oi (ovine),3,45.2147699787413,24.5794990613612,Arges,Înălțime,12646,Plaiul Oii,Geomil 25000,Limba română
 Plaju Oji,oi (ovine),3,45.5218369066366,24.5455793123633,Arges,Înălțime,12088,Plaju Oji,Valahia-Moldova (1773-1774),Limba română
 Plaju Oji,oi (ovine),3,45.4656992450768,24.5329143825683,Arges,Înălțime,12089,Plaju Oji,Valahia-Moldova (1773-1774),Limba română
+Valea Oilor,oi (ovine),3,45.2843774990489,25.0016089942035,Arges,Vale,15328,Valea Oilor,PDT,Limba română
 Piciorul Mioarei,mioare,4,46.1946510155993,26.9851043954565,Bacau,Înălțime,7829,Piciorul Mioarei,Geomil 25000,Limba română
 La Buda Oii,oi (ovine),3,46.195221720941,27.1373006422464,Bacau,Altele,12636,La Buda Oii,Geomil 25000,Limba română
 Dealu Oilor,oi (ovine),3,46.9893897545633,22.1433427111606,Bihor,Deal,9938,Dealu Oilor,Geomil 25000,Limba română
 Oile Împietrite,oi (ovine),3,46.6389027927378,22.2312677587003,Bihor,Altele,984,Oile Împietrite,Geomil 25000,Limba română
 Dealul Oii,oi (ovine),3,47.2553828633211,24.6501058115432,Bistrita Nasaud,Deal,4518,Dealul Oii,Geomil 25000,Limba română
 Dealul Oilor,oi (ovine),3,47.3447149813801,24.0667055581569,Bistrita Nasaud,Deal,7097,Dealul Oilor,Geomil 25000,Limba română
+Izvorul Oii,oi (ovine),3,47.5113219455664,24.9256030202347,Bistrita Nasaud,Vale,15126,Izvorul Oii,Munții noștri,Limba română
 Cotul Oilor,oi (ovine),3,47.5787419535981,26.5635643396341,Botosani,Apă-deal-câmpie,14066,Cotul Oilor,Geomil 25000,Limba română
 Hârtopul Oilor,oi (ovine),3,48.0619882040346,26.7410303492367,Botosani,Altele,2333,Hârtopul Oilor,Geomil 25000,Limba română
 Hârtopul Oilor,oi (ovine),3,47.6767826546158,27.1720963436629,Botosani,Altele,2372,Hârtopul Oilor,Geomil 25000,Limba română
@@ -44,8 +46,10 @@ Fântâna Oilor,oi (ovine),3,44.0546515165074,23.6524437901296,Dolj,Altele,13603
 Măgura Oi,oi (ovine),3,44.0490291325067,23.41535929779,Dolj,Înălțime,11806,Măgura Oi,PDT,Limba română
 Rediu Oiei,oi (ovine),3,45.9770585581099,27.9632509756079,Galati,Altele,9644,Rediu Oiei,Moldova (1892-1898),Limba română,Rediu Oii,Geomil 25000,Limba română
 Valea Oii,oi (ovine),3,45.5202442760849,28.0017264620485,Galati,Vale,3498,Valea Oii,Geomil 25000,Limba română
+Valea Oilor,oi (ovine),3,45.900566000075,27.964543465583,Galati,Vale,14992,Valea Oilor,PDT,Limba română
 Lacul Oii,oi (ovine),3,43.7601072868974,25.8043407515209,Giurgiu,Lac,3340,Lacul Oii,PDT,Limba română
 Dealul Oilor,oi (ovine),3,45.1627567569396,23.6863289361901,Gorj,Deal,240,Dealul Oilor,Geomil 25000,Limba română
+Șaua Fântâna Oii,oi (ovine),3,45.2077616124345,23.4559483882442,Gorj,Înălțime,15059,Șaua Fântâna Oii,Munții noștri,Limba română
 Scursoarea Oilor,oi (ovine),3,45.0157714445472,23.059720047349,Gorj,Vale,9788,Scursoarea Oilor,Geomil 25000,Limba română
 Dealul Oilor,oi (ovine),3,47.2448498490708,27.0614064656542,Iasi,Deal,6612,Dealul Oilor,PDT,Limba română
 Valea Oii,oi (ovine),3,47.4981559065958,23.6044949473784,Maramures,Vale,1039,Valea Oii,Geomil 25000,Limba română
@@ -85,5 +89,6 @@ La Balta Oilor,oi (ovine),3,46.159951417998,27.6105827851823,Vaslui,Altele,723,L
 Culmea Mioarei,mioare,4,45.833731956955,26.5947166776697,Vrancea,Înălțime,2128,Culmea Mioarei,Geomil 25000,Limba română
 Dealul Oei,oi (ovine),3,45.6963665988015,26.8074613494862,Vrancea,Deal,9243,Dealul Oei,PDT,Limba română
 Dealul Oilor,oi (ovine),3,45.6689337098402,26.8048221230212,Vrancea,Deal,5249,Dealul Oilor,Geomil 25000,Limba română
+Pârâul Oii,oi (ovine),3,45.6894571103391,26.3851414435389,Vrancea,Vale,15202,Pârâul Oii,Munții noștri,Limba română
 Plaiul Oilor,oi (ovine),3,45.7283819963722,26.6763645648549,Vrancea,Înălțime,778,Plaiul Oilor,Geomil 25000,Limba română
 Poiana Oii,oi (ovine),3,45.6355785762822,26.8840106819109,Vrancea,Poiană,2152,Poiana Oii,Geomil 25000,Limba română

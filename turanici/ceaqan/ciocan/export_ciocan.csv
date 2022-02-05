@@ -1,13 +1,17 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
 Ciocanu,ciocan,3,45.4554214795932,25.2368785217982,Arges,Localitate,14696,Ciocanu,ANCPI,Limba română
+Ciocanu,ciocan,3,45.510285440557,24.6166047523005,Arges,Înălțime,15038,Ciocanu,ANCPI,Limba română
 Dealul Ciocanu,ciocan,3,44.6998927498784,24.7013899145728,Arges,Deal,14791,Dealul Ciocanu,PDT,Limba română
 Vârful Ciocanului,ciocan,3,45.2622655548431,24.9686022796952,Arges,Înălțime,14719,Vârful Ciocanului,ANCPI,Limba română
+Dealul lui Ciocan,ciocan,3,47.3521957307235,24.6815193194995,Bistrita Nasaud,Deal,15154,Dealul lui Ciocan,Munții noștri,Limba română
 Dealul Balta lui Ciocan,ciocan,3,47.7766892746482,26.7740392743695,Botosani,Deal,14746,Dealul Balta lui Ciocan,ANCPI,Limba română
 Dealul Ciocanului,ciocan,3,47.590888147046,26.8235192771173,Botosani,Deal,14723,Dealul Ciocanului,ANCPI,Limba română
 La Ciocan,ciocan,3,47.7614105696166,26.6010321428563,Botosani,Altele,14770,La Ciocan,ANCPI,Limba română
 Grindul lui Ciocan,ciocan,3,44.3138594238663,27.5090758626099,Calarasi,Apă-deal-câmpie,14755,Grindul lui Ciocan,PDT,Limba română
+Poiana Ciocanul,ciocan,3,44.0049612806075,23.8975021682775,Dolj,Poiană,15294,Poiana Ciocanul,PDT,Limba română
 Pădurea Ciocanu,ciocan,3,44.7091724261392,26.5434191566883,Ialomita,Pădure,14752,Pădurea Ciocanu,ANCPI,Limba română
 Dealul Pinii lui Ciocan,ciocan,3,44.9154254441066,22.5587331735847,Mehedinti,Deal,14786,Dealul Pinii lui Ciocan,ANCPI,Limba română
+Valea Ciocanului,ciocan,3,44.5718546416079,22.7943967129752,Mehedinti,Vale,15247,Valea Ciocanului,PDT,Limba română
 Piscul lui Ciocan,ciocan,3,45.2835529770398,26.0537764726062,Prahova,Înălțime,14717,Piscul lui Ciocan,ANCPI,Limba română
 Coasta lui Ciocan,ciocan,3,45.9486923935774,23.8485633013148,Sibiu,Înălțime,14742,Pădurea Cioran,PDT,Limba română
 Ciokan,ciocan,3,44.1330004839775,24.9181699031888,Teleorman,Localitate,14743,Ciokan,Austriacă,Limba română

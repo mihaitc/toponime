@@ -1,0 +1,6 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Grindul Săcuiului,săcui,3,46.3511616930661,26.6674875629466,Bacau,Înălțime,4585,,Grindul Săcuiului,Geomil 25000,Limba română
+Pârâul Săcuiului,săcui,3,45.5541969699406,26.3476306096609,Buzau,Vale,9655,15095,Pârâul Săcuiului,Geomil 25000,Limba română
+Piatra Săcuiului,săcui,3,45.5265087259296,26.3220421975008,Buzau,Înălțime,15095,,Piatra Săcuiului,Munții noștri,Limba română
+Valea Săcuiului,săcui,3,45.5254029768667,26.3108771705225,Buzau,Vale,15096,15095,Valea Săcuiului,Munții noștri,Limba română
+Săcuieu,săcui,3,46.8229810800018,22.8876766320531,Cluj,Localitate,7021,,Săcuieu,Geomil 25000,Limba română

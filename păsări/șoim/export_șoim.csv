@@ -1,6 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
 Vârfu Șoimului,șoim,2,46.0710312893842,23.4393269963354,Alba,Înălțime,2576,Vârfu Șoimului,Geomil 25000,Limba română
 Pârâul Șoimului,șoim,2,46.3974668698851,22.3044320644613,Arad,Vale,7651,Pârâul Șoimului,PDT,Limba română
+Colții Șoimilor,șoim,2,45.2540318384099,25.2563197786042,Arges,Înălțime,15078,Colții Șoimilor,Munții noștri,Limba română
 Dealul Șoimului,șoim,2,45.2730716369651,24.5149280187547,Arges,Deal,12582,Dealul Șoimului,British Maps (1944),Limba română
 Dealul Șoimului,șoim,2,46.6502152319338,27.2289232892576,Bacau,Deal,1600,Dealul Șoimului,Geomil 25000,Limba română
 Dealul Șoimului,șoim,2,46.3515083775396,27.0575168759676,Bacau,Deal,7853,Dealul Șoimului,Geomil 25000,Limba română
@@ -69,6 +70,7 @@ Valea Șoimului,șoim,2,45.0462168560119,26.2015757317911,Prahova,Vale,10089,Val
 Vârful Șoimului,șoim,2,45.18176646324,26.2106010276903,Prahova,Înălțime,7481,Vârful Șoimului,Geomil 25000,Limba română
 Piciorul Șoimului,șoim,2,47.2590375700144,23.4443578401826,Salaj,Înălțime,6939,Piciorul Șoimului,Geomil 25000,Limba română
 Pârâu Șoimu,șoim,2,45.730420160281,23.6910190018149,Sibiu,Vale,12853,Pârâu Șoimu,Geomil 25000,Limba română
+Piatra Șoimului,șoim,2,47.4485840969621,25.555252453939,Suceava,Înălțime,15067,Piatra Șoimului,Munții noștri,Limba română
 Șoimul,șoim,2,47.6421407609161,25.8475942547411,Suceava,Vale,12918,Șoimul,Geomil 25000,Limba română
 La Șoimul,șoim,2,43.7993025847954,25.3583967977626,Teleorman,Altele,3786,La Șoimul,PDT,Limba română,Soimu,Austriacă,Limba română
 Șoimu,șoim,2,43.8325270274966,25.4451442169934,Teleorman,Localitate,3413,Șoimu,PDT,Limba română

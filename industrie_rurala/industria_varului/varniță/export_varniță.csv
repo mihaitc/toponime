@@ -1,6 +1,8 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3,Nume 4,Hartă 4,Limbă 4
+Cioaca Varnița,varniță,3,46.232317177094,21.7429895407536,Arad,Înălțime,15028,Cioaca Varnița,PDT,Limba română
 Cioaca Varnițelor,varniță,3,46.2749090125534,21.740588697418,Arad,Înălțime,14253,Cioaca Varnițelor,PDT,Limba română
 Dealu Varniței,varniță,3,46.0716432276381,21.9774029646248,Arad,Deal,6309,Dealu Varniței,Geomil 25000,Limba română
+Valea Varniței,varniță,3,46.1992517606048,21.6853877213114,Arad,Vale,15029,Valea Varniței,PDT,Limba română
 Varnița,varniță,3,46.0227895507357,21.8058026985264,Arad,Localitate,6307,Varnița,Geomil 25000,Limba română
 Valea Varniței,varniță,3,45.2618511863587,24.6356023780795,Arges,Vale,5070,Valea Varniței,PDT,Limba română
 Valea Varniții,varniță,3,45.20419177003,24.9668197062938,Arges,Vale,4965,Valea Varniții,Geomil 25000,Limba română
@@ -10,6 +12,7 @@ Varnița,varniță,3,46.5845329572144,22.3185938034307,Bihor,Altele,4079,Varniț
 Pădurea Varniței,varniță,3,47.6050845198451,26.8154405295779,Botosani,Pădure,1759,Pădurea Varniței,Geomil 25000,Limba română
 Dealul Varniței,varniță,3,45.6305542225088,25.7695058070925,Brasov,Deal,13846,Dealul Varniței,Geomil 25000,Limba română
 Movila Varniței,varniță,3,45.6023675352985,25.6184578587075,Brasov,Înălțime,6845,Movila Varniței,PDT,Limba română
+Pârâul Varnița,varniță,3,45.449885145154,25.3578694581094,Brasov,Vale,15175,Pârâul Varnița,Munții noștri,Limba română
 Părâul Varniței,varniță,3,45.8179298698507,25.3412965047852,Brasov,Vale,10533,Părâul Varniței,Imperiul Habsburgic (1887),Limba română
 Valea Varnițelor,varniță,3,45.1931979954106,26.4138454083055,Buzau,Vale,6034,Valea Varnițelor,Geomil 25000,Limba română,Gârla Varnițelor,PDT,Limba română
 Cariera Varnița,varniță,3,45.0300003774762,21.7553156176478,Caras Severin,Altele,14354,Cariera Varnița,PDT,Limba română

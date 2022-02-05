@@ -2,4 +2,5 @@
 <Placemark><name>Bâtca Șoimăriei</name><description>Nume: Bâtca Șoimăriei, Tip: șoimărie, Nivel: 2, Județ: Suceava, Formă: Înălțime, ID: 6386 <br /><b>Variante</b><br />Nume: Bâtca Șoimăriei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>25.577791,47.347581,0</coordinates></Point></Placemark>
 <Placemark><name>Poiana Șoimăriei</name><description>Nume: Poiana Șoimăriei, Tip: șoimărie, Nivel: 2, Județ: Suceava, Formă: Poiană, ID: 9085, ID Părinte: 6386 <br /><b>Variante</b><br />Nume: Poiana Șoimăriei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>25.566254,47.348896,0</coordinates></Point></Placemark>
 <Placemark><LineString id="9085_6386"><tessellate>1</tessellate><coordinates>25.566254,47.348896,0.
-25.577791,47.347581,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>
+25.577791,47.347581,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Șoimăria</name><description>Nume: Șoimăria, Tip: șoimărie, Nivel: 2, Județ: Vrancea, Formă: Altele, ID: 15099 <br /><b>Variante</b><br />Nume: Șoimăria, Hartă: Munții noștri, Limbă: Limba română</description><Point><coordinates>26.494619,45.818369,0</coordinates></Point></Placemark></Document></kml>

@@ -1,6 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Dealul Bourului,bour,3,46.3953983612831,26.8206165744312,Bacau,Deal,7825,Dealul Bourului,Geomil 25000,Limba română
 La Bour,bour,3,46.6037101643497,26.8159952578539,Bacau,Altele,7870,La Bour,Geomil 25000,Limba română,La Bour,Moldova (1892-1898),Limba română
+Pădurea Bour,bour,3,46.6631588279399,27.1023480135701,Bacau,Pădure,15336,Pădurea Bour,ANCPI,Limba română
 Vârful Bourului,bour,3,46.1267707424746,26.7948154894755,Bacau,Înălțime,12943,Vârful Bourului,Geomil 25000,Limba română
 Bour,bour,3,48.058354185777,26.2605360314439,Botosani,Înălțime,4900,Bour,Geomil 25000,Limba română
 Dealul Bourului,bour,3,48.1365696636221,26.3522661123939,Botosani,Deal,2012,Dealul Bourului,Geomil 25000,Limba română

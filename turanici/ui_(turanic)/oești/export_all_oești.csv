@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Oești-Pământeni,oești,3,45.2503058043555,24.6563030663749,Arges,Localitate,15317,,Oești-Pământeni,PDT,Limba română
+Pârâul Oeștilor,oești,3,45.2553035605462,24.6707379348647,Arges,Vale,15318,15317,Pârâul Oeștilor,PDT,Limba română

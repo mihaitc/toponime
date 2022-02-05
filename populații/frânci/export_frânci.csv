@@ -1,6 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
 Frâncu,frânc,3,45.4759003013531,22.1028410446666,Caras Severin,Înălțime,14343,Frâncu,ANCPI,Limba română
 Frâncul,frânc,3,45.3114489476017,22.5195657840568,Caras Severin,Înălțime,14357,Frâncul,ANCPI,Limba română
+Pârâul Frâncului,frânc,3,45.3456774891503,22.6198520613824,Caras Severin,Vale,15074,Pârâul Frâncului,Munții noștri,Limba română
 Poiana Stâna Frâncului,frânc,3,45.1631994881727,22.1567939527901,Caras Severin,Poiană,11497,Poiana Stâna Frâncului,Geomil 25000,Limba română
 Tâlva Frâncului,frânc,3,45.1913069731092,22.2790721120441,Caras Severin,Înălțime,6134,Tâlva Frâncului,Geomil 25000,Limba română
 Dealu Frâncu,frânc,3,46.7868661397109,23.0624953830615,Cluj,Deal,14220,Dealu Frâncu,Geomil 25000,Limba română
@@ -8,6 +9,7 @@ Poiana Frâncul Mare,frânc,3,45.0291291337817,23.3823795035066,Gorj,Poiană,805
 Frâncești,frâncești,3,45.0867718680044,23.0583581182315,Gorj,Localitate,9789,Frâncești,Geomil 25000,Limba română
 Frâncești,frâncești,3,47.2198706260715,27.2152147830277,Iasi,Localitate,9569,Frâncești,Moldova (1892-1898),Limba română
 Frâncenii Boiului,frânceni,3,47.4005964296989,23.6178389146998,Maramures,Localitate,9927,Frâncenii Boiului,Geomil 25000,Limba română
+Plaiul Frânca,frânca,3,45.3975175166054,25.7040789302035,Prahova,Înălțime,15091,Plaiul Frânca,Munții noștri,Limba română
 Frâncenii de Piatra,frânceni,3,47.3217742683972,23.6750909885977,Salaj,Localitate,6942,Frâncenii de Piatra,Geomil 25000,Limba română
 Valea Frâncului,frânc,3,43.9437314188332,25.2702622198185,Teleorman,Vale,9457,Valea Frâncului,Geomil 25000,Limba română
 Valea Frâncului,frânc,3,44.6536519674103,23.8980789769172,Valcea,Vale,12178,Valea Frâncului,Geomil 25000,Limba română

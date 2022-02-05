@@ -165,10 +165,13 @@ Dealul Lupilor,lupi,2,46.0941692117277,25.2937591402718,Brasov,Deal,2727,,Dealul
 Dealul Lupilor,lupi,2,45.9118018479126,25.3260016514095,Brasov,Deal,6806,6807,Dealul Lupilor,PDT,Limba română
 Gardul Lupilor,lupi,2,46.234308310717,24.9920487130456,Brasov,Altele,7950,,Gardul Lupilor,Geomil 25000,Limba română
 Valea Lupilor,lupi,2,45.9125829636222,25.329045891734,Brasov,Vale,6807,,Valea Lupilor,PDT,Limba română
+Valea Lupilor,lupi,2,45.4924036549669,25.491730690215,Brasov,Vale,15082,,Valea Lupilor,Munții noștri,Limba română
 Valea Lupoaei,lupoaie,3,45.6010384218325,25.2497529730265,Brasov,Vale,8555,,Valea Lupoaei,PDT,Limba română
+Izvorul Lupul,lup,3,45.6734875048586,26.3578771825101,Buzau,Vale,15051,,Izvorul Lupul,Munții noștri,Limba română
 P. Lupului,lup,3,45.2267122903129,26.5219820345975,Buzau,Poiană,13347,,P. Lupului,Austriacă,Limba română
 Plaiul Lupului,lup,3,45.1887709382946,26.3579415919418,Buzau,Înălțime,6036,,Plaiul Lupului,Geomil 25000,Limba română,Plaiul Lupului,PDT,Limba română
 Poiana Lupului,lup,3,45.1888133363757,26.3647163369329,Buzau,Poiană,7498,6036,Poiana Lupului,PDT,Limba română
+Râpa Lupului,lup,3,45.3862586989788,26.2616367325946,Buzau,Înălțime,15217,,Râpa Lupului,Munții noștri,Limba română
 Seciu Lupului,lup,3,45.5059022125938,26.2622841177971,Buzau,Altele,2814,,Seciu Lupului,Geomil 25000,Limba română
 Val. Lupului,lup,3,45.3468360442146,26.3166267390444,Buzau,Vale,5760,4000,Val. Lupului,Austriacă,Limba română
 Valea Lupului,lup,3,45.3317341700386,26.2181658196584,Buzau,Vale,2817,,Valea Lupului,Geomil 25000,Limba română
@@ -224,6 +227,7 @@ Fața Lupului,lup,3,46.8151409151648,22.9007455364698,Cluj,Înălțime,5897,5898
 Pădurea Lupului,lup,3,47.2073315531162,23.8778981720256,Cluj,Pădure,4397,,Pădurea Lupului,Geomil 25000,Limba română
 Pârâul Lupului,lup,3,46.7649359720223,23.2938618412936,Cluj,Vale,10284,,Pârâul Lupului,PDT,Limba română
 Părâul Lupului,lup,3,46.6760403255004,23.5704886353377,Cluj,Vale,10540,,Părâul Lupului,Imperiul Habsburgic (1887),Limba română
+Șaua Lupului,lup,3,46.5640643861121,23.6661876390856,Cluj,Înălțime,15229,7059,Șaua Lupului,Munții noștri,Limba română
 Valea Lupului,lup,3,46.8265871989055,22.9018990124239,Cluj,Vale,5898,,Valea Lupului,Geomil 25000,Limba română
 Valea Lupului,lup,3,46.8508433875081,23.0951052734324,Cluj,Vale,10407,,Valea Lupului,Geomil 25000,Limba română
 Dealu Lupilor,lupi,2,46.911808269511,22.9385064097333,Cluj,Deal,1061,,Dealu Lupilor,Geomil 25000,Limba română
@@ -243,6 +247,7 @@ Dealul Lupului,lup,3,45.758827509866,26.1264712219722,Covasna,Deal,2790,,Dealul 
 Groapa Lupului,lup,3,45.7778684881949,26.1543819081216,Covasna,Altele,2791,,Groapa Lupului,Geomil 25000,Limba română
 Groapa Lupului,lup,3,45.8524774510317,26.0486793146198,Covasna,Altele,7922,,Groapa Lupului,Geomil 25000,Limba română
 Pârâul Lupului,lup,3,45.7142967165368,25.8630073523142,Covasna,Vale,12882,,Pârâul Lupului,Imperiul Habsburgic (1887),Limba română
+Pârâul Lupului,lup,3,45.6106833970184,26.3086551272821,Covasna,Vale,15048,,Pârâul Lupului,Munții noștri,Limba română
 Poiana Lupul Mic,lup,3,46.2409729944926,25.6563470420272,Covasna,Poiană,4370,,Poiana Lupul Mic,Geomil 25000,Limba română
 Dealul Lupilor,lupi,2,45.9260803413722,25.6775838616931,Covasna,Deal,2743,,Dealul Lupilor,Geomil 25000,Limba română
 Lunca Valea Lupului,lup,3,44.8154450333998,25.2560382392572,Dambovita,Apă-deal-câmpie,7457,10147,Lunca Valea Lupului,Geomil 25000,Limba română,Lunca Valea Lupului,PDT,Limba română
@@ -357,6 +362,7 @@ Groapa Lupului,lup,3,47.1195709395155,27.2411254360262,Iasi,Altele,8888,8889,Gro
 Lupul,lup,3,47.2064309064571,27.4808032312473,Iasi,Vale,4829,,Lupul,Geomil 25000,Limba română
 Pădurea la Lup,lup,3,47.0218481232484,27.4232620211234,Iasi,Pădure,1652,,Pădurea la Lup,Geomil 25000,Limba română
 Piciorul Lupului,lup,3,47.0368442431323,27.5765691069238,Iasi,Localitate,8892,,Piciorul Lupului,PDT,Limba română
+Poiana Lupului,lup,3,46.9717094239221,27.1544251915876,Iasi,Poiană,15296,,Poiana Lupului,PDT,Limba română
 Valea Lupului,lup,3,47.1804762270195,26.9866271209845,Iasi,Vale,2238,2239,Valea Lupului,Geomil 25000,Limba română
 Valea Lupului,lup,3,47.1799924384187,27.498905585014,Iasi,Localitate,4828,4829,Valea Lupului,Geomil 25000,Limba română
 Valea Lupului,lup,3,47.1197729687388,27.6977069248143,Iasi,Vale,6599,,Valea Lupului,PDT,Limba română
@@ -379,6 +385,8 @@ Vadul Lupului,lup,3,47.4673386452248,23.5603730752446,Maramures,Altele,1038,,Vad
 Valea Lupului,lup,3,47.4189937834002,23.7930670401876,Maramures,Vale,4436,4435,Valea Lupului,Geomil 25000,Limba română
 Valea Lupului,lup,3,47.7082067779787,23.6559839481204,Maramures,Vale,4445,,Valea Lupului,Geomil 25000,Limba română,Valea Lupului,PDT,Limba română
 Valea Lupului,lup,3,47.7313898853295,23.3804017687994,Maramures,Vale,4450,,Valea Lupului,Geomil 25000,Limba română
+Vârful Lupului,lup,3,47.7302956022359,23.6140393491358,Maramures,Înălțime,15198,,Vârful Lupului,Munții noștri,Limba română
+Groapa Lupilor,lupi,2,47.8999356348554,24.482544180944,Maramures,Înălțime,15146,,Groapa Lupilor,Munții noștri,Limba română
 Obcina Lupoaiei,lupoaie,3,47.4297279921599,23.9468116634222,Maramures,Înălțime,4441,,Obcina Lupoaiei,Geomil 25000,Limba română,Obcina Lupoaiei,PDT,Limba română
 Balta Lupului,lup,3,44.439033175644,22.5374913323624,Mehedinti,Apă-deal-câmpie,170,,Balta Lupului,Geomil 25000,Limba română
 Cotu Lupului,lup,3,44.3815405152605,22.6301987979614,Mehedinti,Apă-deal-câmpie,423,,Cotu Lupului,Geomil 25000,Limba română
@@ -389,6 +397,7 @@ Piscul Lupului,lup,3,44.6329688274,23.3095707119513,Mehedinti,Înălțime,7446,,
 Valea Lupului,lup,3,44.637327652923,23.3171615416508,Mehedinti,Vale,7447,7446,Valea Lupului,PDT,Limba română
 Valea Lupului,lup,3,44.6877137815895,23.0023313889176,Mehedinti,Vale,13475,,Valea Lupului,PDT,Limba română
 La Groapa de Lupi,lupi,2,44.6617425804311,22.8076301161904,Mehedinti,Altele,182,,La Groapa de Lupi,Geomil 25000,Limba română
+Ogașul cu Lupi,lupi,2,44.5526654338577,22.8257053172383,Mehedinti,Vale,15246,,Ogașul cu Lupi,PDT,Limba română
 Dealul Lupoaiei,lupoaie,3,44.9333436431217,22.8693246573524,Mehedinti,Deal,202,,Dealul Lupoaiei,Geomil 25000,Limba română
 Coasta Lupului,lup,3,46.9623423366799,25.2466823678261,Mures,Înălțime,4285,,Coasta Lupului,PDT,Limba română
 Dealul Fântâna Lupului,lup,3,46.4140898236134,24.1785906357551,Mures,Deal,13995,,Dealul Fântâna Lupului,PDT,Limba română
@@ -400,6 +409,7 @@ Gaura Lupului,lup,3,46.6738243685793,24.8153832971006,Mures,Altele,5390,,Gaura L
 Gaura Lupului,lup,3,46.3609616924042,23.8821942123534,Mures,Altele,13247,,Gaura Lupului,Transilvania (1769-1773),Limba română
 Groapa Lupului,lup,3,46.2765069961243,24.2067809073954,Mures,Altele,1919,,Groapa Lupului,Geomil 25000,Limba română
 Groapa Lupului,lup,3,46.7555927710472,24.3934227694058,Mures,Altele,5388,,Groapa Lupului,Geomil 25000,Limba română
+Lupul,lup,3,46.9955923167119,25.0370522302507,Mures,Vale,15156,,Lupul,Munții noștri,Limba română
 Mărul Lupului,lup,3,46.8221277101144,24.8282086173243,Mures,Altele,7307,,Mărul Lupului,Geomil 25000,Limba română
 Pădurea Lupului,lup,3,46.3048919638465,24.5594046565946,Mures,Pădure,14338,,Pădurea Lupului,PDT,Limba română
 Pârâul Groapa Lupului,lup,3,46.9535966905255,25.0655241657266,Mures,Vale,7961,,Pârâul Groapa Lupului,PDT,Limba română
@@ -495,6 +505,7 @@ Valea Lupului,lup,3,45.7637992827106,24.0400905263317,Sibiu,Vale,4067,,Valea Lup
 Culmea Lupilor,lupi,2,45.6556889939775,23.804985879531,Sibiu,Înălțime,13087,,Culmea Lupilor,Geomil 25000,Limba română
 Curmătura Lupilor,lupi,2,45.596450101124,23.8239362097946,Sibiu,Altele,1160,,Curmătura Lupilor,Geomil 25000,Limba română
 La Lupi,lupi,2,45.7601515870641,24.1542781566683,Sibiu,Altele,11207,,La Lupi,ANCPI,Limba română
+Poiana Lupilor,lupi,2,45.6411201295941,23.9613679638279,Sibiu,Poiană,15302,,Poiana Lupilor,Munții noștri,Limba română
 Valea Lupilor,lupi,2,45.6595637462104,23.8082926330741,Sibiu,Vale,13088,13087,Valea Lupilor,Geomil 25000,Limba română
 Dealul Lupoaia Mare,lupoaie,3,46.1819879478765,24.5160727144921,Sibiu,Deal,1901,1902,Dealul Lupoaia Mare,Geomil 25000,Limba română
 Lupoaia,lupoaie,3,45.6766234917294,24.6073518523396,Sibiu,Vale,11881,,Lupoaia,Geomil 25000,Limba română
@@ -506,12 +517,14 @@ Ciungiul Lupului,lup,3,47.7742086265236,25.6757649805647,Suceava,Înălțime,228
 Curmătura Lupului,lup,3,47.2603903193828,26.1696179207651,Suceava,Înălțime,13837,,Curmătura Lupului,Geomil 25000,Limba română
 Dealul Lupului,lup,3,47.693909018637,25.8539544261828,Suceava,Deal,648,,Dealul Lupului,Geomil 25000,Limba română
 Dealul Lupului,lup,3,47.7079801603299,25.8895082295821,Suceava,Deal,6319,,Dealul Lupului,Geomil 25000,Limba română,Dealul Lupului,PDT,Limba română
+Pârâul Lupului,lup,3,47.5441546813424,25.060591275315,Suceava,Vale,15125,,Pârâul Lupului,Munții noștri,Limba română
 Piciorul Lupului,lup,3,47.6986130414477,26.3241313460506,Suceava,Înălțime,1791,,Piciorul Lupului,Geomil 25000,Limba română
 Piciorul Lupului,lup,3,47.3568203916642,26.0756601785977,Suceava,Înălțime,9074,,Piciorul Lupului,PDT,Limba română,Piciorul Lupului,Geomil 25000,Limba română
 Valea Lupului,lup,3,47.3507152909959,26.4499963978038,Suceava,Vale,9560,,Valea Lupului,Geomil 25000,Limba română
 Dealul Lupăriei,lupărie,3,47.5698390524513,26.0307032951266,Suceava,Deal,10754,,Dealul Lupăriei,Imperiul Habsburgic (1887),Limba română
 Lupăria,lupărie,3,47.117302408274,25.5517370782879,Suceava,Vale,13409,,Lupăria,Geomil 25000,Limba română
 Pârâul la Lupărie,lupărie,3,47.4310442170994,25.6128638162479,Suceava,Vale,9090,,Pârâul la Lupărie,PDT,Limba română
+Scurtătura Lupilor,lupi,2,47.4594801654835,25.549965846266,Suceava,Altele,15068,,Scurtătura Lupilor,Munții noștri,Limba română
 Valea Lupilor,lupi,2,47.4085044503496,26.695034340632,Suceava,Vale,11401,,Valea Lupilor,Geomil 25000,Limba română
 Lupoaia,lupoaie,3,47.6745701034039,25.6124312378542,Suceava,Vale,1852,1851,Lupoaia,Geomil 25000,Limba română
 Lupoaia,lupoaie,3,47.6891871377518,25.6196714333021,Suceava,Înălțime,2281,,Lupoaia,Geomil 25000,Limba română
