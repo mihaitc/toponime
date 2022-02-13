@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Lacul Belcinul,belcinul,3,44.1351561171927,23.8517344077644,Dolj,Lac,15456,,Lacul Belcinul,PDT,Limba română
+Pădurea Belcinul,belcinul,3,44.1308038513725,23.8532760644801,Dolj,Pădure,15457,15456,Pădurea Belcinul,PDT,Limba română

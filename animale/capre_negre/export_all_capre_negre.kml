@@ -34,6 +34,7 @@
 <Placemark><LineString id="1193_1188"><tessellate>1</tessellate><coordinates>23.553191,45.452686,0.
 23.566343,45.428043,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Muntele Capra</name><description>Nume: Muntele Capra, Tip: capre negre, Nivel: 2, Județ: Hunedoara, Formă: Înălțime, ID: 1188 <br /><b>Variante</b><br />Nume: Muntele Capra, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.566343,45.428043,0</coordinates></Point></Placemark>
+<Placemark><name>Pârâul Caprelor</name><description>Nume: Pârâul Caprelor, Tip: capre negre, Nivel: 2, Județ: Hunedoara, Formă: Vale, ID: 15377 <br /><b>Variante</b><br />Nume: Pârâul Caprelor, Hartă: Munții noștri, Limbă: Limba română</description><Point><coordinates>23.493044,45.368993,0</coordinates></Point></Placemark>
 <Placemark><name>Piciorul Caprei</name><description>Nume: Piciorul Caprei, Tip: capre negre, Nivel: 2, Județ: Hunedoara, Formă: Înălțime, ID: 1192, ID Părinte: 1188 <br /><b>Variante</b><br />Nume: Piciorul Caprei, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.559667,45.444147,0</coordinates></Point></Placemark>
 <Placemark><LineString id="1192_1188"><tessellate>1</tessellate><coordinates>23.559667,45.444147,0.
 23.566343,45.428043,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

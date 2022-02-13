@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Valea Giurca Mare,giurca,3,45.5234541280686,26.2516577279879,Buzau,Vale,14559,,Valea Giurca Mare,PDT,Limba română,Val. Gurka,Austriacă,Limba română
+Piciorul Giurca,giurca,3,47.0458946274051,26.1131593334645,Neamt,Înălțime,15384,15385,Piciorul Giurca,ANCPI,Limba română

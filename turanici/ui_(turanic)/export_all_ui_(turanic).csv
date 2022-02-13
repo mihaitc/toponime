@@ -1,6 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Oești-Pământeni,oești,3,45.2503058043555,24.6563030663749,Arges,Localitate,15317,,Oești-Pământeni,PDT,Limba română
 Pârâul Oeștilor,oești,3,45.2553035605462,24.6707379348647,Arges,Vale,15318,15317,Pârâul Oeștilor,PDT,Limba română
+Pădurea Ueasca,ueasca,3,44.503256703728,25.0116849055509,Arges,Pădure,15373,,Pădurea Ueasca,PDT,Limba română
 Pădurea Uiasca,uiasca,3,45.2746622402875,24.6314420303272,Arges,Pădure,15319,15317,Pădurea Uiasca,Munții noștri,Limba română
 Uiasca,uiasca,3,44.8699964954886,24.7910904643788,Arges,Localitate,15320,,Uiasca,PDT,Limba română
 Uiești,uiești,3,44.358373882224,25.6177212792948,Arges,Localitate,15323,,Uiești,ANCPI,Limba română,Uești,PDT,Limba română
