@@ -35,6 +35,7 @@ Movila Oii,oi (ovine),3,45.030534902383,27.0693641102839,Buzau,Înălțime,8727,
 Vadu Oii,oi (ovine),3,45.5340901790904,26.4730616695575,Buzau,Localitate,7920,Vadu Oii,Geomil 25000,Limba română
 Vârful Oii,oi (ovine),3,45.4317991279224,26.3789517944994,Buzau,Înălțime,13294,Vârful Oii,Geomil 25000,Limba română
 Groapa Oi,oi (ovine),3,44.1561113815363,27.1057728145871,Calarasi,Altele,3233,Groapa Oi,PDT,Limba română
+Privalul Oii,oi (ovine),3,44.1485779418491,26.9789029341856,Calarasi,Apă-deal-câmpie,15736,Privalul Oii,PDT,Limba română
 Padina Oilor,oi (ovine),3,44.7596900232656,21.7607045006665,Caras Severin,Altele,14106,Padina Oilor,Geomil 25000,Limba română
 Pădurea Oilor,oi (ovine),3,46.7610361196468,24.0152032667291,Cluj,Pădure,5869,Pădurea Oilor,Geomil 25000,Limba română
 Vadul Oii,oi (ovine),3,44.7389335126935,27.882148703624,Constanta,Altele,3471,Vadul Oii,PDT,Limba română
@@ -78,8 +79,10 @@ Vârful Oiței,oi (ovine),3,47.5036549016018,25.303804131312,Suceava,Înălțime
 Valea Oii,oi (ovine),3,44.1622105314449,25.3274019118067,Teleorman,Vale,12203,Valea Oii,PDT,Limba română
 Dâmbu Oilor,oi (ovine),3,45.9316158570462,22.3157054261126,Timis,Înălțime,869,Dâmbu Oilor,Geomil 25000,Limba română,Dâmbul Oilor,PDT,Limba română
 Izlazu Oilor,oi (ovine),3,45.3190157779841,21.4149892291507,Timis,Altele,1981,Izlazu Oilor,Geomil 25000,Limba română
+Măgura Oilor,oi (ovine),3,45.8529505045685,22.4233364265447,Timis,Înălțime,15547,Măgura Oilor,ANCPI,Limba română
 Pusta Oilor,oi (ovine),3,45.7329195602776,21.5949533487912,Timis,Câmp,12833,Pusta Oilor,Geomil 25000,Limba română
 Grindul Oaei,oi (ovine),3,45.3056314297545,28.05831014022,Tulcea,Apă-deal-câmpie,9257,Grindul Oaei,PDT,Limba română
+Pârâul Mioara,mioare,4,45.4085383502201,23.707050597428,Valcea,Vale,15725,Pârâul Mioara,Munții noștri,Limba română
 Poiana Mioarelor,mioare,4,45.5235566404488,23.9250783918506,Valcea,Poiană,7416,Poiana Mioarelor,Geomil 25000,Limba română
 Culmea Oilor,oi (ovine),3,44.9101161267216,24.0930636692286,Valcea,Înălțime,348,Culmea Oilor,Geomil 25000,Limba română
 Dealu Oii,oi (ovine),3,44.7164108804073,24.1624025752341,Valcea,Deal,374,Dealu Oii,Geomil 25000,Limba română

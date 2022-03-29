@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Culmea Hârșan</name><description>Nume: Culmea Hârșan, Tip: hârșan, Nivel: 3, Județ: Brasov, Formă: Înălțime, ID: 15599 <br /><b>Variante</b><br />Nume: Culmea Hârșan, Hartă: Munții noștri, Limbă: Limba română</description><Point><coordinates>25.130069,45.661467,0</coordinates></Point></Placemark>
+<Placemark><name>Valea Hârșan</name><description>Nume: Valea Hârșan, Tip: hârșan, Nivel: 3, Județ: Brasov, Formă: Vale, ID: 15600, ID Părinte: 15599 <br /><b>Variante</b><br />Nume: Valea Hârșan, Hartă: Munții noștri, Limbă: Limba română</description><Point><coordinates>25.132678,45.665660,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15600_15599"><tessellate>1</tessellate><coordinates>25.132678,45.665660,0.
+25.130069,45.661467,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

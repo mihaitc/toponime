@@ -1,0 +1,15 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Pârâul Dracsinul,dracsinul,3,45.5297941904741,25.1247236676725,Arges,Vale,15606,15605,Pârâul Dracsinul,PDT,Limba română
+Muntele Draxinului,draxin,3,45.5290134830504,25.0757132125543,Arges,Înălțime,15605,,Muntele Draxinului,PDT,Limba română
+Dracșani,dracșani,3,47.6318665675576,26.9276345477146,Botosani,Localitate,15533,,Dracșani,PDT,Limba română
+Dracsini,dracsini,3,47.6568792443701,26.8150082040431,Botosani,Localitate,15534,,Dracsini,PDT,Limba română,Draxini,ANCPI,Limba română
+Pădurea Drăxin,drăxin,3,43.752087059735,23.9139787914379,Dolj,Pădure,15545,,Pădurea Drăxin,PDT,Limba română
+Culmea Drăgșanu,drăgșanu,3,45.3086616565823,22.8842950392477,Hunedoara,Înălțime,15710,,Culmea Drăgșanu,Munții noștri,Limba română
+Șaua Drăgșanu,drăgșanu,3,45.2974155926178,22.8795380021209,Hunedoara,Înălțime,15711,15710,Șaua Drăgșanu,Munții noștri,Limba română
+Drăcșani,drăcșani,3,44.2156306700771,24.9904473802587,Teleorman,Localitate,15535,,Drăcșani,PDT,Limba română
+Drăcșenei,drăcșenei,3,44.2255316153178,24.9805618338076,Teleorman,Localitate,15536,15535,Drăcșenei,PDT,Limba română
+Dragșina,dragșina,3,45.7007751727094,21.4290588835747,Timis,Localitate,15575,,Dragșina,PDT,Limba română,Dragsina,Ungară 1869,Limba română,Traxina,Ungaria (1782–1785),Limba română
+Drăgșinești,drăgșinești,3,45.7705126338879,22.2018376587922,Timis,Localitate,15574,,Drăgșinești,ANCPI,Limba română,Draxinyest,Ungară 1869,Limba română
+Drăgășani,drăgășani,3,44.661766957469,24.2627500459249,Valcea,Localitate,15537,,Drăgășani,PDT,Limba română
+Dracșeni,dracșeni,3,46.8735105568587,27.6332668477461,Vaslui,Localitate,15543,,Dracșeni,PDT,Limba română,Draxeni,ANCPI,Limba română
+Drăxeni,drăxeni,3,46.5849491017887,27.4734600804604,Vaslui,Localitate,15610,,Drăxeni,ANCPI,Limba română

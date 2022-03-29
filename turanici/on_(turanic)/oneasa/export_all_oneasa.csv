@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Onesii,oneasa,3,45.7446229955462,22.6025838765838,Hunedoara,Deal,15613,,Dealul Onesii,Moldova (1892-1898),Limba română
+Valea Onesii,oneasa,3,45.7747959437767,22.6388776204313,Hunedoara,Vale,15618,15613,Valea Onesii,ANCPI,Limba română

@@ -1,4 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Colțul Cioranului,cioran,3,46.3258092327221,23.3078711546354,Alba,Înălțime,15737,,Colțul Cioranului,ANCPI,Limba română
+Valea Cioranului,cioran,3,46.3192043384329,23.2901969052218,Alba,Vale,15738,15737,Valea Cioranului,ANCPI,Limba română
 Cioranu,cioran,3,43.9860124446782,26.1609301183992,Giurgiu,Altele,15434,,Cioranu,Austriacă,Limba română
 Cioranului B.,cioran,3,44.0219764435461,26.1706969388876,Giurgiu,Apă-deal-câmpie,14759,,Cioranului B.,Austriacă,Limba română
 Coasta Cioranului,cioran,3,46.1226122219152,24.7158258455279,Mures,Înălțime,15297,15298,Coasta Cioranului,ANCPI,Limba română

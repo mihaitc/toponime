@@ -1,7 +1,8 @@
-Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
 Dealul Gârda,gârda,3,46.1098998117443,22.8888458115674,Alba,Deal,15224,Dealul Gârda,ANCPI,Limba română
 Gârda Seacă,gârda,3,46.5518571703424,22.7654062209734,Alba,Vale,15185,Gârda Seacă,ANCPI,Limba română
 Gârde,gârde,3,46.3859402290833,23.1390286336947,Alba,Localitate,15281,Gârde,ANCPI,Limba română
+Gârdani,gârdani,3,47.5520815800563,23.3037859766256,Maramures,Localitate,15685,Gârdani,PDT,Limba română,Gárdánfalva,Ungară 1869,Limba maghiară,Gurdánfalva,Ungaria (1782–1785),Limba maghiară
 Gărdăneasa,gărdăneasa,3,44.9638185748633,22.7865961118665,Mehedinti,Localitate,15312,Gărdăneasa,ANCPI,Limba română
 Gârdești,gârdești,3,44.2643035298791,25.1246789033623,Teleorman,Localitate,15183,Gârdești,PDT,Limba română,Ghîrdești,Austriacă,Limba română
 Ghîrdești,gârdești,3,44.6449890566634,24.2508864050126,Valcea,Localitate,15191,Ghîrdești,Austriacă,Limba română

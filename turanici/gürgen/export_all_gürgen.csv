@@ -1,0 +1,34 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Giurgiuț,giurgiuț,3,46.5190540343575,22.947989958472,Alba,,15122,,Giurgiuț,ANCPI,Limba română
+Giurgeni,giurgeni,3,46.2375368390567,27.1959117202861,Bacau,Localitate,14773,,Giurgeni,PDT,Limba română
+Pădurea Giurgioaia,giurgioaia,3,46.4874383461347,27.192254174397,Bacau,Pădure,15340,,Pădurea Giurgioaia,ANCPI,Limba română
+Giurgioana,giurgioana,3,46.1702336696569,27.3566509857953,Bacau,Localitate,14818,,Giurgioana,PDT,Limba română
+Poiana Gurganului,gurgan,3,46.6616078838568,26.483678651974,Bacau,Poiană,14783,,Poiana Gurganului,ANCPI,Limba română
+Ciceu-Giurgești,giurgești,3,47.2456089559768,24.0192974514917,Bistrita Nasaud,Localitate,14787,,Ciceu-Giurgești,ANCPI,Limba română,Csicsó Györgyfalva,Transilvania (1869-1870),Limba maghiară,Csicso Györfalu,Transilvania (1769-1773),Limba maghiară
+Dealul Jurjana,jurjana,3,47.1479166322087,24.2198861413714,Bistrita Nasaud,Deal,15277,,Dealul Jurjana,PDT,Limba română
+Târla Giurgeni,giurgeni,3,44.9827989466544,27.5900088768481,Braila,Localitate,15448,,Târla Giurgeni,PDT,Limba română
+Șaua Podu Giurgiului,giurgiu,3,45.603745165749,24.6976492376443,Brasov,Înălțime,15111,,Șaua Podu Giurgiului,Munții noștri,Limba română
+Movila Giurgiului,giurgiu,3,44.9437551548151,27.2109246063358,Buzau,Înălțime,15409,,Movila Giurgiului,PDT,Limba română
+Giurgiuveni,giurgiuveni,3,45.190874151284,26.5595730060011,Buzau,Localitate,15394,,Giurgiuveni,Austriacă,Limba română
+Pârâul Giurgii,giurgea,3,45.4294550562088,22.4793230671091,Caras Severin,Vale,15019,,Pârâul Giurgii,PDT,Limba română
+Giurgiova,giurgiova,3,45.1835314856506,21.7155377533313,Caras Severin,Localitate,15585,,Giurgiova,PDT,Limba română
+Dealul Giurgiului,giurgiu,3,45.1684801505479,21.7422309149877,Caras Severin,Deal,15587,15585,Dealul Giurgiului,PDT,Limba română
+Valea Giurgiului,giurgiu,3,45.1654844168906,21.7380337585472,Caras Severin,Vale,15589,15585,Valea Giurgiului,PDT,Limba română
+Giurgița,giurgița,3,44.0141671885294,23.6289511227214,Dolj,Localitate,15292,,Giurgița,PDT,Limba română
+Giurgesci,giurgești,3,46.3154944936828,22.7484168608037,Hunedoara,Localitate,14777,,Giurgesci,Imperiul Habsburgic (1887),Limba română
+Mov. Iorgu (Giorgio),giorgio,3,44.7455212377414,26.6703966134187,Ialomita,Înălțime,15427,,Mov. Iorgu (Giorgio),Austriacă,Limba română
+Giurgeni,giurgeni,3,44.7417311086153,27.8577330991436,Ialomita,Localitate,14774,,Giurgeni,PDT,Limba română
+Giurgești,giurgești,3,47.2513680478207,26.8941222492984,Iasi,Localitate,14779,,Giurgești,PDT,Limba română
+Valea Giurgeni,giurgeni,3,47.4529918700699,23.197373971343,Maramures,Vale,15330,,Valea Giurgeni,ANCPI,Limba română
+Giurgiani,giurgiani,3,44.9687526857554,22.57788657563,Mehedinti,Localitate,14785,,Giurgiani,ANCPI,Limba română
+Görgény Szt. Imre,görgény,3,46.7733855890691,24.8552666115271,Mures,Localitate,14772,,Görgény Szt. Imre,Transilvania (1869-1870),Limba maghiară
+Kiss Görgény,görgény,3,46.4530926591379,24.6191332304955,Mures,Localitate,14771,,Kiss Görgény,Transilvania (1869-1870),Limba maghiară
+Györgyed,györgyed,3,46.5071353358674,23.9695175040661,Mures,Localitate,15560,,Györgyed,Imperiul Habsburgic (1887),Limba maghiară,Giurgiș,ANCPI,Limba română
+Giurgeni,giurgeni,3,46.8216719832408,27.1105162864432,Neamt,Localitate,14775,,Giurgeni,PDT,Limba română
+Giurgești,giurgești,3,47.5015841356718,26.4236382134514,Suceava,Localitate,14780,,Giurgești,PDT,Limba română
+Giurgiuveni,giurgiuveni,3,45.1222643748316,24.4993500411073,Valcea,Localitate,14788,,Giurgiuveni,ANCPI,Limba română,Giurgiueni,Austriacă,Limba română
+Giurgești,giurgești,3,46.7358628141969,27.9768071776247,Vaslui,Localitate,14781,,Giurgești,PDT,Limba română
+Dealul Giurgiu,giurgiu,3,46.339550552012,27.0844939664157,Vaslui,Deal,14856,,Dealul Giurgiu,PDT,Limba română
+Dealul Giurgea,giurgea,3,45.9960270207895,26.8134587196735,Vrancea,Deal,15389,,Dealul Giurgea,PDT,Limba română
+Odaia Giurgea,giurgea,3,45.53591390561,27.3450953684841,Vrancea,Altele,15349,,Odaia Giurgea,ANCPI,Limba română
+Muntele Giurgiu,giurgiu,3,45.7559065464526,26.4443325524754,Vrancea,Înălțime,14776,,Muntele Giurgiu,ANCPI,Limba română

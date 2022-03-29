@@ -2,6 +2,7 @@ Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă
 Dealul de Aur,aur,2,46.1353202420937,23.955420754082,Alba,Deal,8156,,Dealul de Aur,PDT,Limba română
 Chciera Comărnicelului,chicera,3,46.4967349969823,22.8062075833337,Alba,Înălțime,15271,,Chciera Comărnicelului,PDT,Limba română
 Chicera,chicera,3,46.525207853591,22.8762040834987,Alba,Înălțime,13053,,Chicera,Geomil 25000,Limba română
+Chicera,chicera,3,46.2623688982796,23.5732926507736,Alba,Înălțime,15670,,Chicera,ANCPI,Limba română
 Chicera Boldului,chicera,3,46.5110112785511,22.7748486685959,Alba,Înălțime,13076,,Chicera Boldului,Geomil 25000,Limba română
 Chicera Patruci,chicera,3,46.3642421180711,23.1090721141346,Alba,Înălțime,14040,,Chicera Patruci,Transilvania (1869-1870),Limba română
 Chicra Cucului,chicera,3,46.5075915934628,22.7877869419977,Alba,Înălțime,15270,,Chicra Cucului,PDT,Limba română
@@ -394,6 +395,7 @@ Valea Chiciurei,chiciura,3,46.0053177161292,25.395263537151,Brasov,Vale,15235,15
 Vârful Chiciurii,chiciura,3,45.7849391273723,25.2419242766006,Brasov,Înălțime,13967,,Vârful Chiciurii,Geomil 25000,Limba română
 Chițișoara,chițișoara,3,45.8359522907898,24.7981481598216,Brasov,Înălțime,14633,,Chițișoara,PDT,Limba română,Jyczora,Transilvania (1869-1870),Limba română
 La Lespezi,lespezi,2,45.5329607326291,25.2823340329885,Brasov,Altele,12962,,La Lespezi,Geomil 25000,Limba română
+Pârâul Lespezi,lespezi,2,45.7091613702273,25.1575651453773,Brasov,Vale,15721,,Pârâul Lespezi,Munții noștri,Limba română
 Pârâul Lespezilor,lespezi,2,45.6311610343076,24.7009327116693,Brasov,Vale,15109,15108,Pârâul Lespezilor,Munții noștri,Limba română
 Poiana Lespezilor,lespezi,2,45.6425782280849,24.7763134314284,Brasov,Poiană,15105,,Poiana Lespezilor,Munții noștri,Limba română
 Șaua Lespezi,lespezi,2,45.6314930864591,24.6877427405051,Brasov,Înălțime,15108,,Șaua Lespezi,Munții noștri,Limba română
@@ -418,7 +420,8 @@ Valea Chiciuri,chiciura,3,45.2421234361477,26.5484083053342,Buzau,Vale,15392,,Va
 Pârâul Lespezii,lespede,3,45.5954194229347,26.5456113703409,Buzau,Vale,13782,,Pârâul Lespezii,Geomil 25000,Limba română
 Culmea Lespezilor,lespezi,2,45.1309003721201,26.5487910398711,Buzau,Înălțime,13150,,Culmea Lespezilor,Geomil 25000,Limba română
 La Lespezi,lespezi,2,45.4214057504546,26.2001856216313,Buzau,Altele,14223,,La Lespezi,Geomil 25000,Limba română
-Poienile Lespezilor,lespezi,2,45.524906078939,26.4293868667622,Buzau,Poiană,13339,,Poienile Lespezilor,Geomil 25000,Limba română
+Poienile Lespezilor,lespezi,2,45.524906078939,26.4293868667622,Buzau,Poiană,13339,15688,Poienile Lespezilor,Geomil 25000,Limba română
+Vârful Lespezi,lespezi,2,45.5360363961451,26.4334101945275,Buzau,Înălțime,15688,,Vârful Lespezi,Munții noștri,Limba română
 Păcură,păcură,2,45.3634682537676,26.380525092868,Buzau,Localitate,8771,,Păcură,PDT,Limba română
 Păcurile,păcură,2,45.4151141627304,26.6180597857199,Buzau,Localitate,12727,,Păcurile,Geomil 25000,Limba română
 Pârâul Păcura,păcură,2,45.3693303228282,26.2106394306512,Buzau,Vale,2816,,Pârâul Păcura,Geomil 25000,Limba română
@@ -437,6 +440,7 @@ Kikcjora,chiciora,2,45.3756426832342,21.8101260093031,Caras Severin,Înălțime,
 Vârful Chiciora,chiciora,2,45.539253989668,22.3848086963197,Caras Severin,Înălțime,14606,,Vârful Chiciora,PDT,Limba română
 Vârful Chiciora,chiciora,2,45.5235947538991,22.2341177953844,Caras Severin,Înălțime,15021,,Vârful Chiciora,PDT,Limba română
 Chiciura,chiciura,3,45.3255867941239,22.3635334837134,Caras Severin,Înălțime,13080,,Chiciura,Geomil 25000,Limba română
+Chiciura,chiciura,3,45.169958378154,21.7148655079554,Caras Severin,Înălțime,15586,,Chiciura,PDT,Limba română
 Dealul Chiciura,chiciura,3,45.2577097381537,22.2665290706481,Caras Severin,Deal,14347,,Dealul Chiciura,PDT,Limba română
 Cioaca Chinezului,chinez,3,44.7994707470401,21.7560355426866,Caras Severin,Altele,8502,,Cioaca Chinezului,PDT,Limba română
 Moara Chinezului,chinez,3,45.4617534829074,21.930308869575,Caras Severin,Altele,6193,,Moara Chinezului,PDT,Limba română
@@ -652,11 +656,14 @@ Chicera Izvorului,chicera,3,45.586644879062,23.2130242299904,Hunedoara,Înălți
 Dealu Chicera,chicera,3,45.9911480064754,23.1281845977895,Hunedoara,Deal,13678,,Dealu Chicera,Geomil 25000,Limba română,V. Ticeri,Transilvania (1869-1870),Limba română
 Dealul Chicera,chicera,3,46.2041348784198,22.742406453642,Hunedoara,Deal,13078,,Dealul Chicera,ANCPI,Limba română
 Dealul Chicera,chicera,3,46.2111637000788,22.8681340116624,Hunedoara,Deal,14915,,Dealul Chicera,ANCPI,Limba română
+Dealul Chicera,chicera,3,46.0708024394648,22.9179773008435,Hunedoara,Deal,15622,,Dealul Chicera,ANCPI,Limba română
 Kitsera B.,chicera,3,46.0830743599078,23.0408866223234,Hunedoara,Deal,13230,,Kitsera B.,Transilvania (1769-1773),Limba română
+Kitsera B.,chicera,3,46.1962778421666,22.7901326591496,Hunedoara,Înălțime,15621,,Kitsera B.,Transilvania (1769-1773),Limba română
 Vârful Chicera,chicera,3,45.6709282709929,23.1308070145172,Hunedoara,Înălțime,14325,,Vârful Chicera,ANCPI,Limba română,Dealul Ciciorii,PDT,Limba română
 Vârful Chicera Florii,chicera,3,45.4908372178052,23.4419308102861,Hunedoara,Înălțime,13165,,Vârful Chicera Florii,Geomil 25000,Limba română
 Chiciora,chiciora,2,45.6795620892933,22.7667772793369,Hunedoara,Înălțime,13436,,Chiciora,Imperiul Habsburgic (1887),Limba română
 Chiciora,chiciora,2,45.4025538466958,23.411641154483,Hunedoara,Înălțime,13883,,Chiciora,Imperiul Habsburgic (1887),Limba română
+Chiciora,chiciora,2,45.6958922448682,22.6629709673747,Hunedoara,Înălțime,15614,,Chiciora,Imperiul Habsburgic (1887),Limba română
 Kizora,chiciora,2,45.7702610834769,23.1377409236594,Hunedoara,Înălțime,13964,,Kizora,Transilvania (1769-1773),Limba română
 Pârâul Chiciorii,chiciora,2,45.8085157361208,23.280750469919,Hunedoara,Vale,15119,,Pârâul Chiciorii,Munții noștri,Limba română
 Titzora,chiciora,2,45.8888214882134,23.0668098276539,Hunedoara,Înălțime,14257,,Titzora,Transilvania (1769-1773),Limba română
@@ -677,6 +684,7 @@ V. Cicera,cicera,3,46.3269427781251,22.9117808408595,Hunedoara,Înălțime,13221
 V. Cicera,cicera,3,46.3142185654302,22.8864504330737,Hunedoara,Înălțime,13222,,V. Cicera,Transilvania (1869-1870),Limba română
 Vârfu Cicera,cicera,3,45.7858503608034,22.5483678027512,Hunedoara,Înălțime,13356,,Vârfu Cicera,Geomil 25000,Limba română
 Cicere,cicere,4,46.3045882895162,22.8867497318875,Hunedoara,Înălțime,13223,,Cicere,Transilvania (1869-1870),Limba română
+Dâmbul Citera,citeră,3,46.2228575243859,22.898574474979,Hunedoara,Înălțime,15619,,Dâmbul Citera,ANCPI,Limba română
 Pădurea Citerii,citeră,3,46.2119890523915,23.1823389007919,Hunedoara,Pădure,13675,13674,Pădurea Citerii,Geomil 25000,Limba română
 Vârfu Citerii,citeră,3,46.013306814539,22.5092695198172,Hunedoara,Înălțime,13502,,Vârfu Citerii,Geomil 25000,Limba română
 Vârfu Citerii,citeră,3,46.2085013682342,23.1812748785136,Hunedoara,Înălțime,13674,,Vârfu Citerii,Geomil 25000,Limba română
@@ -701,6 +709,7 @@ Pârâul Smida Mare,șmidă,3,45.4120943557438,23.1410277265448,Hunedoara,Vale,1
 Poiana Smida Mare,smidă,2,45.4117995305112,23.1340229225061,Hunedoara,Poiană,10336,,Poiana Smida Mare,Geomil 25000,Limba română
 Smida Mare,smidă,2,45.5228663515142,23.5697011532786,Hunedoara,Înălțime,10675,,Smida Mare,Imperiul Habsburgic (1887),Limba română,Smida Mare,Geomil 25000,Limba română
 Valea Smidei,smidă,2,45.4282285305831,23.1588143026536,Hunedoara,Vale,10338,10336,Valea Smidei,Geomil 25000,Limba română
+Vârful Smida,smidă,2,45.4111414683827,22.9032726459509,Hunedoara,Înălțime,15712,,Vârful Smida,Munții noștri,Limba română
 Ticera,ticera,4,45.5135911189409,23.1727855133504,Hunedoara,Înălțime,14362,,Ticera,PDT,Limba română,Chicera,ANCPI,Limba română
 Ticera Pinului,ticera,4,45.5145063278718,23.2033417496472,Hunedoara,Înălțime,13433,,Ticera Pinului,Geomil 25000,Limba română
 Ticera Rusesti,ticera,4,45.4421248274658,23.253091195094,Hunedoara,Înălțime,14364,,Ticera Rusesti,PDT,Limba română
@@ -718,6 +727,7 @@ Zăpodea,zăpodea,3,45.843054788251,22.4940669507376,Hunedoara,Altele,6207,,Zăp
 Gura Zapodii,zapodie,3,45.6383011575747,22.9058821785835,Hunedoara,Înălțime,9021,,Gura Zapodii,PDT,Limba română
 Vârful Zapozii,zapodie,3,46.1775539548347,23.0206851680517,Hunedoara,Înălțime,13961,,Vârful Zapozii,PDT,Limba română
 Zăpodia,zăpodie,2,45.7285478836993,23.1468742765622,Hunedoara,Înălțime,5554,,Zăpodia,PDT,Limba română
+Dâmbul Zmizii,zmidă,3,45.737864387244,22.572169998208,Hunedoara,Înălțime,15617,,Dâmbul Zmizii,ANCPI,Limba română
 Popina cu Morminte,morminte,3,44.605300925568,27.8638882229587,Ialomita,Înălțime,11622,,Popina cu Morminte,Geomil 25000,Limba română
 Dealul Chicera,chicera,3,47.1793401492752,26.7025187261658,Iasi,Deal,13556,,Dealul Chicera,Geomil 25000,Limba română
 Dealul Chicerei,chicera,3,46.9929084592118,27.4855073927049,Iasi,Deal,13555,,Dealul Chicerei,Geomil 25000,Limba română
@@ -873,6 +883,7 @@ Smida Șesuțului,smidă,2,47.0311708976897,24.9949278344506,Mures,Înălțime,1
 Smida Tisii,smidă,2,47.0059395805138,25.0066033994654,Mures,Altele,11750,,Smida Tisii,PDT,Limba română
 Vârful Smidei,smidă,2,46.9680240024663,25.1089181297446,Mures,Înălțime,5410,,Vârful Smidei,Geomil 25000,Limba română
 Valea Voievozilor,voievozi,2,46.3796602332237,24.3074725206355,Mures,Vale,6762,,Valea Voievozilor,Geomil 25000,Limba română
+La Zăpoadea,zăpoade,3,46.2631113201896,24.6073652441563,Mures,Altele,15673,4358,La Zăpodea,PDT,Limba română
 Zăpoadea Blidăreasa,zăpoade,3,46.8031130417871,24.9837509025217,Mures,Înălțime,14468,,Zăpoadea Blidăreasa,PDT,Limba română
 Zăpoadea din sus,zăpoade,3,46.321345730222,24.4894195198484,Mures,Înălțime,10629,,Zăpoadea din sus,Imperiul Habsburgic (1887),Limba română
 Zapoadea Dubistea,zăpoade,3,46.8193366955099,24.9774951859696,Mures,Înălțime,14467,,Zapoadea Dubistea,PDT,Limba română
@@ -976,6 +987,7 @@ Chicera,chicera,3,46.9242419995251,25.8397837023244,Neamt,Înălțime,13212,,Chi
 Dealul Chicerei,chicera,3,47.0687454139868,26.6552364349299,Neamt,Deal,13545,,Dealul Chicerei,Geomil 25000,Limba română
 Dialu Kiscera,chicera,3,47.0902189276107,26.3910898995548,Neamt,Deal,14129,,Dialu Kiscera,Moldova (1788-1790),Limba română
 Pârâul Chicerii,chicera,3,46.9336227418466,25.8392142082144,Neamt,Vale,13652,13212,Pârâul Chicerii,Imperiul Habsburgic (1887),Limba română
+Vârul Chiceri,chicera,3,47.0407565891828,26.3058547882493,Neamt,Înălțime,15651,,Vârul Chiceri,Moldova (1892-1898),Limba română
 Chicerea,chicerea,4,46.9764096981311,27.1302957718503,Neamt,Localitate,13544,,Chicerea,Geomil 25000,Limba română
 Dealul Chicerea,chicerea,4,46.89713737,27.1620578283,Neamt,Deal,13550,,Dealul Chicerea,Moldova (1892-1898),Limba română
 În Chiciora,chiciora,2,46.9961401460007,26.5800328807378,Neamt,Înălțime,13558,,În Chiciora,Moldova (1892-1898),Limba română
@@ -985,6 +997,7 @@ La Casa Cneazului,cneaz,2,47.0028403536768,25.9507979801579,Neamt,Altele,6468,,L
 Dochia,dochia,2,46.9086170164418,26.565435074524,Neamt,Localitate,9623,,Dochia,Geomil 25000,Limba română,Dochia,Moldova (1892-1898),Limba română
 Jgheabul Dochiei,dochia,2,46.896058951895,25.9861714574243,Neamt,Vale,6507,,Jgheabul Dochiei,PDT,Limba română
 La Dochia,dochia,2,46.975069360561,25.963362096383,Neamt,Altele,6474,,La Dochia,PDT,Limba română
+Igh. cu Lespezi,lespezi,2,46.9012764142812,26.0542809697174,Neamt,Vale,15653,,Igh. cu Lespezi,PDT,Limba română
 Pârâul Lespezilor,lespezi,2,46.7375942070027,26.150488713012,Neamt,Vale,13660,,Pârâul Lespezilor,Geomil 25000,Limba română
 Piciorul Lespezilor,lespezi,2,46.8557242381183,26.2452488623746,Neamt,Înălțime,13111,13110,Piciorul Lespezilor,Geomil 25000,Limba română
 Vârful Lespezilor,lespezi,2,46.8500340139768,26.2815723366089,Neamt,Înălțime,13110,,Vârful Lespezilor,Geomil 25000,Limba română
@@ -997,6 +1010,7 @@ Muntele Prelucii,prelucă,2,47.0826614922448,25.8062775882212,Neamt,Înălțime,
 Pârâul Prelucei,prelucă,2,47.0789606371495,26.0004186491049,Neamt,Vale,15483,,Pârâul Prelucei,PDT,Limba română
 Pârâul Prelucii,prelucă,2,47.2008637751258,25.9127500479817,Neamt,Vale,15473,15474,Pârâul Prelucii,PDT,Limba română
 Piscul de la Prelucă,prelucă,2,46.8226979504942,26.0564335097771,Neamt,Înălțime,13659,,Piscul de la Prelucă,PDT,Limba română
+Poiana Preluca,prelucă,2,47.1289021467885,26.2311771287161,Neamt,Poiană,15718,,Poiana Preluca,PDT,Limba română
 Poiana Prelucii,prelucă,2,46.819176632426,26.0581011866599,Neamt,Poiană,13658,13659,Poiana Prelucii,PDT,Limba română
 Preluca,prelucă,2,46.9289668738381,26.2356986085427,Neamt,Localitate,13214,,Preluca,Geomil 25000,Limba română
 Preluca,prelucă,2,47.0841747015472,25.8090100811397,Neamt,Înălțime,13262,,Preluca,Geomil 25000,Limba română
@@ -1030,6 +1044,7 @@ Piciorul Smidei,smidă,2,46.8546664410242,26.1710439383357,Neamt,Înălțime,649
 Plaiul Smidei,smidă,2,46.6974644404662,26.1288367057987,Neamt,Înălțime,6528,,Plaiul Smidei,PDT,Limba română,Plaiul Smidei,Geomil 25000,Limba română
 Poiana cu. Smidă,smidă,2,47.161234914923,25.709729996205,Neamt,Poiană,6422,,Poiana cu. Smidă,PDT,Limba română
 Poiana Smida Fântânilor,smidă,2,46.9981612120297,25.9612763062109,Neamt,Poiană,6469,13884,Poiana Smida Fântânilor,PDT,Limba română
+Poiana Smidei,smidă,2,46.7508293713709,26.4937741386017,Neamt,Poiană,15641,15640,Poiana Smidei,PDT,Limba română
 Smida Baicului,smidă,2,47.1695844670821,25.9303988551326,Neamt,Înălțime,9706,,Smida Baicului,Moldova (1892-1898),Limba română
 Șmida Burcuțului,șmidă,3,47.1255815663555,25.7493659283778,Neamt,Înălțime,15464,,Șmida Burcuțului,PDT,Limba română
 Smida cu Afini,smidă,2,47.0865453936208,25.6933067378263,Neamt,Altele,9103,,Smida cu Afini,PDT,Limba română
@@ -1040,6 +1055,7 @@ Smida nouă,smidă,2,46.7539492071342,25.9559928212334,Neamt,Altele,10946,,Smida
 Smida Viezuri,smidă,2,46.9866231751392,25.9423184539275,Neamt,Înălțime,15387,,Smida Viezuri,Munții noștri,Limba română
 Vârful Smida Babșa,smidă,2,47.2576454085967,25.8814588485237,Neamt,Înălțime,13514,,Vârful Smida Babșa,Geomil 25000,Limba română
 Vârful Smidei,smidă,2,47.0287650752217,25.8420083577089,Neamt,Înălțime,11224,,Vârful Smidei,ANCPI,Limba română
+Vârful Smidei,smidă,2,46.749034152091,26.4907609114863,Neamt,Înălțime,15640,,Vârful Smidei,PDT,Limba română
 Pârâul Smidelor,smide,3,47.0924048315506,26.0709227757961,Neamt,Vale,9121,,Pârâul Smidelor,Geomil 25000,Limba română,Pârâul Smidelor,PDT,Limba română
 Piciorul Smidelor,smide,3,47.1942343843623,25.7290873346748,Neamt,Înălțime,6441,,Piciorul Smidelor,PDT,Limba română
 Smidele Aței,smide,3,46.7854864785304,25.9744553012735,Neamt,Altele,10948,,Smidele Aței,Imperiul Habsburgic (1887),Limba română
@@ -1142,13 +1158,16 @@ Kitsero,chicera,3,45.8055259407389,24.4858174137528,Sibiu,Înălțime,14631,,Kit
 Pădurea Chicerei,chicera,3,46.0505771308506,24.0884369298308,Sibiu,Pădure,13160,13161,Pădurea Chicerei,Geomil 25000,Limba română
 Chiciora,chiciora,2,45.7586244140165,24.3446301332536,Sibiu,Înălțime,14525,,Chiciora,PDT,Limba română
 Chiciora,chiciora,2,45.7926116964239,24.4165511158405,Sibiu,Înălțime,14526,,Chiciora,PDT,Limba română
+Chiciora,chiciora,2,45.6632662748273,23.8339599074829,Sibiu,Înălțime,15603,,Chiciora,Imperiul Habsburgic (1887),Limba română
+Chiciora,chiciora,2,46.2247350135264,24.2163138324259,Sibiu,Înălțime,15671,,Chiciora,PDT,Limba română
 Chiciora Ocnei,chiciora,2,45.8855126126508,23.9803306746332,Sibiu,Înălțime,14801,,Chiciora Ocnei,PDT,Limba română
 La Chiciora,chiciora,2,45.9216702311744,23.8085885781769,Sibiu,Altele,12978,,La Chiciora,Geomil 25000,Limba română
 Pădurea Chiciora,chiciora,2,45.8214220113946,23.9625164897206,Sibiu,Pădure,14798,,Pădurea Chiciora,PDT,Limba română
 Vârful Chiciorei,chiciora,2,45.6615796572815,24.1477128132211,Sibiu,Înălțime,13206,,Vârful Chiciorei,Geomil 25000,Limba română
 Chiciura Moldele,chiciura,3,45.6354042494324,24.4520056889096,Sibiu,Înălțime,13809,,Chiciura Moldele,Geomil 25000,Limba română
+Dealul Chiciurii,chiciura,3,46.1791083443937,24.2672159053406,Sibiu,Deal,15562,,Dealul Chiciurii,ANCPI,Limba română
 Kitschura,chiciura,3,46.1360661691205,24.1929439722718,Sibiu,Înălțime,13244,,Kitschura,Transilvania (1769-1773),Limba română
-Valea Chiciura,chiciura,3,45.6614878339673,23.8228652465028,Sibiu,Vale,13089,,Valea Chiciura,Geomil 25000,Limba română
+Valea Chiciura,chiciura,3,45.6614878339673,23.8228652465028,Sibiu,Vale,13089,15603,Valea Chiciura,Geomil 25000,Limba română
 La Lespezi,lespezi,2,45.648447146216,24.6539132780831,Sibiu,Altele,15060,,La Lespezi,Munții noștri,Limba română
 Pârâul sub Pleașa Lespezilor,lespezi,2,45.6054958031166,24.4104425696821,Sibiu,Vale,15032,,Pârâul sub Pleașa Lespezilor,PDT,Limba română
 La Morminte,morminte,3,45.7517054387499,24.2918380639736,Sibiu,Altele,7996,,La Morminte,Geomil 25000,Limba română
@@ -1306,6 +1325,7 @@ Smida,smidă,2,45.8063869400786,21.7612456719821,Timis,Altele,4302,,Smida,PDT,Li
 Pe Zăpodini,zăpodini,3,45.9059104031217,22.3774804736577,Timis,Altele,11582,,Pe Zăpodini,Geomil 25000,Limba română
 Dâmbu Zmizii,zmidă,3,45.7644911784121,22.5386940084151,Timis,Înălțime,11583,,Dâmbu Zmizii,Geomil 25000,Limba română
 Chicera,chicera,3,45.4710370473179,24.3370421904275,Valcea,Înălțime,15114,,Chicera,Munții noștri,Limba română
+Vârful Chicera,chicera,3,45.4236647176121,23.446804941567,Valcea,Înălțime,15726,,Vârful Chicera,Munții noștri,Limba română
 Chicere,chicere,3,45.4288325493451,24.2814736595254,Valcea,Înălțime,14550,,Chicere,ANCPI,Limba română
 Chicioara,chicioara,3,45.1347688076803,24.2356846255526,Valcea,Localitate,13663,,Chicioara,PDT,Limba română
 Chiciura,chiciura,3,45.107885653835,24.4564006108719,Valcea,Înălțime,13583,,Chiciura,Geomil 25000,Limba română

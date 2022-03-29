@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Culmea Drăgșanu,drăgșanu,3,45.3086616565823,22.8842950392477,Hunedoara,Înălțime,15710,,Culmea Drăgșanu,Munții noștri,Limba română
+Șaua Drăgșanu,drăgșanu,3,45.2974155926178,22.8795380021209,Hunedoara,Înălțime,15711,15710,Șaua Drăgșanu,Munții noștri,Limba română

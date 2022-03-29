@@ -168,6 +168,7 @@ Preseaka,prisacă,3,44.6097856572634,25.7718652608718,Dambovita,Localitate,6013,
 Priseaca,prisacă,3,44.9214495645866,25.4039665525704,Dambovita,Localitate,5996,Priseaca,Geomil 25000,Limba română,Preseaka,Austriacă,Limba română
 Poiana La Stupine,stupină,3,44.8433720782787,25.7007217952641,Dambovita,Poiană,1535,Poiana La Stupine,Geomil 25000,Limba română
 Valea Stupinei,stupină,3,45.0009179470169,25.3058642207023,Dambovita,Vale,11070,Valea Stupinei,PDT,Limba română
+Valea Stupinei,stupină,3,44.8371551149414,25.275822585728,Dambovita,Vale,15678,Valea Stupinei,PDT,Limba română
 Presaka,prisacă,3,44.4940747142842,23.6174239826274,Dolj,Localitate,5104,Presaka,Austriacă,Limba română
 Valea Prisaca,prisacă,3,44.2628169181791,23.5566286862502,Dolj,Vale,9762,Valea Prisaca,PDT,Limba română
 Valea Prisăcuța,prisăcuța,4,44.3016679764896,23.8683679723473,Dolj,Vale,14972,Valea Prisăcuța,PDT,Limba română
@@ -181,6 +182,7 @@ Pădurea Stupina,stupină,3,44.4401378196555,23.6429138387823,Dolj,Pădure,12296
 Piscul Stupinei,stupină,3,44.3402423061206,23.4635572121763,Dolj,Înălțime,9760,Piscul Stupinei,PDT,Limba română
 Valea Stupineaua,stupină,3,44.5989697283972,23.8503695435901,Dolj,Vale,388,Valea Stupineaua,Geomil 25000,Limba română
 Pădurea Prisaca,prisacă,3,45.9481815232456,27.4691383012066,Galati,Pădure,9491,Pădurea Prisaca,PDT,Limba română
+Prisaca,prisacă,3,45.9055312857008,27.4109923892538,Galati,Vale,15729,Prisaca,ANCPI,Limba română
 Vadul Prisaca,prisacă,3,45.5189458637046,27.6516324171271,Galati,Altele,751,Vadul Prisaca,Geomil 25000,Limba română,Vadul Prisaca,PDT,Limba română
 Valea Prisacă,prisacă,3,45.9995692137003,27.9930766575714,Galati,Vale,10916,Valea Prisacă,Moldova (1892-1898),Limba română
 Valea Prisăcii,prisacă,3,46.023010911457,27.4339104665853,Galati,Vale,2167,Valea Prisăcii,Geomil 25000,Limba română
@@ -337,8 +339,10 @@ Coasta Prisăcii,prisacă,3,46.4117516536145,27.8645907500741,Vaslui,Înălțime
 Dealu Prisăcii,prisacă,3,46.4424624448177,27.918126909468,Vaslui,Deal,11292,Dealu Prisăcii,Geomil 25000,Limba română
 Dealul Prisaca,prisacă,3,46.6488249792706,27.4353927939382,Vaslui,Deal,4633,Dealul Prisaca,Geomil 25000,Limba română
 Dealul Prisaca,prisacă,3,46.2928768826739,27.891311467328,Vaslui,Deal,14425,Dealul Prisaca,ANCPI,Limba română
+Dealul Prisaca,prisacă,3,46.7631466968733,27.5014095358621,Vaslui,Deal,15566,Dealul Prisaca,Moldova (1892-1898),Limba română
 Dealul Prisăcei,prisacă,3,46.6186593110754,27.5570154780736,Vaslui,Deal,4628,Dealul Prisăcei,PDT,Limba română
 Dealul Prisacei,prisacă,3,46.6487336729393,27.5156073298074,Vaslui,Deal,4637,Dealul Prisacei,PDT,Limba română,Dealul Prisăcii,Geomil 25000,Limba română
+Dealul Prisaci,prisacă,3,46.8062490003205,27.8410498976083,Vaslui,Deal,15664,Dealul Prisaci,PDT,Limba română
 Dealul Prisăcii,prisacă,3,46.9334545837407,27.6502183357156,Vaslui,Deal,2455,Dealul Prisăcii,Geomil 25000,Limba română
 Dealul Prisăcii,prisacă,3,46.2455794814897,27.8809617259306,Vaslui,Deal,7382,Dealul Prisăcii,Geomil 25000,Limba română
 Dealul Prisăcii,prisacă,3,46.7335374563061,27.8512814190032,Vaslui,Deal,12390,Dealul Prisăcii,Geomil 25000,Limba română

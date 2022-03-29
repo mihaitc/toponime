@@ -71,6 +71,7 @@
 <Placemark><LineString id="6696_6697"><tessellate>1</tessellate><coordinates>28.617830,45.175339,0.
 28.621394,45.175976,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Pârâul Varniții</name><description>Nume: Pârâul Varniții, Tip: varniță, Nivel: 3, Județ: Valcea, Formă: Vale, ID: 12847 <br /><b>Variante</b><br />Nume: Pârâul Varniții, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>24.004818,45.198727,0</coordinates></Point></Placemark>
+<Placemark><name>Pârâul Varnița</name><description>Nume: Pârâul Varnița, Tip: varniță, Nivel: 3, Județ: Vaslui, Formă: Vale, ID: 15686 <br /><b>Variante</b><br />Nume: Pârâul Varnița, Hartă: Moldova (1892-1898), Limbă: Limba română</description><Point><coordinates>27.295797,46.750139,0</coordinates></Point></Placemark>
 <Placemark><name>Dealul Varnița</name><description>Nume: Dealul Varnița, Tip: varniță, Nivel: 3, Județ: Vrancea, Formă: Deal, ID: 5345, ID Părinte: 5344 <br /><b>Variante</b><br />Nume: Dealul Varnița, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.967356,45.987478,0</coordinates></Point></Placemark>
 <Placemark><LineString id="5345_5344"><tessellate>1</tessellate><coordinates>26.967356,45.987478,0.
 26.960696,45.973240,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

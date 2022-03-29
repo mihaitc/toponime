@@ -317,6 +317,7 @@ Drumul Frasinului,drumuri,1,44.3572252832315,23.4543554566455,Dolj,Drum,3371,,Dr
 Drumul Frasinului,drumuri,1,44.1793926505847,23.9765360895023,Dolj,Drum,12380,,Drumul Frasinului,PDT,Limba română
 Drumul Găvanului,drumuri,1,43.9098160664419,23.8014012329269,Dolj,Drum,8112,,Drumul Găvanului,PDT,Limba română
 Drumul Grănicerilor,drumuri,1,43.8449438563416,23.2199985531497,Dolj,Drum,3810,,Drumul Grănicerilor,PDT,Limba română
+Drumul Grănicerilor,drumuri,1,43.8154647738342,23.1460187801423,Dolj,Drum,15697,,Drumul Grănicerilor,PDT,Limba română
 Drumul Împușcatului,drumuri,1,44.0554242086358,23.9874453028939,Dolj,Drum,4673,,Drumul Împușcatului,PDT,Limba română
 Drumul Inginerului,drumuri,1,44.0995368294526,23.5428133073598,Dolj,Drum,4666,,Drumul Inginerului,PDT,Limba română
 Drumul Ițelor,drumuri,1,44.3749154242374,23.2654017485518,Dolj,Drum,126,,Drumul Ițelor,Geomil 25000,Limba română
@@ -494,6 +495,7 @@ Drumul Ciurdei,drumuri,1,46.404557206162,24.4844561380978,Mures,Drum,15335,,Drum
 Drumul Fanunu,drumuri,1,46.6806286069908,25.1802678140431,Mures,Drum,13794,,Drumul Fanunu,Geomil 25000,Limba română
 Drumul Logig,drumuri,1,46.8710098172609,24.5755758909424,Mures,Drum,7308,,Drumul Logig,Geomil 25000,Limba română
 Drumul Mediaș,drumuri,1,46.2861626618631,24.2312432806501,Mures,Drum,1918,,Drumul Mediaș,Geomil 25000,Limba română
+La Drum,drumuri,1,46.1708493311326,24.7993622139074,Mures,Altele,15701,,La Drum,ANCPI,Limba română
 Pădurea Trei Drumuri,drumuri,1,46.5620115033162,24.4143208596943,Mures,Pădure,5379,,Pădurea Trei Drumuri,Geomil 25000,Limba română
 Pe Drumul Băgaciu,drumuri,1,46.2741125738786,24.4279352106453,Mures,Drum,7350,,Pe Drumul Băgaciu,Geomil 25000,Limba română
 Drumul Chinezilor,drumuri,1,46.821227274988,26.3438798451561,Neamt,Drum,2030,,Drumul Chinezilor,Geomil 25000,Limba română
@@ -658,9 +660,11 @@ Drumul Roșiorilor de Vede,drumuri,1,44.0297671247792,24.8302242469171,Teleorman
 Drumul Sărei,drumuri,1,44.3351824034586,25.0859605708398,Teleorman,Drum,9036,,Drumul Sărei,PDT,Limba română
 Drumul Tinizei,drumuri,1,43.7504042516,25.2671442598,Teleorman,Drum,4210,,Drumul Tinizei,PDT,Limba română
 Drumul Țintei,drumuri,1,43.7863065799357,25.2244448854609,Teleorman,Drum,3790,,Drumul Țintei,PDT,Limba română
+Lacul de la Drum,drumuri,1,44.1932701625224,25.0859652983361,Teleorman,Lac,15703,,Lacul de la Drum,PDT,Limba română
 Valea cu Drum,drumuri,1,43.862736964785,24.9552226698311,Teleorman,Vale,12432,,Valea cu Drum,PDT,Limba română
 Valea Drumul Moarei,drumuri,1,43.9314335053574,24.8889718462655,Teleorman,Vale,14961,,Valea Drumul Moarei,PDT,Limba română
 Drumul Mare,drumul Mare,2,45.8588095193051,22.0188844155416,Timis,Drum,4301,,Drumul Mare,PDT,Limba română
+Drumul Mare,drumul Mare,2,45.8614552368461,22.4253183338322,Timis,Drum,15546,,Drumul Mare,PDT,Limba română
 Fântâna lângă drumul mare,drumul Mare,2,45.7550867217487,20.9231725963575,Timis,Altele,7621,,Fântâna lângă drumul mare,PDT,Limba română
 Drumu cu Cireși,drumuri,1,45.9546486243318,20.574381067953,Timis,Drum,7625,,Drumu cu Cireși,Geomil 25000,Limba română
 Drumu cu Nuci,drumuri,1,45.9538983179416,20.5998798893189,Timis,Drum,7624,,Drumu cu Nuci,Geomil 25000,Limba română

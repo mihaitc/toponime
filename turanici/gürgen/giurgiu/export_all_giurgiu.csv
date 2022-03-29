@@ -1,0 +1,7 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Șaua Podu Giurgiului,giurgiu,3,45.603745165749,24.6976492376443,Brasov,Înălțime,15111,,Șaua Podu Giurgiului,Munții noștri,Limba română
+Movila Giurgiului,giurgiu,3,44.9437551548151,27.2109246063358,Buzau,Înălțime,15409,,Movila Giurgiului,PDT,Limba română
+Dealul Giurgiului,giurgiu,3,45.1684801505479,21.7422309149877,Caras Severin,Deal,15587,15585,Dealul Giurgiului,PDT,Limba română
+Valea Giurgiului,giurgiu,3,45.1654844168906,21.7380337585472,Caras Severin,Vale,15589,15585,Valea Giurgiului,PDT,Limba română
+Dealul Giurgiu,giurgiu,3,46.339550552012,27.0844939664157,Vaslui,Deal,14856,,Dealul Giurgiu,PDT,Limba română
+Muntele Giurgiu,giurgiu,3,45.7559065464526,26.4443325524754,Vrancea,Înălțime,14776,,Muntele Giurgiu,ANCPI,Limba română

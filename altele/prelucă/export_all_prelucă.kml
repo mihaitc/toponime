@@ -172,6 +172,7 @@
 <Placemark><LineString id="15473_15474"><tessellate>1</tessellate><coordinates>25.912750,47.200864,0.
 25.913582,47.204500,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Piscul de la Prelucă</name><description>Nume: Piscul de la Prelucă, Tip: prelucă, Nivel: 2, Județ: Neamt, Formă: Înălțime, ID: 13659 <br /><b>Variante</b><br />Nume: Piscul de la Prelucă, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.056434,46.822698,0</coordinates></Point></Placemark>
+<Placemark><name>Poiana Preluca</name><description>Nume: Poiana Preluca, Tip: prelucă, Nivel: 2, Județ: Neamt, Formă: Poiană, ID: 15718 <br /><b>Variante</b><br />Nume: Poiana Preluca, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.231177,47.128902,0</coordinates></Point></Placemark>
 <Placemark><name>Poiana Prelucii</name><description>Nume: Poiana Prelucii, Tip: prelucă, Nivel: 2, Județ: Neamt, Formă: Poiană, ID: 13658, ID Părinte: 13659 <br /><b>Variante</b><br />Nume: Poiana Prelucii, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.058101,46.819177,0</coordinates></Point></Placemark>
 <Placemark><LineString id="13658_13659"><tessellate>1</tessellate><coordinates>26.058101,46.819177,0.
 26.056434,46.822698,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

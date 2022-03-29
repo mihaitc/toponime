@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Drăcșenei</name><description>Nume: Drăcșenei, Tip: drăcșenei, Nivel: 3, Județ: Teleorman, Formă: Localitate, ID: 15536, ID Părinte: 15535 <br /><b>Variante</b><br />Nume: Drăcșenei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>24.980562,44.225532,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15536_15535"><tessellate>1</tessellate><coordinates>24.980562,44.225532,0.
+24.990447,44.215631,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

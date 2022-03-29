@@ -37,14 +37,17 @@ Dealul Țapului,țap,3,46.8655212590914,22.2134503093848,Bihor,Deal,12366,Dealul
 Pârâu Țapului,țap,3,46.5759323401241,22.6008962728127,Bihor,Vale,14208,Pârâu Țapului,Geomil 25000,Limba română
 Țapu,țap,3,46.5243103292572,22.6461037488641,Bihor,Înălțime,7005,Țapu,Geomil 25000,Limba română
 Valea Țapilor,țap,3,46.6707405210773,22.5955820021862,Bihor,Vale,9406,Valea Țapilor,PDT,Limba română
+Dealul Caprelor,capră,3,46.9854635739309,24.3483040362141,Bistrita Nasaud,Deal,15630,Dealul Caprelor,PDT,Limba română
 Valea Caprei,capră,3,47.351896361692,24.2511925100995,Bistrita Nasaud,Vale,1016,Valea Caprei,Geomil 25000,Limba română,Valea Caprei,PDT,Limba română
 Valea Caprei,capră,3,47.137552388163,24.5371075029809,Bistrita Nasaud,Vale,4510,Valea Caprei,Geomil 25000,Limba română
 Dealul Caprelor,capre,3,47.2015382869385,24.3673974689117,Bistrita Nasaud,Deal,4504,Dealul Caprelor,Geomil 25000,Limba română
 Pârâul Caprelor,capre,3,47.1163862882911,24.7278912000867,Bistrita Nasaud,Vale,15164,Pârâul Caprelor,Munții noștri,Limba română
 Părâul Țapului,țap,3,47.3897676462894,24.338095073475,Bistrita Nasaud,Vale,10646,Părâul Țapului,Imperiul Habsburgic (1887),Limba română
 Lacul Capra,capră,3,44.9726123338192,28.0955054740927,Braila,Lac,6707,Lacul Capra,PDT,Limba română
+Movila Caprei,capră,3,45.0461493781695,27.5159490583696,Braila,Înălțime,15727,Movila Caprei,ANCPI,Limba română
 Movila Iedului,iezi,3,45.182985642451,27.5108099521923,Braila,Înălțime,3604,Movila Iedului,Austriacă,Limba română,Movila Iedului,Geomil 25000,Limba română,Movila la Iedul,PDT,Limba română
 Dealul Caprei,capră,3,45.6605998519354,25.9092772475562,Brasov,Deal,2769,Dealul Caprei,Geomil 25000,Limba română
+Dealul Caprei,capră,3,45.6973697417237,25.4288467463877,Brasov,Deal,15629,Dealul Caprei,Munții noștri,Limba română
 La Pârâul Caprei,capră,3,46.007326680449,24.9936148972444,Brasov,Vale,2483,La Pârâul Caprei,Geomil 25000,Limba română
 Păr. Caprei,capră,3,45.6540142695577,24.9334529151091,Brasov,Vale,10527,Păr. Caprei,Imperiul Habsburgic (1887),Limba română
 Picioarele Caprei,capră,3,45.4499254202205,25.8673613500676,Brasov,Înălțime,2771,Picioarele Caprei,Geomil 25000,Limba română
@@ -71,6 +74,7 @@ Dealul Ocolul Caprelor,capre,3,46.075497951767,25.9414270517695,Covasna,Deal,437
 Dealul Țapului,țap,3,46.1789481289124,25.5167241456061,Covasna,Deal,10060,Dealul Țapului,Geomil 25000,Limba română
 Piscul Văii Caprei,capră,3,45.0618387082,25.3532341123,Dambovita,Înălțime,10172,Piscul Văii Caprei,PDT,Limba română
 Valea Caprei,capră,3,45.0640674850868,25.6571967657425,Dambovita,Vale,8811,Valea Caprei,PDT,Limba română
+Valea Caprei Mari,capră,3,44.8340212529835,25.2872756665256,Dambovita,Vale,15676,Valea Caprei Mari,PDT,Limba română
 Valea Caprii,capră,3,44.7632261749197,25.2812089033492,Dambovita,Vale,8313,Valea Caprii,PDT,Limba română
 Valea Coada Iedului,iezi,3,44.7863892679068,25.2688889859185,Dambovita,Vale,10149,Valea Coada Iedului,PDT,Limba română
 Dealul Caprei,capră,3,44.628779991787,23.7769934989245,Dolj,Deal,391,Dealul Caprei,Geomil 25000,Limba română
@@ -102,6 +106,7 @@ Dealul Pășunea Caprelor,capre,3,46.8488260017774,25.6147354684961,Harghita,Dea
 Cornu Caprei,capră,3,45.6616899560069,22.7853780421478,Hunedoara,Înălțime,6107,Cornu Caprei,Geomil 25000,Limba română
 Culmea Caprei,capră,3,45.6197798246287,22.446462720287,Hunedoara,Înălțime,9022,Culmea Caprei,PDT,Limba română
 Dealu Capra,capră,3,45.7438116606037,23.3162675294612,Hunedoara,Deal,9838,Dealu Capra,Geomil 25000,Limba română
+Valea Caprii,capră,3,45.7145557778029,22.7009683820986,Hunedoara,Vale,15615,Valea Caprii,Imperiul Habsburgic (1887),Limba română
 Dealul Țapului,țap,3,45.6169904886429,23.0882217047504,Hunedoara,Deal,5552,Dealul Țapului,Geomil 25000,Limba română
 Valea Țapului,țap,3,45.6439263810788,22.9838832168593,Hunedoara,Vale,5546,Valea Țapului,Geomil 25000,Limba română
 Vârfu Țapului,țap,3,46.1757057285633,22.777688009777,Hunedoara,Înălțime,933,Vârfu Țapului,Geomil 25000,Limba română
@@ -144,6 +149,7 @@ Fața Caprei,capră,3,45.2166105438267,26.2008770473074,Prahova,Înălțime,1521
 Vârful Capra,capră,3,45.0590989774883,26.3791473000903,Prahova,Înălțime,3970,Vârful Capra,PDT,Limba română
 Valea Iedului,iezi,3,45.0198636139844,26.0992566550053,Prahova,Vale,826,Valea Iedului,Geomil 25000,Limba română
 Poiana Țapului,țap,3,45.3941044868348,25.537691750855,Prahova,Localitate,9796,Poiana Țapului,Geomil 25000,Limba română
+Vârful Țapului,țap,3,45.235532437855,26.1363465716599,Prahova,Înălțime,15567,Vârful Țapului,PDT,Limba română
 Dealu Caprei,capră,3,47.3434336513163,22.8587780138749,Salaj,Deal,2618,Dealu Caprei,Geomil 25000,Limba română
 Pârâul Caprei,capră,3,47.2349423281624,23.1571815009452,Salaj,Vale,7564,Pârâul Caprei,PDT,Limba română
 Valea Caprei,capră,3,47.3548623816511,23.6762322169019,Salaj,Vale,4438,Valea Caprei,Geomil 25000,Limba română

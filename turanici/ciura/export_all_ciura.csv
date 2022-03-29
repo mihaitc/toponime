@@ -1,0 +1,20 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Ciurari,ciurari,3,44.721999391005,24.8644782251983,Arges,Localitate,15692,,Ciurari,PDT,Limba română
+Ciurești,ciurești,3,44.7717960196105,24.6691103207987,Arges,Localitate,14688,,Ciurești,ANCPI,Limba română
+Dealul Ciurești,ciurești,3,45.1830410745385,24.6435874775932,Arges,Deal,15418,,Dealul Ciurești,ANCPI,Limba română
+Dealul Ciurarilor,ciurari,3,47.5304289831402,26.9507712413856,Botosani,Deal,15435,,Dealul Ciurarilor,ANCPI,Limba română
+Movila Ciurea,ciurea,3,45.158241550493,27.3023125590051,Braila,Înălțime,15343,,Movila Ciurea,PDT,Limba română
+Muchia Ciurei,ciura,2,45.4312393604361,26.3672408226482,Buzau,Înălțime,15700,,Muchia Ciurei,Munții noștri,Limba română
+Privalul Ciurea,ciurea,3,44.1820005308765,26.9256666063889,Calarasi,Apă-deal-câmpie,15735,,Privalul Ciurea,PDT,Limba română
+La Ciurea,ciurea,3,43.9335076241125,22.9945801602935,Dolj,Altele,14754,,La Ciurea,ANCPI,Limba română
+Ciurești,ciurești,3,46.0758375210261,27.6279519095309,Galati,Localitate,14689,,Ciurești,ANCPI,Limba română
+Ciurari,ciurari,3,44.3889395861602,25.9513407507272,Iasi,Localitate,15269,,Ciurari,PDT,Limba română
+Ciurea,ciurea,3,47.0535166831738,27.5777247265203,Iasi,Localitate,14685,,Ciurea,PDT,Limba română
+Ciurea,ciurea,3,46.8853368964041,27.1871551510871,Neamt,Localitate,14684,,Ciurea,PDT,Limba română
+Ciurești-Diconești,ciurești,3,44.4421380836689,24.7089772362465,Olt,Localitate,14683,,Ciurești-Diconești,PDT,Limba română
+Ciureni,ciureni,3,47.200248415402,23.5397488835534,Salaj,Localitate,14691,,Ciureni,ANCPI,Limba română,Csurfalva,Transilvania (1769-1773),Limba maghiară,Csurenye,Transilvania (1869-1870),Limba maghiară
+Ciura,ciura,2,47.2577979553921,25.5145170560842,Suceava,Vale,15161,,Ciura,Munții noștri,Limba română
+Ciurari,ciurari,3,44.2525079465279,25.0474095671251,Teleorman,Localitate,15268,,Ciurari,ANCPI,Limba română
+Ciura,ciura,2,45.7730544116559,22.0221470259398,Timis,Altele,15596,15594,Ciura,ANCPI,Limba română
+Dealul Ciura,ciura,2,45.7507525690995,22.0050577621211,Timis,Deal,15594,,Dealul Ciura,ANCPI,Limba română
+Pădurea Ciura,ciura,2,45.7450139305707,22.0110126172696,Timis,Pădure,15595,15594,Pădurea Ciura,ANCPI,Limba română

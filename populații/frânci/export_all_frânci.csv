@@ -1,4 +1,5 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Frânca,frânca,3,46.3629219149461,23.5029036728363,Alba,Deal,15741,,Dealul Frânca,ANCPI,Limba română
 Frâncu,frânc,3,45.4759003013531,22.1028410446666,Caras Severin,Înălțime,14343,,Frâncu,ANCPI,Limba română
 Frâncul,frânc,3,45.3114489476017,22.5195657840568,Caras Severin,Înălțime,14357,,Frâncul,ANCPI,Limba română
 Pârâu Frâncului,frânc,3,45.1823377540164,22.2879043873622,Caras Severin,Vale,6133,6134,Pârâu Frâncului,Geomil 25000,Limba română

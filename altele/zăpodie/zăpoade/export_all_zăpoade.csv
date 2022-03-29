@@ -1,0 +1,10 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
+Zăpoadea,zăpoade,3,46.351969493543,22.4224004029888,Arad,Altele,7649,,Zăpoadea,Geomil 25000,Limba română,Zăpoade,PDT,Limba română
+Zapoadele,zăpoade,3,47.3140626171239,24.2470475435964,Bistrita Nasaud,Altele,10649,,Zapoadele,Imperiul Habsburgic (1887),Limba română
+Zăpoadea,zăpoade,3,47.081445627692,23.5300447157487,Cluj,Altele,10390,,Zăpoadea,PDT,Limba română
+Zăpoade,zăpoade,3,47.7696379549221,24.108571429171,Maramures,Altele,7177,,Zăpoade,Geomil 25000,Limba română
+Zăpoade,zăpoade,3,47.472509647654,23.6313481758398,Maramures,Altele,8237,,Zăpoade,PDT,Limba română
+La Zăpoadea,zăpoade,3,46.2631113201896,24.6073652441563,Mures,Altele,15673,4358,La Zăpodea,PDT,Limba română
+Zăpoadea Blidăreasa,zăpoade,3,46.8031130417871,24.9837509025217,Mures,Înălțime,14468,,Zăpoadea Blidăreasa,PDT,Limba română
+Zăpoadea din sus,zăpoade,3,46.321345730222,24.4894195198484,Mures,Înălțime,10629,,Zăpoadea din sus,Imperiul Habsburgic (1887),Limba română
+Zapoadea Dubistea,zăpoade,3,46.8193366955099,24.9774951859696,Mures,Înălțime,14467,,Zapoadea Dubistea,PDT,Limba română

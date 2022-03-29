@@ -1,5 +1,8 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Epure,epure,2,46.1362889040967,23.145652064022,Alba,Deal,11822,Epure,Transilvania (1869-1870),Limba română,Dealul Iepurelui,Geomil 25000,Limba română
+Dealu Epure,epure,2,46.4387133663372,22.1303803058575,Arad,Deal,974,Dealu Iepure,Geomil 25000,Limba română,D. Epure,PDT,Limba română
+Epureasca,epureasca,3,46.5337914936037,21.9278744008524,Arad,Altele,15626,Epureasca,PDT,Limba română
+Culmea lui Epure,epure,2,45.3947021525757,24.8802449373563,Arges,Înălțime,15608,Culmea lui Epure,ANCPI,Limba română
 Epurești,epurești,3,46.7042408149258,22.2134265557492,Bihor,Altele,14663,Epurești,PDT,Limba română
 Epureni,epureni,3,47.8648979502544,26.8287087912526,Botosani,Localitate,14555,Epureni,PDT,Limba română
 La Epurică,epurică,3,45.3197855065794,27.7065848359054,Braila,Altele,15415,La Epurică,PDT,Limba română
@@ -18,6 +21,7 @@ Movila Epure,epure,2,44.4462497606756,27.8398763143668,Ialomita,Înălțime,2835
 Epureni,epureni,3,47.467972323159,27.3134857877122,Iasi,Localitate,14592,Epureni,PDT,Limba română
 Epureni,epureni,3,47.2960740787801,27.4321896610485,Iasi,Localitate,14751,Epureni,PDT,Limba română
 Peștera Epuran,epuran,3,44.8326107033377,22.5710077884022,Mehedinti,Altele,15077,Peștera Epuran,Munții noștri,Limba română
+Epurani,epurani,3,44.6145036096558,23.3776347587206,Mehedinti,Localitate,15663,Epurani,PDT,Limba română
 Pădurea Epureasca,epureasca,3,44.571701195712,23.240698203995,Mehedinti,Pădure,14537,Pădurea Epureasca,ANCPI,Limba română
 Dealul Epurenilor,epureni,3,44.7125920161896,22.6103177933146,Mehedinti,Deal,14837,Dealul Epurenilor,ANCPI,Limba română,Dealul Iepurenilor,Austriacă,Limba română
 Epureni,epureni,3,44.5748573095964,23.1006630966849,Mehedinti,Localitate,14533,Epureni,PDT,Limba română

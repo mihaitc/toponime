@@ -3,6 +3,7 @@ Plaiul Limpede,limpede,2,45.1592905252699,25.0128661167608,Arges,Înălțime,131
 Valea Limpede,limpede,2,45.3481898602676,24.6641085800225,Arges,Vale,12956,,Valea Limpede,Geomil 25000,Limba română
 Valea Limpede,limpede,2,45.1580348228018,25.0148356545161,Arges,Vale,13125,,Valea Limpede,Geomil 25000,Limba română
 Cracul Repede,repede,3,45.451739708518,24.4749846938348,Arges,Înălțime,10193,,Cracul Repede,Geomil 25000,Limba română
+Culmea Repede,repede,3,45.3690426079887,24.9028832716277,Arges,Înălțime,15609,,Culmea Repede,ANCPI,Limba română
 Piscul Repede,repede,3,45.5485911286665,24.8034107250981,Arges,Înălțime,13636,,Piscul Repede,Geomil 25000,Limba română
 Pârâul Tulbure,tulbure,3,45.4577991208911,25.0183204240628,Arges,Vale,13450,,Pârâul Tulbure,Geomil 25000,Limba română
 Pârâul Turburea,turburea,3,45.3232263306558,24.6973501878542,Arges,Vale,12957,,Pârâul Turburea,Geomil 25000,Limba română
@@ -33,8 +34,11 @@ Grindul Repejoarei,repejoara,3,44.9961742105883,28.0304395742322,Braila,Înălț
 Privalul Repejoarei,repejoara,3,44.9979237188622,28.0401641089033,Braila,Apă-deal-câmpie,6714,6713,Privalul Repejoarei,PDT,Limba română
 Muchia Repede,repede,3,45.5790537834592,25.1333104688099,Brasov,Înălțime,11253,11252,Muchia Repede,Geomil 25000,Limba română
 Valea Repede,repede,3,45.5790425744542,25.1380288222064,Brasov,Vale,11252,,Valea Repede,Geomil 25000,Limba română
+Valea Tulburea,tulburea,2,45.7357668227811,25.2745446047832,Brasov,Vale,15628,,Valea Tulburea,PDT,Limba română
+Valea Tulburița,tulburița,3,45.753659753376,25.2889121528129,Brasov,Vale,15627,,Valea Tulburița,PDT,Limba română
 Lacul Limpede,limpede,2,45.5667647946277,26.5735794275851,Buzau,Lac,13781,,Lacul Limpede,Geomil 25000,Limba română
 Pârâul Limpede,limpede,2,45.2116323587049,26.4530046408407,Buzau,Vale,13565,,Pârâul Limpede,Geomil 25000,Limba română
+Izvorul Repede,repede,3,45.5904004545375,26.4807156299989,Buzau,Vale,15687,,Izvorul Repede,Munții noștri,Limba română
 Pârâul Tulbure,tulbure,3,45.2099029930329,26.5449335791857,Buzau,Vale,13563,,Pârâul Tulbure,Geomil 25000,Limba română
 Tulburea,tulburea,2,45.3360526559548,26.4744249416341,Buzau,Localitate,12989,12988,Tulburea,Geomil 25000,Limba română
 Valea Tulburea,tulburea,2,45.3341092452349,26.4795614472791,Buzau,Vale,12988,,Valea Tulburea,Geomil 25000,Limba română
@@ -101,6 +105,7 @@ Piscul Repede,repede,3,45.2852372847618,24.4823489907174,Valcea,Înălțime,1110
 Pârâul Repedea,repedea,2,45.3441337239677,23.891001913614,Valcea,Vale,5836,,Pârâul Repedea,Geomil 25000,Limba română,Valea Repede,Austriacă,Limba română
 Culmea Repezi,repezi,3,45.3768935349,23.961402965,Valcea,Înălțime,7420,5836,Culmea Repezi,Geomil 25000,Limba română
 Dealul Repezi,repezi,3,45.3963604693621,23.9063780318905,Valcea,Deal,7418,,Dealul Repezi,Geomil 25000,Limba română
+Valea Tulbure,tulbure,3,45.1273852968472,24.3209240849901,Valcea,Vale,15553,,Valea Tulbure,ANCPI,Limba română
 Valea Tulburea,tulburea,2,45.1778880918933,24.3168588692641,Valcea,Vale,13571,,Valea Tulburea,Geomil 25000,Limba română
 Turburea,turburea,3,44.8823096111952,23.8571234055937,Valcea,Localitate,13014,,Turburea,Geomil 25000,Limba română
 Pârâul Tulbure,tulbure,3,46.6687837626528,27.3661650393534,Vaslui,Vale,14117,,Pârâul Tulbure,Geomil 25000,Limba română

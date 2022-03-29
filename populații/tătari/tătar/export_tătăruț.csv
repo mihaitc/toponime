@@ -1,2 +1,65 @@
-Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Cioaca Tătarului,tătar,3,45.9870371149583,21.9480767976896,Arad,Înălțime,4296,Cioaca Tătarului,Geomil 25000,Limba română
+Dealu Tătarului,tătar,3,46.1578904854606,22.3378314106,Arad,Deal,10220,Dealu Tătarului,Geomil 25000,Limba română
+Tatár halom (Dâmbul Tătarului),tătar,3,46.4081756409071,21.2947570338271,Arad,Înălțime,10958,Tatár halom (Dâmbul Tătarului),Imperiul Habsburgic (1887),Limba maghiară
+Poiana Tătarului,tătar,3,44.6049101209914,24.7834962366685,Arges,Poiană,10997,Poiana Tătarului,PDT,Limba română
+Valea Tătarului,tătar,3,44.9200827772791,25.102094543344,Arges,Vale,15363,Valea Tătarului,PDT,Limba română
+Poiana Tătarului,tătar,3,46.5206087997089,26.8021567443864,Bacau,Poiană,13286,Poiana Tătarului,Moldova (1892-1898),Limba română
+Valea Tătarului,tătar,3,47.4071412025062,24.6270518644344,Bistrita Nasaud,Vale,4521,Valea Tătarului,Geomil 25000,Limba română
+Movila Tătarului,tătar,3,45.3196549178266,27.864659472491,Braila,Înălțime,3494,Movila Tătarului,PDT,Limba română
+Tătaru,tătar,3,44.8500723238494,27.4298382521666,Braila,Localitate,3600,Tătaru,Geomil 25000,Limba română,Tătaru,PDT,Limba română,Tataru,Austriacă,Limba română
+Dealul Tătarului,tătar,3,45.4785171653262,26.7816229159849,Buzau,Deal,5236,Dealul Tătarului,Geomil 25000,Limba română
+Tătarul Mare,tătar,3,45.4856165123646,26.0651194879278,Buzau,Înălțime,6045,Tătarul Mare,Geomil 25000,Limba română
+Valea Tătarului,tătar,3,45.3171704253207,26.7378957113826,Buzau,Vale,13295,Valea Tătarului,Geomil 25000,Limba română
+Lacu Tătarului,tătar,3,44.3428252319946,26.3524045318952,Calarasi,Lac,5989,Lacu Tătarului,Geomil 25000,Limba română
+Lacul Tătaru,tătar,3,44.1709540612963,26.9257929880774,Calarasi,Lac,3259,Lacul Tătaru,PDT,Limba română
 Lacul Tătăruțul,tătăruț,3,44.1684098526484,27.0089773902124,Calarasi,Lac,3255,Lacul Tătăruțul,PDT,Limba română
+Culmea Tătarului,tătar,3,45.4709916526297,22.3329511491736,Caras Severin,Înălțime,855,Culmea Tătarului,Geomil 25000,Limba română
+Vârful Tătarului,tătar,3,45.2200519562285,22.5653425666527,Caras Severin,Înălțime,15071,Vârful Tătarului,Munții noștri,Limba română
+Valea Tătarului,tătar,3,44.5566906188191,28.0767730965664,Constanta,Vale,11598,Valea Tătarului,Geomil 25000,Limba română
+Colții Tătarului,tătar,3,45.3758770646605,25.4074687824948,Dambovita,Înălțime,1482,Colții Tătarului,Geomil 25000,Limba română
+Dealul Tătarului,tătar,3,44.6121340267724,25.3317237322466,Dambovita,Deal,3382,Dealul Tătarului,Geomil 25000,Limba română
+Grindul Tătarului,tătar,3,45.6656781789735,28.0819089465951,Galati,Înălțime,703,Grindul Tătarului,Geomil 25000,Limba română
+Japșa Tătarului,tătar,3,45.5642282552033,28.142425535943,Galati,Apă-deal-câmpie,14547,Japșa Tătarului,PDT,Limba română
+Mormântul Tătarului,tătar,3,45.4761985805023,27.8360053948902,Galati,Altele,3530,Mormântul Tătarului,PDT,Limba română
+Rediul Tătarului,tătar,3,46.0120428066529,27.9450158527711,Galati,Altele,712,Rediul Tătarului,Geomil 25000,Limba română
+Drumul Tătarului,tătar,3,44.4247550265151,25.666907384764,Giurgiu,Drum,3741,Drumul Tătarului,PDT,Limba română
+Măgura Tătarului,tătar,3,44.1041493706672,26.1885722727649,Giurgiu,Înălțime,3770,Măgura Tătarului,PDT,Limba română
+Pădurea Tătarului,tătar,3,46.4889083628474,25.3268366476061,Harghita,Pădure,11484,Pădurea Tătarului,Geomil 25000,Limba română
+Tatár szállás (Sălașul Tătarului),tătar,3,46.7282749025854,25.5458377289517,Harghita,Altele,10835,Tatár szállás (Sălașul Tătarului),Imperiul Habsburgic (1887),Limba maghiară
+Tătarul,tătar,3,46.5243047989483,25.7794060942996,Harghita,Altele,11226,Tătarul,ANCPI,Limba română
+Tătarul,tătar,3,46.8521881662674,25.6466705973047,Harghita,Vale,12870,Tătarul,Geomil 25000,Limba română
+Dl. Tatarului,tătar,3,45.4396271129059,23.231871685088,Hunedoara,Deal,10523,Dl. Tatarului,Transilvania (1869-1870),Limba română
+Valea Tătarului,tătar,3,45.4113924082676,22.7624134928138,Hunedoara,Vale,1201,Valea Tătarului,Geomil 25000,Limba română
+Valea Tătarului,tătar,3,44.5367858294849,26.4522768304149,Ialomita,Vale,3285,Valea Tătarului,PDT,Limba română
+Movila Tătarului,tătar,3,47.2828950257681,26.9638584974729,Iasi,Înălțime,11774,Movila Tătarului,PDT,Limba română
+Rediu Tătarului,tătar,3,47.2136452398164,27.5051377529058,Iasi,,4830,Rediu Tătarului,PDT,Limba română
+Lacul Tatarului,tătar,3,44.6412332496549,26.1453862635728,Ilfov,Lac,8786,Lacul Tatarului,PDT,Limba română
+Câmpul Tătaru,tătar,3,47.8065836816,23.7523079277,Maramures,Câmp,4469,Câmpul Tătaru,Geomil 25000,Limba română,Poiana Tătarul,PDT,Limba română
+Dealul Tătarului,tătar,3,47.644092306994,24.3722367678639,Maramures,Deal,14948,Dealul Tătarului,PDT,Limba română
+Pădurea Tătaru,tătar,3,47.3929121502087,23.5620690605118,Maramures,Pădure,4434,Pădurea Tătaru,Geomil 25000,Limba română
+Ogașul Tătarului,tătar,3,44.6126684160185,23.128300206748,Mehedinti,Altele,3143,Ogașul Tătarului,Geomil 25000,Limba română
+Tătaru,tătar,3,44.5968882005062,22.8656790972776,Mehedinti,Altele,11487,Tătaru,Geomil 25000,Limba română
+Via lui Tătaru,tătar,3,44.6398414800476,23.2881927995572,Mehedinti,Altele,15662,Via lui Tătaru,PDT,Limba română
+Dealul Tătarului,tătar,3,47.0243499903316,24.8282768860846,Mures,Deal,11611,Dealul Tătarului,Geomil 25000,Limba română
+Vârful Tătarului,tătar,3,47.0741955563154,25.1119962188826,Mures,Înălțime,5424,Vârful Tătarului,Geomil 25000,Limba română
+Fântâna Tătarului,tătar,3,44.8633972145757,26.0918177250278,Prahova,Altele,8797,Fântâna Tătarului,PDT,Limba română
+Plaiul Tătarului,tătar,3,45.102697616078,25.8168763163065,Prahova,Înălțime,12121,Plaiul Tătarului,PDT,Limba română
+Vârful Ciortea Tatarul,tătar,3,45.0987699386589,26.3541531167604,Prahova,Înălțime,3998,Vârful Ciortea Tatarul,PDT,Limba română
+Colina Tătarului,tătar,3,47.6734303494042,22.998231208044,Satu Mare,Înălțime,4472,Colina Tătarului,PDT,Limba română,Dealul Tătărești,Geomil 25000,Limba română
+Dâmbu Tătarului,tătar,3,47.8217057486929,23.1023889068886,Satu Mare,Înălțime,2601,Dâmbu Tătarului,Geomil 25000,Limba română
+Vârful Tătarului,tătar,3,45.5838798570186,24.3948648997925,Sibiu,Înălțime,1455,Vârful Tătarului,Geomil 25000,Limba română
+Pădurea Tătarului,tătar,3,47.3643803811516,25.1575739698852,Suceava,Pădure,1864,Pădurea Tătarului,Geomil 25000,Limba română
+Tătarul,tătar,3,47.3401721949105,25.0897210093319,Suceava,Înălțime,1870,Tătarul,Geomil 25000,Limba română
+Măgura Tătarului,tătar,3,43.9825273916005,25.4575178985083,Teleorman,Înălțime,1374,Măgura Tătarului,Geomil 25000,Limba română,Movila Tătarului,PDT,Limba română
+Valea Tătarului,tătar,3,44.3045048536861,25.004365309375,Teleorman,Vale,10112,Valea Tătarului,PDT,Limba română
+Dâmbu Tătarului,tătar,3,45.8521015625184,22.3300806840532,Timis,Înălțime,4292,Dâmbu Tătarului,Geomil 25000,Limba română
+Dâmbu Tătarului,tătar,3,45.6500517741313,22.0531203128518,Timis,Înălțime,10238,Dâmbu Tătarului,Geomil 25000,Limba română
+Dealul Tătarului,tătar,3,45.0102946426974,28.5743852371605,Tulcea,Deal,11080,Dealul Tătarului,Geomil 25000,Limba română
+Ostrovul Tătarului,tătar,3,45.4049139389474,29.222151369378,Tulcea,Apă-deal-câmpie,2909,Ostrovul Tătarului,Geomil 25000,Limba română
+Tătar Pecin,tătar,3,45.0030598823679,28.1686034595075,Tulcea,Înălțime,6702,Tătar Pecin,PDT,Limba română
+Dealul Tătaru,tătar,3,45.0864934181814,24.1902913162476,Valcea,Deal,2942,Dealul Tătaru,Geomil 25000,Limba română
+Vârful Tătarului,tătar,3,45.4353523366048,24.4043696654486,Valcea,Înălțime,7505,Vârful Tătarului,Geomil 25000,Limba română
+Dealul Tătaru,tătar,3,46.7546439669067,27.8153720072515,Vaslui,Deal,13940,Dealul Tătaru,Moldova (1892-1898),Limba română
+Valea Tătarului,tătar,3,46.807367512669,28.0467859667645,Vaslui,Vale,1697,Valea Tătarului,Geomil 25000,Limba română
+Tătaru,tătar,3,45.4996513510639,27.4741340492992,Vrancea,Localitate,3538,Tătaru,PDT,Limba română,Tătaru,Geomil 25000,Limba română

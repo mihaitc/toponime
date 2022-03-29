@@ -1,6 +1,5 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Groapa Iepurilor,iepuri,2,46.3832390936378,23.8782398572576,Alba,Altele,7355,,Groapa Iepurilor,PDT,Limba română
-Dealu Iepure,iepuri,2,46.4387133663372,22.1303803058575,Arad,Deal,974,,Dealu Iepure,Geomil 25000,Limba română
 La Iepuraș,iepuri,2,45.3475943952251,27.4780243797562,Braila,Altele,754,,La Iepuraș,Geomil 25000,Limba română
 Ostrovu Iepurașu,iepuri,2,44.1971940477181,27.6607474783161,Constanta,Apă-deal-câmpie,479,,Ostrovu Iepurașu,Geomil 25000,Limba română
 La Iepuroaia,iepuri,2,44.4068116505172,23.2248987275277,Dolj,Altele,123,,La Iepuroaia,Geomil 25000,Limba română,La Iepuroaia,PDT,Limba română

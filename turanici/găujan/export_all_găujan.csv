@@ -1,6 +1,8 @@
-Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Găujani,găujani,3,44.5430253521223,24.9577378007604,Arges,Localitate,15308,,Găujani,Geomil 25000,Limba română
 Găujani,găujani,3,43.7389173785021,25.7090028901345,Giurgiu,Localitate,15307,,Găujani,ANCPI,Limba română
+Culmea Găujani,găujani,3,45.5191186007184,24.1402122921184,Sibiu,Înălțime,15602,,Culmea Găujani,ANCPI,Limba română
+Valea Izvorul Găujani,găujani,3,45.5231429371141,24.1630899730973,Sibiu,Vale,15601,15602,Valea Izvorul Găujani,ANCPI,Limba română,Valea Izvorul Găugenii,Imperiul Habsburgic (1887),Limba română
 Poiana Găujoara,găujoara,3,45.6179778302917,23.7979586186534,Sibiu,Poiană,15305,,Poiana Găujoara,ANCPI,Limba română
 Valea Găujoarei,găujoara,3,45.6283865303964,23.8111865867921,Sibiu,Vale,15306,15305,Valea Găujoarei,ANCPI,Limba română
 Găujani,găujani,3,45.4565624132095,24.3754142776778,Valcea,Localitate,15309,,Găujani,ANCPI,Limba română

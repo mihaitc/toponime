@@ -36,6 +36,7 @@
 <Placemark><name>Dealul Comănicea</name><description>Nume: Dealul Comănicea, Tip: coman, Nivel: 3, Județ: Dolj, Formă: Deal, ID: 111, ID Părinte: 110 <br /><b>Variante</b><br />Nume: Dealul Comănicea, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>23.318560,44.486656,0</coordinates></Point></Placemark>
 <Placemark><LineString id="111_110"><tessellate>1</tessellate><coordinates>23.318560,44.486656,0.
 23.331075,44.485304,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Gârla lui Coman</name><description>Nume: Gârla lui Coman, Tip: coman, Nivel: 3, Județ: Dolj, Formă: Apă-deal-câmpie, ID: 15698 <br /><b>Variante</b><br />Nume: Gârla lui Coman, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>23.181234,43.827814,0</coordinates></Point></Placemark>
 <Placemark><name>La Comani</name><description>Nume: La Comani, Tip: coman, Nivel: 3, Județ: Dolj, Formă: Altele, ID: 162, ID Părinte: 8487 <br /><b>Variante</b><br />Nume: La Comani, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>22.982829,43.997267,0</coordinates></Point></Placemark>
 <Placemark><LineString id="162_8487"><tessellate>1</tessellate><coordinates>22.982829,43.997267,0.
 23.052542,44.013291,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

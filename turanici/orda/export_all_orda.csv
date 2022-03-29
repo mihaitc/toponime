@@ -2,9 +2,12 @@ Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă
 Vârful Ordașu,ordașu,3,46.0824499286314,23.0737454037396,Alba,Înălțime,15227,,Vârful Ordașu,ANCPI,Limba română
 Dealul Urdașului,urdașu,3,46.0877057541962,23.10907580723,Alba,Deal,15228,15227,Dealul Urdașului,ANCPI,Limba română
 Muntele Urdea,urdea,3,45.5046313790407,24.7505301321768,Arges,Înălțime,15176,,Muntele Urdea,Munții noștri,Limba română
+Groapa Ordii,orda,2,46.2966628740245,26.5791818260636,Bacau,Altele,15648,,Groapa Ordii,PDT,Limba română
 Dealul Urdei,urda,3,48.0148378060415,26.3636352066886,Botosani,Deal,14875,,Dealul Urdei,ANCPI,Limba română
 Valea Urdei,urda,3,48.0234310185799,26.3600924293434,Botosani,Vale,14876,14875,Valea Urdei,ANCPI,Limba română
 Urda de Jos,urda,3,44.6295842713789,23.6254914779617,Gorj,Localitate,15249,,Urda de Jos,PDT,Limba română
 Urda de Sus,urda,3,44.6590925049508,23.6466778020472,Gorj,Localitate,15250,,Urda de Sus,PDT,Limba română
+Pârâul lui Urdă,urdă,3,46.908513256934,25.9541897197421,Neamt,Vale,15655,,Pârâul lui Urdă,PDT,Limba română
 Ordoreanca,ordoreanca,3,43.852754893482,24.6453410371209,Olt,Localitate,15447,,Ordoreanca,PDT,Limba română
+Valea Urdei,urda,3,45.2377269248341,26.2103246523831,Prahova,Vale,15552,,Valea Urdei,ANCPI,Limba română
 Urdești,urdești,3,46.3487911354104,27.9373537828059,Vaslui,Localitate,14647,,Urdești,PDT,Limba română

@@ -1,4 +1,7 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Madrozești,madrozești,3,45.3006144271647,26.9665574863952,Buzau,Altele,15372,Madrozești,ANCPI,Limba română
+Valea Modruzului,modruz,2,44.1690959144953,23.934244645647,Dolj,Vale,15748,Valea Modruzului,ANCPI,Limba română
+Grindul Modruzul,modruzul,3,43.7676999311943,23.8838103324856,Dolj,Apă-deal-câmpie,15544,Grindul Modruzul,PDT,Limba română
 Podișu Modrusu,modruz,2,47.4602666919093,27.0142171726723,Iasi,Înălțime,15370,Podișu Modrusu,PDT,Limba română,Modruz,ANCPI,Limba română
+Poienile Modruz,modruz,2,45.3601095780229,24.3192138747721,Valcea,Poiană,15745,Poienile Modruz,Munții noștri,Limba română
 Modruzeni,modruzeni,3,45.9040344089928,27.2339136989436,Vrancea,Localitate,15310,Modruzeni,PDT,Limba română

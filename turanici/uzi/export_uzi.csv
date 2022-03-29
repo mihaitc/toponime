@@ -1,4 +1,6 @@
-Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
+Valea Uzei,uza,3,46.3157352411813,23.5096950949074,Alba,Localitate,15740,Valea Uzei,ANCPI,Limba română
 Uzul,uz (singular),3,46.3491953240415,26.4310261338726,Bacau,Vale,9539,Uzul,Geomil 25000,Limba română
 Uzonka Patak (Valea Uzonka),uz (singular),3,46.0949887280469,25.7318572680198,Covasna,Vale,12827,Uzonka Patak (Valea Uzonka),Imperiul Habsburgic (1887),Limba maghiară
 Valea Uzului,uz (singular),3,46.343146098767,26.2515499498204,Harghita,Localitate,4555,Valea Uzului,Geomil 25000,Limba română
+Hăuzești,hăuzești,3,45.7190490626248,22.1579989343076,Timis,Localitate,15578,Hăuzești,ANCPI,Limba română,Hauszest,Ungară 1869,Limba română,Hausest,Ungaria (1782–1785),Limba română

@@ -1,0 +1,3 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Culmea Hârșan,hârșan,3,45.6614667185422,25.1300687717621,Brasov,Înălțime,15599,,Culmea Hârșan,Munții noștri,Limba română
+Valea Hârșan,hârșan,3,45.6656602088424,25.1326782459012,Brasov,Vale,15600,15599,Valea Hârșan,Munții noștri,Limba română

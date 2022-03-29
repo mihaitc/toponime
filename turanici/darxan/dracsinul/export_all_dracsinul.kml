@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Pârâul Dracsinul</name><description>Nume: Pârâul Dracsinul, Tip: dracsinul, Nivel: 3, Județ: Arges, Formă: Vale, ID: 15606, ID Părinte: 15605 <br /><b>Variante</b><br />Nume: Pârâul Dracsinul, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>25.124724,45.529794,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15606_15605"><tessellate>1</tessellate><coordinates>25.124724,45.529794,0.
+25.075713,45.529013,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>
