@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Pădurea Ciorăneștilor</name><description>Nume: Pădurea Ciorăneștilor, Tip: ciorănești, Nivel: 3, Județ: Arges, Formă: Pădure, ID: 15778, ID Părinte: 15776 <br /><b>Variante</b><br />Nume: Pădurea Ciorăneștilor, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>25.150106,44.548743,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15778_15776"><tessellate>1</tessellate><coordinates>25.150106,44.548743,0.
+25.145975,44.551287,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

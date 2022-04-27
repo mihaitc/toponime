@@ -45,9 +45,11 @@ Plaiul Iepelor,iapă,3,45.088295177482,25.6427329825987,Dambovita,Înălțime,11
 Valea Iepelor,iapă,3,45.0860960020878,25.6433243449845,Dambovita,Vale,11134,11135,Valea Iepelor,PDT,Limba română
 Valea Iepii,iapă,3,44.8587207532614,25.6912775622759,Dambovita,Vale,11144,,Valea Iepii,PDT,Limba română
 Pădurea Cobia,cobia,5,44.1504958446798,23.7367955365345,Dolj,Pădure,7716,,Pădurea Cobia,PDT,Limba română,Pădurea Cobia,Geomil 25000,Limba română
+Dealul Iepei,iapă,3,44.6427366372421,23.8154996269522,Dolj,Deal,8291,,Dealul Iepei,PDT,Limba română
 M. iepii,iapă,3,43.7702459206588,23.8622514098866,Dolj,Înălțime,6015,,M. iepii,Austriacă,Limba română
 Valea Iapa din Deal,iapă,3,44.5736667661179,23.8938173561854,Dolj,Vale,383,,Valea Iapa din Deal,Geomil 25000,Limba română
 Valea Iapa din Vale,iapă,3,44.5718184481955,23.8941437998946,Dolj,Vale,384,383,Valea Iapa din Vale,Geomil 25000,Limba română
+Valea Iepei,iapă,3,44.6395022886521,23.818570105034,Dolj,Vale,4727,8291,Valea Iepei,Geomil 25000,Limba română,Valea Iepei,PDT,Limba română
 Valea Iepei,iapă,3,44.6073884920921,23.5518300851401,Dolj,Vale,13852,,Valea Iepei,Geomil 25000,Limba română
 La Lacul Epei,iapă,3,45.9104968758121,27.5112063437894,Galati,Lac,3945,,La Lacul Epei,PDT,Limba română
 Valea Iepei,iapă,3,45.7576802835688,27.6975364753043,Galati,Vale,11288,,Valea Iepei,Geomil 25000,Limba română
@@ -82,10 +84,8 @@ La Plaiu Iepei,iapă,3,44.3190408960704,25.3444627791894,Teleorman,Altele,512,,L
 Dealu Iepii,iapă,3,45.9148214885165,22.3602221613437,Timis,Deal,880,,Dealu Iepii,Geomil 25000,Limba română
 Dosu Iepei,iapă,3,45.7546917968636,22.4915515093337,Timis,Înălțime,6176,,Dosu Iepei,Geomil 25000,Limba română
 Dealu Iepii,iapă,3,44.7008136526856,24.0288670637657,Valcea,Deal,3087,,Dealu Iepii,Geomil 25000,Limba română
-Dealul Iepei,iapă,3,44.6427366372421,23.8154996269522,Valcea,Deal,8291,,Dealul Iepei,PDT,Limba română
 Dealul Iepii,iapă,3,44.8318664724556,23.7091135539123,Valcea,Deal,11347,,Dealul Iepii,Geomil 25000,Limba română
 Valea Iepei,iapă,3,45.0465764926213,24.4435554195634,Valcea,Vale,337,,Valea Iepei,Geomil 25000,Limba română
-Valea Iepei,iapă,3,44.6395022886521,23.818570105034,Valcea,Vale,4727,8291,Valea Iepei,Geomil 25000,Limba română,Valea Iepei,PDT,Limba română
 Dealul Iepei,iapă,3,46.3457491877231,27.7339969401295,Vaslui,Deal,2173,,Dealul Iepei,Geomil 25000,Limba română
 Pădurea Iepei,iapă,3,46.3655238352779,27.7156504256752,Vaslui,Pădure,2175,2173,Pădurea Iepei,Geomil 25000,Limba română
 Valea Iepei,iapă,3,46.3463381120236,27.7243329439323,Vaslui,Vale,2174,2173,Valea Iepei,Geomil 25000,Limba română

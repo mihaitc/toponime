@@ -1,5 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Bughea,bughea,3,45.2766853667909,25.0011126836439,Arges,Localitate,15327,Bughea,PDT,Limba română
+Dîmbu Bugi,buga,2,46.5075017917061,22.4428362193508,Bihor,Înălțime,15766,Dîmbu Bugi,Ungară 1869,Limba română
 Mov. Buga,buga,2,45.118849822356,27.1313132333832,Buzau,Înălțime,14704,Mov. Buga,Austriacă,Limba română
 Mov. Bugieni,bugienie,3,44.9704694400824,26.6838921537547,Buzau,Localitate,15259,Mov. Bugieni,Austriacă,Limba română
 Bughea de Sus,bughea,3,45.2035932049552,25.9943591859764,Prahova,Localitate,15325,Bughea de Sus,ANCPI,Limba română,Bugea de Sus,Austriacă,Limba română

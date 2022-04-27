@@ -808,6 +808,7 @@ Movila Tătarilor,tătari,2,46.7672770679835,25.5066705251259,Harghita,Înălți
 Pădurea Tătari,tătari,2,46.320079424257,24.9790989750812,Harghita,Pădure,10627,Pădurea Tătari,PDT,Limba română
 Canalul Turcului,turc,3,47.0176865971111,25.7394683850371,Harghita,Altele,10611,Canalul Turcului,Imperiul Habsburgic (1887),Limba română
 Turcul,turc,3,46.8377735485351,25.5055920555782,Harghita,Vale,12872,Turcul,Geomil 25000,Limba română
+Turcul,turc,3,46.8878400438422,25.557037644543,Harghita,Vale,15791,Turcul,Munții noștri,Limba română
 Groapa Grecului,grec,3,45.6059469600147,22.7793986955909,Hunedoara,Altele,6109,Groapa Grecului,Geomil 25000,Limba română
 Pisku Grekului,grec,3,45.6161313698847,23.4002038387313,Hunedoara,Înălțime,11928,Pisku Grekului,Transilvania (1769-1773),Limba română
 Diallo Grecijlor,greci,2,45.961291151596,23.1360735315102,Hunedoara,Deal,12760,Diallo Grecijlor,Transilvania (1769-1773),Limba română
@@ -1149,6 +1150,7 @@ Valea Sârbilor,sârbi,2,43.8032052574907,24.272219550974,Olt,Vale,3030,Valea S�
 Valea Sârbilor,sârbi,2,44.0281570918427,24.5216025647082,Olt,Vale,7747,Valea Sârbilor,Geomil 25000,Limba română
 Valea Sassului,sas,4,44.4737751392775,24.5091625099659,Olt,Vale,5812,Valea Sassului,Austriacă,Limba română
 Valea Sasului,sas,4,44.7706938187048,24.501445054283,Olt,Vale,1995,Valea Sasului,Geomil 25000,Limba română
+Dealul Tătărăilor,tătărăi,3,44.5139271201282,23.9691252063129,Olt,Deal,15769,Dealul Tătărăilor,PDT,Limba română
 Tâtârei,tătărei,3,44.6004348710236,24.543310072362,Olt,Localitate,5814,Tâtârei,Austriacă,Limba română
 Fântâna Turcului,turc,3,44.3947979279291,24.4360004904511,Olt,Altele,3006,Fântâna Turcului,PDT,Limba română
 Fântâna Turcului,turc,3,44.504734022084,24.4574116071458,Olt,Altele,8120,Fântâna Turcului,PDT,Limba română
@@ -1310,6 +1312,7 @@ Românești,românești,3,47.7843076751229,26.0780483353158,Suceava,Localitate,7
 Tătarul Românești,românești,3,47.3671734104048,25.1477871746229,Suceava,Altele,1874,Tătarul Românești,Geomil 25000,Limba română
 Dealul Românoiul,românoi,3,47.7434714366944,26.2661550471272,Suceava,Deal,7271,Dealul Românoiul,PDT,Limba română
 Arșița Rusului,rus,3,47.3799296175599,25.9760797066686,Suceava,Altele,9077,Arșița Rusului,PDT,Limba română
+Arșița Rusului,rus,3,47.3333665067912,25.9201041797365,Suceava,Înălțime,15826,Arșița Rusului,PDT,Limba română
 Dealul Rusului,rus,3,47.2793594517308,25.0584313761133,Suceava,Deal,1875,Dealul Rusului,Geomil 25000,Limba română
 Dealul Rusului,rus,3,47.2425172330837,25.0778735267927,Suceava,Deal,1876,Dealul Rusului,Geomil 25000,Limba română
 Muntele Rusului,rus,3,47.2716248620459,25.4212431261445,Suceava,Înălțime,9096,Muntele Rusului,PDT,Limba română,Muntele Rusului,Geomil 25000,Limba română

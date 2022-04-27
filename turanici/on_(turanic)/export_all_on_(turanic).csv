@@ -1,10 +1,13 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
 Onești,onești,3,46.2522233855458,26.7674613669556,Bacau,,15433,,Onești,PDT,Limba română
+La Oneasa,oneasa,3,46.5156436623487,22.3416037563995,Bihor,Altele,15765,,La Oneasa,Ungară 1869,Limba română
+Valea Oneștilor,onești,3,47.2352319583166,24.8145487738423,Bistrita Nasaud,Vale,15758,,Valea Oneștilor,PDT,Limba română
 Dealul Onesii,oneasa,3,45.7446229955462,22.6025838765838,Hunedoara,Deal,15613,,Dealul Onesii,Moldova (1892-1898),Limba română
 Valea Onesii,oneasa,3,45.7747959437767,22.6388776204313,Hunedoara,Vale,15618,15613,Valea Onesii,ANCPI,Limba română
 Onești,onești,3,47.4792169270565,27.1242212815641,Iasi,Localitate,15432,,Onești,PDT,Limba română
 Vârful Onescului,onescu,3,47.0653483094651,26.0762607727361,Neamt,Înălțime,15487,,Vârful Onescului,PDT,Limba română
 Poiana Onului,onu,3,46.7298061823588,26.5335451144643,Neamt,Poiană,15643,,Poiana Onului,PDT,Limba română
+Pârâul lui Onuț,onuț,3,47.0516063668378,25.8592116129227,Neamt,Vale,15832,,Pârâul lui Onuț,PDT,Limba română
 Dealul Onăcii,onaca,3,46.7188792158921,27.8292370955224,Vaslui,Deal,15436,,Dealul Onăcii,ANCPI,Limba română
 Dealul Onești,onești,3,46.5055198286681,27.4794311805295,Vaslui,Deal,15611,,Dealul Onești,ANCPI,Limba română
 Lanul Onești,onești,3,46.4973413812541,27.4696019839947,Vaslui,Altele,15612,15611,Lanul Onești,ANCPI,Limba română

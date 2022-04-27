@@ -137,6 +137,7 @@ Movila Calului,cai,2,44.1598251790533,23.2152825004547,Dolj,Înălțime,144,Movi
 Valea Calului,cai,2,44.2326442868423,23.7527008722657,Dolj,Vale,7717,Valea Calului,Geomil 25000,Limba română
 Valea Calului,cai,2,44.2987081093301,23.7187224689289,Dolj,Vale,12183,Valea Calului,PDT,Limba română
 Pădurea Cobia,cobia,5,44.1504958446798,23.7367955365345,Dolj,Pădure,7716,Pădurea Cobia,PDT,Limba română,Pădurea Cobia,Geomil 25000,Limba română
+Dealul Iepei,iapă,3,44.6427366372421,23.8154996269522,Dolj,Deal,8291,Dealul Iepei,PDT,Limba română
 M. iepii,iapă,3,43.7702459206588,23.8622514098866,Dolj,Înălțime,6015,M. iepii,Austriacă,Limba română
 Valea Iapa din Deal,iapă,3,44.5736667661179,23.8938173561854,Dolj,Vale,383,Valea Iapa din Deal,Geomil 25000,Limba română
 Valea Iepei,iapă,3,44.6073884920921,23.5518300851401,Dolj,Vale,13852,Valea Iepei,Geomil 25000,Limba română
@@ -145,6 +146,7 @@ Movila Cailor,cai,2,45.553992265394,27.6747861850945,Galati,Înălțime,9604,Mov
 Piscul Cailor,cai,2,45.7969195615317,27.9140482648439,Galati,Înălțime,10909,Piscul Cailor,Geomil 25000,Limba română
 La Lacul Epei,iapă,3,45.9104968758121,27.5112063437894,Galati,Lac,3945,La Lacul Epei,PDT,Limba română
 Valea Iepei,iapă,3,45.7576802835688,27.6975364753043,Galati,Vale,11288,Valea Iepei,Geomil 25000,Limba română
+Gropa Kalului,cai,2,44.3975684680559,25.4388919671317,Giurgiu,Altele,10094,Gropa Kalului,Austriacă,Limba română
 Lacul Calului,cai,2,44.4836539132956,25.6421049645566,Giurgiu,Lac,12225,Lacul Calului,PDT,Limba română
 Valea Calului,cai,2,44.0147136413753,25.7449757223915,Giurgiu,Vale,3155,Valea Calului,Geomil 25000,Limba română,Valea Calului,PDT,Limba română
 Padina cu Iapa,iapă,3,44.1236596494049,26.1792970726828,Giurgiu,Înălțime,3161,Padina cu Iapa,Geomil 25000,Limba română
@@ -201,6 +203,7 @@ Piciorul Calului,cai,2,46.9708540392674,25.8978329185138,Neamt,Înălțime,6478,
 Poiana Cailor,cai,2,47.1742087317935,26.0786071869741,Neamt,Poiană,14114,Poiana Cailor,Geomil 25000,Limba română
 Iapa,iapă,3,46.814269293942,26.4450583547255,Neamt,Localitate,3854,Iapa,PDT,Limba română
 Măgura Cailor,cai,2,44.0206303448153,24.393248699659,Olt,Înălțime,1279,Măgura Cailor,Geomil 25000,Limba română
+Măgura Oboru Cailor,cai,2,43.7980276100775,24.3753335357844,Olt,Înălțime,15787,Măgura Oboru Cailor,PDT,Limba română
 Valea Calului,cai,2,44.314831981194,24.5560420176625,Olt,Vale,2997,Valea Calului,Geomil 25000,Limba română
 Valea Calului,cai,2,44.614795842199,24.6425964634332,Olt,Vale,14238,Valea Calului,PDT,Limba română
 Plaiul Calului,cai,2,45.0960471898774,25.6531057885714,Prahova,Înălțime,11136,Plaiul Calului,PDT,Limba română
@@ -239,7 +242,6 @@ Bâtca Iepei,iapă,3,47.3846570261704,25.8037980214041,Suceava,Înălțime,9091,
 Vârful Iepei,iapă,3,47.5285495744706,25.1624324811765,Suceava,Înălțime,6346,Vârful Iepei,PDT,Limba română
 Valea Iepăriei,iepărie,4,47.3418337517211,26.5018798045342,Suceava,Vale,2247,Valea Iepăriei,Geomil 25000,Limba română
 Fântâna Cailor,cai,2,44.3652753219891,25.1786948109431,Teleorman,Altele,8324,Fântâna Cailor,PDT,Limba română
-Gropa Kalului,cai,2,44.3975684680559,25.4388919671317,Teleorman,Altele,10094,Gropa Kalului,Austriacă,Limba română
 Prundul Calului,cai,2,43.7059347186657,25.2323595252958,Teleorman,Apă-deal-câmpie,9466,Prundul Calului,PDT,Limba română
 Valea Calului,cai,2,43.8794769130904,25.5499693170803,Teleorman,Vale,1339,Valea Calului,Geomil 25000,Limba română
 Valea Calului,cai,2,43.9479094185095,25.1831955312511,Teleorman,Vale,1375,Valea Calului,Geomil 25000,Limba română
@@ -261,7 +263,6 @@ Gruiul Calului,cai,2,45.4498895363274,24.315103570649,Valcea,Înălțime,10190,G
 Gruiul de la Poiana Calului,cai,2,45.4635068217848,24.0843526796528,Valcea,Înălțime,1182,Gruiul de la Poiana Calului,Geomil 25000,Limba română
 Valea Calului,cai,2,45.0210258847329,24.5125749831794,Valcea,Vale,336,Valea Calului,Geomil 25000,Limba română
 Dealu Iepii,iapă,3,44.7008136526856,24.0288670637657,Valcea,Deal,3087,Dealu Iepii,Geomil 25000,Limba română
-Dealul Iepei,iapă,3,44.6427366372421,23.8154996269522,Valcea,Deal,8291,Dealul Iepei,PDT,Limba română
 Dealul Iepii,iapă,3,44.8318664724556,23.7091135539123,Valcea,Deal,11347,Dealul Iepii,Geomil 25000,Limba română
 Valea Iepei,iapă,3,45.0465764926213,24.4435554195634,Valcea,Vale,337,Valea Iepei,Geomil 25000,Limba română
 Muchia Mânzului,mânz,3,45.2438725228203,24.1938033710239,Valcea,Înălțime,12565,Muchia Mânzului,Geomil 25000,Limba română

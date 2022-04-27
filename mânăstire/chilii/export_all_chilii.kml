@@ -89,6 +89,7 @@
 <Placemark><name>Chilia</name><description>Nume: Chilia, Tip: chilii, Nivel: 2, Județ: Suceava, Formă: Vale, ID: 10724, ID Părinte: 10723 <br /><b>Variante</b><br />Nume: Chilia, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.374783,47.357633,0</coordinates></Point></Placemark>
 <Placemark><LineString id="10724_10723"><tessellate>1</tessellate><coordinates>25.374783,47.357633,0.
 25.372523,47.346573,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Chilia Arsă</name><description>Nume: Chilia Arsă, Tip: chilii, Nivel: 2, Județ: Suceava, Formă: Altele, ID: 15822 <br /><b>Variante</b><br />Nume: Chilia Arsă, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.005987,47.458347,0</coordinates></Point></Placemark>
 <Placemark><name>Chilia Mare</name><description>Nume: Chilia Mare, Tip: chilii, Nivel: 2, Județ: Suceava, Formă: Vale, ID: 10716, ID Părinte: 10715 <br /><b>Variante</b><br />Nume: Chilia Mare, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.467784,47.474428,0</coordinates></Point></Placemark>
 <Placemark><LineString id="10716_10715"><tessellate>1</tessellate><coordinates>25.467784,47.474428,0.
 25.463012,47.461282,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

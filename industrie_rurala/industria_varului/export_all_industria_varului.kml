@@ -107,6 +107,7 @@
 <Placemark><LineString id="3879_659"><tessellate>1</tessellate><coordinates>26.515008,47.180997,0.
 26.514301,47.189406,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>La Vărărie</name><description>Nume: La Vărărie, Tip: vărărie, Nivel: 3, Județ: Neamt, Formă: Altele, ID: 659 <br /><b>Variante</b><br />Nume: La Vărărie, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.514301,47.189406,0</coordinates></Point></Placemark>
+<Placemark><name>Pârâul Vărăriei</name><description>Nume: Pârâul Vărăriei, Tip: vărărie, Nivel: 3, Județ: Neamt, Formă: Vale, ID: 15828 <br /><b>Variante</b><br />Nume: Pârâul Vărăriei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.007725,47.239840,0</coordinates></Point></Placemark>
 <Placemark><name>Piciorul Vărăriei</name><description>Nume: Piciorul Vărăriei, Tip: vărărie, Nivel: 3, Județ: Neamt, Formă: Înălțime, ID: 14115, ID Părinte: 11652 <br /><b>Variante</b><br />Nume: Piciorul Vărăriei, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.022679,47.175296,0</coordinates></Point></Placemark>
 <Placemark><LineString id="14115_11652"><tessellate>1</tessellate><coordinates>26.022679,47.175296,0.
 26.032436,47.172485,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
@@ -153,7 +154,9 @@
 <Placemark><name>La Varniță</name><description>Nume: La Varniță, Tip: varniță, Nivel: 3, Județ: Suceava, Formă: Altele, ID: 650 <br /><b>Variante</b><br />Nume: La Varniță, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>25.880809,47.532098,0</coordinates></Point></Placemark>
 <Placemark><name>Pădurea Varnița</name><description>Nume: Pădurea Varnița, Tip: varniță, Nivel: 3, Județ: Suceava, Formă: Pădure, ID: 10751 <br /><b>Variante</b><br />Nume: Pădurea Varnița, Hartă: Imperiul Habsburgic (1887), Limbă: Limba română</description><Point><coordinates>25.885183,47.669053,0</coordinates></Point></Placemark>
 <Placemark><name>Pârâul Toloaca (Varniței)</name><description>Nume: Pârâul Toloaca (Varniței), Tip: varniță, Nivel: 3, Județ: Suceava, Formă: Vale, ID: 9059 <br /><b>Variante</b><br />Nume: Pârâul Toloaca (Varniței), Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.179577,47.513121,0</coordinates></Point></Placemark>
-<Placemark><name>Vârful Varnița</name><description>Nume: Vârful Varnița, Tip: varniță, Nivel: 3, Județ: Suceava, Formă: Înălțime, ID: 9075 <br /><b>Variante</b><br />Nume: Vârful Varnița, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.054158,47.328747,0</coordinates></Point></Placemark>
+<Placemark><name>Vârful Varnița</name><description>Nume: Vârful Varnița, Tip: varniță, Nivel: 3, Județ: Suceava, Formă: Înălțime, ID: 9075, ID Părinte: 1771 <br /><b>Variante</b><br />Nume: Vârful Varnița, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.054158,47.328747,0</coordinates></Point></Placemark>
+<Placemark><LineString id="9075_1771"><tessellate>1</tessellate><coordinates>26.054158,47.328747,0.
+26.035936,47.337613,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Varnița</name><description>Nume: Varnița, Tip: varniță, Nivel: 3, Județ: Suceava, Formă: Vale, ID: 1772, ID Părinte: 1771 <br /><b>Variante</b><br />Nume: Varnița, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.043210,47.338520,0</coordinates></Point></Placemark>
 <Placemark><LineString id="1772_1771"><tessellate>1</tessellate><coordinates>26.043210,47.338520,0.
 26.035936,47.337613,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

@@ -267,10 +267,12 @@ Cicera ursului,cicera,3,46.4117413152069,22.4416059949177,Bihor,Înălțime,1318
 Cicera Ursului,cicera,3,46.4461936147932,22.3886957356145,Bihor,Altele,13360,,Cicera Ursului,Ungară 1869,Limba română
 Cicera vaci,cicera,3,46.4529528689852,22.4509652186611,Bihor,Înălțime,13187,,Cicera vaci,Transilvania (1869-1870),Limba română
 Dâmbul Citerii,citeră,3,46.5297180904527,22.5437292582756,Bihor,Înălțime,14807,,Dâmbul Citerii,PDT,Limba română
+Valea Lespesilor,lespezi,2,46.5431953916449,22.39965857958,Bihor,Vale,15767,,Valea Lespesilor,Ungară 1869,Limba română
 Pârâul la Morminte,morminte,3,47.0891875357053,22.415691799702,Bihor,Altele,8203,,Pârâul la Morminte,PDT,Limba română
 Pârâul Muereasca,muereasca,3,46.808648402598,22.0073983403095,Bihor,Vale,8047,,Pârâul Muereasca,PDT,Limba română
 Muierea Moartă,muiere,2,47.055440021113,22.5520945833395,Bihor,Înălțime,8194,,Muierea Moartă,PDT,Limba română
 Valea Muierii,muiere,2,46.7581143600971,22.4578640496135,Bihor,Vale,4127,,Valea Muierii,Geomil 25000,Limba română
+Nedee,nedee,3,46.5543534270145,22.4376209745477,Bihor,Altele,15763,,Nedee,PDT,Limba română
 Präluka B.,prelucă,2,47.0710209817378,22.3947240447069,Bihor,Deal,13368,,Präluka B.,Ungară 1869,Limba română
 Preluca Ciobeștilor,prelucă,2,46.5245522438819,22.5759540888076,Bihor,Altele,13194,,Preluca Ciobeștilor,Geomil 25000,Limba română
 Preluca Neșului,prelucă,2,46.5137123618449,22.6042018276088,Bihor,Altele,13193,,Preluca Neșului,Geomil 25000,Limba română
@@ -330,6 +332,7 @@ Vârful Nedeii,nedeia,2,47.5308178932904,24.5571855022137,Bistrita Nasaud,Înăl
 Părâul Prelucii,prelucă,2,47.2862369949257,24.2828304034682,Bistrita Nasaud,Vale,13386,,Părâul Prelucii,Imperiul Habsburgic (1887),Limba română
 Preluca,prelucă,2,47.5430550492113,24.7931505630889,Bistrita Nasaud,Altele,13133,,Preluca,Geomil 25000,Limba română
 Preluca Borta,prelucă,2,47.5780564163044,24.4605610741437,Bistrita Nasaud,Altele,13910,,Preluca Borta,Geomil 25000,Limba română
+Preluca cu tufele,prelucă,2,47.318192856294,24.8581686641934,Bistrita Nasaud,Altele,15756,,Preluca cu tufele,PDT,Limba română
 Preluca Frasinului,prelucă,2,47.5241150920488,24.345643779749,Bistrita Nasaud,Înălțime,14293,,Preluca Frasinului,ANCPI,Limba română
 Preluca Tinei,prelucă,2,47.0846634967263,24.7956733324994,Bistrita Nasaud,Vale,15155,,Preluca Tinei,Munții noștri,Limba română
 Vârful Prelucii,prelucă,2,47.4324260046851,24.7070635039596,Bistrita Nasaud,Înălțime,13134,,Vârful Prelucii,Geomil 25000,Limba română
@@ -601,6 +604,7 @@ Chiciora,chiciora,2,44.6222043709025,23.5727386389627,Gorj,Localitate,13049,,Chi
 Chiciora,chiciora,2,44.9514423134086,23.2801606310883,Gorj,Localitate,14977,,Chiciora,PDT,Limba română
 Dealul Chiciora,chiciora,2,44.6890860595835,23.657759261329,Gorj,Deal,14626,,Dealul Chiciora,PDT,Limba română,Dealul Chiciora,ANCPI,Limba română
 Pârâul Chiciora,chiciora,2,44.6866971125676,23.652654133169,Gorj,Vale,14627,14626,Pârâul Chiciora,PDT,Limba română
+Playetzi Ketsory,chiciora,2,45.0928621117422,22.9856145219865,Gorj,Înălțime,15811,,Playetzi Ketsory,Valahia-Moldova (1773-1774),Limba română
 Chiciura Mocirlii,chiciura,3,45.2247154310812,23.4723945117047,Gorj,Înălțime,13808,,Chiciura Mocirlii,Geomil 25000,Limba română
 Dealul Chiciura,chiciura,3,44.8455488790857,23.4199208716278,Gorj,Deal,14863,,Dealul Chiciura,ANCPI,Limba română
 Vârful Chiciurii,chiciura,3,45.1957079682424,23.2816551028185,Gorj,Înălțime,13166,,Vârful Chiciurii,Geomil 25000,Limba română
@@ -705,9 +709,11 @@ Dealul Preluca,prelucă,2,45.4814862264783,23.3799115675173,Hunedoara,Deal,12975
 Prelucile,preluci,3,45.5051334983775,23.2258782482874,Hunedoara,Înălțime,13434,,Prelucile,Geomil 25000,Limba română
 Prelucsi,preluci,3,45.3991926730077,22.7000663595914,Hunedoara,Înălțime,14360,,Prelucsi,Transilvania (1769-1773),Limba română
 Vârful Prelucele,preluci,3,45.5133697954509,23.3376114230838,Hunedoara,Înălțime,13164,,Vârful Prelucele,Geomil 25000,Limba română
+Dealul Smida,smidă,2,45.7266074341459,23.2019713194275,Hunedoara,Deal,15809,,Dealul Smida,Imperiul Habsburgic (1887),Limba română
 Pârâul Smida Mare,șmidă,3,45.4120943557438,23.1410277265448,Hunedoara,Vale,10337,10336,Pârâul Smida Mare,Geomil 25000,Limba română
 Poiana Smida Mare,smidă,2,45.4117995305112,23.1340229225061,Hunedoara,Poiană,10336,,Poiana Smida Mare,Geomil 25000,Limba română
 Smida Mare,smidă,2,45.5228663515142,23.5697011532786,Hunedoara,Înălțime,10675,,Smida Mare,Imperiul Habsburgic (1887),Limba română,Smida Mare,Geomil 25000,Limba română
+Smidy,smidă,2,45.7757399188199,22.8397544112751,Hunedoara,Deal,15801,,Smidy,Transilvania (1769-1773),Limba română
 Valea Smidei,smidă,2,45.4282285305831,23.1588143026536,Hunedoara,Vale,10338,10336,Valea Smidei,Geomil 25000,Limba română
 Vârful Smida,smidă,2,45.4111414683827,22.9032726459509,Hunedoara,Înălțime,15712,,Vârful Smida,Munții noștri,Limba română
 Ticera,ticera,4,45.5135911189409,23.1727855133504,Hunedoara,Înălțime,14362,,Ticera,PDT,Limba română,Chicera,ANCPI,Limba română
@@ -715,6 +721,8 @@ Ticera Pinului,ticera,4,45.5145063278718,23.2033417496472,Hunedoara,Înălțime,
 Ticera Rusesti,ticera,4,45.4421248274658,23.253091195094,Hunedoara,Înălțime,14364,,Ticera Rusesti,PDT,Limba română
 V. Ticera,ticera,4,46.2981511763744,22.7895372722627,Hunedoara,Înălțime,13673,,V. Ticera,Ungară 1869,Limba română
 Vârful Chicera Răchiții,ticera,4,45.446492718446,23.2233854525733,Hunedoara,Înălțime,14363,,Chicera Răchiții,ANCPI,Limba română,Vârful Ticera Retița,PDT,Limba română
+Titschora,ticiora,3,45.509030564259,22.893545338024,Hunedoara,Înălțime,15810,,Titschora,Transilvania (1769-1773),Limba română
+Vârful Ticorii,ticora,4,45.6493136632076,22.8776266914042,Hunedoara,Înălțime,15802,,Vârful Ticorii,Imperiul Habsburgic (1887),Limba română
 Titera Balatiasca,titera,3,46.1096289975683,22.9234262226717,Hunedoara,Înălțime,13227,,Titera Balatiasca,Transilvania (1869-1870),Limba română
 Titera Derabanzesca,titera,3,46.1159054798505,22.9255626269992,Hunedoara,Înălțime,13226,,Titera Derabanzesca,Transilvania (1869-1870),Limba română
 Vârful Titerei,titera,3,46.1529906406043,23.0579450326422,Hunedoara,Înălțime,13962,,Vârful Titerei,PDT,Limba română
@@ -727,6 +735,7 @@ Zăpodea,zăpodea,3,45.843054788251,22.4940669507376,Hunedoara,Altele,6207,,Zăp
 Gura Zapodii,zapodie,3,45.6383011575747,22.9058821785835,Hunedoara,Înălțime,9021,,Gura Zapodii,PDT,Limba română
 Vârful Zapozii,zapodie,3,46.1775539548347,23.0206851680517,Hunedoara,Înălțime,13961,,Vârful Zapozii,PDT,Limba română
 Zăpodia,zăpodie,2,45.7285478836993,23.1468742765622,Hunedoara,Înălțime,5554,,Zăpodia,PDT,Limba română
+La Zapoje,zapoje,3,45.4869967939055,23.3113554039403,Hunedoara,Înălțime,15805,,La Zapoje,ANCPI,Limba română
 Dâmbul Zmizii,zmidă,3,45.737864387244,22.572169998208,Hunedoara,Înălțime,15617,,Dâmbul Zmizii,ANCPI,Limba română
 Popina cu Morminte,morminte,3,44.605300925568,27.8638882229587,Ialomita,Înălțime,11622,,Popina cu Morminte,Geomil 25000,Limba română
 Dealul Chicera,chicera,3,47.1793401492752,26.7025187261658,Iasi,Deal,13556,,Dealul Chicera,Geomil 25000,Limba română
@@ -1288,6 +1297,7 @@ Vârful Prelucii,prelucă,2,47.5727354100728,25.3251508538036,Suceava,Înălțim
 La Preluci,preluci,3,47.2522745964908,25.7193386233369,Suceava,Înălțime,13520,,La Preluci,Geomil 25000,Limba română
 Pârâul Prelucilor,preluci,3,47.2514398020265,25.7422851238213,Suceava,Vale,13519,13520,Pârâul Prelucilor,Geomil 25000,Limba română
 Vârful la Preluci,preluci,3,47.2587048945509,25.7349354946422,Suceava,Înălțime,13518,13520,Vârful la Preluci,Geomil 25000,Limba română
+Bâtca Smida lui Tudose,smidă,2,47.3284134117899,25.9566432488107,Suceava,Înălțime,15825,,Bâtca Smida lui Tudose,PDT,Limba română
 Dealul Smidei,smidă,2,47.3923559957632,25.1794125495987,Suceava,Deal,9924,,Dealul Smidei,Geomil 25000,Limba română
 La Smida Lată,smidă,2,47.3137341154867,25.6674055627467,Suceava,Vale,6397,,La Smida Lată,PDT,Limba română
 Pădurea Smida,smidă,2,47.5228169788724,25.3095623697778,Suceava,Pădure,6340,,Pădurea Smida,PDT,Limba română,Pădurea Smidei,Geomil 25000,Limba română
@@ -1325,6 +1335,7 @@ Smida,smidă,2,45.8063869400786,21.7612456719821,Timis,Altele,4302,,Smida,PDT,Li
 Pe Zăpodini,zăpodini,3,45.9059104031217,22.3774804736577,Timis,Altele,11582,,Pe Zăpodini,Geomil 25000,Limba română
 Dâmbu Zmizii,zmidă,3,45.7644911784121,22.5386940084151,Timis,Înălțime,11583,,Dâmbu Zmizii,Geomil 25000,Limba română
 Chicera,chicera,3,45.4710370473179,24.3370421904275,Valcea,Înălțime,15114,,Chicera,Munții noștri,Limba română
+Chicera Dâlma,chicera,3,45.5275625281995,24.2878316709863,Valcea,Înălțime,15797,,Chicera Dâlma,Munții noștri,Limba română
 Vârful Chicera,chicera,3,45.4236647176121,23.446804941567,Valcea,Înălțime,15726,,Vârful Chicera,Munții noștri,Limba română
 Chicere,chicere,3,45.4288325493451,24.2814736595254,Valcea,Înălțime,14550,,Chicere,ANCPI,Limba română
 Chicioara,chicioara,3,45.1347688076803,24.2356846255526,Valcea,Localitate,13663,,Chicioara,PDT,Limba română

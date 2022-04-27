@@ -23,6 +23,7 @@
 <Placemark><LineString id="3879_659"><tessellate>1</tessellate><coordinates>26.515008,47.180997,0.
 26.514301,47.189406,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>La Vărărie</name><description>Nume: La Vărărie, Tip: vărărie, Nivel: 3, Județ: Neamt, Formă: Altele, ID: 659 <br /><b>Variante</b><br />Nume: La Vărărie, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.514301,47.189406,0</coordinates></Point></Placemark>
+<Placemark><name>Pârâul Vărăriei</name><description>Nume: Pârâul Vărăriei, Tip: vărărie, Nivel: 3, Județ: Neamt, Formă: Vale, ID: 15828 <br /><b>Variante</b><br />Nume: Pârâul Vărăriei, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>26.007725,47.239840,0</coordinates></Point></Placemark>
 <Placemark><name>Piciorul Vărăriei</name><description>Nume: Piciorul Vărăriei, Tip: vărărie, Nivel: 3, Județ: Neamt, Formă: Înălțime, ID: 14115, ID Părinte: 11652 <br /><b>Variante</b><br />Nume: Piciorul Vărăriei, Hartă: Geomil 25000, Limbă: Limba română</description><Point><coordinates>26.022679,47.175296,0</coordinates></Point></Placemark>
 <Placemark><LineString id="14115_11652"><tessellate>1</tessellate><coordinates>26.022679,47.175296,0.
 26.032436,47.172485,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>

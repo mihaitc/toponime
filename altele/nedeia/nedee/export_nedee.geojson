@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "name": "export_nedee.geojson", "features": []}
+{"type": "FeatureCollection", "name": "export_nedee.geojson", "features": [{"geometry": {"type": "Point", "coordinates": [22.4376209745477, 46.5543534270145]}, "type": "Feature", "properties": {"Nivel": 3, "Form\u0103": "Altele", "marker-color": "#e55b5b", "Tip": "nedee", "Nume": "Nedee", "Varianta 1": {"Nume": "Nedee", "Limb\u0103": "Limba rom\u00e2n\u0103", "Hart\u0103": "PDT"}, "ID": 15763, "Jude\u021b": "Bihor"}}]}

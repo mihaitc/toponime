@@ -513,6 +513,7 @@ Valea Cucilor,cuc,2,45.1071061090896,25.3970675033033,Dambovita,Vale,8374,,Valea
 Valea Cucului,cuc,2,44.8294239899113,25.2165336987793,Dambovita,Vale,10142,,Valea Cucului,PDT,Limba română
 Dealu Mierlei,mierlă,2,44.952740838242,25.2075078199889,Dambovita,Deal,533,,Dealu Mierlei,Geomil 25000,Limba română,Dealul Mierlei,PDT,Limba română
 Valea Mierlei,mierlă,2,45.0582759884518,25.2143827817673,Dambovita,Vale,8368,,Valea Mierlei,PDT,Limba română
+Valea Pițigoi,pițigoi,2,44.8385427007303,25.3727061963251,Dambovita,Vale,15836,,Valea Pițigoi,PDT,Limba română
 La Porumbei,porumbei,2,45.186501502161,25.4249343474151,Dambovita,Altele,1498,,La Porumbei,Geomil 25000,Limba română
 Dealu Pupezei,pupăză,2,44.9558783586355,25.1651583161535,Dambovita,Deal,534,,Dealu Pupezei,Geomil 25000,Limba română
 Valea Pupezei,pupăză,2,44.963382646688,25.166975167724,Dambovita,Vale,535,534,Valea Pupezei,Geomil 25000,Limba română
@@ -936,9 +937,11 @@ Dealu Corbului,corb,2,44.411999735548,24.051710049706,Olt,Deal,273,,Dealu Corbul
 Korbu de Sus,corb,2,44.5560810502062,24.7070269664652,Olt,Localitate,5818,,Korbu de Sus,Austriacă,Limba română
 Lacul Corbului,corb,2,44.1634577261,24.2476525013,Olt,Lac,12525,,Lacul Corbului,PDT,Limba română
 Pădurea Corbu,corb,2,44.3025605177747,24.0947628762254,Olt,Pădure,2971,,Pădurea Corbu,Geomil 25000,Limba română
+Pădurea Corbu,corb,2,44.2387656588562,24.615636757665,Olt,Pădure,15782,15781,Pădurea Corbu,PDT,Limba română
 Valea Corboaia,corb,2,44.5185539498109,24.0042644734514,Olt,Vale,267,,Valea Corboaia,Geomil 25000,Limba română
 Valea Corbu,corb,2,44.816212019905,24.5400771664516,Olt,Vale,1997,,Valea Corbu,Geomil 25000,Limba română
 Valea Corbul,corb,2,44.7226217025429,24.4354976496291,Olt,Vale,8126,,Valea Corbul,PDT,Limba română
+Valea Corbul,corb,2,44.2428693689872,24.6185093197997,Olt,Vale,15781,,Valea Corbul,PDT,Limba română
 Valea Corbului,corb,2,44.6870134135108,24.4178825526542,Olt,Vale,1991,,Valea Corbului,Geomil 25000,Limba română
 Valea Corbului,corb,2,44.640576320867,24.3429972268301,Olt,Vale,3058,,Valea Corbului,Geomil 25000,Limba română
 Valea Corbului,corb,2,44.8071700924381,24.3950184663258,Olt,Vale,8132,,Valea Corbului,PDT,Limba română
@@ -1209,6 +1212,7 @@ Valea Corbului,corb,2,44.7170028649533,23.9482461878361,Valcea,Vale,4744,,Valea 
 Valea Corbului,corb,2,44.8171556857858,23.7842123002951,Valcea,Vale,4751,,Valea Corbului,PDT,Limba română
 Valea Corbului,corb,2,44.8235618251548,23.8787626441613,Valcea,Vale,4753,3091,Valea Corbului,PDT,Limba română
 Valea Corbului,corb,2,45.5610984661771,24.4180487744814,Valcea,Vale,12502,,Valea Corbului,PDT,Limba română
+Valea Corbului,corb,2,44.7860770546692,24.3745989623748,Valcea,Vale,15786,,Valea Corbului,PDT,Limba română
 Valea cu Corbul,corb,2,44.6392062033003,23.8649307567774,Valcea,Vale,8292,,Valea cu Corbul,PDT,Limba română
 Valea Fagul Corbului,corb,2,44.8007544789342,23.8811582887397,Valcea,Vale,8421,,Valea Fagul Corbului,PDT,Limba română
 Dealu Piscu Cucului,cuc,2,44.7400959560383,24.1442422048745,Valcea,Deal,373,372,Dealu Piscu Cucului,Geomil 25000,Limba română
@@ -1219,6 +1223,7 @@ Găina,găină de munte,2,45.440531488643,24.0602430663075,Valcea,Vale,12588,,G�
 Valea Găinii,găini,2,45.1507656193487,24.1817658216659,Valcea,Vale,361,,Dealul Culmea Viezurelui,Geomil 25000,Limba română
 Crucea Mierlei,mierlă,2,45.0842944262149,24.4190493284497,Valcea,Altele,11379,,Crucea Mierlei,ANCPI,Limba română
 Crucea Mierlei,mierlă,2,45.1002310263679,24.4195383356866,Valcea,Altele,13584,,Crucea Mierlei,Geomil 25000,Limba română
+Valea Mierla,mierlă,2,45.1285704515565,24.2313434304183,Valcea,Vale,15800,,Valea Mierla,PDT,Limba română
 Dealul Potârnichei,potârniche,2,44.8468801203389,23.8855459756411,Valcea,Deal,3094,3093,Dealul Potârnichei,Geomil 25000,Limba română
 Pădurea Potârnichea,potârniche,2,44.8484522372954,23.8792526541325,Valcea,Pădure,3093,,Pădurea Potârnichea,Geomil 25000,Limba română
 Dealul Pupezei,pupăză,2,45.1530284897713,24.0284210719165,Valcea,Deal,9810,,Dealul Pupezei,Geomil 25000,Limba română

@@ -71,6 +71,7 @@ Lanul Chilia Benei,chilii,2,46.3504742378933,27.1275946708976,Bacau,Altele,7841,
 Pârâul Chiliei,chilii,2,46.3094288166653,26.7352070339067,Bacau,Vale,5330,,Pârâul Chiliei,PDT,Limba română
 Pârâul Chiliei,chilii,2,46.2439365154505,26.8915719236686,Bacau,Vale,13594,,Pârâul Chiliei,PDT,Limba română
 Valea Chiliei,chilii,2,46.7273819496174,27.1630691664616,Bacau,Vale,1606,1605,Valea Chiliei,Geomil 25000,Limba română
+Gyalu Monaszteri,mânăstire,1,46.146865551919,26.6531793083405,Bacau,Deal,15817,15816,Gyalu Monaszteri,Valahia-Moldova (1773-1774),Limba română
 Kloster (Mănăstire),mânăstire,1,46.2687275949475,26.9687878857071,Bacau,Altele,12032,,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
 Kloster (Mănăstire),mânăstire,1,46.748262368846,26.7441437808282,Bacau,Altele,12339,,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
 Kloster (Mănăstire),mânăstire,1,46.2263156534222,27.1646996220917,Bacau,Mănăstire,12637,,Kloster (Mănăstire),Moldova (1788-1790),Limba germană
@@ -79,7 +80,9 @@ Kloster Buzdugony,mânăstire,1,46.3063560662429,27.2417869614679,Bacau,Mănăst
 Kloster Dialu Mare,mânăstire,1,46.7043548957906,27.1612808190945,Bacau,Altele,12340,,Kloster Dialu Mare,Moldova (1788-1790),Limba germană
 Mănăstirea,mânăstire,1,46.3762426981223,26.3972534767334,Bacau,Vale,684,,Mănăstirea,Geomil 25000,Limba română
 Mănăstirea,mânăstire,1,46.4858468668206,26.1697939094724,Bacau,Vale,4552,,Mănăstirea,Geomil 25000,Limba română
-Mănăstirea Cașin,mânăstire,1,46.1522752736916,26.6899295421818,Bacau,Localitate,11647,,Mănăstirea Cașin,Geomil 25000,Limba română
+Mănăstirea Cașin,mânăstire,1,46.1522752736916,26.6899295421818,Bacau,Localitate,11647,15816,Mănăstirea Cașin,Geomil 25000,Limba română
+Mon. Kasson,mânăstire,1,46.1558182953378,26.6971928010254,Bacau,Mănăstire,15816,,Mon. Kasson,Valahia-Moldova (1773-1774),Limba română
+Monaster,mânăstire,1,46.2713164273685,26.5847067978713,Bacau,Mănăstire,15818,,Monaster,Valahia-Moldova (1773-1774),Limba română
 Monaster Tissa,mânăstire,1,46.6479284634106,27.1604719913231,Bacau,Altele,12341,,Monaster Tissa,Moldova (1788-1790),Limba română
 Monastery,mânăstire,1,46.1901284919691,26.796118067234,Bacau,Mănăstire,12944,,Monastery,Moldova (1788-1790),Limba română
 Plaiul Mănăstirii,mânăstire,1,46.3704763588293,26.351889558409,Bacau,Altele,685,684,Plaiul Mănăstirii,Geomil 25000,Limba română
@@ -416,8 +419,11 @@ Kloster Zuskany,mânăstire,1,46.7981633440701,26.7706979552033,Neamt,Mănăstir
 La Iazul Mănăstirii,mânăstire,1,47.0246800667134,26.9941773371153,Neamt,Apă-deal-câmpie,11639,,La Iazul Mănăstirii,Geomil 25000,Limba română
 Lunca Monastire,mânăstire,1,46.7950498048283,26.5825091171468,Neamt,Apă-deal-câmpie,3850,,Lunca Monastire,PDT,Limba română
 Mănăstirea,mânăstire,1,46.8974447760095,26.3792753008861,Neamt,Vale,12629,12628,Mănăstirea,Geomil 25000,Limba română
+Mon. Bohalnitza,mânăstire,1,47.0211726712823,26.0927065915267,Neamt,Mănăstire,15814,,Mon. Bohalnitza,Valahia-Moldova (1773-1774),Limba română
+Mon. Pongratz,mânăstire,1,46.9329637010983,26.1796238834336,Neamt,Mănăstire,15813,,Mon. Pongratz,Valahia-Moldova (1773-1774),Limba română
 Monaster Bistritza,mânăstire,1,46.961288068981,26.2958231236179,Neamt,Mănăstire,14570,,Monaster Bistritza,Moldova (1788-1790),Limba română
 Monaster Waratek,mânăstire,1,47.1396638497767,26.2678913223564,Neamt,Mănăstire,14128,,Monaster Waratek,Moldova (1788-1790),Limba română
+Monastir,mânăstire,1,45.9994045263866,26.6451515123092,Neamt,Mănăstire,15815,,Monastir,Valahia-Moldova (1773-1774),Limba română
 Pârâul Mănăstirii,mânăstire,1,47.2319006358369,25.9611608735665,Neamt,Vale,11655,11656,Pârâul Mănăstirii,ANCPI,Limba română
 Piciorul Stâna Mănăstirii,mânăstire,1,47.2314529934846,25.9723106555478,Neamt,Înălțime,11656,,Piciorul Stâna Mănăstirii,Geomil 25000,Limba română
 Poiana Stâna Mănăstirii,mânăstire,1,47.1978058064035,26.1297572908587,Neamt,Poiană,2058,,Poiana Stâna Mănăstirii,Geomil 25000,Limba română
@@ -496,6 +502,7 @@ Rimetea,rimetea,3,45.8177017955082,23.861305221774,Sibiu,Altele,11838,,Rimetea,I
 Chilia,chilii,2,47.613698146573,25.812730780121,Suceava,Vale,6325,6324,Chilia,Geomil 25000,Limba română
 Chilia,chilii,2,47.3465733564999,25.3725231774419,Suceava,Altele,10723,,Chilia,Imperiul Habsburgic (1887),Limba română
 Chilia,chilii,2,47.3576327613347,25.3747831579845,Suceava,Vale,10724,10723,Chilia,Geomil 25000,Limba română
+Chilia Arsă,chilii,2,47.4583470809567,26.0059872821856,Suceava,Altele,15822,,Chilia Arsă,PDT,Limba română
 Chilia Mare,chilii,2,47.4744276446407,25.4677837493929,Suceava,Vale,10716,10715,Chilia Mare,Geomil 25000,Limba română
 Chilia Mică,chilii,2,47.4788024775791,25.4620717522036,Suceava,Vale,10717,10715,Chilia Mică,Geomil 25000,Limba română
 Dealul Chiliei,chilii,2,47.6509787612182,26.0188070699672,Suceava,Deal,10749,,Dealul Chiliei,Imperiul Habsburgic (1887),Limba română
@@ -618,7 +625,7 @@ Pârâul Chiliilor,chilii,2,45.937567355967,26.5297587621402,Vrancea,Vale,5266,5
 Valea Chiliei,chilii,2,46.0084886951561,26.9788178757704,Vrancea,Vale,13332,,Valea Chiliei,Moldova (1892-1898),Limba română
 Valea Chiliilor,chilii,2,45.7295686870885,26.9443265244627,Vrancea,Vale,9238,,Valea Chiliilor,PDT,Limba română
 Dealul Mănăstioara,mânăstire,1,45.9991024788618,26.8519112336195,Vrancea,Deal,9189,,Dealul Mănăstioara,PDT,Limba română
-Dealul Mănăstirii,mânăstire,1,46.0064021245209,26.6535642428262,Vrancea,Deal,696,,Dealul Mănăstirii,Geomil 25000,Limba română
+Dealul Mănăstirii,mânăstire,1,46.0064021245209,26.6535642428262,Vrancea,Deal,696,15815,Dealul Mănăstirii,Geomil 25000,Limba română
 Dealul Mănăstirii,mânăstire,1,45.8225150938967,26.6289020943177,Vrancea,Deal,13789,13788,Dealul Mănăstirii,Geomil 25000,Limba română
 Kloster,mânăstire,1,45.5466316161714,27.03532500009,Vrancea,Mănăstire,14549,,Kloster,Austriacă,Limba germană
 Kloster (Mănăstire),mânăstire,1,45.8042288884597,27.0044724023663,Vrancea,Altele,12334,,Kloster (Mănăstire),Moldova (1788-1790),Limba germană

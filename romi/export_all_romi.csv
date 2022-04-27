@@ -235,7 +235,7 @@ Movila Spoitorilor,spoitori,3,44.270586058597,26.4932676731631,Calarasi,Înălț
 Balta Țiganului,țigan,3,44.130408568278,26.8049335546419,Calarasi,Apă-deal-câmpie,3264,3265,Balta Țiganului,PDT,Limba română
 Lacul Țiganului,țigan,3,44.1208594943472,26.8002502693467,Calarasi,Lac,3265,,Lacul Țiganului,PDT,Limba română
 Pădurea Țiganca,țigancă,3,44.2414666800905,27.5787830117163,Calarasi,Pădure,477,,Pădurea Țiganca,Geomil 25000,Limba română
-Țiganca,țigancă,3,44.2313045143439,27.5586727561493,Calarasi,Altele,3464,,Țiganca,PDT,Limba română
+Țiganca,țigancă,3,44.2313045143439,27.5586727561493,Calarasi,Altele,3464,477,Țiganca,PDT,Limba română
 Tziganka,țigancă,3,44.4022301521336,26.5488384558518,Calarasi,Localitate,3628,,Tziganka,Austriacă,Limba română
 Movila Țigănele,țigănele,3,44.3101164661079,27.6072804460358,Calarasi,Înălțime,3465,,Movila Țigănele,Geomil 25000,Limba română,Țigănelele,PDT,Limba română
 Cracul Țiganului,țigan,3,44.8916379999642,21.7886879834834,Caras Severin,Înălțime,8515,,Cracul Țiganului,PDT,Limba română
@@ -271,6 +271,7 @@ Gemele Țiganului,țigan,3,46.4919431519861,23.2147975966953,Cluj,Altele,11529,,
 Vale Tziganului,țigan,3,46.4748982154206,22.6163954218933,Cluj,Vale,10288,,Vale Tziganului,Ungară 1869,Limba română
 Vârfu Țiganului,țigan,3,46.532011694327,23.6559722244737,Cluj,Înălțime,8140,,Vârfu Țiganului,Geomil 25000,Limba română
 Țigăneasca,țigănească,3,46.8925960123345,24.1895612913703,Cluj,Altele,13735,,Țigăneasca,Imperiul Habsburgic (1887),Limba română
+La Țigani,țigani,2,47.1770738513671,23.9448704241454,Cluj,Localitate,15790,,La Țigani,PDT,Limba română
 Țigănia,țigănie,3,46.9424689164668,22.8930174617778,Cluj,Localitate,11859,,Țigănia,PDT,Limba română
 Dealu Ursarului,ursar,4,46.9847734393088,23.681825390964,Cluj,Deal,10402,,Dealu Ursarului,Geomil 25000,Limba română
 Movila Țiganului,țigan,3,44.68494410829,27.9788035070019,Constanta,Înălțime,3203,,Movila Țiganului,Geomil 25000,Limba română
@@ -539,6 +540,7 @@ Măgura Țigăncii,țigancă,3,43.912563689325,24.2976307659807,Olt,Înălțime,
 Valea Țigăncii,țigancă,3,44.2958760845677,24.527003676452,Olt,Vale,2995,,Valea Țigăncii,Geomil 25000,Limba română
 Pădurea Țigăneasca,țigănească,3,44.4484669605984,24.5199408909149,Olt,Pădure,4682,,Pădurea Țigăneasca,PDT,Limba română
 Măgura Tzigani,țigani,2,43.765062685787,24.5801529590526,Olt,Înălțime,3645,,Măgura Tzigani,Austriacă,Limba română,Măgura Țiganului,PDT,Limba română
+Dealul Țigăniei,țigănie,3,44.5392213278864,24.1804679580768,Olt,Deal,15784,,Dealul Țigăniei,PDT,Limba română
 Țigănia,țigănie,3,44.3156314375156,24.7028611711166,Olt,Localitate,14968,,Țigănia,PDT,Limba română
 Tzigani,țigănie,3,44.2939950024215,24.3637448627323,Olt,Localitate,5800,,Tzigani,Austriacă,Limba română
 Valea Țigăniei,țigănie,3,44.3102768478181,24.6938697537987,Olt,Vale,14969,14968,Valea Țigăniei,PDT,Limba română
