@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Piciorul Jurcescu,jurcescu,3,47.954664771624,24.5552266154844,Maramures,Înălțime,15863,,Piciorul Jurcescu,ANCPI,Limba română
+Valea Jurcescu Mare,jurcescu,3,47.9506554459986,24.5453703491001,Maramures,Vale,15864,15863,Valea Jurcescu Mare,ANCPI,Limba română
+Valea Jurcescu Mic,jurcescu,3,47.9594855624588,24.5698249849767,Maramures,Vale,15865,15863,Valea Jurcescu Mic,ANCPI,Limba română

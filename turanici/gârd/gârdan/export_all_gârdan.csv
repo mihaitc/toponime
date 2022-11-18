@@ -1,0 +1,5 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Dealul Gârdan,gârdan,3,45.9962853269097,23.8365971228733,Alba,Deal,15904,,Dealul Gârdan,ANCPI,Limba română
+Pădurea Gârdan,gârdan,3,46.0036542535637,23.8446993526555,Alba,Pădure,15905,15904,Pădurea Gârdan,ANCPI,Limba română
+Coasta Gârdan,gârdan,3,47.0812050767822,22.4426825619893,Bihor,Înălțime,15875,,Coasta Gârdan,ANCPI,Limba română
+Valea Gârdanului,gârdan,3,46.7752464075462,22.3989574860229,Bihor,Vale,15897,,Valea Gârdanului,ANCPI,Limba română

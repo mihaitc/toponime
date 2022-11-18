@@ -1,5 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Dealul Olan,olan,3,45.4727740517978,22.2928155285409,Caras Severin,Deal,15573,,Dealul Olan,ANCPI,Limba română
+Valea Olan,olan,3,45.0108651122945,25.5607005570897,Dambovita,Vale,15917,,Valea Olan,ANCPI,Limba română
 Cracu Olanului,olan,3,45.1911699219788,22.6032645280498,Gorj,Înălțime,15714,15715,Cracu Olanului,Munții noștri,Limba română
 Olanu,olan,3,45.5456847331397,24.4276916663922,Valcea,Înălțime,15529,,Olanu,ANCPI,Limba română
 Olanu,olan,3,44.8648070707893,24.2960000208464,Valcea,Localitate,15753,,Olanu,ANCPI,Limba română,Casa Veche - Olanu,PDT,Limba română

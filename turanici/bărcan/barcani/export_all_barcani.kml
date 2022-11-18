@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Pasul Barcani (Zagon)</name><description>Nume: Pasul Barcani (Zagon), Tip: barcani, Nivel: 3, Județ: Covasna, Formă: Înălțime, ID: 15937, ID Părinte: 6054 <br /><b>Variante</b><br />Nume: Pasul Barcani (Zagon), Hartă: Munții noștri, Limbă: Limba română</description><Point><coordinates>26.115332,45.736296,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15937_6054"><tessellate>1</tessellate><coordinates>26.115332,45.736296,0.
+26.095646,45.704556,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

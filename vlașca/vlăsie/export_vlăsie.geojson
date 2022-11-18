@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "name": "export_vl\u0103sie.geojson", "features": []}
+{"type": "FeatureCollection", "name": "export_vl\u0103sie.geojson", "features": [{"geometry": {"type": "Point", "coordinates": [26.7262867118615, 45.0284874716176]}, "type": "Feature", "properties": {"Nivel": 2, "Form\u0103": "\u00cen\u0103l\u021bime", "marker-color": "#e55b5b", "Tip": "vl\u0103sie", "Nume": "Vl\u0103siei", "Varianta 1": {"Nume": "Vl\u0103siei", "Limb\u0103": "Limba rom\u00e2n\u0103", "Hart\u0103": "Geomil 25000"}, "ID": 16025, "Jude\u021b": "Buzau"}}]}

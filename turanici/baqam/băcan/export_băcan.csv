@@ -1,6 +1,8 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Izvorul Băcanului,băcan,3,46.3663592014322,22.2817952957048,Arad,Vale,15260,Izvorul Băcanului,PDT,Limba română
 Cotul Băcanului,băcan,3,45.1042021514743,26.943319933176,Buzau,Apă-deal-câmpie,15408,Cotul Băcanului,ANCPI,Limba română,Cot. Bacan,PDT,Limba română
+Puțul din Băcan,băcan,3,44.8306609774973,25.6392033822957,Dambovita,Altele,16014,Puțul din Băcan,PDT,Limba română
+Valea Băcanului,băcan,3,45.1461641160393,25.4306695599019,Dambovita,Vale,15915,Valea Băcanului,ANCPI,Limba română
 Băcanul,băcan,3,44.4129221456082,25.8247233189109,Giurgiu,Localitate,15406,Băcanul,PDT,Limba română
 Cotul la Băcan,băcan,3,44.6626846134698,26.6952613461949,Ialomita,Apă-deal-câmpie,15426,Cotul la Băcan,PDT,Limba română
 Băcanul,băcan,3,44.8115979283261,24.3279707781021,Olt,Altele,15755,Băcanul,PDT,Limba română

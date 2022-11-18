@@ -94,6 +94,7 @@ Ruine,artefacte,2,45.1522887118819,26.62893008501,Buzau,Altele,3964,Ruine,Geomil
 Comoara,comori,2,44.8697132450144,27.0841939361208,Buzau,Altele,8728,Comoara,PDT,Limba română
 Creasta Comorii,comori,2,45.5085498786982,26.5605047994825,Buzau,Altele,11565,Creasta Comorii,Geomil 25000,Limba română
 La Comoară,comori,2,45.0588379863501,26.8851429263009,Buzau,Altele,11261,La Comoară,Geomil 25000,Limba română
+La Comoară,comori,2,45.2626630444669,26.7490393309761,Buzau,Altele,16027,La Comoară,PDT,Limba română
 La Comori,comori,2,45.1335119423896,26.4942035352446,Buzau,Altele,8736,La Comori,PDT,Limba română,La Comori,Geomil 25000,Limba română
 La Comori,comori,2,45.4480094176561,26.52805957854,Buzau,Altele,8765,La Comori,PDT,Limba română
 La Comori,comori,2,45.4618492054938,26.901512113086,Buzau,Altele,11563,La Comori,Geomil 25000,Limba română
@@ -280,6 +281,7 @@ Valea Comorii,comori,2,46.7356147742816,24.8855544822029,Mures,Vale,5393,Valea C
 Valea Comorii,comori,2,46.5409872691452,24.3866428778095,Mures,Vale,6768,Valea Comorii,Geomil 25000,Limba română
 Alte Schantz (Șanț Vechi),șanț,2,46.903432919819,24.9759030417061,Mures,Altele,14473,Alte Schantz (Șanț Vechi),Transilvania (1769-1773),Limba germană
 Între Șanțuri,șanț,2,46.3555138699759,24.4144767906417,Mures,Altele,4349,Între Șanțuri,Geomil 25000,Limba română,Între Șanțuri,PDT,Limba română
+La Schantz,șanț,2,46.7569369478811,24.1675544513463,Mures,Altele,15986,La Schantz,Transilvania (1769-1773),Limba română
 Vârful Șanțului,șanț,2,46.8865073734225,24.9696747520474,Mures,Înălțime,10852,Vârful Șanțului,Geomil 25000,Limba română
 Römer Schanze (Șanț Roman),val roman,2,45.9086118998491,22.8225297578745,Mures,Altele,10596,Römer Schanze (Șanț Roman),Imperiul Habsburgic (1887),Limba germană,Alte Schanz,Transilvania (1769-1773),Limba română
 Ruinele Bociulești,artefacte,2,46.7967392464129,26.5857165028057,Neamt,Altele,3851,Ruinele Bociulești,Geomil 25000,Limba română
@@ -334,6 +336,7 @@ Comoara,comori,2,47.6607804739833,23.3079522083482,Satu Mare,Altele,10316,Comoar
 Dâmbu Comorii,comori,2,47.7799042349174,23.4725009484605,Satu Mare,Înălțime,4478,Dâmbu Comorii,Geomil 25000,Limba română
 Dealu Comoara,comori,2,48.0319986654201,23.1269941383457,Satu Mare,Deal,2605,Dealu Comoara,Geomil 25000,Limba română
 Dealu Comorii,comori,2,47.5595347957497,23.0249388552425,Satu Mare,Deal,4414,Dealu Comorii,Geomil 25000,Limba română
+Crucea Ruinelor,artefacte,2,45.6585750359879,24.3341222952508,Sibiu,Altele,16021,Crucea Ruinelor,PDT,Limba română
 Dealul Cărămizilor,artefacte,2,46.0327375380261,24.1179031470999,Sibiu,Deal,11426,Dealul Cărămizilor,Geomil 25000,Limba română
 Pârâul Cărămizi,artefacte,2,46.0541517462214,24.3489852180227,Sibiu,Vale,8609,Pârâul Cărămizi,PDT,Limba română
 Valea Cărămizii,artefacte,2,46.086057806483,24.5051025128675,Sibiu,Vale,8615,Valea Cărămizii,Geomil 25000,Limba română
@@ -367,6 +370,7 @@ Comoara,comori,2,44.115517858766,25.5237398604643,Teleorman,Înălțime,503,Como
 La Comoara,comori,2,44.2453357350936,24.9025696875645,Teleorman,Altele,10975,La Comoara,Geomil 25000,Limba română
 Măgura Comorei,comori,2,43.9492434517368,24.9394076568861,Teleorman,Înălțime,12424,Măgura Comorei,PDT,Limba română
 Valea Comoara,comori,2,44.1445880258347,25.2907945672191,Teleorman,Vale,1249,Valea Comoara,Geomil 25000,Limba română
+Valea Comoarei,comori,2,44.4179143175517,25.3275412343224,Teleorman,Vale,16010,Valea Comoarei,PDT,Limba română
 Dealul Comoriți,comoriți,3,43.7551294908894,25.6419581746598,Teleorman,Deal,9997,Dealul Comoriți,PDT,Limba română
 Câmpu Troian,val roman,2,44.0125779536289,24.931523101414,Teleorman,Câmp,1362,Câmpu Troian,Geomil 25000,Limba română
 Drum Traianului,val roman,2,43.980670550873,24.9549075866831,Teleorman,Drum,3642,Drum Traianului,Austriacă,Limba română

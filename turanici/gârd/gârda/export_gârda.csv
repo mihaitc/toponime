@@ -1,3 +1,5 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
 Dealul Gârda,gârda,3,46.1098998117443,22.8888458115674,Alba,Deal,15224,Dealul Gârda,ANCPI,Limba română
 Gârda Seacă,gârda,3,46.5518571703424,22.7654062209734,Alba,Vale,15185,Gârda Seacă,ANCPI,Limba română
+Gârda-Bărbulești,gârda,3,46.3278854102995,23.1142402048256,Alba,Localitate,15928,Gârda-Bărbulești,ANCPI,Limba română
+Tufa Gârdii,gârda,3,45.6938558782393,21.7123784995131,Timis,Altele,16020,Tufa Gârdii,PDT,Limba română

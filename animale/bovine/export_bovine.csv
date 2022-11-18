@@ -84,6 +84,7 @@ Curătura Boilor,bou,3,46.8077220810391,22.1431124524936,Bihor,Altele,10371,Cur�
 Dealu Boilor,bou,3,46.752628865378,22.4670187327122,Bihor,Deal,1006,Dealu Boilor,Geomil 25000,Limba română
 Dealu Boului,bou,3,46.881693310457,22.2890726126398,Bihor,Deal,1081,Dealu Boului,Geomil 25000,Limba română
 Iazul Boului,bou,3,46.9953525284471,22.3210206855155,Bihor,Apă-deal-câmpie,12356,Iazul Boului,PDT,Limba română
+Izlazul Boilor,bou,3,46.6988105274557,21.853698762798,Bihor,Altele,15936,Izlazul Boilor,ANCPI,Limba română
 Piciorul Boului,bou,3,47.1892471522227,22.4378167562566,Bihor,Înălțime,4191,Piciorul Boului,PDT,Limba română
 Valea Boilor,bou,3,46.9794203953699,22.0525501649839,Bihor,Vale,9940,Valea Boilor,PDT,Limba română
 Valea Boului,bou,3,46.5059732483429,22.397135309115,Bihor,Vale,994,Valea Boului,Geomil 25000,Limba română
@@ -180,6 +181,7 @@ Râtul Taurului,taur,3,47.0704339764524,23.5793628245001,Cluj,Altele,10821,Râtu
 Chicera Vacii,vaci,3,46.451904619735,22.4359938794794,Cluj,Altele,4198,Chicera Vacii,PDT,Limba română,Cicera Vaci,Ungară 1869,Limba română
 Valea Fâneața Vacilor,vaci,3,46.6297012104023,23.7851983267203,Cluj,Deal,1109,Valea Fâneața Vacilor,Geomil 25000,Limba română
 Izlazul Boilor,bou,3,44.549125302829,28.3826654329518,Constanta,Altele,11624,Izlazul Boilor,Geomil 25000,Limba română
+Movila Boul Negru,bou,3,43.9179894096748,28.4278180994472,Constanta,Înălțime,16024,Movila Boul Negru,ANCPI,Limba română
 La Vadul Vacilor,vaci,3,44.2599985232923,28.0132672982395,Constanta,Apă-deal-câmpie,12491,La Vadul Vacilor,PDT,Limba română
 Vadu Vacilor,vaci,3,44.1902596338632,27.592489010277,Constanta,Altele,3219,Vadu Vacilor,Geomil 25000,Limba română
 Valea Boului,bou,3,45.6634052244931,26.0859750855505,Covasna,Vale,11453,Valea Boului,Geomil 25000,Limba română
@@ -212,6 +214,7 @@ Grindul Vacilor,vaci,3,43.8432122114187,23.6337654404896,Dolj,Apă-deal-câmpie,
 Măgura Vacei,vaci,3,44.0527772536965,23.4343007540929,Dolj,Înălțime,10343,Măgura Vacei,PDT,Limba română
 Poiana Vacilor,vaci,3,44.1438136365958,23.830050744974,Dolj,Poiană,7698,Poiana Vacilor,PDT,Limba română
 Valea Burta Vacii,vaci,3,43.9304120931303,24.234429987463,Dolj,Vale,3036,Valea Burta Vacii,Geomil 25000,Limba română
+ур. Ла-Островул-Вачилор,vaci,3,44.0269227138293,23.8936193696978,Dolj,Apă-deal-câmpie,15999,ур. Ла-Островул-Вачилор,Sovietică,Limba rusă
 Lacul Vițelului,vițel,3,44.2070465952673,23.6863627633395,Dolj,Lac,3355,Lacul Vițelului,PDT,Limba română
 Grindul Boilor,bou,3,45.4519441414583,28.173774787719,Galati,Apă-deal-câmpie,11283,Grindul Boilor,Geomil 25000,Limba română
 Japșa Boului,bou,3,45.4886042357163,28.1565251307066,Galati,Apă-deal-câmpie,14548,Japșa Boului,PDT,Limba română
@@ -377,6 +380,7 @@ Valea Vacei,vaci,3,43.8149283324672,25.0381409825742,Teleorman,Vale,1385,Valea V
 Valea Vacei,vaci,3,44.1813212391026,25.4135965935393,Teleorman,Vale,9453,Valea Vacei,PDT,Limba română
 Dealu Boului,bou,3,45.9546705328432,22.3422969467423,Timis,Deal,871,Dealu Boului,Geomil 25000,Limba română
 Dealu Boului,bou,3,45.8810938987677,22.0695386423893,Timis,Deal,11585,Dealu Boului,Geomil 25000,Limba română
+Valea Taurilor,taur,3,45.6052904737552,21.8333465480679,Timis,Vale,15843,Valea Taurilor,ANCPI,Limba română
 Calea Vaci,vaci,3,45.8017547644988,21.9075805795861,Timis,Drum,10592,Calea Vaci,Imperiul Habsburgic (1887),Limba română
 Calea Vacii,vaci,3,45.7349525511803,21.6876916153071,Timis,Altele,12052,Calea Vacii,Geomil 25000,Limba română
 Piatra Boului,bou,3,45.0320609846789,28.8493318043745,Tulcea,Înălțime,11076,Piatra Boului,PDT,Limba română

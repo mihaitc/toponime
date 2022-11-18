@@ -1,5 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2,Nume 3,Hartă 3,Limbă 3
 Poiana Ungureanului,ungurean,3,45.2517408230778,24.6267814980525,Arges,Poiană,1431,,Poiana Ungureanului,Geomil 25000,Limba română
+Valea Ungureanului,ungurean,3,44.5050184426635,25.060443811697,Arges,Vale,15858,,Valea Ungureanului,PDT,Limba română
 Albeștii Ungureni,ungureni,2,45.2256777910595,24.6711188373387,Arges,Localitate,1427,,Albeștii Ungureni,Geomil 25000,Limba română
 Berevoești Ungureni,ungureni,2,45.2262228106328,24.9279302853946,Arges,Localitate,5064,,Berevoești Ungureni,PDT,Limba română
 Căpățâneni Ungureni,ungureni,2,45.3385985466435,24.6374669221954,Arges,Localitate,4982,,Căpățâneni Ungureni,Geomil 25000,Limba română

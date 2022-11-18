@@ -5,4 +5,8 @@
 <Placemark><LineString id="15287_15286"><tessellate>1</tessellate><coordinates>24.932360,45.501964,0.
 24.929859,45.507829,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Muntele Oticului</name><description>Nume: Muntele Oticului, Tip: oticul, Nivel: 3, Județ: Arges, Formă: Înălțime, ID: 15286 <br /><b>Variante</b><br />Nume: Muntele Oticului, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>24.929859,45.507829,0</coordinates></Point></Placemark>
+<Placemark><name>Muntele Oticului</name><description>Nume: Muntele Oticului, Tip: oticul, Nivel: 3, Județ: Arges, Formă: Înălțime, ID: 15963 <br /><b>Variante</b><br />Nume: Muntele Oticului, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>24.647591,45.474608,0</coordinates></Point></Placemark>
+<Placemark><name>Otic</name><description>Nume: Otic, Tip: oticul, Nivel: 3, Județ: Arges, Formă: Vale, ID: 15964, ID Părinte: 15963 <br /><b>Variante</b><br />Nume: Otic, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>24.666470,45.486647,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15964_15963"><tessellate>1</tessellate><coordinates>24.666470,45.486647,0.
+24.647591,45.474608,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
 <Placemark><name>Valea Oticului</name><description>Nume: Valea Oticului, Tip: oticul, Nivel: 3, Județ: Galati, Formă: Vale, ID: 15452 <br /><b>Variante</b><br />Nume: Valea Oticului, Hartă: PDT, Limbă: Limba română</description><Point><coordinates>27.838083,45.613013,0</coordinates></Point></Placemark></Document></kml>

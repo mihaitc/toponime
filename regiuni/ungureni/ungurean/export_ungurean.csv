@@ -1,5 +1,6 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Poiana Ungureanului,ungurean,3,45.2517408230778,24.6267814980525,Arges,Poiană,1431,Poiana Ungureanului,Geomil 25000,Limba română
+Valea Ungureanului,ungurean,3,44.5050184426635,25.060443811697,Arges,Vale,15858,Valea Ungureanului,PDT,Limba română
 Dealul Ungureanului,ungurean,3,46.4709670126389,27.3907647294788,Bacau,Deal,9512,Dealul Ungureanului,PDT,Limba română
 Vârgul Ungureanu,ungurean,3,46.2233515236915,26.5381160909786,Bacau,Înălțime,689,Vârful Ungurului,Geomil 25000,Limba română,Vârgul Ungureanu,PDT,Limba română
 Fântâna Ungureanului,ungurean,3,47.5007394242127,27.0267298621637,Botosani,Altele,8927,Fântâna Ungureanului,PDT,Limba română

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Piciorul Jurcescu</name><description>Nume: Piciorul Jurcescu, Tip: jurcescu, Nivel: 3, Județ: Maramures, Formă: Înălțime, ID: 15863 <br /><b>Variante</b><br />Nume: Piciorul Jurcescu, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>24.555227,47.954665,0</coordinates></Point></Placemark>
+<Placemark><name>Valea Jurcescu Mare</name><description>Nume: Valea Jurcescu Mare, Tip: jurcescu, Nivel: 3, Județ: Maramures, Formă: Vale, ID: 15864, ID Părinte: 15863 <br /><b>Variante</b><br />Nume: Valea Jurcescu Mare, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>24.545370,47.950655,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15864_15863"><tessellate>1</tessellate><coordinates>24.545370,47.950655,0.
+24.555227,47.954665,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark>
+<Placemark><name>Valea Jurcescu Mic</name><description>Nume: Valea Jurcescu Mic, Tip: jurcescu, Nivel: 3, Județ: Maramures, Formă: Vale, ID: 15865, ID Părinte: 15863 <br /><b>Variante</b><br />Nume: Valea Jurcescu Mic, Hartă: ANCPI, Limbă: Limba română</description><Point><coordinates>24.569825,47.959486,0</coordinates></Point></Placemark>
+<Placemark><LineString id="15865_15863"><tessellate>1</tessellate><coordinates>24.569825,47.959486,0.
+24.555227,47.954665,0</coordinates></LineString><Style><LineStyle><width>3</width></LineStyle></Style></Placemark></Document></kml>

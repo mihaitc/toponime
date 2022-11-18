@@ -1,4 +1,5 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,Nume 1,Hartă 1,Limbă 1
+Dealul Mârzulesc,mârzulesc,3,46.0789090553663,22.2244791803701,Arad,Deal,15906,Dealul Mârzulesc,PDT,Limba română
 Mârza,mârza,2,46.6250106525656,27.2082408088279,Bacau,Localitate,15337,Mârza,PDT,Limba română
 Mârza,mârza,2,44.1930427624548,23.4793858482414,Dolj,Localitate,14729,Mârza,PDT,Limba română
 Gârla Mârzei,mârza,2,47.0194383582471,27.9747872119033,Iasi,Apă-deal-câmpie,14923,Gârla Mârzei,PDT,Limba română
@@ -6,3 +7,4 @@ Pădurea Mârzești,mârzești,3,47.2365754676146,27.4919381651719,Iasi,Pădure,
 Valea Mârzei,mârza,2,47.8077034122477,24.1978410579095,Maramures,Vale,14728,Valea Mârzei,PDT,Limba română
 Vârful Mârza,mârza,2,45.1338341996574,26.05007897965,Prahova,Înălțime,14724,Vârful Mârza,ANCPI,Limba română
 Mârzănești,mârzănești,3,43.9390812516959,25.4668025309133,Teleorman,Localitate,14878,Mârzănești,PDT,Limba română
+Bâtca lui Mârză,mârză,3,45.5732457922104,26.9309208140605,Vrancea,Înălțime,15971,Bâtca lui Mârză,PDT,Limba română

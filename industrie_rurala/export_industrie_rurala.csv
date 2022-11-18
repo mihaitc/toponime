@@ -9,6 +9,7 @@ Dealu Prisăcii,prisacă,3,45.7798120785193,23.4071656510678,Alba,Deal,1135,Deal
 Pârâu Prisăcii,prisacă,3,46.3582209972639,22.8018430496869,Alba,Vale,10243,Pârâu Prisăcii,Geomil 25000,Limba română
 Pârâul Prisecii,prisacă,3,46.2166638112012,23.0018430866009,Alba,Vale,9394,Pârâul Prisecii,PDT,Limba română
 Presaca Ampoiului,prisacă,3,46.0981287490256,23.3292274033472,Alba,Localitate,11779,Presaca Ampoiului,Geomil 25000,Limba română
+Preszaka B.,prisacă,3,46.3096855860325,23.033628548774,Alba,Înălțime,15861,Preszaka B.,Transilvania (1769-1773),Limba română
 Prisaca,prisacă,3,46.4899532388747,23.4901596836877,Alba,Înălțime,10441,Prisaca,Transilvania (1869-1870),Limba română
 Valea Prisăcii,prisacă,3,45.6010956533513,23.5647181678322,Alba,Vale,11217,Valea Prisăcii,Geomil 25000,Limba română
 Vârful Prisecii,prisacă,3,46.2827371268767,23.5027165803978,Alba,Înălțime,11831,Vârful Prisecii,Geomil 25000,Limba română
@@ -262,6 +263,7 @@ La stupăriile de la pietroiu,stupărie,3,44.0646889033146,26.5269879374013,Cala
 Cărbunari,cărbunari,3,44.8315373400809,21.7448381271607,Caras Severin,Localitate,8508,Cărbunari,Geomil 25000,Limba română,Cărbunari,PDT,Limba română
 Cărbunari și Țigănești,cărbunari,3,45.4502299027408,22.2156833760389,Caras Severin,Altele,11231,Cărbunari și Țigănești,ANCPI,Limba română
 Valea Karbunari,cărbunari,3,45.4037698966675,22.1967604659901,Caras Severin,Vale,13351,Valea Karbunari,Ungară 1869,Limba română
+D. Prisek,prisacă,3,45.1914972141274,21.7597866914936,Caras Severin,Deal,15879,D. Prisek,Ungară 1869,Limba română
 Dealu Prisaca,prisacă,3,45.2566950316567,22.1445109632784,Caras Severin,Deal,6124,Dealu Prisaca,Geomil 25000,Limba română
 Dealu Prisaca,prisacă,3,45.0465154985524,21.7087630910285,Caras Severin,Deal,10702,Dealu Prisaca,Geomil 25000,Limba română
 Dealu Prisaca,prisacă,3,44.8624756831217,22.1646214723033,Caras Severin,Deal,13438,Dealu Prisaca,Geomil 25000,Limba română
@@ -353,6 +355,7 @@ Grindul Cărămidari,cărămizari,3,43.7826563630185,25.8093922026017,Giurgiu,Ap
 Karamidar,cărămizari,3,44.5172314181115,25.6248286473696,Giurgiu,Altele,12013,Karamidar,Oltenia-Muntenia (1790),Limba română
 Valea Cărbunarului,cărbunari,3,44.0793320659926,25.941468851034,Giurgiu,Vale,457,Valea Cărbunarului,Geomil 25000,Limba română
 Valea Cășăriei,cășărie,2,44.1497584107847,25.7235462223486,Giurgiu,Vale,4219,Valea Cășăriei,Geomil 25000,Limba română,Valea Cășăriei,PDT,Limba română
+În Stupină,stupină,3,44.2589782210521,26.1974607045412,Giurgiu,Altele,16018,În Stupină,PDT,Limba română
 Valea Vărăriilor,vărărie,3,44.1171177343837,25.8663320932264,Giurgiu,Vale,3153,Valea Vărăriilor,Geomil 25000,Limba română
 Dealul Prisăcilor,prisacă,3,45.0789570246652,23.3929930554054,Gorj,Deal,2916,Dealul Prisăcilor,Geomil 25000,Limba română
 Valea Prisaca,prisacă,3,45.0488356393194,23.3885448439905,Gorj,Vale,9791,Valea Prisaca,PDT,Limba română
@@ -567,6 +570,7 @@ Stupini,stupină,3,47.0724885293425,23.3852669543704,Salaj,Localitate,6913,Stupi
 Dealu Picioru Varului,var,3,47.1442846665594,22.6051836113121,Salaj,Deal,5927,Dealu Picioru Varului,Geomil 25000,Limba română
 Piatra Varului,var,3,47.2325904833445,23.3011433978583,Salaj,Înălțime,8990,Piatra Varului,PDT,Limba română
 Valea Varului,var,3,47.309648647388,23.5489329234452,Salaj,Vale,9926,Valea Varului,Geomil 25000,Limba română
+Cărbuniștea,cărbuniște,3,47.9682616712344,23.2255659629374,Satu Mare,Altele,15939,Cărbuniștea,ANCPI,Limba română
 Dealu carbuniste,cărbuniște,3,47.6116342597227,23.0741137733353,Satu Mare,Deal,10547,Dealu carbuniste,Imperiul Habsburgic (1887),Limba română
 Coasta Prisăcilor,prisacă,3,47.9431546865371,23.5083576656992,Satu Mare,Înălțime,4467,Coasta Prisăcilor,Geomil 25000,Limba română
 Dâmbu Prisăcii,prisacă,3,47.607824516433,23.1880083674219,Satu Mare,Înălțime,4421,Dâmbu Prisăcii,Geomil 25000,Limba română
@@ -644,6 +648,7 @@ Valea Stuparului,stupar,3,43.9874294062751,25.4937932028104,Teleorman,Poiană,13
 Valea la Stupina,stupină,3,43.8340143420171,25.5271755573207,Teleorman,Vale,12209,Valea la Stupina,PDT,Limba română
 Valea Stupinei,stupină,3,43.9842481101537,25.1764809449658,Teleorman,Vale,14232,Valea Stupinei,PDT,Limba română
 Cărămidărie,cărămidărie,2,45.7374200321198,20.8222450088278,Timis,Altele,1970,Cărămidărie,Geomil 25000,Limba română
+Tarlaua Cărămidăriei,cărămidărie,2,45.8925296243811,21.4080459313283,Timis,Altele,15887,Tarlaua Cărămidăriei,ANCPI,Limba română
 Dealu Cărbunarului,cărbunari,3,45.5930885606714,21.8043822374241,Timis,Deal,885,Dealu Cărbunarului,Geomil 25000,Limba română
 Herghelia Cărbunari,cărbunari,3,45.595404358506,21.1588940914861,Timis,Altele,7614,Herghelia Cărbunari,PDT,Limba română
 Dealu Prisaca,prisacă,3,45.2691397252177,21.4593113470304,Timis,Deal,899,Dealu Prisaca,Geomil 25000,Limba română
@@ -658,6 +663,7 @@ Stupina,stupină,3,45.7729569243748,21.5596915832958,Timis,Altele,4303,Stupina,P
 Stupina,stupină,3,46.1345935320831,20.5298349758637,Timis,Altele,7631,Stupina,PDT,Limba română
 Stupina,stupină,3,45.8414900111417,22.2835513317349,Timis,Altele,13148,Stupina,Geomil 25000,Limba română
 Valea Stupina,stupină,3,45.6915177599068,22.223553498236,Timis,Vale,6070,Valea Stupina,Geomil 25000,Limba română
+Dealul Țiglărie,țiglărie,2,45.9033789381468,21.3643093947225,Timis,Deal,15888,Dealul Țiglărie,ANCPI,Limba română
 Țiglăria,țiglărie,2,45.8005300221191,20.8940196564041,Timis,Altele,10001,Țiglăria,PDT,Limba română
 La Varniță,varniță,3,45.8095167992862,22.4542645040074,Timis,Altele,12841,La Varniță,PDT,Limba română
 Varnița,varniță,3,45.8117378995467,21.9807600694995,Timis,Altele,6180,Varnița,PDT,Limba română

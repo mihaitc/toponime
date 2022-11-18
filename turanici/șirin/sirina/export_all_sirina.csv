@@ -1,0 +1,4 @@
+Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1
+Cracul Sirina,sirina,3,44.6457670750981,22.0221576548146,Caras Severin,Vale,15849,,Cracul Sirina,ANCPI,Limba română
+Fatza Sirina,sirina,3,44.6416421263199,22.0932253924512,Caras Severin,Înălțime,15852,15851,Fatza Sirina,Ungară 1869,Limba română
+Sirina,sirina,3,44.6265319365907,22.0177566278334,Caras Severin,Înălțime,15850,15849,Sirina,ANCPI,Limba română

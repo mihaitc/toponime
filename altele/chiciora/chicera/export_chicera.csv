@@ -13,6 +13,7 @@ Vârfu Chicerii,chicera,3,46.2884558210577,23.4215739726993,Alba,Înălțime,130
 Tycsera B,ticera,4,46.3922935223951,23.0995296333891,Alba,Deal,14044,Tycsera B,Transilvania (1769-1773),Limba română
 Ticeraua,ticerau,5,46.0887025764672,22.9656499779096,Alba,Înălțime,15225,Ticeraua,PDT,Limba română
 Chicera,chicera,3,46.3026508229207,22.4089396360873,Arad,Înălțime,14139,Chicera,Geomil 25000,Limba română
+Chicera,chicera,3,46.0881895206408,22.3542635048417,Arad,Înălțime,15907,Chicera,PDT,Limba română
 Chicera Pleșoaia,chicera,3,46.3383542004888,22.688987211059,Arad,Înălțime,13819,Chicera Pleșoaia,Geomil 25000,Limba română
 Chicera Vulturului,chicera,3,46.337005942949,22.6491793585031,Arad,Înălțime,15181,Chicera Vulturului,PDT,Limba română
 Cicera,chicera,3,46.5544660449856,22.1315506221284,Arad,Altele,13365,Cicera,Ungară 1869,Limba română,Dealul Chicera,PDT,Limba română
@@ -20,6 +21,7 @@ Dealul Chicera,chicera,3,46.428044011855,22.2650845913455,Arad,Deal,13506,Dealul
 Dealul Chicera,chicera,3,46.2817066601394,22.4530379761435,Arad,Deal,14431,Dealul Chicera,ANCPI,Limba română
 Dosu Chicerii,chicera,3,46.3636442743036,22.4258831484923,Arad,Înălțime,13217,Dosu Chicerii,Geomil 25000,Limba română
 Valea Chicera,chicera,3,46.1107496010696,21.6750327964309,Arad,Vale,13955,Valea Chicera,PDT,Limba română
+Valea Chicera,chicera,3,46.3588906446186,22.1775148809609,Arad,Vale,15935,Valea Chicera,Imperiul Habsburgic (1887),Limba română
 Vârfu Chicera,chicera,3,46.3533350376673,22.526819572864,Arad,Înălțime,13218,Vârfu Chicera,Geomil 25000,Limba română
 Vârfu Chicera,chicera,3,46.52158263127,22.1317530127723,Arad,Înălțime,13507,Vârfu Chicera,Geomil 25000,Limba română,Vârful Chicera,PDT,Limba română
 Pârâul Chicerca,chicerca,4,46.3395854306533,22.2901167943959,Arad,Vale,13922,Pârâul Chicerca,PDT,Limba română
@@ -29,6 +31,7 @@ Chicera,chicera,3,46.3543311826202,27.3388750388348,Bacau,Înălțime,14596,Chic
 Chicera Mare,chicera,3,46.6299505132237,26.7684784711437,Bacau,Înălțime,13548,Chicera Mare,Geomil 25000,Limba română
 Dealul Chicera,chicera,3,46.3995734027256,26.70188853518,Bacau,Deal,13859,Dealul Chicera,Moldova (1892-1898),Limba română
 Dealul Chicerei,chicera,3,46.230429442474,26.6602322445682,Bacau,Deal,13601,Dealul Chicerei,Geomil 25000,Limba română
+Piciorul Chicerei,chicera,3,46.3628699466904,26.5345510455947,Bacau,Înălțime,15922,Piciorul Chicerei,ANCPI,Limba română
 Valea Chicerei,chicera,3,46.3377911616026,26.6644679316741,Bacau,Vale,13557,Valea Chicerei,Geomil 25000,Limba română
 Chicerea,chicerea,4,46.3072862967108,27.4121440389976,Bacau,Localitate,13547,Chicerea,Geomil 25000,Limba română
 Chciera Buglei,chicera,3,46.8835096248036,22.4551971466471,Bihor,Înălțime,13720,Chciera Buglei,Geomil 25000,Limba română,Kulme Kicera,Ungară 1869,Limba română
@@ -39,6 +42,8 @@ Chicera,chicera,3,47.1851623095465,22.4087416066816,Bihor,Altele,13382,Chicera,I
 Chicera,chicera,3,46.9796515949973,22.5634257672023,Bihor,Înălțime,13721,Chicera,Geomil 25000,Limba română,Kicera,Ungară 1869,Limba română
 Chicera,chicera,3,46.6252213182947,22.5241750291669,Bihor,Înălțime,14209,Chicera,Geomil 25000,Limba română
 Chicera,chicera,3,46.946287290053,22.4907276816076,Bihor,Înălțime,15264,Chicera,PDT,Limba română
+Chicera,chicera,3,46.9208361330201,22.4817170205923,Bihor,Înălțime,15893,Chicera,PDT,Limba română
+Chicera,chicera,3,46.8907465344333,22.2455108891527,Bihor,Înălțime,15894,Chicera,ANCPI,Limba română,Kicera B.,Ungară 1869,Limba română
 Chicera cu Corni,chicera,3,46.456887229881,22.4437196455287,Bihor,Înălțime,14812,Chicera cu Corni,PDT,Limba română
 Chicera Mare,chicera,3,46.4609978339613,22.4406057073055,Bihor,Înălțime,13188,Chicera Mare,Geomil 25000,Limba română
 Chicera Țiganilor,chicera,3,46.4134504477573,22.4699311218339,Bihor,Înălțime,14809,Chicera Țiganilor,PDT,Limba română
@@ -51,6 +56,7 @@ Dealu Chicera Ciungilor,chicera,3,46.4017781130923,22.6144986705508,Bihor,Deal,1
 Dealu Chicera de Topa,chicera,3,46.8661648867649,22.2731469921723,Bihor,Deal,12980,Dealu Chicera de Topa,Geomil 25000,Limba română
 Dealu Chicera Mihocești,chicera,3,46.4127968994392,22.5865587131123,Bihor,Deal,13195,Dealu Chicera Mihocești,Geomil 25000,Limba română
 Dealu Chicera Ulmului,chicera,3,46.4027607375018,22.5975639184644,Bihor,Deal,13816,Dealu Chicera Ulmului,Geomil 25000,Limba română
+Dealul Chicera,chicera,3,46.7846109898385,22.2646568146902,Bihor,Deal,15898,Dealul Chicera,ANCPI,Limba română
 Dealul Chicera-Domnească,chicera,3,46.5190272020518,22.2430854686358,Bihor,Deal,13930,Dealul Chicera-Domnească,PDT,Limba română
 Dealul Chicerii,chicera,3,46.7664500500164,22.3397845511955,Bihor,Deal,13418,Dealul Chicerii,Imperiul Habsburgic (1887),Limba română
 Dîmbu Kiceri B.,chicera,3,47.0024873804501,22.669855170557,Bihor,Deal,13372,Dîmbu Kiceri B.,Ungară 1869,Limba română
@@ -96,8 +102,10 @@ Chicera Târbanu,chicera,3,45.2773260772206,23.0974830560835,Gorj,Înălțime,13
 Chicera,chicera,3,46.3032283290995,22.815107841592,Hunedoara,Înălțime,13220,Chicera,Geomil 25000,Limba română
 Chicera,chicera,3,45.423534091234,23.3360432912736,Hunedoara,Înălțime,13432,Chicera,Imperiul Habsburgic (1887),Limba română
 Chicera,chicera,3,45.9421134494317,22.9903350576808,Hunedoara,Înălțime,13679,Chicera,Geomil 25000,Limba română
+Chicera Bârlogesei,chicera,3,46.2075822083395,22.4893394311431,Hunedoara,Înălțime,15912,Chicera Bârlogesei,PDT,Limba română
 Chicera Crăciunești,chicera,3,46.0086139773468,22.8506213388525,Hunedoara,Înălțime,14510,Chicera Crăciunești,ANCPI,Limba română
 Chicera Izvorului,chicera,3,45.586644879062,23.2130242299904,Hunedoara,Înălțime,13882,Chicera Izvorului,Geomil 25000,Limba română
+Chicera Postiesei,chicera,3,46.200262437661,22.4966041141205,Hunedoara,Înălțime,15911,Chicera Postiesei,PDT,Limba română
 Dealu Chicera,chicera,3,45.9911480064754,23.1281845977895,Hunedoara,Deal,13678,Dealu Chicera,Geomil 25000,Limba română,V. Ticeri,Transilvania (1869-1870),Limba română
 Dealul Chicera,chicera,3,46.2041348784198,22.742406453642,Hunedoara,Deal,13078,Dealul Chicera,ANCPI,Limba română
 Dealul Chicera,chicera,3,46.2111637000788,22.8681340116624,Hunedoara,Deal,14915,Dealul Chicera,ANCPI,Limba română
@@ -106,9 +114,11 @@ Kitsera B.,chicera,3,46.0830743599078,23.0408866223234,Hunedoara,Deal,13230,Kits
 Kitsera B.,chicera,3,46.1962778421666,22.7901326591496,Hunedoara,Înălțime,15621,Kitsera B.,Transilvania (1769-1773),Limba română
 Vârful Chicera,chicera,3,45.6709282709929,23.1308070145172,Hunedoara,Înălțime,14325,Vârful Chicera,ANCPI,Limba română,Dealul Ciciorii,PDT,Limba română
 Vârful Chicera Florii,chicera,3,45.4908372178052,23.4419308102861,Hunedoara,Înălțime,13165,Vârful Chicera Florii,Geomil 25000,Limba română
+Dealul Ticera,ticera,4,46.1401280506616,22.6923437777139,Hunedoara,Deal,15914,Dealul Ticera,ANCPI,Limba română
 Ticera,ticera,4,45.5135911189409,23.1727855133504,Hunedoara,Înălțime,14362,Ticera,PDT,Limba română,Chicera,ANCPI,Limba română
 Ticera Pinului,ticera,4,45.5145063278718,23.2033417496472,Hunedoara,Înălțime,13433,Ticera Pinului,Geomil 25000,Limba română
 Ticera Rusesti,ticera,4,45.4421248274658,23.253091195094,Hunedoara,Înălțime,14364,Ticera Rusesti,PDT,Limba română
+Tycsera B,ticera,4,46.1815564353905,22.4847993968325,Hunedoara,Înălțime,15913,Tycsera B,Transilvania (1769-1773),Limba română,Chicera Calului,Geomil 25000,Limba română
 V. Ticera,ticera,4,46.2981511763744,22.7895372722627,Hunedoara,Înălțime,13673,V. Ticera,Ungară 1869,Limba română
 Vârful Chicera Răchiții,ticera,4,45.446492718446,23.2233854525733,Hunedoara,Înălțime,14363,Chicera Răchiții,ANCPI,Limba română,Vârful Ticera Retița,PDT,Limba română
 Dealul Chicera,chicera,3,47.1793401492752,26.7025187261658,Iasi,Deal,13556,Dealul Chicera,Geomil 25000,Limba română
@@ -165,6 +175,7 @@ Chicera,chicera,3,47.7086731545132,25.5102996254165,Suceava,Înălțime,14298,Ch
 Chicera Mare,chicera,3,47.7412762108925,25.3386441748173,Suceava,Înălțime,13027,Chicera Mare,Geomil 25000,Limba română
 Chicera Mică,chicera,3,47.7352904608316,25.3322665992521,Suceava,Înălțime,13026,Chicera Mică,Geomil 25000,Limba română
 Chicera Neagră,chicera,3,47.7447397245129,25.4667117094807,Suceava,Înălțime,14301,Chicera Neagră,ANCPI,Limba română
+Chiczera,chicera,3,47.6655678152235,25.3993127263418,Suceava,Înălțime,15840,Chiczera,PDT,Limba română
 Muntele Chicerei,chicera,3,47.8478635564565,25.2904017100255,Suceava,Înălțime,13029,Muntele Chicerei,Geomil 25000,Limba română
 Poiana Chicerii,chicera,3,47.7620823745744,25.5974708737647,Suceava,Poiană,13821,Poiana Chicerii,Geomil 25000,Limba română
 Chicerca-mare,chicerca,4,47.3785156565283,25.7690263788794,Suceava,Înălțime,13414,Chicerca-mare,Imperiul Habsburgic (1887),Limba română

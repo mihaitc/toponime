@@ -1,22 +1,31 @@
 Nume,Tip,Nivel,Latitudine,Longitudine,Județ,Formă,ID,ID Părinte,Nume 1,Hartă 1,Limbă 1,Nume 2,Hartă 2,Limbă 2
 Dealul Jurchi,jurca,3,46.3155406932154,23.4217881518534,Alba,Deal,15739,,Dealul Jurchi,PDT,Limba română
+Jurcuiești,jurcuiești,3,46.2944009971455,23.1820661582154,Alba,Localitate,15926,,Jurcuiești,ANCPI,Limba română
+Jurca Mare,jurca,3,46.0203158535504,21.8437300000449,Arad,Înălțime,15892,,Jurca Mare,ANCPI,Limba română
 Jurcești,jurcești,3,46.6003713377646,21.9236469258516,Arad,Localitate,15625,,Jurcești,PDT,Limba română
+Valea Giurcani,giurcani,3,46.670115514216,27.2338604250259,Bacau,Vale,15859,,Valea Giurcani,ANCPI,Limba română
 Dealul Jurcăului,jurcău,3,46.9345925714074,22.5362842555058,Bihor,Deal,14816,,Dealul Jurcăului,ANCPI,Limba română
 Valea Giurca Mare,giurca,3,45.5234541280686,26.2516577279879,Buzau,Vale,14559,,Valea Giurca Mare,PDT,Limba română,Val. Gurka,Austriacă,Limba română
 Pârâul Jurca,jurca,3,45.0902556613282,22.6152552593706,Caras Severin,Vale,15070,,Pârâul Jurca,Munții noștri,Limba română
 Giurcă,giurcă,2,46.5239339576331,23.7428284063711,Cluj,Altele,15232,,Giurcă,PDT,Limba română
 Gyurkapataka,giurca,3,47.126122587209,23.5460340795527,Cluj,Localitate,15680,,Gyurkapataka,Transilvania (1869-1870),Limba maghiară,Jurca,ANCPI,Limba română
 Giurcuța de Sus,giurcuța,3,46.649288860831,22.9178319620299,Cluj,Localitate,15120,,Giurcuța de Sus,ANCPI,Limba română
+Vârful Giurcului,giurcu,3,45.1597185002308,25.3747806497507,Dambovita,Înălțime,15916,,Vârful Giurcului,ANCPI,Limba română
 Valea lui Giurcă,giurcă,2,44.9383354413171,23.1982930752303,Gorj,Vale,14975,,Valea lui Giurcă,PDT,Limba română
 Giurcu,giurcu,3,44.8540237372255,23.6131725545279,Gorj,Localitate,15395,,Giurcu,PDT,Limba română
 Gyurkafalu,gyurka,3,47.597133851665,23.7399390481818,Maramures,Localitate,15681,,Gyurkafalu,Ungaria (1782–1785),Limba română
 Dealul Jurchii,jurca,3,47.6694444918523,24.5418903072319,Maramures,Deal,15138,,Dealul Jurchii,Munții noștri,Limba română
+Piciorul Jurcescu,jurcescu,3,47.954664771624,24.5552266154844,Maramures,Înălțime,15863,,Piciorul Jurcescu,ANCPI,Limba română
+Valea Jurcescu Mare,jurcescu,3,47.9506554459986,24.5453703491001,Maramures,Vale,15864,15863,Valea Jurcescu Mare,ANCPI,Limba română
+Valea Jurcescu Mic,jurcescu,3,47.9594855624588,24.5698249849767,Maramures,Vale,15865,15863,Valea Jurcescu Mic,ANCPI,Limba română
 Cariera Giurca,giurcă,2,44.4799628860233,22.7317690525619,Mehedinti,Altele,15244,,Cariera Giurca,PDT,Limba română
 Pădurea Plaiul lui Giurcă,giurcă,2,47.0665615017138,26.1476662680048,Neamt,Pădure,15385,,Pădurea Plaiul lui Giurcă,ANCPI,Limba română
 Piciorul Giurca,giurca,3,47.0458946274051,26.1131593334645,Neamt,Înălțime,15384,15385,Piciorul Giurca,ANCPI,Limba română
 Giurcani,giurcani,3,45.2301981204742,25.9175021855021,Prahova,Înălțime,15324,,Giurcani,ANCPI,Limba română
+Dealul Jurchii,jurca,3,47.0081764775132,22.9923152485588,Salaj,Deal,15871,,Dealul Jurchii,PDT,Limba română
 Gyirki M.H.,gyirki,3,45.6979459392451,21.3022054230202,Timis,Altele,15581,,Gyirki M.H.,Ungară 1869,Limba maghiară
 Gyirki Szálas,gyirki,3,45.8338102269192,21.3528348720991,Timis,Altele,15580,,Gyirki Szálas,Ungară 1869,Limba maghiară
 Valea Jurca,jurca,3,46.0131231152732,21.4571140194332,Timis,Vale,15592,,Valea Jurca,ANCPI,Limba română
 Valea Giurca,giurcă,2,44.6379398835023,23.8723216604906,Valcea,Vale,14861,,Valea Giurca,PDT,Limba română
 Giurcani,giurcani,3,46.2780551135754,27.9802251387294,Vaslui,Localitate,14426,,Giurcani,ANCPI,Limba română
+Giurcari,giurcari,3,45.556402941927,26.929122870688,Vrancea,Localitate,15972,,Giurcari,PDT,Limba română
