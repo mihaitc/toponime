@@ -4,7 +4,7 @@
 
 # Metodologie și organizarea datelor
 
-  Mai multe despre cum au fost colectate datele toponimice în sine am scris pe pagina "Despre" de pe site-ul dedicat proiectului: [Toponime din România](http://topo.maglina.ro/despre/).
+  Mai multe despre cum au fost colectate datele toponimice în sine am scris pe pagina "Despre" de pe site-ul dedicat proiectului: [Toponime din România](http://topo.mihaitc.ro/despre/).
   
   Strict legat de exportul datelor, am decis să le fac disponibile în 3 tipuri de fișier: CSV, KML și GeoJson. Datele exportate in format .csv pot fi mai ușor importate și analizate cu unelte de tip MS Office/OpenOffice, cele exportate în format .kml pot fi importate în programul GoogleEarth iar cele in format .geojson pot fi mai ușor integrate/importate cu ajutorul unor eventuale script-uri/programe software scrise special pentru aceasta.
   
@@ -18,7 +18,7 @@
   
 # Altele
 
-  Am scris mai pe larg despre resursele din spatele acestui proiect pe [pagina dedicată](http://topo.maglina.ro/resurse/), inclusiv hărțile ce au fost folosite și sursele de inspirație care m-au făcut să ma gândesc pentru prima dată la punerea în practică a ceea ce am făcut public aici.
+  Am scris mai pe larg despre resursele din spatele acestui proiect pe [pagina dedicată](http://topo.mihaitc.ro/resurse/), inclusiv hărțile ce au fost folosite și sursele de inspirație care m-au făcut să ma gândesc pentru prima dată la punerea în practică a ceea ce am făcut public aici.
   
-  Pentru datele de contact a se vedea deasemenea [pagina dedicată](http://topo.maglina.ro/contact/).
+  Pentru datele de contact a se vedea deasemenea [pagina dedicată](http://topo.mihaitc.ro/contact/).
   
