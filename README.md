@@ -1,6 +1,6 @@
 # Toponime din România - Export date
 
-   Acest repository conține exportul mai multor date toponimice, practic datele din spatele proiectului http://topo.maglina.ro/ - Toponime din România. 
+   Acest repository conține exportul mai multor date toponimice, practic datele din spatele proiectului http://topo.mihaitc.ro/ - Toponime din România. 
 
 # Metodologie și organizarea datelor
 
